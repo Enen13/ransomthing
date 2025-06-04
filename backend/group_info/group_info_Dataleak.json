@@ -1,0 +1,63 @@
+{
+    "group_name": [
+        "Dataleak"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 6,
+    "First discovered victims": "2022-12-02",
+    "Last discovered victim": "2022-12-02",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "nissin.com.br Disclose the compressed package password",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rkw-group.com Disclose the compressed package password",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ni*usa.com",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wiesauplast.de",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "grantweber.com",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Beacon Insurance Company Limited",
+            "Discovery Date": "2022-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

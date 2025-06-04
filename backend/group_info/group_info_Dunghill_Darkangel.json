@@ -1,0 +1,143 @@
+{
+    "group_name": [
+        "Dunghill",
+        "Darkangel"
+    ],
+    "group_description": "None",
+    "Victims count": 18,
+    "First discovered victims": "2023-04-10",
+    "Last discovered victim": "2025-04-27",
+    "Avg Delay": "55.2 days",
+    "Infostealer": "5.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Business Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United Kingdom": 3,
+                    "Brazil": 1,
+                    "Taiwan, Province of China": 1,
+                    "United States": 1,
+                    "Bolivia, Plurinational State of": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Linney",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Linney is a sixth generation, world-class, multichannel marketing services group. It offers graphic ..."
+        },
+        {
+            "v_name": "Nuevatel",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Nuevatel PCS de Bolivia S.A., better known as VIVA, is a Bolivian wireless network operator and tele..."
+        },
+        {
+            "v_name": "Nexperia",
+            "Discovery Date": "2024-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in the Netherlands, Nexperia is a global semiconductor company with a rich European hi..."
+        },
+        {
+            "v_name": "Array Networks",
+            "Discovery Date": "2024-02-29",
+            "Estimated Attack Date": "",
+            "v_description": "Array Networks is an American networking hardware company. It sells network traffic encryption tools..."
+        },
+        {
+            "v_name": "Go-Ahead Group",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "2023-09-26",
+            "v_description": "Go-Ahead Group plc is a passenger transport company based in Newcastle upon Tyne, England. The major..."
+        },
+        {
+            "v_name": "Supply Technology",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "2023-11-07",
+            "v_description": "Supply Technologies, a subsidiary of ParkOhio(NASDAQ:PKOH), specializes in supplier selection and ma..."
+        },
+        {
+            "v_name": "Robins & Morton",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "2023-09-26",
+            "v_description": "Robins and Morton is a company operating as a construction firm. It specializes in planning and desi..."
+        },
+        {
+            "v_name": "CannonDesign",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "2023-09-26",
+            "v_description": "CannonDesign is a global architecture, engineering and consulting practice that provides services fo..."
+        },
+        {
+            "v_name": "Robins & Morton",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Robins and Morton is a company operating as a construction firm. It specializes in planning and desi..."
+        },
+        {
+            "v_name": "CannonDesign",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "CannonDesign is a global architecture, engineering and consulting practice that provides services fo..."
+        },
+        {
+            "v_name": "Roper & Vertafore",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Vertafore is a Denver-based insurance technology company. It has developed various software for insu..."
+        },
+        {
+            "v_name": "Go-Ahead Group",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Go-Ahead Group plc is a passenger transport company based in Newcastle upon Tyne, England. The major..."
+        },
+        {
+            "v_name": "Ropertech.com & Vertafore.com",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Vertafore is a Denver-based insurance technology company. It has developed various software for insu..."
+        },
+        {
+            "v_name": "Sabre Corporation",
+            "Discovery Date": "2023-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "Sabre Corporation is the largest global distribution systems provider for air bookings in North Amer..."
+        },
+        {
+            "v_name": "Sysco Corporation",
+            "Discovery Date": "2023-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Sysco Corporation is an American multinational corporation involved in marketing and distributing fo..."
+        },
+        {
+            "v_name": "Gentex Corporation",
+            "Discovery Date": "2023-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Gentex Corporation is an American electronics and technology company that develops, designs and manu..."
+        },
+        {
+            "v_name": "ANDRADE GUTIERREZ & ZAGOPE",
+            "Discovery Date": "2023-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "ANDRADE GUTIERREZ is a Brazilian private multinational conglomerate headquartered in Belo Horizonte...."
+        },
+        {
+            "v_name": "Incredible Technologies",
+            "Discovery Date": "2023-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "Incredible Technologies is an American developer and manufacturer of coin-operated video games and C..."
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "group_name": [
+        "Dragonransomware"
+    ],
+    "group_description": "Dragon Ransomware, is promising rapid and customizable ransomware operations for Windows systems. Key features include a compact 50KB file size, ultra-fast encryption speed, and a builder tool that allows users to personalize ransomware configurations. The tool will be available to the public once the team reaches 1,000 subscribers on their channel, signaling a potential rise in availability to threat actors.",
+    "Victims count": 39,
+    "First discovered victims": "2024-12-15",
+    "Last discovered victim": "2024-12-17",
+    "Avg Delay": "19.7 days",
+    "Infostealer": "10.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 10,
+                    "Business Services": 9,
+                    "Transportation/Logistics": 5,
+                    "Education": 4,
+                    "Manufacturing": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "India": 10,
+                    "United States": 5,
+                    "Saudi Arabia": 4,
+                    "United Kingdom": 2,
+                    "China": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "phantomsecurity.ca",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "2024-12-16",
+            "v_description": "👆** Oops, all the files have been encrypted 🔥\n\n__Target Information__ :\n****Phantom Security Group i..."
+        },
+        {
+            "v_name": "amlakparto.ir",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "**🫠 Oops, __Amlak Parto__ been hacked 🔥\n\n[+] __Amlak Parto__ is an Iranian real estate agency that o..."
+        },
+        {
+            "v_name": "www.brachapundak.co.il",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-22",
+            "v_description": "https://www.brachapundak.co.il/\n\nFuck ~~Israel~~ 👍..."
+        },
+        {
+            "v_name": "salesmandiary.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-26",
+            "v_description": "https://salesmandiary.com/\n\nFuck USA..."
+        },
+        {
+            "v_name": "synoveboure.wz.cz",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-27",
+            "v_description": "[+] https://synoveboure.wz.cz..."
+        },
+        {
+            "v_name": "snedai.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "[+] https://snedai.com/ \n\n--> [Check Host](https://check-host.cc/?m=HTTP&target=https://snedai.com)..."
+        },
+        {
+            "v_name": "www.bsisp.ly",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "[+] https://www.bsisp.ly/\n\n--> [Check Host](https://check-host.cc/?m=HTTP&target=https://www.bsisp.l..."
+        },
+        {
+            "v_name": "www.manahotels.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-30",
+            "v_description": "[+] https://www.manahotels.in..."
+        },
+        {
+            "v_name": "shambhaviayurveda.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-31",
+            "v_description": "[+] https://shambhaviayurveda.in/dragon.php..."
+        },
+        {
+            "v_name": "www.zawwali.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-10",
+            "v_description": "🔤🔤🔤🔤🔤🔤🔤\n\nWe are the Dragons, not here to dominate, but to reclaim our rights and the respect of thos..."
+        },
+        {
+            "v_name": "sadr.ws",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "📌 We, the dragons, assure our forces that we will not penetrate anything. We have important informat..."
+        },
+        {
+            "v_name": "www.machighway.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-15",
+            "v_description": "Dragons have passed through here 🤩✅\n\n[+] https://www.machighway.com/\n\nMy greetings, the dragons 🤟..."
+        },
+        {
+            "v_name": "mtucker.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "🤫  **MTrucker** A food Service for supply Fulfillment was hacked   \n\n[+] https://mtucker.com \n\n\nWe g..."
+        },
+        {
+            "v_name": "wahaj-almassa.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-10-26",
+            "v_description": "Wahaj Al Massa (WAHAJ) is a Saudi-based precision engineering company specializing in high-tech manu..."
+        },
+        {
+            "v_name": "londonsmt.org",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-01",
+            "v_description": "The London School of Ministries and Theology (LSMT) is a UK-based vocational Bible college establish..."
+        },
+        {
+            "v_name": "w3webschools.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-29",
+            "v_description": "😀** Oops, all the files have been encrypted ****🔥****\n\n[+] The ****w3webschools.com**** website prov..."
+        },
+        {
+            "v_name": "inda.edu.uy",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-29",
+            "v_description": "👈** Oops, all the files have been encrypted ****🔥****\n\n[+] INDA is an institute offering online cour..."
+        },
+        {
+            "v_name": "shintex.by",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-11-30",
+            "v_description": "👈 **Oops, all the files have been deleted  ****🔥****\n\n\n[+] Shintekhsnab specializes in selling tires..."
+        },
+        {
+            "v_name": "www.whiteleafent.net",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-03",
+            "v_description": "🫠** Oops, Whiteleaf Entertainment been hacked ****🔥****\n\n[+] Whiteleaf Entertainment is a media comp..."
+        },
+        {
+            "v_name": "starlinkvietnam.vn",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-04",
+            "v_description": "🥹** Oops, Starlink Vietnam been hacked ****🔥****\n\n[+] Starlink Vietnam offers high-speed satellite i..."
+        },
+        {
+            "v_name": "www.beikelogistics.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-05",
+            "v_description": "🤤** Oops, Beike Logistics been hacked ****🔥****\n\n[+] Beike Logistics is an international logistics c..."
+        },
+        {
+            "v_name": "logikaservicios.cl",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-05",
+            "v_description": "🫠** Oops, Logika Servicios been hacked ****🔥****\n\n[+] Logika Servicios is a Chilean company speciali..."
+        },
+        {
+            "v_name": "stleasing.tj",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-05",
+            "v_description": "🫠** Oops, Standard-Leasing been hacked ****🔥****\n\n[+] The website ****stleasing.tj**** belongs to \"S..."
+        },
+        {
+            "v_name": "hinodes.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-05",
+            "v_description": "😉** Oops, all the files have been encrypted ****🔥****\n\n[+] Hinode Technologies is a company based in..."
+        },
+        {
+            "v_name": "oakenglish.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**👈 Oops, Oak English been hacked 🔥\n\n[+] Oak English is an online platform for learning English.\n\n\n[..."
+        },
+        {
+            "v_name": "cafunesol.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "👈** Oops, all the files have been encrypted 🔥\n\n[+] The ****cafunesol.in**** website specializes in d..."
+        },
+        {
+            "v_name": "www.srishtisoft.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**Website down, and all data it was encrypted 🔥\n \n[+] SrishtiSoft is a private software company foun..."
+        },
+        {
+            "v_name": "eosspartners.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**🫠 Oops, EOSS Partners been hacked 🔥\n\n[+] EOSS Partners is a company specialized in providing techn..."
+        },
+        {
+            "v_name": "ssfirm.com.sa",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**🫠 Oops, ****ssfirm.com.sa**** been hacked 🔥\n\n[+] Al Saleh, Al Sihli & Partners Law Firm is a Saudi..."
+        },
+        {
+            "v_name": "k-boss.net",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**🫠 Oops, K-BOSS been hacked 🔥\n\n[+] K-BOSS is a spatial survey system that allows users to create an..."
+        },
+        {
+            "v_name": "tekryse.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "**👈 Oops, all the files have been encrypted 🔥\n\n[+] TekWyse Consulting specializes in providing techn..."
+        },
+        {
+            "v_name": "parkaire.net",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-08",
+            "v_description": "🫠** Oops, parkaire been hacked ****🔥****\n\n[+] ****Parkaire.net**** is for an Indian company that mak..."
+        },
+        {
+            "v_name": "www.infoer.com.ar",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-10",
+            "v_description": "🫠** Oops, ****www.infoer.com.ar**** been hacked 🔥\n\n[+] The website ****www.infoer.com.ar** is a spec..."
+        },
+        {
+            "v_name": "eye-ed.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "**🫠 Oops, eye-ed been hacked 🔥\n\n[+] Yes, the Eye-Ed website is owned by Real Eyes, LLC and provides ..."
+        },
+        {
+            "v_name": "tg777.pub",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "**👈 Oops, all the files have been encrypted 🔥\n\n[+] The website ****tg777.pub**** focuses on providin..."
+        },
+        {
+            "v_name": "timesexpress.net",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "**🫠 Oops, Times Express been hacked 🔥\n\n[+] The Times Express website specializes in publishing artic..."
+        },
+        {
+            "v_name": "kpr-rm.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "**🫠 Oops, KPRRM been hacked 🔥\n\n[+] The KPRRM website offers a wide range of specialized services and..."
+        },
+        {
+            "v_name": "shoor.cc",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "**🫠 Oops, ****shoor.cc**** been hacked 🔥\n\n[+] ****shoor.cc**** provides consultancy services in vari..."
+        },
+        {
+            "v_name": "pid.co.zw",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "**🫠 Oops, ****pid.co.zw**** been hacked 🔥\n\n[+] The website ****www.pid.co.zw**** belongs to Plan Inf..."
+        }
+    ]
+}

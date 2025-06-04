@@ -1,0 +1,33 @@
+{
+    "group_name": [
+        "Ranstreet"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2023-12-21",
+    "Last discovered victim": "2023-12-21",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Portugal": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "zonesoft.pt",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

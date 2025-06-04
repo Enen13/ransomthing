@@ -1,0 +1,265 @@
+{
+    "group_name": [
+        "Interlock"
+    ],
+    "group_description": "None",
+    "Victims count": 38,
+    "First discovered victims": "2024-10-13",
+    "Last discovered victim": "2025-05-27",
+    "Avg Delay": "143 days",
+    "Infostealer": "11.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education": 8,
+                    "Manufacturing": 7,
+                    "Healthcare": 4,
+                    "Government": 3,
+                    "Public Sector": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 24,
+                    "Canada": 4,
+                    "Italy": 2,
+                    "Australia": 2,
+                    "United Kingdom": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "A/C Supply",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "A/C Supply, Inc. is a leading wholesale distributor of HVAC-R products in southern Louisiana and Mis..."
+        },
+        {
+            "v_name": "Kalamazoo Public School District",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "Kalamazoo Public Schools oversees 25 public schools in the district . Provides educational services ..."
+        },
+        {
+            "v_name": "West Lothian Council",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "West Lothian Council oversees operations of the West Lothian area in Scottland. The council provides..."
+        },
+        {
+            "v_name": "Semple & Cooper",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "Semple, Marchal & Cooper, LLP is a leading regional Certified Public Accounting firm based in the So..."
+        },
+        {
+            "v_name": "Bentley Industries",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Bentley Industries has over 30 years combined experience in the boating industry. Bentley opened the..."
+        },
+        {
+            "v_name": "Fowler Elementary School",
+            "Discovery Date": "2025-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "The Fowler Elementary School District is an elementary school district in southwest Phoenix, Arizona..."
+        },
+        {
+            "v_name": "Janco Steel",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "Janco Steel is a Canadian family owned and operated steel service center. specializing in rolled ste..."
+        },
+        {
+            "v_name": "DaVita",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "DaVita Inc. provides kidney dialysis services for patients suffering from chronic kidney failure in ..."
+        },
+        {
+            "v_name": "Madison School District Schools",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Madison School District is dedicated to providing caring, innovative, and academically strong experi..."
+        },
+        {
+            "v_name": "Doman Building Materials Group",
+            "Discovery Date": "2025-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "Doman Building Materials Group is a vertically integrated global building materials group. They supp..."
+        },
+        {
+            "v_name": "Andretti Indoor Karting & Games",
+            "Discovery Date": "2025-04-07",
+            "Estimated Attack Date": "2025-03-16",
+            "v_description": "Andretti Indoor Karting and Games was established in 2001 and is based in Orlando, Florida. They cur..."
+        },
+        {
+            "v_name": "Drive Products",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "Drive Products offers a complete range of truck mounted equipment, products, services and solutions ..."
+        },
+        {
+            "v_name": "Doman",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "2025-03-11",
+            "v_description": "Doman Building Materials Group is a vertically integrated global building materials group. They supp..."
+        },
+        {
+            "v_name": "Cherokee County School District",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "The school nurse has the expertise to identify, assess, plan, implement, and evaluate the health nee..."
+        },
+        {
+            "v_name": "National Defense Corp",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "AMTEC is a manufacturer of lethal and non-lethal ammunition, explosives, and cartridges for military..."
+        },
+        {
+            "v_name": "General Formulations",
+            "Discovery Date": "2025-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1953, General Formulations is a family owned company located in Sparta, Michigan. We have..."
+        },
+        {
+            "v_name": "PMA",
+            "Discovery Date": "2025-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "Peter Mielzynski Agencies (PMA) is an importer and distributor of wines and spirits. PMA was founded..."
+        },
+        {
+            "v_name": "Aztec Municipal School District",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "Aztec Municipal Schools is a public school district based in Aztec, New Mexico, United States. The d..."
+        },
+        {
+            "v_name": "Milano",
+            "Discovery Date": "2025-03-13",
+            "Estimated Attack Date": "2023-12-01",
+            "v_description": "Servicios Corporativos Melody-Milano is a company that operates in the  Apparel & Accessories Retail..."
+        },
+        {
+            "v_name": "Hancock Public School",
+            "Discovery Date": "2025-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "Hancock Public School is a K-12 educational institution that emphasizes excellence in education, as ..."
+        },
+        {
+            "v_name": "Wayne County, Michigan",
+            "Discovery Date": "2025-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "Wayne County is located in the state of Michigan, United States. We offer you more than 130 SQL data..."
+        },
+        {
+            "v_name": "The Smeg Group",
+            "Discovery Date": "2025-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "Smeg, an acronym of Smalterie Metallurgiche Emiliane Guastalla, is an Italian home appliance manufac..."
+        },
+        {
+            "v_name": "The Siegel Group, Inc.",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "The Siegel Group, Inc. is a full service commercial real estate firm based in Las Vegas, Nevada and ..."
+        },
+        {
+            "v_name": "Siegel Group",
+            "Discovery Date": "2025-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "The Siegel Group, Inc. is a full service commercial real estate firm based in Las Vegas, Nevada and ..."
+        },
+        {
+            "v_name": "McCormick & Priore",
+            "Discovery Date": "2024-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "McCormick & Priore is a defense litigation firm known for having the intensity and integrity to go b..."
+        },
+        {
+            "v_name": "City of Noblesville",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "City of Noblesville is a company that operates in the Government industry. It employs 250to499 peopl..."
+        },
+        {
+            "v_name": "Heritage Bank",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Heritage Bank USA provides commercial banking services. Heritage offers a broad line of banking and ..."
+        },
+        {
+            "v_name": "Brockton Neighborhood Health Center",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "2024-10-20",
+            "v_description": "Brockton Neighborhood Health Center is a multicultural organization that collaborates with community..."
+        },
+        {
+            "v_name": "Boston Chinatown Neighborhood Center",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "For more than 50 years, BCNC has been providing new immigrants, especially Asians, with the support ..."
+        },
+        {
+            "v_name": "RJM Marketing",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "Who is RJM Marketing. Founded in 1980, RJM has provided advertising and marketing services to client..."
+        },
+        {
+            "v_name": "Indesign, LLC",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Indesign, LLC is a multi-discipline engineering design firm that provides full turnkey electronic pr..."
+        },
+        {
+            "v_name": "Winnebago Public School Foundation",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "Winnebago Public School Foundation Inc is a company that employs 20 to 49 people and has 1Mto5M of r..."
+        },
+        {
+            "v_name": "Texas Tech University Health Sciences Center",
+            "Discovery Date": "2024-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "Beginning in 1969 as the Texas Tech University School of Medicine, Texas Tech University Health Scie..."
+        },
+        {
+            "v_name": "Legacy Treatment Services",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "Legacy Treatment Services has locations in Burlington, Atlantic, Camden, and Middlesex counties. The..."
+        },
+        {
+            "v_name": "Drug and Alcohol Treatment Service",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "Drug and Alcohol Treatment Service is Lackawanna County's leading outpatient drug and alcohol treatm..."
+        },
+        {
+            "v_name": "Smeg",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "Smeg, an acronym of Smalterie Metallurgiche Emiliane Guastalla, is an Italian home appliance manufac..."
+        },
+        {
+            "v_name": "Wayne County",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "Wayne County is located in the state of Michigan, United States. We offer you more than 130 SQL data..."
+        },
+        {
+            "v_name": "Cathexis Holdings LP",
+            "Discovery Date": "2024-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Today, we unveil nearly 3 million files from the \"Cathexis Holdings LP\" corporate network. Dive into..."
+        }
+    ]
+}

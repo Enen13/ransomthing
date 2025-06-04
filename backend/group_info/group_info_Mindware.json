@@ -1,0 +1,103 @@
+{
+    "group_name": [
+        "Mindware"
+    ],
+    "group_description": "Ransomware, potential rebranding of win.sfile.",
+    "Victims count": 13,
+    "First discovered victims": "2022-05-05",
+    "Last discovered victim": "2022-05-05",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "willsent",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "welplaat",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "toshfarms",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thebureau",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "smd",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "simpsonplastering",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nottco",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "micropakkn",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mediuscorp",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "diager",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "callinc",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "allwell",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "acorentacar",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

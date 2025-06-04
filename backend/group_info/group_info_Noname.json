@@ -1,0 +1,50 @@
+{
+    "group_name": [
+        "Noname"
+    ],
+    "group_description": "None",
+    "Victims count": 3,
+    "First discovered victims": "2024-01-16",
+    "Last discovered victim": "2024-01-16",
+    "Avg Delay": "126.3 days",
+    "Infostealer": "33.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 1,
+                    "Agriculture and Food Production": 1,
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "Brazil": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "nobleweb.com",
+            "Discovery Date": "2024-01-16",
+            "Estimated Attack Date": "2023-09-11",
+            "v_description": "M Since 1992, The Noble Group has built a dedicated team of professionals all working together to re..."
+        },
+        {
+            "v_name": "selmi.com.br",
+            "Discovery Date": "2024-01-16",
+            "Estimated Attack Date": "2023-09-12",
+            "v_description": "&#8211; Established in 1966; &#8211; Manufacturer of flour based products, such as dry pasta, tradit..."
+        },
+        {
+            "v_name": "onyx-fire.com",
+            "Discovery Date": "2024-01-16",
+            "Estimated Attack Date": "2023-09-12",
+            "v_description": "Onyx-Fire Protection Services Inc is a company that operates in the Security and Investigations indu..."
+        }
+    ]
+}

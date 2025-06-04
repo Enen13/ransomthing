@@ -1,0 +1,193 @@
+{
+    "group_name": [
+        "Netwalker"
+    ],
+    "group_description": "NetWalker ransomware group operates by the threat actor known as \"CIRCUS SPIDER\". The NetWalker ransomware was discovered in 2019. The group mainly targeting the Asia Pacific region but can attack globally. The group uses common attacking tools like Mimikatz and other legitimate tools (LOLBINS) like PSTools, AnyDesk, TeamViewer, NLBrute, and more. The group knowing by targeting the healthcare sector. Finally, in January 2021, Netwalker was takedown by the authorities, the police have confiscated hundreds of thousands of dollars in ransom payments collected by the Netwalker group, and they seized servers and disrupted the infrastructure and the darknet websites of the Netwalker ransomware group.",
+    "Victims count": 26,
+    "First discovered victims": "2020-01-31",
+    "Last discovered victim": "2020-12-12",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare and Public Health": 5,
+                    "Energy": 4,
+                    "Information Technology": 4,
+                    "Critical Manufacturing": 4,
+                    "Education Facilities": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 13,
+                    "Canada": 3,
+                    "Australia": 2,
+                    "Austria": 1,
+                    "Argentina": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Nygard International",
+            "Discovery Date": "2020-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CSAT Solutions",
+            "Discovery Date": "2020-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Enel Group",
+            "Discovery Date": "2020-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KYB Corporation",
+            "Discovery Date": "2020-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wilmington Surgical Associates",
+            "Discovery Date": "2020-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Equinix",
+            "Discovery Date": "2020-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "K-Electric (electric utility supplier)",
+            "Discovery Date": "2020-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jands",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cygilant (threat detection cybersecurity company)",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Direccion Nacional de Migraciones (Argentina's official immigration agency)",
+            "Discovery Date": "2020-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Entrust Energy",
+            "Discovery Date": "2020-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Center for Fertility and Gynecology (Los Angeles)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Olympia House (Petaluma)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Forsee Power",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Canadian Tire",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Alfanar",
+            "Discovery Date": "2020-07-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Trinity Metro (Fort Worth transit agency)",
+            "Discovery Date": "2020-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lorien Health Services",
+            "Discovery Date": "2020-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Columbia College of Chicago",
+            "Discovery Date": "2020-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "University of San Francisco (UCSF)",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Michigan State University",
+            "Discovery Date": "2020-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Network of Village of Weiz",
+            "Discovery Date": "2020-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Spectra Logic",
+            "Discovery Date": "2020-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Northwest Territories Power Corporation",
+            "Discovery Date": "2020-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Champaign-Urbana Public Health District",
+            "Discovery Date": "2020-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toll Group",
+            "Discovery Date": "2020-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

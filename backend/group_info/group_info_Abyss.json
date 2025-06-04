@@ -1,0 +1,523 @@
+{
+    "group_name": [
+        "Abyss"
+    ],
+    "group_description": "None",
+    "Victims count": 81,
+    "First discovered victims": "2023-03-21",
+    "Last discovered victim": "2025-04-02",
+    "Avg Delay": "N/A",
+    "Infostealer": "7.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 12,
+                    "Healthcare": 8,
+                    "Technology": 8,
+                    "Agriculture and Food Production": 5,
+                    "Manufacturing": 4
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 32,
+                    "United Kingdom": 4,
+                    "Canada": 3,
+                    "Switzerland": 2,
+                    "Sweden": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "crownlaboratories.com",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "Crown Laboratories, founded in 2000 and based in Johnson City, TN, provides pharmaceutical and ethic..."
+        },
+        {
+            "v_name": "entandallergy.com",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "ENT and Allergy Associates is an ear, nose, and throat specialist clinic, with locations throughout ..."
+        },
+        {
+            "v_name": "mdm-insurance.com",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "MDM Insurance Services Inc. offers a wide range of insurance products and services, including auto, ..."
+        },
+        {
+            "v_name": "ceratec.com",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Based in Quebec, Canada, Ceratec Surfaces sells a variety of home and commercial flooring products s..."
+        },
+        {
+            "v_name": "halex.com",
+            "Discovery Date": "2025-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "Halex provides a comprehensive range of IT services specifically tailored for small to medium-sized ..."
+        },
+        {
+            "v_name": "Four Eye Clinics",
+            "Discovery Date": "2025-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "centuryvisionglobal.com independenceeye.com kocheye.com prairieeyecenter.com..."
+        },
+        {
+            "v_name": "jpcgroupinc.com",
+            "Discovery Date": "2025-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "JPC Group, Inc. is a full-service construction contractor with expertise in road and bridge construc..."
+        },
+        {
+            "v_name": "envirosep.com",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "EnviroSep designs and manufactures integrated solutions with automation and controls for fluid handl..."
+        },
+        {
+            "v_name": "kingpower.com",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in Bangkok, Thailand, King Power is a duty free retailer that provides travel related ..."
+        },
+        {
+            "v_name": "berkotfoods.com",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Berkot's Super Foods is your neighborhood, family-owned and operated, full-service grocery store...."
+        },
+        {
+            "v_name": "bataviacontainer.com",
+            "Discovery Date": "2024-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "Batavia Container is devoted to providing customers with the best packaging solutions in the industr..."
+        },
+        {
+            "v_name": "pez.com",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "PEZ was first marketed as a compressed peppermint candy in 1927 in Vienna, Austria. Today, the compa..."
+        },
+        {
+            "v_name": "glts.net",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "The Greater Lawrence Technical School is a regional technical high school serving the four communiti..."
+        },
+        {
+            "v_name": "anhf.org.auh",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "For over four decades, we have been providing accommodation and community care services for elderly ..."
+        },
+        {
+            "v_name": "projektalp.ch",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "Project Alp offers professionally accompanied individual places in suitable host families in agricul..."
+        },
+        {
+            "v_name": "In the depths of software development.",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "Unlocking the secrets of PRM tech. Today we publish the first part from a major leak at PRM ...."
+        },
+        {
+            "v_name": "Promise Technology, Inc.",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "We will publish every 3 days a new part, from old to new and at the end we will publish fresh source..."
+        },
+        {
+            "v_name": "promise.com",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "Promise Technology Inc. is a recognized global leader in the storage industry and the leading develo..."
+        },
+        {
+            "v_name": "victrongroup.com",
+            "Discovery Date": "2024-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Victron Energy is a premier fuel distributor founded by Ali Sharaf. Beginning with a single convenie..."
+        },
+        {
+            "v_name": "tolsa.com",
+            "Discovery Date": "2024-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "TOLSA Minerals & Mining. Spain. Founded in 1957 TOLSA is a mining company that works in the extracti..."
+        },
+        {
+            "v_name": "f-t.com",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "Fitzemeyer & Tocci (F&T) is a leading engineering and construction management firm that specializes ..."
+        },
+        {
+            "v_name": "tims.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "TIMS Medical offers innovative medical imaging solutions for hospitals and healthcare providers...."
+        },
+        {
+            "v_name": "ecbawm.com",
+            "Discovery Date": "2024-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Emery Celli Brinckerhoff Abady Ward & Maazel LLP is a nationally-recognized litigation boutique that..."
+        },
+        {
+            "v_name": "pfsbrands.com",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "PFSbrands ® is an employee-owned company that provides three successful hot food brands primarily to..."
+        },
+        {
+            "v_name": "comtruck.ca",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Providing Expert Truck Equipment Solutions across Canada. Part of the Commercial Group of Companies,..."
+        },
+        {
+            "v_name": "idahopacific.com",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Idaho Pacific is a leading producer of dehydrated potato products for the foodservice, industrial an..."
+        },
+        {
+            "v_name": "spvmhc.org",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Scioto Paint Valley Mental Health Center offer a variety of Residential and Outpatient counseling tr..."
+        },
+        {
+            "v_name": "robertshvac.com",
+            "Discovery Date": "2024-08-11",
+            "Estimated Attack Date": "",
+            "v_description": "robertshvac.com 240Gb uncompressed data..."
+        },
+        {
+            "v_name": "q-cells.de",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "q-cells.de 5.4Tb uncompressed data..."
+        },
+        {
+            "v_name": "zoppo.com",
+            "Discovery Date": "2024-07-28",
+            "Estimated Attack Date": "",
+            "v_description": "zoppo.com 233Gb uncompressed data..."
+        },
+        {
+            "v_name": "crimsonwinegroup.com",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "crimsonwinegroup.com.com 1.6Tb uncompressed data..."
+        },
+        {
+            "v_name": "greenlightbiosciences.com",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "greenlightbiosciences.com 726Gb uncompressed data..."
+        },
+        {
+            "v_name": "landmarklife.com",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "landmarklife.com 2.4Tb uncompressed data..."
+        },
+        {
+            "v_name": "conferenceusa.com",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "conferenceusa.com 1Tb uncompressed data..."
+        },
+        {
+            "v_name": "tpocc.org",
+            "Discovery Date": "2024-06-25",
+            "Estimated Attack Date": "",
+            "v_description": "tpocc.org 570Gb uncompressed data..."
+        },
+        {
+            "v_name": "malca-amit.com",
+            "Discovery Date": "2024-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "malca-amit.com 30Gb + VMware images  CHKC-NGSQL.MAFE.COM HKG-TSPLS.MAFE.COM 1.2Tb..."
+        },
+        {
+            "v_name": "woldae.com",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "woldae.com 9.7Tb uncompressed data..."
+        },
+        {
+            "v_name": "rangam.com",
+            "Discovery Date": "2024-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "rangam.com 1.1Tb uncompressed data..."
+        },
+        {
+            "v_name": "rameywine.com",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "rameywine.com 61Gb uncompressed data..."
+        },
+        {
+            "v_name": "lindquistinsurance.com",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "lindquistinsurance.com 12Gb uncompressed data..."
+        },
+        {
+            "v_name": "iamdesign.com",
+            "Discovery Date": "2024-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "iamdesign.com 78Gb uncompressed data..."
+        },
+        {
+            "v_name": "yarco.com",
+            "Discovery Date": "2024-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "yarco.com 1.9Tb uncompressed data..."
+        },
+        {
+            "v_name": "neigc.com",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "neigc.com 2.9Tb uncompressed data..."
+        },
+        {
+            "v_name": "sunharbormanor.com",
+            "Discovery Date": "2024-02-29",
+            "Estimated Attack Date": "",
+            "v_description": "sunharbormanor.com 91Gb uncompressed data..."
+        },
+        {
+            "v_name": "vanwingerden.com",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "vanwingerden.com 337Gb uncompressed data..."
+        },
+        {
+            "v_name": "mranet.org",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "mranet.org 3Tb uncompressed data..."
+        },
+        {
+            "v_name": "posen.com",
+            "Discovery Date": "2024-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Posen Architects 724Gb uncompressed data..."
+        },
+        {
+            "v_name": "transaxle.com",
+            "Discovery Date": "2024-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "transaxle.com 795Gb uncompressed data..."
+        },
+        {
+            "v_name": "deltron.com",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "deltron.com 8.9Gb uncompressed data..."
+        },
+        {
+            "v_name": "vidalung.ai",
+            "Discovery Date": "2024-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "vidalung.ai 1.7Tb uncompressed data..."
+        },
+        {
+            "v_name": "synergyfinancialgrp.com",
+            "Discovery Date": "2024-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Synergy Financial Group 97Gb uncompressed data..."
+        },
+        {
+            "v_name": "micrometals.com",
+            "Discovery Date": "2024-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Micrometals, Inc. 997Gb uncompressed data..."
+        },
+        {
+            "v_name": "concertus.co.uk",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "Concertus Design and Property Consultants 1,9Tb uncompressed data..."
+        },
+        {
+            "v_name": "aurobindousa.com",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "Aurobindo 3,7Tb uncompressed data..."
+        },
+        {
+            "v_name": "shawneemilling.com",
+            "Discovery Date": "2023-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Shawnee Mills 805Gb uncompressed data..."
+        },
+        {
+            "v_name": "motordepot.co.uk",
+            "Discovery Date": "2023-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Motor Depot 636Gb uncompressed data..."
+        },
+        {
+            "v_name": "lathamcenters.org",
+            "Discovery Date": "2023-11-05",
+            "Estimated Attack Date": "",
+            "v_description": "lathamcenters.org 75Gb uncompressed data..."
+        },
+        {
+            "v_name": "apexga.bank",
+            "Discovery Date": "2023-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "apexga.bank 5 VMware  VM  from Production Servers..."
+        },
+        {
+            "v_name": "njsba.com",
+            "Discovery Date": "2023-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "NJSBA , 529Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.northriverco.com",
+            "Discovery Date": "2023-09-08",
+            "Estimated Attack Date": "",
+            "v_description": "North River Co LLC, 303Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.lasaterandmartin.com",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Lasater & Martin, P.C. Attorneys, 697Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.finitia.net",
+            "Discovery Date": "2023-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "finitia ag, 465Gb uncompressed data..."
+        },
+        {
+            "v_name": "plbint.com",
+            "Discovery Date": "2023-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "PLB International, 990Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.brockhouse.co.uk",
+            "Discovery Date": "2023-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "Brockhouse Group Ltd, 35Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.tractrad.com",
+            "Discovery Date": "2023-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "Tractrad.com, 35Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.stri.se",
+            "Discovery Date": "2023-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "STRI, 189Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.arb.ch",
+            "Discovery Date": "2023-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "arb Architekten AG, 220Gb uncompressed data..."
+        },
+        {
+            "v_name": "www.l3harris.com",
+            "Discovery Date": "2023-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "17 VM from wsots.net (Wideband Satellite Communications Operations and Technical Support)..."
+        },
+        {
+            "v_name": "wsots.net",
+            "Discovery Date": "2023-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "17 VM from wsots.net (Wideband Satellite Communications Operations and Technical Support)..."
+        },
+        {
+            "v_name": "pwlawfirm.com",
+            "Discovery Date": "2023-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "Piasecki & Whitelaw, LLC 385G uncompressed data..."
+        },
+        {
+            "v_name": "brett-robinson.com",
+            "Discovery Date": "2023-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Brett-Robinson, 393Gb database backups and data from production servers..."
+        },
+        {
+            "v_name": "avidxchange.com",
+            "Discovery Date": "2023-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "AvidXchange, Inc All database backups from production servers..."
+        },
+        {
+            "v_name": "pandol.com",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Pandol Bros., Inc 389Gb uncompressed data..."
+        },
+        {
+            "v_name": "7x7oralsurgery.com",
+            "Discovery Date": "2023-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "7x7 Dental Implant & Oral Surgery 114Gb uncompressed data..."
+        },
+        {
+            "v_name": "bienvilleortho.com",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "bienvilleortho.com  147Gb uncompressed data..."
+        },
+        {
+            "v_name": "largest provider of orthopedic care",
+            "Discovery Date": "2023-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "147Gb uncompressed data..."
+        },
+        {
+            "v_name": "hosemanufacturing.com",
+            "Discovery Date": "2023-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Ratermann Manufacturing 113Gb uncompressed data..."
+        },
+        {
+            "v_name": "igadiltd.com",
+            "Discovery Date": "2023-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "IgadI  84Gb uncompressed data..."
+        },
+        {
+            "v_name": "jones-hamilton.com",
+            "Discovery Date": "2023-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Jones-Hamilton Co. 230Gb uncompressed data..."
+        },
+        {
+            "v_name": "stonehillcontracting.com",
+            "Discovery Date": "2023-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Stone Hill Contracting, Inc. 176Gb uncompressed data..."
+        },
+        {
+            "v_name": "siebold.com",
+            "Discovery Date": "2023-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "The Siebold Company, Inc. 700Gb uncompressed data..."
+        }
+    ]
+}

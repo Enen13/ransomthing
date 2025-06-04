@@ -1,0 +1,259 @@
+{
+    "group_name": [
+        "Helldown"
+    ],
+    "group_description": "None",
+    "Victims count": 37,
+    "First discovered victims": "2024-08-13",
+    "Last discovered victim": "2024-11-06",
+    "Avg Delay": "15.2 days",
+    "Infostealer": "2.8%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 7,
+                    "Manufacturing": 4,
+                    "Energy": 3,
+                    "Healthcare": 3,
+                    "Transportation/Logistics": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 9,
+                    "Germany": 5,
+                    "Italy": 3,
+                    "Poland": 2,
+                    "France": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "klinkamkurpark",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "klinik-am-kurpark.de..."
+        },
+        {
+            "v_name": "hausdesstiftens.org",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-08",
+            "v_description": "hausdesstiftens.org..."
+        },
+        {
+            "v_name": "nightnurse.ch",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-09-13",
+            "v_description": "www.nightnurse.ch..."
+        },
+        {
+            "v_name": "fuelco",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-01",
+            "v_description": "fuelco-us.com..."
+        },
+        {
+            "v_name": "VALLEYFIRM",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "valleyfirm.com..."
+        },
+        {
+            "v_name": "children",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-12",
+            "v_description": "generaldentistryforchildren.com..."
+        },
+        {
+            "v_name": "knoxlawcenter",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-10",
+            "v_description": "www.knoxlawcenter.com..."
+        },
+        {
+            "v_name": "AMERICANVENTURE",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "americanventures.com..."
+        },
+        {
+            "v_name": "CSIKBS",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "www.csikitchenandbath.com..."
+        },
+        {
+            "v_name": "SANJACINTOCOUNY",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "www.co.san-jacinto.tx.us..."
+        },
+        {
+            "v_name": "compassfs",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "www.compassfs.net..."
+        },
+        {
+            "v_name": "lacliniqueducoureur",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "lacliniqueducoureur.com..."
+        },
+        {
+            "v_name": "TIVOLI-33",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-23",
+            "v_description": "tivoli-33.org..."
+        },
+        {
+            "v_name": "qualiform.cz",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-22",
+            "v_description": "www.qualiform.cz..."
+        },
+        {
+            "v_name": "SMARTS-ENGINEER",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-28",
+            "v_description": "www.smarts-engineering.de..."
+        },
+        {
+            "v_name": "HBGJEWISHCOMMUN",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "www.jewishharrisburg.org..."
+        },
+        {
+            "v_name": "barryavenueplating",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "www.barryavenueplating.com..."
+        },
+        {
+            "v_name": "rsk-immobilien",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "www.rsk-immobilien.de..."
+        },
+        {
+            "v_name": "cincinnatipainphysicians",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "2024-08-21",
+            "v_description": "www.cincinnatipainphysicians.com..."
+        },
+        {
+            "v_name": "kbosecurity.co.uk",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "kbosecurity.co.uk..."
+        },
+        {
+            "v_name": "khonaysser.com",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "khonaysser.com..."
+        },
+        {
+            "v_name": "BARRYAVEPLATING",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "BARRYAVEPLATING..."
+        },
+        {
+            "v_name": "RSK-IMMOBILIEN",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "RSK-IMMOBILIEN..."
+        },
+        {
+            "v_name": "ATP",
+            "Discovery Date": "2024-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "atpsassari.it..."
+        },
+        {
+            "v_name": "Khonaysser",
+            "Discovery Date": "2024-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "Khonaysser..."
+        },
+        {
+            "v_name": "kbo",
+            "Discovery Date": "2024-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "Here's something encrypted, password is required to continue reading...."
+        },
+        {
+            "v_name": "zyxel",
+            "Discovery Date": "2024-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "Zyxel.eu is a European branch of Zyxel Communications Corporation, a global leader in networking sol..."
+        },
+        {
+            "v_name": "hugwi",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "2024-08-13",
+            "v_description": "Hugwi.ch is a Swiss-based company specializing in providing cutting-edge digital solutions, with a f..."
+        },
+        {
+            "v_name": "SCHLATTNER",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "deganis",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XPERT Business Solutions GmbH",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-05",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MyFreightWorld",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-05",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cbmm",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-09",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AZIENDA TRASPORTI PUBBLICI S.P.A.",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-10",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "briju",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-11",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vindix",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-11",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Albatros",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-11",
+            "v_description": "N/A"
+        }
+    ]
+}

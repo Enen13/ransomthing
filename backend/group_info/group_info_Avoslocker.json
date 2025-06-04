@@ -1,0 +1,451 @@
+{
+    "group_name": [
+        "Avoslocker"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 70,
+    "First discovered victims": "2021-06-13",
+    "Last discovered victim": "2023-02-11",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3,
+                    "Paraguay": 1,
+                    "Guatemala": 1,
+                    "Botswana": 1,
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Cambian Group",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Includes data from Care Tech Holdings PLC (parent holding company, caretech-uk.com) & ByTheBridge.co..."
+        },
+        {
+            "v_name": "Memtech Acoustical",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Memtech Acoustical is your 'one-stop' source for acoustic services, noise control and acoustic mater..."
+        },
+        {
+            "v_name": "Global Mining Products",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Global Mining's Product Catalog is available for download. MINExpo 2012 Please Visit Global Mining P..."
+        },
+        {
+            "v_name": "Buckeye Packaging",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Buckeye Packaging offers high-quality custom packaging solutions in a variety of substrates, deliver..."
+        },
+        {
+            "v_name": "Wesco Turf",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Finance, HR, Corporate files present in data leak          We are an exclusive provider for Toro, Cl..."
+        },
+        {
+            "v_name": "CannonDesign",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Employees: 1,100 - Revenue: $279.8M -  Site: www.cannondesign.com     Exfiltrated: 5.7 TB     Wastin..."
+        },
+        {
+            "v_name": "Schandy",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "We have more than 100GB Data(Employers Data,CVs,Passports,HR,Confidential files...)..."
+        },
+        {
+            "v_name": "Ultralife Corporation",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "Publicly traded stock as ULBI. Client information, design, manufacture, financial, accounting, HR an..."
+        },
+        {
+            "v_name": "Hamilton Parker",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "1865 LEONARD AVENUE     COLUMBUS, OH 43219     614-358-7800..."
+        },
+        {
+            "v_name": "Corporate Interiors Inc",
+            "Discovery Date": "2023-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "Corporate Interiors - Steelcase office furniture - Delaware and Philadelphia Contact Us 1-800-690-91..."
+        },
+        {
+            "v_name": "LW Group",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "LW Group now represents eight (8) luxury automobile brands operating at nine (9) locations within th..."
+        },
+        {
+            "v_name": "Keyano College",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1965 and based in Fort McMurray, Canada, Keyano College is a community college meeting bo..."
+        },
+        {
+            "v_name": "McKenzie Health System",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "McKenzie Health System (MHS) is a not-for-profit medical and surgical hospital in Sandusky, Mich., w..."
+        },
+        {
+            "v_name": "Avamere Family of Companies",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere Family of Companies is a group of ..."
+        },
+        {
+            "v_name": "Yildiz Entegre USA",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.zoominfo.com/c/yldz-entegre/355492210     https://www.dnb.com/business-directory/company..."
+        },
+        {
+            "v_name": "CMHA National",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Canadian Mental Health Association provides mental health services and support. The Association ..."
+        },
+        {
+            "v_name": "Chimbusco",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1972, CHIMBUSCO has since reformed with two major shareholders namely, PetroChina and..."
+        },
+        {
+            "v_name": "LPA Design",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "LPA Design is an electronics R&D consulting company with engineering expertise in printed circuit bo..."
+        },
+        {
+            "v_name": "Public Employees Credit Union",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "We have confidential files belonging to all 29000 members including Name, Address, SSN, Telephone, E..."
+        },
+        {
+            "v_name": "TPI Corporation",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Data Stolen: ~1TB of confidential data were NDA-agreemtents, email-bases, private conversations .msg..."
+        },
+        {
+            "v_name": "CHRISTUS Health",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1999, CHRISTUS Health an international Catholic, faith-based, not-for-profit health syste..."
+        },
+        {
+            "v_name": "BLUME GLOBAL INC",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "BLUME GLOBAL INC     BLUME GLOBAL INDIA PRIVATE LTD     BLUME GLOBAL HONG KONG LIMITED     Data Stol..."
+        },
+        {
+            "v_name": "CPA Mutual Insurance Company",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Cyber Insurance policy leaked in sample.           At CPA Mutual, our mission is to provide a qualit..."
+        },
+        {
+            "v_name": "Livingston",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Livingston is a quality source for rental of all Test Equipment and Equipment Management Services wi..."
+        },
+        {
+            "v_name": "CR2",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "CR2 is an Irish-owned banking software company which provides mobile, internet and ATM financial ser..."
+        },
+        {
+            "v_name": "Bechstein",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Top quality since 1853: the C. Bechstein name is synonymous with exquisite grand and upright pianos ..."
+        },
+        {
+            "v_name": "Montmorency College",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Cyberattack at Collège Montmorency: ~8TB personal data has been compromised by AVOSLOCKER.     Board..."
+        },
+        {
+            "v_name": "Transform Data Into Insight",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "More Than 50GB Important DATA Stolen Will be Publish..."
+        },
+        {
+            "v_name": "Garnica Plywood",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "WILL LEAK ALL DATA SEPTEMBER 1, SAMPLE INCLUDE CONTACT     At Garnica, we offer a wide range of plan..."
+        },
+        {
+            "v_name": "Casa International",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "European furniture retailer operating in multiple countries..."
+        },
+        {
+            "v_name": "WBSCHOOLS",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Employee info leak..."
+        },
+        {
+            "v_name": "Los Alamos Nature Center",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "As a financial cooperative, Los Alamos Schools Credit Union provides financial products and services..."
+        },
+        {
+            "v_name": "Mount Vernon Mills",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "stablished in 1947 and headquartered in Mauldin, South Carolina, Mount Vernon Mills is a textiles ma..."
+        },
+        {
+            "v_name": "Khoemacau Copper Mining",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "ALL Active Directory domain hashes leaked!!! Format:     kcm.local\\tshiamo.molefe:::13506d75610047a0..."
+        },
+        {
+            "v_name": "The Brigantine",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Brigantine Restaurants are a San Diego favorite for fresh seafood, steaks and chops, friendly an..."
+        },
+        {
+            "v_name": "SCAD EDU",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "1 database, filelist, all email/phone leaked in sample! Everything leak in 2 week     Savannah Colle..."
+        },
+        {
+            "v_name": "Truckslogic",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Documents include Legal, Financials, passports, licenses          Truckslogic Optimiza la logística ..."
+        },
+        {
+            "v_name": "TeladanPrima Argo Group",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "750GB+ of stolen data include contracts, confidential , intellectual property data, and more..."
+        },
+        {
+            "v_name": "Sunland Asphalt And Construction",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Human Resources, Projects, Documents, and more. If Sunland Asphalt refuses to pay the ransom, every ..."
+        },
+        {
+            "v_name": "Stratford University",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "samples of:          Confidential agreements      Military personnel (white house service members) r..."
+        },
+        {
+            "v_name": "Xybion",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Xybion's Emidence TM platform satisfies our current and evolving future needs with the unique adopti..."
+        },
+        {
+            "v_name": "Our Lady of Lake University",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Our Lady of the Lake University, founded in 1895 by the Congregation of Divine Providence, is a coed..."
+        },
+        {
+            "v_name": "Paul Smiths College",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "At Paul Smith's College, it's about the experience. We are the only four-year institution offering b..."
+        },
+        {
+            "v_name": "Northwest University",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Confidential, taxation, and financial data..."
+        },
+        {
+            "v_name": "Emtec Inc",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Global IT company with terrible IT security. How can Emtec secure clients when they don't secure the..."
+        },
+        {
+            "v_name": "American International Industry",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "The leading manufacturer and distributor of innovative, quality beauty and skin care products for me..."
+        },
+        {
+            "v_name": "Zeus Scientific Inc",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.zeusscientific.com/about Zeus Scientific, Inc. manufactures clinical diagnostic solution..."
+        },
+        {
+            "v_name": "Hughes Systems Industrial",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "All company projects includes drawings, contracts, and all details     employees social security num..."
+        },
+        {
+            "v_name": "DLS Motors",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. ..."
+        },
+        {
+            "v_name": "Cosmopoint College",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "We downloaded about 80 gigabytes of internal school documents, including teacher and student contact..."
+        },
+        {
+            "v_name": "ALVAC SA",
+            "Discovery Date": "2022-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Website - https://alvac.es     Company name: ALVAC S.A.     Companies System Administrator trying to..."
+        },
+        {
+            "v_name": "Memory Express",
+            "Discovery Date": "2021-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Huali Industrial Group",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Whitefish River First Nation",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unified Technologies",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Amphenol Canada",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pacific City Bank",
+            "Discovery Date": "2021-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Moorfields NHS UK & Dubai",
+            "Discovery Date": "2021-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Potter Concrete",
+            "Discovery Date": "2021-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Master Chemical",
+            "Discovery Date": "2021-08-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Artas Holding / Artas Insaat",
+            "Discovery Date": "2021-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Coghlin Electrical Contractors",
+            "Discovery Date": "2021-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Home in Brussels",
+            "Discovery Date": "2021-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "On logistics Services Algeciras, S.L",
+            "Discovery Date": "2021-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gimmler Gruppe",
+            "Discovery Date": "2021-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SoftwareDesign Consulting Group",
+            "Discovery Date": "2021-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mauck & Baker",
+            "Discovery Date": "2021-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Geneva, Ohio",
+            "Discovery Date": "2021-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Heller Injury Lawyers",
+            "Discovery Date": "2021-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Arabian Cargo Group",
+            "Discovery Date": "2021-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "group_name": [
+        "Gdlockersec"
+    ],
+    "group_description": "Our team members are from different countries and we are not interested in anything else, we are only interested in dollars. We do not allow CIS, Cuba, North Korea and China to be targeted. Re-attacks are not allowed for target companies that have already made payments. We do not allow non-profit hospitals and some non-profit organizations be targeted.",
+    "Victims count": 5,
+    "First discovered victims": "2025-01-24",
+    "Last discovered victim": "2025-01-26",
+    "Avg Delay": "N/A",
+    "Infostealer": "20.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education": 2,
+                    "Public Sector": 1,
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Hong Kong": 1,
+                    "Nigeria": 1,
+                    "Morocco": 1,
+                    "United States": 1,
+                    "Egypt": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.fgse.cu.edu.eg",
+            "Discovery Date": "2025-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "7MB..."
+        },
+        {
+            "v_name": "aws.amazon.com",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "9GB..."
+        },
+        {
+            "v_name": "www.usmba.ac.ma",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "8MB..."
+        },
+        {
+            "v_name": "www.lnrbda.gov.ng",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "5MB..."
+        },
+        {
+            "v_name": "www.shihka.com.hk",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "10MB..."
+        }
+    ]
+}

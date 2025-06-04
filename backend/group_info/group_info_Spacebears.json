@@ -1,0 +1,463 @@
+{
+    "group_name": [
+        "Spacebears"
+    ],
+    "group_description": "None",
+    "Victims count": 71,
+    "First discovered victims": "2024-04-29",
+    "Last discovered victim": "2025-05-28",
+    "Avg Delay": "11 days",
+    "Infostealer": "5.8%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 11,
+                    "Healthcare": 11,
+                    "Business Services": 9,
+                    "Manufacturing": 8,
+                    "Transportation/Logistics": 7
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 19,
+                    "Canada": 4,
+                    "India": 4,
+                    "Hong Kong": 3,
+                    "Germany": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Fujipoly Ltd",
+            "Discovery Date": "2025-05-28",
+            "Estimated Attack Date": "2025-05-27",
+            "v_description": "Fujipoly is the leader in the design, formulation and production of high-performance Thermal Interfa..."
+        },
+        {
+            "v_name": "Fujipoly Hong Kong Ltd",
+            "Discovery Date": "2025-05-28",
+            "Estimated Attack Date": "2025-05-24",
+            "v_description": "Fujipoly is the leader in the design, formulation and production of high-performance Thermal Interfa..."
+        },
+        {
+            "v_name": "Curewell Pharmacy & Surgicals",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "2025-05-21",
+            "v_description": "At Curewell Specialty Pharmacy & Surgicals, we prioritize your health with personalized care and spe..."
+        },
+        {
+            "v_name": "4Motive",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "2025-05-06",
+            "v_description": "4Motive was founded in 2012 by the current owner Paul van Diemen and has grown into a serious player..."
+        },
+        {
+            "v_name": "Nedved Architekti",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-05-03",
+            "v_description": "The main principle of the work of the Nedvěd architects studio is the search for new spatial solutio..."
+        },
+        {
+            "v_name": "First Choice Courier & Messenger",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-05-04",
+            "v_description": "First Choice Courier & Messenger is one of Winnipeg's leading courier companies and is part of the S..."
+        },
+        {
+            "v_name": "VIÑUELAS ABOGADOS",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "2025-04-12",
+            "v_description": "In times when transversality and multifunctionality are seen as assets that seemingly reinforce the ..."
+        },
+        {
+            "v_name": "EVERTECH INSTRUMENTAL CO., LTD",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "Ever Tech Instrumental(ETI) has been a professional technologies agent in FPD industry over two deca..."
+        },
+        {
+            "v_name": "3P Corporation",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-07",
+            "v_description": "At 3P we have a PASSION for PEOPLE to PROSPER.We take a powerful, relationship-based approach from t..."
+        },
+        {
+            "v_name": "L&S Mechanical (Reuploaded)",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-04-03",
+            "v_description": "L&S Mechanical began as a Dallas-based contractor in 1985 and has grown over the years to have six l..."
+        },
+        {
+            "v_name": "Industrial Corona de México",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-29",
+            "v_description": "Industrial Corona de México has been a manufacturer of injection-molded plastic parts and tools for ..."
+        },
+        {
+            "v_name": "L&S Mechanical",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "L&S Mechanical began as a Dallas-based contractor in 1985 and has grown over the years to have six l..."
+        },
+        {
+            "v_name": "Whittaker & Company",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "2025-03-02",
+            "v_description": "Whittaker & Company CPAs helps closely-held businesses and their owners solve immediate problems and..."
+        },
+        {
+            "v_name": "South Georgia Accounting Services",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-23",
+            "v_description": "South Georgia Accounting ServicesProviding Accounting and Tax services that you can count on.Enrolle..."
+        },
+        {
+            "v_name": "SmithDunn&Co",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "2024-12-31",
+            "v_description": "The company specializes in tax services, business tax preparation, e-filing, and individual tax prep..."
+        },
+        {
+            "v_name": "Pineland community service board",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "Pineland BHDD is to develop and provide the services needed to minimize the impact of mental illness..."
+        },
+        {
+            "v_name": "CAMRIDGEPORT",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "\"Cambridgeport Construction services the greater Boston area and all of Eastern Massachusetts. We ar..."
+        },
+        {
+            "v_name": "Metro Wire & Cable",
+            "Discovery Date": "2025-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "Metro Wire & Cable—one of the nation’s top 150 electrical distributors—provides warehousing, supply ..."
+        },
+        {
+            "v_name": "Arrow Motor Auctions",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Arrow Motor Auctions was established in 1994 at premises in Redditch,  Worcestershire and our primar..."
+        },
+        {
+            "v_name": "PINELAND BHDD COMMUNITY SERVICES",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Pineland BHDD is to develop and provide the services needed to minimize the impact of mental illness..."
+        },
+        {
+            "v_name": "Christian Community Aid",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "CCA is a non-denominational service provider to the local communities. Contents: Valuable informatio..."
+        },
+        {
+            "v_name": "SANTA MARIA LABORATORIO",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "CLINICAL ANALYSIS LABORATORY https://www.laboratoriosm.com.br/..."
+        },
+        {
+            "v_name": "Inaya Clinique",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Clinique Inaya is dedicated to providing high-quality, personalized healthcare to each and every one..."
+        },
+        {
+            "v_name": "Bethany Hospital",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Bethany Hospital has put together surgical and clinical expertise of  very high quality. This 190-be..."
+        },
+        {
+            "v_name": "Sharm Reef Hotel",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "Sharm Reef Hotel is located in the Um El Sid area in the center of Sharm El Sheikh, Egypt.Contents:-..."
+        },
+        {
+            "v_name": "Fukoku Co. Ltd.",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "In 2022, Fukoku Co., Ltd. celebrates its 90th anniversary.Since our founder, Shinkichi Koga, began m..."
+        },
+        {
+            "v_name": "EBL PARTNERS (construction|interiors), Florida",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "Real Estate, developing and management. Florida.Financial Doc, Audit, Accounting Reports, BackUp, Pr..."
+        },
+        {
+            "v_name": "General Digital",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "We design, develop, integrate, test and deliver the world’s most reliable displays, technology produ..."
+        },
+        {
+            "v_name": "General Digital CRM",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "Customer Relationship Management (CRM), a customer-centered business management philosophy. Use info..."
+        },
+        {
+            "v_name": "Atos (Business Services · France)",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "2024-12-24",
+            "v_description": "We are Europe’s top choice for cybersecurity, cloud, employee experiences, digital technology & tran..."
+        },
+        {
+            "v_name": "JRT Automatisation",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "2024-12-19",
+            "v_description": "Founded in Quebec City in 1984, Automatisation JRT Inc. first manufactured control panels for what w..."
+        },
+        {
+            "v_name": "Aptus",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "2024-11-05",
+            "v_description": "Aptus Value Housing Finance India Ltd is a Home Loan Company. Aptus has been formed to primarily add..."
+        },
+        {
+            "v_name": "Aptus Value Housing Finance India Ltd",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Aptus Value Housing Finance India Ltd is a Home Loan Company. Aptus has been formed to primarily add..."
+        },
+        {
+            "v_name": "Namforce Life Insurance",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "2024-11-21",
+            "v_description": "Namforce Life Insurance Limited (Namforce) is a life insurance company. The company was granted its ..."
+        },
+        {
+            "v_name": "CNHW Landscape Design, Ltd",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "2024-11-25",
+            "v_description": "CNHW(禾拓) was founded in 2001 and is widely regarded as one of Taiwan’s leading landscape design firm..."
+        },
+        {
+            "v_name": "MENZIES CNAC (Jardine Aviation Services, Agility)",
+            "Discovery Date": "2024-11-09",
+            "Estimated Attack Date": "2024-11-08",
+            "v_description": "Menzies CNAC, formerly known as Jardine Aviation Services, provides best-in-class ground handling se..."
+        },
+        {
+            "v_name": "Intermed Hospital Mongolia",
+            "Discovery Date": "2024-11-08",
+            "Estimated Attack Date": "2024-10-30",
+            "v_description": "Largest medical center in Mongolia: - Databases,- Personal data - Other valuable information-  dcm, ..."
+        },
+        {
+            "v_name": "MENZIES CNAC (Jardine Aviation Services)",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "2024-10-31",
+            "v_description": "Menzies CNAC, formerly known as Jardine Aviation Services, provides best-in-class ground handling se..."
+        },
+        {
+            "v_name": "Precision Steel Services",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "2024-10-21",
+            "v_description": "!!! The total volume of documents is 150GB, with 10GB uploaded. We will send the remaining documents..."
+        },
+        {
+            "v_name": "CNPS Cameroun",
+            "Discovery Date": "2024-09-12",
+            "Estimated Attack Date": "2024-07-29",
+            "v_description": "The National Social Security Fund (acronym CNPS) is a Cameroonian public institution with legal pers..."
+        },
+        {
+            "v_name": "Codival",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "2024-08-20",
+            "v_description": "CODIVAL was created in 1975, on the initiative of local banks that wanted to secure the transportati..."
+        },
+        {
+            "v_name": "Keystone Engineering",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "2024-07-20",
+            "v_description": "Keystone is a family business with over 65 years of proven manufacturing and composite material fabr..."
+        },
+        {
+            "v_name": "Kemlon Products & Development Co Inc",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "2024-08-01",
+            "v_description": "Kemlon is a well-established multidiscipline manufacturing company founded in 1950 and specializing ..."
+        },
+        {
+            "v_name": "EBL PARTNERS (construction interiors), Florida",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "2024-07-30",
+            "v_description": "Real Estate, developing and management. Florida.Financial Doc, Audit, Accounting Reports, BackUp, Pr..."
+        },
+        {
+            "v_name": "EFRON LAW FIRM",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "2024-07-21",
+            "v_description": "LAW FIRM Client Data, Financial Data, Personal Customer ID, Audit, Court Case etc... https://www.efr..."
+        },
+        {
+            "v_name": "Gemicar",
+            "Discovery Date": "2024-07-30",
+            "Estimated Attack Date": "2024-07-29",
+            "v_description": "GemiCar was created to achieve more efficient work processes within all types of mechanical workshop..."
+        },
+        {
+            "v_name": "Stienemann",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-07-24",
+            "v_description": "We at the Stienemann tax consultancy firm in Witten take care of your tax-related issues with a focu..."
+        },
+        {
+            "v_name": "ARISTA",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "2024-07-02",
+            "v_description": "Arista is a company with a wide experience in work spaces, with excellent customer service. Consulti..."
+        },
+        {
+            "v_name": "Un Museau",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "2024-07-04",
+            "v_description": "The Clinique Un Museau vaut mille Mots offers speech therapy and language stimulation services to ch..."
+        },
+        {
+            "v_name": "Lexibar",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "Developed by Haylem, the Lexibar software is used worldwide in French schools and in specialized cli..."
+        },
+        {
+            "v_name": "Haylem",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "2024-07-03",
+            "v_description": "Haylem is engineering and technological innovation at the service of people who have difficulty read..."
+        },
+        {
+            "v_name": "Rotor Team",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "2024-05-06",
+            "v_description": "Rotor Team, approved PART145 workshop, is specialized in helicopter maintenance, but also in overhau..."
+        },
+        {
+            "v_name": "Heli Securite",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "2024-05-13",
+            "v_description": "Héli Sécurité, the leading helicopter airline in FranceHeli Securite was founded in 1992 by Dominiqu..."
+        },
+        {
+            "v_name": "BLADE",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "2024-05-16",
+            "v_description": "BLADE Urban Air MobilityBLADE is a technology-powered, global urban air mobility platform committed ..."
+        },
+        {
+            "v_name": "Gokals Consumer Electronics & Computers Retail · Fiji",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-18",
+            "v_description": "GOKALS is the leading consumer electronics retailer and distributor in the South Pacific - be it sma..."
+        },
+        {
+            "v_name": "SAWA INTERNATIONAL",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-04",
+            "v_description": "SAWA International is an authorized partner of DU providing personalized at your door telecom plans ..."
+        },
+        {
+            "v_name": "Seoyon E-Hwa",
+            "Discovery Date": "2024-06-18",
+            "Estimated Attack Date": "2024-04-29",
+            "v_description": "Seoyon E-Hwa is Korea’s representative automotive interior parts specialized company that has produc..."
+        },
+        {
+            "v_name": "GIANNI CUCUINI",
+            "Discovery Date": "2024-06-18",
+            "Estimated Attack Date": "2024-05-20",
+            "v_description": "Italian multi-brand clothing and accessories store.Revenue: <$5 MillionPersonal Information (models ..."
+        },
+        {
+            "v_name": "Sun City Pediatrics PA (USA, TX)",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "2024-06-12",
+            "v_description": "Sun City Children's Clinic provides a high quality comprehensive approach in treating its patients a..."
+        },
+        {
+            "v_name": "InVogue Women Healthcare, PLLC (USA,TX)",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "2024-05-10",
+            "v_description": "In addition to specializing in obstetrics and gynecology, InVogue Women Healthcare offers primary ca..."
+        },
+        {
+            "v_name": "Lee Trevino Dental (USA,TX)",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "Dental clinic Lee Trevino Dental, opened in 1977 and positions itself as a \"Family Dentistry Clinic\"..."
+        },
+        {
+            "v_name": "Hytera US Inc",
+            "Discovery Date": "2024-05-27",
+            "Estimated Attack Date": "2024-05-25",
+            "v_description": "Hytera US Inc is an industry leader in research and development, state-of-the-art manufacturing, and..."
+        },
+        {
+            "v_name": "Mesopolys",
+            "Discovery Date": "2024-05-18",
+            "Estimated Attack Date": "2024-05-17",
+            "v_description": "Mesopolys - Real Estate Mediation, belongs to the Mesopolys Group.Mesopolys - Mediação Imobiliária h..."
+        },
+        {
+            "v_name": "Thinkadam",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "Thinkadam provides advanced device locking solutions for the smartphone-on-credit industry.Our techn..."
+        },
+        {
+            "v_name": "CORTEX Chiropractic & Clinical Neuroscience",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-28",
+            "v_description": "The care available at our practice is based on chiropractic functional neurology, a discipline that ..."
+        },
+        {
+            "v_name": "todoagro",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-28",
+            "v_description": "Todo Agro is a young company founded in 2016 with the intention of offering the agricultural market ..."
+        },
+        {
+            "v_name": "Mr Bean",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "Founded in 1995, Mr Bean is the leading chain soya bean food & beverage retailer in Singapore today...."
+        },
+        {
+            "v_name": "SM EMBALLAGE",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "Customised packaging for manufacturers Protecting and preserving the product, simplifying transport,..."
+        },
+        {
+            "v_name": "Surewerx USA",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "At SureWerx, our mission is to manufacture the most innovative and rigorously tested products for ou..."
+        },
+        {
+            "v_name": "Fifisystems",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-27",
+            "v_description": "Industry Leader in Big Flow Firefighting Fire Fighting Systems (FFS) is the global leader in the des..."
+        },
+        {
+            "v_name": "Fliesenstudio am Rhein",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-27",
+            "v_description": "N/A"
+        }
+    ]
+}

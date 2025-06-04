@@ -1,0 +1,233 @@
+{
+    "group_name": [
+        "Dan0n"
+    ],
+    "group_description": "None",
+    "Victims count": 33,
+    "First discovered victims": "2024-04-25",
+    "Last discovered victim": "2024-08-23",
+    "Avg Delay": "31.8 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 13,
+                    "Technology": 7,
+                    "Healthcare": 6,
+                    "Financial": 4,
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 25,
+                    "Ireland": 2,
+                    "Korea, Republic of": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.seaeng.com",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "tahly Engineering & Associates, Inc. was established in 1970. The firm is headquartered in Helena, M..."
+        },
+        {
+            "v_name": "mmtransport.com",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "M&M Transport Services, Inc. was founded in 1990 by Mark R. Warsofsky and has steadily grown into a ..."
+        },
+        {
+            "v_name": "www.dunnsolutions.com",
+            "Discovery Date": "2024-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "Dunn Solutions Group is a digital commerce and business transformation consultancy that helps its cl..."
+        },
+        {
+            "v_name": "thesourcinggroup.com",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "",
+            "v_description": "The Sourcing Group (TSG) is a leading business process outsourcing service (BPO) provider recognized..."
+        },
+        {
+            "v_name": "promarkbrands.com",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "Leading manufacturer and distributor of a complete line of pro and semi-pro photo, video and audio e..."
+        },
+        {
+            "v_name": "fifcousa.com",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 2009, FIFCO USA, owns and operates breweries and retail locations in New York, Vermont, O..."
+        },
+        {
+            "v_name": "pedsurology.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "The total size of stolen information is 740 GB. This leak contains corporate information of the comp..."
+        },
+        {
+            "v_name": "theblakefirm.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-03-30",
+            "v_description": "The total size of stolen information is 740 GB. This leak contains corporate information of the comp..."
+        },
+        {
+            "v_name": "ueg1.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-02",
+            "v_description": "The total size of stolen information is 300GB. This leak contains customer data, corporate informati..."
+        },
+        {
+            "v_name": "allenblastingandcoating.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-10",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "semilab.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-11",
+            "v_description": "The total size of stolen information is 1.47TB. This leak contains corporate information of the comp..."
+        },
+        {
+            "v_name": "fightingforfairness.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-03-30",
+            "v_description": "The total size of stolen information is 6 TB. This leak contains corporate information of the compan..."
+        },
+        {
+            "v_name": "oconnellmahon.ie",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-15",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "ekiconsult.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "iiexperts.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "Information Integration Experts, LLC (iiExperts aka IIX) has been developing software since the earl..."
+        },
+        {
+            "v_name": "neosmteam.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "glenwoodnyc.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "Glenwood Management is a property management company, providing luxury apartments throughout New Yor..."
+        },
+        {
+            "v_name": "s-f-concrete.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-05-23",
+            "v_description": "S&F Concrete Contractors, Inc. is committed to being an industry leader in safety and health by sett..."
+        },
+        {
+            "v_name": "college-park.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "College Park Industries is a is a prosthetics manufacturing company. It design and manufacture a ful..."
+        },
+        {
+            "v_name": "Pediatric Urology Associates",
+            "Discovery Date": "2024-05-25",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "S&F Concrete Contractors",
+            "Discovery Date": "2024-05-25",
+            "Estimated Attack Date": "2024-05-23",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Northeast Orthopedics and Sports Medicine",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Northeast Orthopedics and Sports Medicine is a company that operates in the Hospital & Health Care i..."
+        },
+        {
+            "v_name": "Glenwood Management",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Glenwood Management is a property management company, providing luxury apartments throughout New Yor..."
+        },
+        {
+            "v_name": "College Park Industries",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "College Park Industries is a is a prosthetics manufacturing company. It design and manufacture a ful..."
+        },
+        {
+            "v_name": "Information Integration Experts",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Information Integration Experts, LLC (iiExperts aka IIX) has been developing software since the earl..."
+        },
+        {
+            "v_name": "Erler & Kalinowski",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "Pedsurology",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "The total size of stolen information is 950 GB This leak contains customer data, corporate informati..."
+        },
+        {
+            "v_name": "The Blake Law Firm",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-03-30",
+            "v_description": "The total size of stolen information is 740 GB. This leak contains corporate information of the comp..."
+        },
+        {
+            "v_name": "United Equitable Group",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-02",
+            "v_description": "The total size of stolen information is 300GB. This leak contains customer data, corporate informati..."
+        },
+        {
+            "v_name": "Allen Blasting and Coating",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-10",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "Semilab",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-11",
+            "v_description": "The total size of stolen information is 1.47TB. This leak contains corporate information of the comp..."
+        },
+        {
+            "v_name": "O'Connell Mahon Architects",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-15",
+            "v_description": "The total size of stolen information is 1TB. This leak contains corporate information of the company..."
+        },
+        {
+            "v_name": "RSH legal",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-03-30",
+            "v_description": "The total size of stolen information is 6 TB. This leak contains corporate information of the compan..."
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "group_name": [
+        "Quantum"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 68,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2022-12-09",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 8,
+                    "Manufacturing": 7,
+                    "Education": 3,
+                    "Information Technology": 3,
+                    "Wholesale & Retail": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 24,
+                    "Canada": 6,
+                    "Australia": 3,
+                    "Kuwait": 1,
+                    "Qatar": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "ChemiFlex",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Radical Sportscars",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Orotex",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Acquarius Trust Group",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pilenpak",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AHT Wisconsin Windows",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Midland Cogeneration Venture",
+            "Discovery Date": "2022-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MCV Holding Company LLC",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Midland Cogeneration Venture, Michigan",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lightbank",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rosenblatt Securities",
+            "Discovery Date": "2022-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Instituto Agrario Dominicano",
+            "Discovery Date": "2022-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "The Dominican Agrarian Institute is a decentralized government agency under the Ministry of Agricult..."
+        },
+        {
+            "v_name": "Moscone Center",
+            "Discovery Date": "2022-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1981. Moscone Center is headquartered in San Fransisco, California. Moscone Center is a m..."
+        },
+        {
+            "v_name": "Moskowitz, Mandell & Salim, P.A.",
+            "Discovery Date": "2022-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Moskowitz, Mandell & Salim, P.A. was established in 1985 and provides legal services in areas of gov..."
+        },
+        {
+            "v_name": "Shaw & Slavsky",
+            "Discovery Date": "2022-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "Shaw & Slavsky was founded in 1932 as a manufacturer of POP signs for grocery retailers.  Since our ..."
+        },
+        {
+            "v_name": "Freyr Solutions",
+            "Discovery Date": "2022-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Freyr is one of the largest, global, Regulatory-focused solutions and services companies for the Lif..."
+        },
+        {
+            "v_name": "Liftow LTD",
+            "Discovery Date": "2022-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1960, Liftow is a Toyota forklift dealer group in North America. They offer new and pre-o..."
+        },
+        {
+            "v_name": "BEESENSE",
+            "Discovery Date": "2022-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "BeeSense designs, develops and manufactures advanced, unique, multi-sensor technology-based solution..."
+        },
+        {
+            "v_name": "Delon Hampton & Associates, Chartered",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "In January 1973, Delon Hampton and Associates, Chartered was founded with the sole objective of crea..."
+        },
+        {
+            "v_name": "Autohaus",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Broshuis | Driving innovation",
+            "Discovery Date": "2022-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "Broshuis B.V. is a 100% family owned, Dutch company and one of the largest specialty trailer manufac..."
+        },
+        {
+            "v_name": "ZEUS Scientific",
+            "Discovery Date": "2022-07-14",
+            "Estimated Attack Date": "",
+            "v_description": "This company provides medical testing equipment and diagnostic services...."
+        },
+        {
+            "v_name": "American International Industries",
+            "Discovery Date": "2022-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1971, American International Industries is a manufacturer and distributor of beauty and s..."
+        },
+        {
+            "v_name": "Crupi Group",
+            "Discovery Date": "2022-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "The Crupi Group is an assembly of companies surrounding D. Crupi and Sons Ltd. to fulfill paving and..."
+        },
+        {
+            "v_name": "Avante Health Solutions",
+            "Discovery Date": "2022-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "Avante Health Solutions is a single source provider of medical, surgical, diagnostic imaging, and ra..."
+        },
+        {
+            "v_name": "RG Alliance Group",
+            "Discovery Date": "2022-06-16",
+            "Estimated Attack Date": "",
+            "v_description": "R.G. Alliance is an Outsourced Financial Consulting firm based in San Diego, California. It provides..."
+        },
+        {
+            "v_name": "Shred Station",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Shred Station understand that secure destruction of your confidential &/or sensitive documents is a ..."
+        },
+        {
+            "v_name": "YMCA",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "YMCA of South Florida has been dedicated to building healthy, confident and secure children, familie..."
+        },
+        {
+            "v_name": "M. Green and Company LLP",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Certified Public Accountants..."
+        },
+        {
+            "v_name": "Medlab Pathology",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Medlab Pathology is one of Australia's largest, privately owned independent pathology practices..."
+        },
+        {
+            "v_name": "Florida Department of Veterans' Affairs",
+            "Discovery Date": "2022-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Connecting veterans to federal and state benefits they have earned...."
+        },
+        {
+            "v_name": "Active Communications International",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Transsion Holdings",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Eurocept",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tex-Isle Supply",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Tex-Isle Supply, Inc. is a leading distributor of high quality energy tubulars, with value-added man..."
+        },
+        {
+            "v_name": "Hirsch Watch Straps & Accessories",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "HIRSCH develops and manufactures the most advanced, the most detailed and the finest bracelets in th..."
+        },
+        {
+            "v_name": "InnPower",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Valley Rentals",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "real estate investment company..."
+        },
+        {
+            "v_name": "Hufcor",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Movable glass wall company..."
+        },
+        {
+            "v_name": "Grosvenor Engineering Group",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Building services partner in Australia and New Zealand..."
+        },
+        {
+            "v_name": "Drive Products",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Drive Products now offers a complete range of truck mounted equipment, products, services and soluti..."
+        },
+        {
+            "v_name": "Petro Serve",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Largest supplier of home heating, commercial and agricultural fuel, and propane and lubricating oil..."
+        },
+        {
+            "v_name": "Henry",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Henry Company is an innovator of building envelope systems and develops integrated air/vapor barrier..."
+        },
+        {
+            "v_name": "Tehama County Social Services",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "Tehama County in California..."
+        },
+        {
+            "v_name": "Elgin County",
+            "Discovery Date": "2022-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "Elgin County was founded in 1852 and is a county of the Canadian province of Ontario..."
+        },
+        {
+            "v_name": "Confcommercio - Alessandria - Home",
+            "Discovery Date": "2022-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Camden City School District",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "Camden City School District..."
+        },
+        {
+            "v_name": "JetStar",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "JetStar is an Australian low-cost airline that offers multiple flights at very low costs...."
+        },
+        {
+            "v_name": "Hi Tech HoneyComb",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "Hi Tech Honeycomb Inc. is a leading manufacturer and supplier of honeycomb detail for gas turbine en..."
+        },
+        {
+            "v_name": "Service Employees' International Union",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "SEIU represents approximately 100,000 members. SEIU represents members who work for school boards, h..."
+        },
+        {
+            "v_name": "Broadleaf",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Broadleaf is a family owned food distribution company supplying the highest quality meat and special..."
+        },
+        {
+            "v_name": "Wolfe Industrial",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "This diversity of services gives Wolfe the capability to handle a variety of projects related to mat..."
+        },
+        {
+            "v_name": "InfoTek Consulting Services",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in Toronto and conducting business all over the US and Canada and doing business for o..."
+        },
+        {
+            "v_name": "Jazeera Airways",
+            "Discovery Date": "2022-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Jazeera Airways K.S.C is a Kuwaiti airline with its head office on the grounds of Kuwait Internation..."
+        },
+        {
+            "v_name": "Altoona Area School District",
+            "Discovery Date": "2022-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "Altoona Area School District serves K-12th grade students and is located in Altoona, PA...."
+        },
+        {
+            "v_name": "Lewis & Clark College",
+            "Discovery Date": "2022-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "L&C, founded in 1970, is a two-year higher education institution with multiple campuses, a river res..."
+        },
+        {
+            "v_name": "Chattanooga Chamber of Commerce",
+            "Discovery Date": "2021-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Biotique",
+            "Discovery Date": "2021-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sodiba",
+            "Discovery Date": "2021-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PRIDE Community Services",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Zepter",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Digital Workplace Services & Solutions",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Jewelry Exchange is the Nations #1 Diamond Store.",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UABL S.A.",
+            "Discovery Date": "2021-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "</a>",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TILIA GROUP",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PVR Ltd.",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Maple Lodge Farms",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1955, Maple Lodge Farms is a company that produces, processes, and markets chickens and c..."
+        }
+    ]
+}

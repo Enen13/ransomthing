@@ -1,0 +1,219 @@
+{
+    "group_name": [
+        "Blackmatter"
+    ],
+    "group_description": "Ransomware-as-a-Service",
+    "Victims count": 32,
+    "First discovered victims": "2021-09-08",
+    "Last discovered victim": "2021-11-04",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "National Beverage",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Keycentrix",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jobbers Meat Packing Co., Inc.",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Home State Bank",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Armour Transportation Systems",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ZKTeco USA",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "crystalvalley",
+            "Discovery Date": "2021-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bumper to Bumper Autoparts",
+            "Discovery Date": "2021-09-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LA-Martiniquaise",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JMclaughlin",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CasagrandeGroup",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BCP Securities",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pramer Baustoffe GmbH",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ellerboeck",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Citrocasa GmbH",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Actief-Jobmade",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Eisvogel Hubert Bernegger GmbH",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pulmuone Co., Ltd.",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Modern Testing Services",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northwoods & spectrumfurniture",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "EQUITY TRANSPORTATION",
+            "Discovery Date": "2021-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "River City Construction",
+            "Discovery Date": "2021-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hhcp.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Network Telecom / Enreach",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pine Labs Pvt",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kaydon Corporation (SKF Group Brand)",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tastefulselections & WFG",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Middleton Reutlinger",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "g-able.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Diamond Schmitt",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Trust Capital Funding",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Olympus",
+            "Discovery Date": "2021-09-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

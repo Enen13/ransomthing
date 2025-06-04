@@ -1,0 +1,1055 @@
+{
+    "group_name": [
+        "Malas"
+    ],
+    "group_description": "None",
+    "Victims count": 171,
+    "First discovered victims": "2023-04-09",
+    "Last discovered victim": "2023-05-18",
+    "Avg Delay": "39 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Russian Federation": 3,
+                    "Finland": 1,
+                    "Indonesia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Fort Rolins Collection Agency",
+            "Discovery Date": "2023-05-18",
+            "Estimated Attack Date": "2023-04-09",
+            "v_description": "&lt;p&gt;They act like they don&amp;rsquo;t see🙈 our ransom note🗒 , or they just don&amp;rsquo;t neg..."
+        },
+        {
+            "v_name": "Compañía Agricola San Felipe",
+            "Discovery Date": "2023-05-18",
+            "Estimated Attack Date": "2023-04-09",
+            "v_description": "&lt;p&gt;Your work is collecting and repossessing from struggling people? Don&amp;rsquo;t complain w..."
+        },
+        {
+            "v_name": "Banco Azzoaglio",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Ларина",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Utair",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "The Sound Organisation",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Angle Metal Mfg.",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Красный Восток Агро",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Petromiralles",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "nanoCAD",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Baggio",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ЖБИ2-Инвест",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Город Кафе",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Diete-Siepmann",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Fitser",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "MHWEB",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Pergler",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Имеди",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Altia",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Евроэкспо",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Aster Cucine",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "KondorCS",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ФГУП “ЦНИИХМ”",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Custom Manufacturing & Engineering, Inc",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Копчёнов",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ArCloud",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Гласс Фурнитура",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "LunarWeb",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Oasis Ads Media",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Azzurra Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ConnectTo",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Сервиста",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Amersport",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Studio Negri e Associati",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Hoteles Globales",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "HostingPerTe",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Sita Software",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Exset",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Fraport Skyliners",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "D&G impianti elettrici",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "RepcoLite",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Sallemi Carburanti",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "BEI Srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Bicom",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Transitus Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "spw.ru",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Mappy Italia",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "cashbackAPP",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Bleu Blanc",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "KriaaNet Inc",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Hardman’s",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Ямалтелеком",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Baur Hausverwaltung",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Grupo Fatecsa",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "InfinCE",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "SkyFORS",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Balbi Srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Steelgroup",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "СКППК",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "DSSL",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Kouros",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Johnston Technical Services",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "BE.iT SA",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Horseman Sim",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Zite Media",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Трансбалт",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Формекс",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Pasquetti Sarti & Partners",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Herold Druck",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "paulmitchell.ru",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Nu-Pro Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Studio Eco Perucca",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Axon Certified Auditors",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Studio Rossetti e Partners",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Riboli srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "meta-spb",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Studio Consulenza",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "3Punto6",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Gallagher & Co Consultants",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Evropoly",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Псковпассажиравтотранс",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Cosmos Hotel Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ICT-LabS",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Mobalpa Biarritz",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "FEA srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Grassi srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Tycoon Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Fresh-Heads IT",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Vegliolux",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "AVM Software & Technology",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ТрансКом-Авиа",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Specialinsert",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Totality Solutions",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "СК БлагоДать",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Астра",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Универсалресурс",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "TCG",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "PMP Meccanica",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Axon",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "OPIT Solutions",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ISONA GmbH",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Терра-Минора",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Азимут НТ",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "BenarIT",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Asanger Modellbau",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Iris Key Solutions",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Невский Альянс",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "NTD SA",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ATE Elettronica",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Answerpro",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Onubo s.r.l.",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Гис Нефтесервис",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Commerciale Ferramenta",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "KomGarant",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Froese & Partner",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "BMW Алдис",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ВК Логистик",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "SBG Global",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Winner Italia",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "SA.FI",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Rivas Boquete SL",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "TitanPower",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Qball Technologies",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Villa Grazioli",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Accurate Section Benders",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "INFINREAL Immobilien GmbH",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Evology Manufacturing",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Omniglobe Business Solutions",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "happy-snack.ru",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Loeje Trust SA",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Legato",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Boarding Concept",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "NEXT OS",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "International Cargo Equipment",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "NTA srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Altarix",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Confindustria Energia",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "TBIT Services",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "JvG Consulting",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "FinRe Consulting",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "RusExport Ltd",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Next Generation Srl",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Wishmaster",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Business Travel Solutions",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Гудвин-Нева",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Etanova",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Studio Papa",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "reg22",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Hotel Smeraldo",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Chiltern Networks",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "radiosvet",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Wpat",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Spectris Business Systems",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Мебельснаб",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Orcutt Winslow",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Mangum Construction",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "AMET",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Preference Portugal",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Км Профиль",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Livitek",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Chernoff Thompson Architects",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Dalim Software GmbH",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Bicom",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Propac S.r.l.",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "MetaContratas",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "ISG Software Group",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "еКредит",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "IPG Automotive GmbH",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "AViSTO",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "BeeVoip",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        },
+        {
+            "v_name": "Anstel",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "using Zimbra vulnerability..."
+        }
+    ]
+}

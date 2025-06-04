@@ -1,0 +1,379 @@
+{
+    "group_name": [
+        "Nightspire"
+    ],
+    "group_description": "None",
+    "Victims count": 57,
+    "First discovered victims": "2025-03-12",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "6.7 days",
+    "Infostealer": "10.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 7,
+                    "Business Services": 5,
+                    "Consumer Services": 5,
+                    "Financial Services": 4,
+                    "Manufacturing": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 7,
+                    "Taiwan, Province of China": 5,
+                    "Hong Kong": 4,
+                    "Egypt": 3,
+                    "Poland": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Lars Myhre Ostfold AS",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "2025-05-29",
+            "v_description": "Lars Myhre Ostfold AS (Norway)..."
+        },
+        {
+            "v_name": "Datatrykk",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "2025-05-29",
+            "v_description": "Datatrykk (Norway)..."
+        },
+        {
+            "v_name": "Siena Hotel",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-20",
+            "v_description": "Siena Hotel (United States)..."
+        },
+        {
+            "v_name": "Tan Logistics in Turkey",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-23",
+            "v_description": "Tan Logistics in Turkey..."
+        },
+        {
+            "v_name": "Calcadawines",
+            "Discovery Date": "2025-05-24",
+            "Estimated Attack Date": "2025-05-23",
+            "v_description": "Calcadawines (Portugal)..."
+        },
+        {
+            "v_name": "Simalga",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Simalga (Spain)..."
+        },
+        {
+            "v_name": "TeamLease",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "2025-05-21",
+            "v_description": "TeamLease (India)..."
+        },
+        {
+            "v_name": "Ecoinside",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "2025-05-21",
+            "v_description": "Ecoinside (Portugal)..."
+        },
+        {
+            "v_name": "Ertl ELECKTRO FELDBACH",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "2025-05-18",
+            "v_description": "Ertl ELECKTRO FELDBACH (Austria)..."
+        },
+        {
+            "v_name": "Valentin Hotels",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "2025-05-19",
+            "v_description": "Valentin Hotels (Spain)..."
+        },
+        {
+            "v_name": "EPK",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "2025-05-18",
+            "v_description": "EPK (Venezuela)..."
+        },
+        {
+            "v_name": "branchcore",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "2025-05-18",
+            "v_description": "branchcore (Venezuela)..."
+        },
+        {
+            "v_name": "North Kitsap School District",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "2025-05-06",
+            "v_description": "North Kitsap School District (USA)..."
+        },
+        {
+            "v_name": "C.E.E. APTA",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "2025-05-08",
+            "v_description": "C.E.E. APTA (Spain)..."
+        },
+        {
+            "v_name": "Julia Evans accountants",
+            "Discovery Date": "2025-05-07",
+            "Estimated Attack Date": "2025-05-04",
+            "v_description": "Julia Evans accountants (United Kingdom)..."
+        },
+        {
+            "v_name": "Future Association for Microfinance",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "2025-04-30",
+            "v_description": "Future Association for Microfinance (Egypt)..."
+        },
+        {
+            "v_name": "w8textil",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-25",
+            "v_description": "w8textil (Brazil)..."
+        },
+        {
+            "v_name": "csspv",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-27",
+            "v_description": "csspv (Czechia)..."
+        },
+        {
+            "v_name": "Melco Capital Pte. Ltd.",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "Melco Capital Pte. Ltd. (Singapore)..."
+        },
+        {
+            "v_name": "Sisnet, Costa Rica",
+            "Discovery Date": "2025-04-26",
+            "Estimated Attack Date": "2025-04-25",
+            "v_description": "Sisnet, Costa Rica..."
+        },
+        {
+            "v_name": "MFR CULTIVONS LES REUSSITES, France",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "2025-04-21",
+            "v_description": "MFR CULTIVONS LES REUSSITES, France..."
+        },
+        {
+            "v_name": "M-POWER Information, Taiwan",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-04-18",
+            "v_description": "M-POWER Information, Taiwan..."
+        },
+        {
+            "v_name": "promenade-village-dental, Canada",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "promenade-village-dental, Canada..."
+        },
+        {
+            "v_name": "Accueil - Site Offciel de la commune d'Ardon",
+            "Discovery Date": "2025-04-21",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "Accueil - Site Offciel de la commune d'Ardon..."
+        },
+        {
+            "v_name": "ChangShen Hospital, Taiwan",
+            "Discovery Date": "2025-04-19",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "ChangShen Hospital (長慎醫院), Taiwan..."
+        },
+        {
+            "v_name": "Wilmington Personal Injury Lawyer - DPLAW",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "2025-04-14",
+            "v_description": "Wilmington Personal Injury Lawyer - DPLAW(US)..."
+        },
+        {
+            "v_name": "Compliance Consulting Group",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "Compliance Consulting Group (US)..."
+        },
+        {
+            "v_name": "Mid-America POOL RENOVATION, Inc",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "Mid-America POOL RENOVATION, Inc (US)..."
+        },
+        {
+            "v_name": "REFFINDO-PT Pupk Indonesia",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "REFFINDO-PT Pupk Indonesia (Indonesia)..."
+        },
+        {
+            "v_name": "Tanaka Electronics Taiwan Co., LTD",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "Tanaka Electronics Taiwan Co., LTD..."
+        },
+        {
+            "v_name": "SUMITOMOTOOL",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-03-23",
+            "v_description": "SUMITOMOTOOL(TURKEY)..."
+        },
+        {
+            "v_name": "INI Investments",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-03-30",
+            "v_description": "INI Investments(Egypt)..."
+        },
+        {
+            "v_name": "STORT",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-01",
+            "v_description": "STORT(Sweden)..."
+        },
+        {
+            "v_name": "Powiatowy Urząd Pracy w Żorach",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-03-30",
+            "v_description": "Powiatowy Urząd Pracy w Żorach(Poland)..."
+        },
+        {
+            "v_name": "OMCI S.p.a",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-03-30",
+            "v_description": "OMCI S.p.a(Italy)..."
+        },
+        {
+            "v_name": "Sistel Connections",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "Sistel Connections(Italy)..."
+        },
+        {
+            "v_name": "InterLOGIC Inc",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-01",
+            "v_description": "InterLOGIC Inc(US)..."
+        },
+        {
+            "v_name": "Secretaria de Educacion de Veracruz, SEV",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-01",
+            "v_description": "Secretaria de Educacion de Veracruz, SEV(Mexico)..."
+        },
+        {
+            "v_name": "Nicera",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-06",
+            "v_description": "Nicera(Japan)..."
+        },
+        {
+            "v_name": "Emotrans Chile",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "Emotrans Chile(Chile)..."
+        },
+        {
+            "v_name": "Zaphira Uniformes",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "Zaphira Uniformes (Argentina)..."
+        },
+        {
+            "v_name": "Audit Accounting Advisory Taxes",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "2025-04-03",
+            "v_description": "Audit Accounting Advisory Taxes (Luxemburg)..."
+        },
+        {
+            "v_name": "6ixty8ight",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "6ixty8ight(HongKong)..."
+        },
+        {
+            "v_name": "Sanyo Special Steel India Pvt. Ltd.",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-16",
+            "v_description": "Sanyo Special Steel India Pvt. Ltd.(India)..."
+        },
+        {
+            "v_name": "KHAZMODAN STUDIOS",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "KHAZMODAN STUDIOS(Korea)..."
+        },
+        {
+            "v_name": "MISR AL MAHABA HOSPITAL",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "MISR AL MAHABA HOSPITAL(Egypt)..."
+        },
+        {
+            "v_name": "Far East Consortium",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "2025-03-07",
+            "v_description": "Far East Consortium (Hong Kong)..."
+        },
+        {
+            "v_name": "Bridgewater Retirement Community",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "2025-03-16",
+            "v_description": "Bridgewater Retirement Community(United States)..."
+        },
+        {
+            "v_name": "Tanaka Electronics Taiwan Co.,LTD",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "2025-03-10",
+            "v_description": "Tanaka Electronics Taiwan Co.,LTD (Taiwan)..."
+        },
+        {
+            "v_name": "Waihong Environmental Services Limited",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Waihong Environmental Services Limited (Hong Kong)..."
+        },
+        {
+            "v_name": "Wilson Re Limited",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "2025-03-12",
+            "v_description": "Wilson Re (Taiwan) Limited (Taiwan)..."
+        },
+        {
+            "v_name": "Raja Ferry Port Public Company Limited",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Raja Ferry Port Public Company Limited (Thailand)..."
+        },
+        {
+            "v_name": "Far East Consortium International Limited",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "2025-03-08",
+            "v_description": "Far East Consortium International Limited (Hong Kong)..."
+        },
+        {
+            "v_name": "Business Ledger Limited",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Business Ledger Limited(United Kingdom)..."
+        },
+        {
+            "v_name": "Tohpe Corporation",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "2025-03-01",
+            "v_description": "Tohpe Corporation (Japan)..."
+        },
+        {
+            "v_name": "Baily International of Atlanta",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "Baily International of Atlanta(United States)..."
+        },
+        {
+            "v_name": "Hydro-Vacuum S.A.",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Hydro-Vacuum S.A.(Poland)..."
+        }
+    ]
+}

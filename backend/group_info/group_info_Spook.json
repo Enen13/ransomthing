@@ -1,0 +1,235 @@
+{
+    "group_name": [
+        "Spook"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 35,
+    "First discovered victims": "2021-10-04",
+    "Last discovered victim": "2021-10-19",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "North Island",
+            "Discovery Date": "2021-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "All County Surveying Inc",
+            "Discovery Date": "2021-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Page Automation",
+            "Discovery Date": "2021-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toos Asphalt Company",
+            "Discovery Date": "2021-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grupo Vía",
+            "Discovery Date": "2021-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NOF CORPORATION",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Apex Filling Systems",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Princess Yachts International",
+            "Discovery Date": "2021-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Neofidelys",
+            "Discovery Date": "2021-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Paris Society",
+            "Discovery Date": "2021-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VKP",
+            "Discovery Date": "2021-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ferretti International",
+            "Discovery Date": "2021-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CABINET FONT GUILLOT",
+            "Discovery Date": "2021-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sbc Studio",
+            "Discovery Date": "2021-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Audras &#038; Delaunois",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TV FUEGO",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kurier",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kern Glass and Aluminum Company",
+            "Discovery Date": "2021-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "La SECAN",
+            "Discovery Date": "2021-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gestão Contabilidade Empresarial",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MOLNÁRBETON Kft.",
+            "Discovery Date": "2021-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "COURTOISE MOTORS",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cock Foods Co., Ltd.",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Legendary, Inc.",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sashida warehouse CO., Ltd",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GLOBAL PROTEIN",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Van Dijk De Jongh Notarissen",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TOA ELECTRIC INDUSTRIAL CO., LTD.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "I&#8217;M CORPORATION(SUZHOU)CO.,LTD",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ORLANDO IMPORT-EXPORT 2001 SRL",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VIASHOPPING",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pierce Property Management, Inc.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ASISMED S.A.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Transports Verlhac et Fils",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Verhoff Machine &#038; Welding",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

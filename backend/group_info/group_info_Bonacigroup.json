@@ -1,0 +1,43 @@
+{
+    "group_name": [
+        "Bonacigroup"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 3,
+    "First discovered victims": "2021-10-04",
+    "Last discovered victim": "2021-12-06",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Marshall Investigative Group Part 1/3 1000 Client",
+            "Discovery Date": "2021-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ward Arcuri Foley & Dwyer | Law Firm",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Charles Crown Financial Ltd",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

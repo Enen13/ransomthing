@@ -1,0 +1,697 @@
+{
+    "group_name": [
+        "Monti"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 110,
+    "First discovered victims": "2022-12-07",
+    "Last discovered victim": "2025-05-08",
+    "Avg Delay": "112.5 days",
+    "Infostealer": "4.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 11,
+                    "Healthcare": 10,
+                    "Technology": 6,
+                    "Manufacturing": 6,
+                    "Transportation/Logistics": 4
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 21,
+                    "Canada": 12,
+                    "France": 4,
+                    "Germany": 4,
+                    "Italy": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Amtech Software",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "2025-05-07",
+            "v_description": "Enterprise Resource Planning (ERP) Software..."
+        },
+        {
+            "v_name": "American Eagle Logistics",
+            "Discovery Date": "2025-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "www.aeagleoilfield.com..."
+        },
+        {
+            "v_name": "CD",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Full Leak..."
+        },
+        {
+            "v_name": "Gloria Cales",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "agi.net",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "Architecture, Engineering & Design / Virginia, United States / 800 Employees..."
+        },
+        {
+            "v_name": "365labs - Security Corp",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "Phoenix",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "2024-08-22",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "FM.GOB.AR",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "sole technology",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "full leak..."
+        },
+        {
+            "v_name": "nenok.de",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "FENSTERMAKER",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "SCV Med Group",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "lnetwork",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "full leak..."
+        },
+        {
+            "v_name": "Acoustiblok",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "Household Goods..."
+        },
+        {
+            "v_name": "BBLAWFIRM",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "Lawyers..."
+        },
+        {
+            "v_name": "metalurgica roma",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "full leak..."
+        },
+        {
+            "v_name": "Omni Fiber LLC",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "Full database..."
+        },
+        {
+            "v_name": "ibericar",
+            "Discovery Date": "2024-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "Auto Suckers..."
+        },
+        {
+            "v_name": "Oxford Auto Insurance",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "Insurance..."
+        },
+        {
+            "v_name": "Anderson Miller LTD",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Hospitality..."
+        },
+        {
+            "v_name": "Premier Tax Services",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Accounting Services..."
+        },
+        {
+            "v_name": "KVF",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Industrial Machinery & Equipment..."
+        },
+        {
+            "v_name": "Southern Oregon Veterinary Specialty Center",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Healthcare Services..."
+        },
+        {
+            "v_name": "Superline",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "2023-10-19",
+            "v_description": "Our utmost priorities are to bring the latest trends to our customers while providing each and every..."
+        },
+        {
+            "v_name": "City Of Forest Park",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "2024-10-04",
+            "v_description": "Georgia, United States..."
+        },
+        {
+            "v_name": "Burgess Kilpatrick",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "Accounting Services..."
+        },
+        {
+            "v_name": "Welding and Fabrication (Humble Mfg)",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "Building Materials..."
+        },
+        {
+            "v_name": "Raeyco Lab Equipment",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "Office Products Retail & Distribution..."
+        },
+        {
+            "v_name": "La Tazza D'oro",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "Hospitality · Italy..."
+        },
+        {
+            "v_name": "City Of Forest Park - Full Leak",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Georgia, United States..."
+        },
+        {
+            "v_name": "bluemaven.ca problems",
+            "Discovery Date": "2024-09-03",
+            "Estimated Attack Date": "2024-08-26",
+            "v_description": "additional information..."
+        },
+        {
+            "v_name": "Phyton Biotech",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Business Services..."
+        },
+        {
+            "v_name": "Burgess Kilpartick",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Burgess Kilpatrick is an accounting and professional services firm located in Vancouver, BC...."
+        },
+        {
+            "v_name": "Richmond Auto Mall",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Automobile Dealers..."
+        },
+        {
+            "v_name": "Seng Tsoi Architect",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Architecture, Engineering & Design..."
+        },
+        {
+            "v_name": "Raeyco Lab Equipment Systems Management",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Office Products Retail & Distribution..."
+        },
+        {
+            "v_name": "Welding and Fabrication (humblemfg)",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Building Materials..."
+        },
+        {
+            "v_name": "City Projects",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Commercial & Residential Construction..."
+        },
+        {
+            "v_name": "Prism Construction",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Commercial & Residential Construction..."
+        },
+        {
+            "v_name": "Cotala Cross-Media",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Business Services..."
+        },
+        {
+            "v_name": "Abatti Companies",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2023-08-04",
+            "v_description": "Abatti Companies is a vertically integrated group of companies that handles all facets of farm produ..."
+        },
+        {
+            "v_name": "Imt",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2023-11-27",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Law Offices of John E Hill",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2023-11-28",
+            "v_description": "We are dedicated to providing you with the personal service and attention you expect. Our goal is to..."
+        },
+        {
+            "v_name": "Tryax Realty Management",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2023-12-07",
+            "v_description": "Tryax Realty Management serves the West Bronx communities of Morris Heights, Mt. Eden, Melrose, High..."
+        },
+        {
+            "v_name": "HMW",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2023-12-09",
+            "v_description": "#Robert_stop_fap_on_kids\nHMW Special Utility District is a Texas water district and special utility ..."
+        },
+        {
+            "v_name": "Smith Capital",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2024-02-01",
+            "v_description": "Smith Affiliated Capital (SAC) was formed in 1982 to provide both discretionary and advisory investm..."
+        },
+        {
+            "v_name": "Blue Maven Group",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Blue Maven provides extensive IT Procurement services...."
+        },
+        {
+            "v_name": "Adorna & Guzman Dentistry",
+            "Discovery Date": "2024-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Dental..."
+        },
+        {
+            "v_name": "forestparkga.gov",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "City & PD..."
+        },
+        {
+            "v_name": "Regas (regasenergy.com)",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Electricity, Oil & Gas..."
+        },
+        {
+            "v_name": "Excelsior Orthopaedics",
+            "Discovery Date": "2024-07-09",
+            "Estimated Attack Date": "2024-07-08",
+            "v_description": "Hospitals & Physicians Clinics..."
+        },
+        {
+            "v_name": "Wayne Memorial Hospital",
+            "Discovery Date": "2024-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "Wayne Memorial Hospital is a non-profit, community-controlled hospital based in Honesdale, Pennsylva..."
+        },
+        {
+            "v_name": "Compagnia Trasporti Integrati S.R.L",
+            "Discovery Date": "2024-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "Italian Logistics. ctilog.it..."
+        },
+        {
+            "v_name": "VTWin.ca",
+            "Discovery Date": "2024-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "shitty..."
+        },
+        {
+            "v_name": "CNPC Sport",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Colleges & Universities..."
+        },
+        {
+            "v_name": "Esc Pau Etudes-Conseils",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Colleges & Universities..."
+        },
+        {
+            "v_name": "Aéroport de Pau",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Full leak..."
+        },
+        {
+            "v_name": "project sold",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "project sold..."
+        },
+        {
+            "v_name": "Kuhn Rechtsanwlte GmbH",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Law Firms & Legal Services..."
+        },
+        {
+            "v_name": "Spine West",
+            "Discovery Date": "2024-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "Hospitals & Physicians Clinics · Colorado, United States..."
+        },
+        {
+            "v_name": "APEX - apexspedition.de",
+            "Discovery Date": "2024-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Spedition Hamburg Apex - europaweit und international, Spedition Apex aus Hamburg transportiert euro..."
+        },
+        {
+            "v_name": "Smith Capital - Press Release",
+            "Discovery Date": "2024-01-23",
+            "Estimated Attack Date": "2024-01-21",
+            "v_description": "Smith Affiliated Capital (SAC) was formed in 1982 to provide both discretionary and advisory investm..."
+        },
+        {
+            "v_name": "Diablo Valley Oncology and Hematology Medical Group - Press Release",
+            "Discovery Date": "2024-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Diablo Valley Oncology provides comprehensive cancer care to patients by bringing together medical o..."
+        },
+        {
+            "v_name": "HMW - Press Release",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-12-09",
+            "v_description": "#Robert_stop_fap_on_kid HMW Special Utility District is a Texas water district and special utility d..."
+        },
+        {
+            "v_name": "Tryax Realty Management - Press Release",
+            "Discovery Date": "2023-12-06",
+            "Estimated Attack Date": "2023-12-07",
+            "v_description": "Tryax Realty Management serves the West Bronx communities of Morris Heights, Mt. Eden, Melrose, High..."
+        },
+        {
+            "v_name": "Rudolf-Venture Chemical Inc - Part 1",
+            "Discovery Date": "2023-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "RUDOLF GROUP implements the manufacturing of chemical auxiliaries..."
+        },
+        {
+            "v_name": "Hello Cristina from Law Offices of John E Hill",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "SSN..."
+        },
+        {
+            "v_name": "Hello Jacobs from RVC",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Passport..."
+        },
+        {
+            "v_name": "Rudolf GmbH & Rudolf Venture Chemicals Inc - Press Release",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "RUDOLF GROUP implements the manufacturing of chemical auxiliaries..."
+        },
+        {
+            "v_name": "Imt - Press Release",
+            "Discovery Date": "2023-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "Time is critical and prompt reporting of results is our objective. Most negative reports are release..."
+        },
+        {
+            "v_name": "Law Offices of John E Hill - Press Release",
+            "Discovery Date": "2023-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "We are dedicated to providing you with the personal service and attention you expect. Our goal is to..."
+        },
+        {
+            "v_name": "Rudolf Venture Chemical Inc - Press Release",
+            "Discovery Date": "2023-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "We are RUDOLF, a global innovation leader for the textile, construction, coatings and car care indus..."
+        },
+        {
+            "v_name": "Magsaysay Maritime - Press Release",
+            "Discovery Date": "2023-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "Magsaysay People Resources is one of the world's leading human resource companies. Through its subsi..."
+        },
+        {
+            "v_name": "University of Defence - Full Leak",
+            "Discovery Date": "2023-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "The city of Brno was chosen as the location for the new engineering-oriented military college due to..."
+        },
+        {
+            "v_name": "Superline - Full Leak",
+            "Discovery Date": "2023-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "Our utmost priorities are to bring the latest trends to our customers while providing each and every..."
+        },
+        {
+            "v_name": "Superline - Press Release",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Our utmost priorities are to bring the latest trends to our customers while providing each and every..."
+        },
+        {
+            "v_name": "University Obrany - Part 2 (Tiny Leak)",
+            "Discovery Date": "2023-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "story about scam negotiator and stupid top level of unob..."
+        },
+        {
+            "v_name": "For UNOB",
+            "Discovery Date": "2023-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "story about scams..."
+        },
+        {
+            "v_name": "University of Defence - Part 1",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "The city of Brno was chosen as the location for the new engineering-oriented military college due to..."
+        },
+        {
+            "v_name": "Cascade Family Dental - Press Release",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Cascade Family Dental offers dental services for families in the Payson and Springville, Utah area...."
+        },
+        {
+            "v_name": "Rainbow Travel Service - Press Release",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Rainbow Travel is a full service agency specializing in upscale leisure, special interest travel, an..."
+        },
+        {
+            "v_name": "Auckland University of Technology",
+            "Discovery Date": "2023-09-21",
+            "Estimated Attack Date": "2023-09-22",
+            "v_description": "Founded in 1895, Auckland University of Technology is an educational facility that offers certificat..."
+        },
+        {
+            "v_name": "University Obrany - Press Release",
+            "Discovery Date": "2023-09-19",
+            "Estimated Attack Date": "2023-09-20",
+            "v_description": "The city of Brno was chosen as the location for the new engineering-oriented military college due to..."
+        },
+        {
+            "v_name": "Ja Quith Press Release",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Jaquith Industries three main specialties - Airport Lighting - BMF Metal Forms - Custom Contract Fab..."
+        },
+        {
+            "v_name": "East Baking Press Release",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "East Baking Company Inc. has the ability to manufacture any private label bakery program from bagels..."
+        },
+        {
+            "v_name": "Abatti Companies - Press Release",
+            "Discovery Date": "2023-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "Abatti Companies is a vertically integrated group of companies that handles all facets of farm produ..."
+        },
+        {
+            "v_name": "Bickel & Brewer - Press Release",
+            "Discovery Date": "2023-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1984, Bickel & Brewer has earned a reputation as one of the most successful law firms in ..."
+        },
+        {
+            "v_name": "Hungarian Investment Promotion Agency",
+            "Discovery Date": "2023-07-30",
+            "Estimated Attack Date": "",
+            "v_description": "Hungarian Investment Promotion Agency is a company that operates in the Financial Services industry...."
+        },
+        {
+            "v_name": "Siden & Associates Press Release",
+            "Discovery Date": "2023-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Siden & Associates, P.C. provides legal services to clients throughout the greater Boston and New En..."
+        },
+        {
+            "v_name": "Hungarian Investment Promotion Agency Press Release",
+            "Discovery Date": "2023-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Hungarian Investment Promotion Agency is a company that operates in the Financial Services industry...."
+        },
+        {
+            "v_name": "Servizi Omnia All data upload",
+            "Discovery Date": "2023-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "I nostri consulenti svolgono tutte le attività di gestione della contabilità e predisposizione delle..."
+        },
+        {
+            "v_name": "Servizi Omnia",
+            "Discovery Date": "2023-05-26",
+            "Estimated Attack Date": "2023-05-27",
+            "v_description": "I nostri consulenti svolgono tutte le attività di gestione della contabilità e predisposizione delle..."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *All data upload*",
+            "Discovery Date": "2023-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-13*",
+            "Discovery Date": "2023-05-12",
+            "Estimated Attack Date": "2023-05-13",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "CSD Network Services Ltd",
+            "Discovery Date": "2023-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "Today, we are publishing a Data Breach report of an outsourcing company, and we want to announce tha..."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-11*",
+            "Discovery Date": "2023-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-10*",
+            "Discovery Date": "2023-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *first 10gb upload*",
+            "Discovery Date": "2023-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "{UPD} Control & Automation technology - LUX Automation",
+            "Discovery Date": "2023-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "lux-automation.com For drive, regulation or control technology: LUX Automation is your expert when i..."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila *UPDATE*",
+            "Discovery Date": "2023-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "ASL 1 - Avezzano Sulmona L'Aquila",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "asl1abruzzo.it Portale istituzionale dell'Azienda Sanitaria Locale 1 Avezzano Sulmona L'Aquila...."
+        },
+        {
+            "v_name": "Control & Automation technology - LUX Automation",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "lux-automation.com For drive, regulation or control technology: LUX Automation is your expert when i..."
+        },
+        {
+            "v_name": "Weickert Industries",
+            "Discovery Date": "2023-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "www.weickert.com..."
+        },
+        {
+            "v_name": "American Institute for Healthcare Quality",
+            "Discovery Date": "2023-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.zoominfo.com/c/american-institute-for-healthcare-quality/359823076..."
+        },
+        {
+            "v_name": "Donut Leaks",
+            "Discovery Date": "2023-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "this gay rippers : Monti  #ransomware team posted about how Dount Leaks stole 100K from them and did..."
+        },
+        {
+            "v_name": "UnitedLex",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "www.unitedlex.com..."
+        },
+        {
+            "v_name": "Cambridge College",
+            "Discovery Date": "2023-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "boston.cambridgecollege.edu..."
+        },
+        {
+            "v_name": "Regional Transportation Authority",
+            "Discovery Date": "2023-03-08",
+            "Estimated Attack Date": "2023-03-07",
+            "v_description": "A government agency created by the State of Illinois to coordinate the Chicago region’s transit syst..."
+        },
+        {
+            "v_name": "Every one of you been a good customer this year",
+            "Discovery Date": "2022-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "test",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

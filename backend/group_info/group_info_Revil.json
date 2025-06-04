@@ -1,0 +1,625 @@
+{
+    "group_name": [
+        "Revil"
+    ],
+    "group_description": "Sodinokibi ransomware group also known as REvil (Ransomware Evil) operates as a ransomware-as-a-service (RaaS) model. After the group compromised his victims, they would threaten to publish the victim's sensitive data on their darknet blog named 'Happy Blog', unless the ransom is paid. The ransomware malware code used by REvil is pretty similar to the ransomware code used by DarkSide - a different threat actor. REvil group claims to steal information after a successful attack on the supplier of the tech giant Apple and stole confidential schematics of their upcoming products.",
+    "Victims count": 98,
+    "First discovered victims": "2019-08-26",
+    "Last discovered victim": "2022-11-28",
+    "Avg Delay": "N/A",
+    "Infostealer": "100.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Information Technology": 13,
+                    "Healthcare and Public Health": 8,
+                    "Food and Agriculture": 6,
+                    "Financial": 5,
+                    "Communication": 5
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 29,
+                    "Australia": 4,
+                    "United Kingdom": 3,
+                    "France": 3,
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "kusd.edu",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sunknowledge Services Inc",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "medibank.com.au",
+            "Discovery Date": "2022-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Midea Group",
+            "Discovery Date": "2022-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Doosan Group",
+            "Discovery Date": "2022-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OptiProERP is a leading global provider of industry-specific ERP solutions for manufacture",
+            "Discovery Date": "2022-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ludwig Freytag Group",
+            "Discovery Date": "2022-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unicity International",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stratford University",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Asfaltproductienijmegen",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CYMZ",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.oil-india.com",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Visotec Group www.visotec.com",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PTT Exploration and Production - 720GB",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ECKERD PERU S.A, INKAFARMA, MIFARMA",
+            "Discovery Date": "2021-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Join us on RAMP",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ronmor Holdings",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fimmick CRM Hong Kong (www.fimmick.com)",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fimmick CRM Honk Kong (www.fimmick.com)",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Spiezle Architectural Group Inc.",
+            "Discovery Date": "2021-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ohiograting.com",
+            "Discovery Date": "2021-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Apex America",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Allen, Dyer, Doppelt, & Gilchrist, P.A.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Betenbough Homes",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CEC Vibration Products",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ENPOL LLC",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Iaffaldano, Shaw & Young LLP",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "angstrom automotive group",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Agile Property Holdings",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Möbelstadt Sommerlad",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gosiger",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "neroindustry.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kuk.de / KREBS + KIEFER / 500GB",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KASEYA ATTACK INFO",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Daylesford - BHoldings - Bamford - The Wild Rabbit",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hx5, LLC",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inocean.no / 2000 GB",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Primo Water",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lstaff.com / atworksprofessional / atworks.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "South Carolina Legal Services breach",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ensingerplastics.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kaseya clients",
+            "Discovery Date": "2021-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "University Medical Center",
+            "Discovery Date": "2021-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fujifilm",
+            "Discovery Date": "2021-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JBS (meat processor)",
+            "Discovery Date": "2021-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sol Oriens",
+            "Discovery Date": "2021-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brazil's Tribunal de Justiça do Estado do Rio Grande do Sul",
+            "Discovery Date": "2021-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Apple MacBook via supplier Quanta Computer",
+            "Discovery Date": "2021-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Asteelflash",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pierre Fabre",
+            "Discovery Date": "2021-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pierre Fabre",
+            "Discovery Date": "2021-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Acer",
+            "Discovery Date": "2021-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Acer",
+            "Discovery Date": "2021-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gyrodata Incorporated",
+            "Discovery Date": "2021-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Standley Systems (vendor to Healthcare Sector)",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dairy Farm Group",
+            "Discovery Date": "2021-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Transform Hospital Group LTD",
+            "Discovery Date": "2020-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Managed[.]com (Web Hosting Provider for Columbus County, NC, Griffin Hospital in CT, Arizona Judicial Branch, and Jackson County, OR, among others)",
+            "Discovery Date": "2020-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Beacon Health Solutions",
+            "Discovery Date": "2020-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Banco Estado (Public Bank)",
+            "Discovery Date": "2020-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Haberdashers’ Monmouth Schools",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ma Labs",
+            "Discovery Date": "2020-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brown-Forman Corp (alcohol manufacturer)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Valley Health Systems",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "National Western Life (insurance)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Telecom Argentina",
+            "Discovery Date": "2020-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cooke County Sheriff's Office",
+            "Discovery Date": "2020-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Actuaries and Associates (retirement specialist)",
+            "Discovery Date": "2020-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ADIF (Spanish railway manager)",
+            "Discovery Date": "2020-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AAA Ambulance Service",
+            "Discovery Date": "2020-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lion (Beverage giant)",
+            "Discovery Date": "2020-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Symbiotic LLC",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Goodman Mintz LLP",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ZEGG Hotels & Store",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Crozer-Keystone Health System (Delaware County, PA)",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Telkom",
+            "Discovery Date": "2020-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sri Lanka Telecom",
+            "Discovery Date": "2020-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Insport (sports store)",
+            "Discovery Date": "2020-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Elexon",
+            "Discovery Date": "2020-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Harvest Food Distributors (San Diego)",
+            "Discovery Date": "2020-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sherwood Food Distributors (Detroit)",
+            "Discovery Date": "2020-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "National Association of Eating Disorders",
+            "Discovery Date": "2020-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SeaChange International (supplier of video delivery software)",
+            "Discovery Date": "2020-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Town of Jupiter",
+            "Discovery Date": "2020-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "10x Genomics",
+            "Discovery Date": "2020-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brooks International (business management consultant)",
+            "Discovery Date": "2020-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Geidi (IT serves)",
+            "Discovery Date": "2020-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mountain View Los Altos Union High School District",
+            "Discovery Date": "2020-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gedia Automotive Group",
+            "Discovery Date": "2020-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tillamook County",
+            "Discovery Date": "2020-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Artech Information Systems",
+            "Discovery Date": "2020-01-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Travelex",
+            "Discovery Date": "2019-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LogicalNet (MSP) Schenectady, NY",
+            "Discovery Date": "2019-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Synoptek",
+            "Discovery Date": "2019-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CyrusOne",
+            "Discovery Date": "2019-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Englewood Complete Technology Services",
+            "Discovery Date": "2019-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Alphabroder",
+            "Discovery Date": "2019-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Percsoft and the Digital Dental Record",
+            "Discovery Date": "2019-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

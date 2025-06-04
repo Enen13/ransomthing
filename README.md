@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Ransomthing 설치 및 실행 가이드
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. 프론트엔드(React) 환경 설정
 
-## Available Scripts
+### 1) 필수 프로그램
+- Node.js (최소 16.x 이상 권장)
+- npm (Node.js 설치 시 자동 포함)
 
-In the project directory, you can run:
+### 2) 설치 방법
+```bash
+cd frontend
+npm install
+```
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 2. 백엔드(Python) 환경 설정
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 1) 필수 프로그램
+- Python 3.8 이상 권장
+- pip (Python 설치 시 자동 포함)
+- MongoDB 서버 (로컬 또는 원격)
 
-### `npm test`
+### 2) 가상환경(선택)
+```bash
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3) 필수 라이브러리 설치
+```bash
+pip install flask pymongo bson selenium beautifulsoup4 pandas numpy matplotlib seaborn python-dotenv plotly geopandas pycountry
+```
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 3. 기타
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **셀레니움 사용 시 크롬 드라이버 필요**
+  - [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
+  - 드라이버 경로를 환경변수에 추가하거나, 코드에서 직접 경로 지정 필요
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **MongoDB**
+  - 로컬 또는 원격 MongoDB 서버가 필요합니다.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 4. 실행 방법
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 프론트엔드
+```bash
+cd frontend
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 백엔드
+```bash
+cd backend
+python app.py
+```
+반드시 두개의 터미널 창에서 각자 실행시켜야 합니다.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 5. 참고
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- 추가적으로 에러가 발생할 경우, 에러 메시지에 따라 필요한 패키지를 추가로 설치해 주세요.
+- `requirements.txt` 파일이 없는 경우 위 명령어로 직접 설치해야 합니다.

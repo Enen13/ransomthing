@@ -1,0 +1,302 @@
+html, body {
+  background: #18191a;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  overflow-x: hidden; /* 좌우 스크롤 방지 */
+}
+
+.App {
+  font-family: 'Noto Sans KR', sans-serif;
+  background: linear-gradient(135deg, #232526 0%, #414345 100%);
+  min-height: 100vh;
+}
+
+.header {
+  background: #b30000;
+  color: #fff;
+  font-size: 2.2rem;
+  font-weight: 500;
+  padding: 1.2rem;
+  text-align: center;
+  letter-spacing: 2px;
+  box-shadow: 0 4px 12px rgba(179,0,0,0.2);
+  position: relative;
+}
+
+.sub-header {
+  position: relative;
+  padding: 1rem;
+  font-size: 1.1rem;
+  text-align: center;
+  min-height: 75px;
+  color: #fff;
+  background: #ff4d4f;
+  animation: blink-bg 1.5s infinite;
+  z-index: 1;
+}
+
+.sub-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+.blinking-text {
+  animation: blink 5s infinite;
+  display: inline-block;
+}
+
+@keyframes blink-bg {
+  0%, 100% {
+    background: #ff4d4f;
+  }
+  50% {
+    background: #c32e30;
+  }
+}
+
+.alert-keyword {
+  color: #fff200;
+  text-shadow: 0 0 8px #b30000;
+  text-decoration: underline wavy #b30000;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.alert-list {
+  margin: 0.5rem 0 0 0;
+  padding: 0;
+  list-style: none;
+  color: #fff200;
+  font-size: 1rem;
+}
+
+.sub-header ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.content-wrapper {
+  display: flex;
+  width: 100%;
+  min-height: calc(100vh - 120px);
+  overflow: auto;      /* 내부에만 스크롤 생성 */
+}
+
+.main-content {
+  flex: 2.7;
+}
+
+.main-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+}
+
+.main-left-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 4rem;
+  width: 100%;
+  max-width: 1200px;
+  margin-bottom: 2rem;
+}
+
+.grid-item {
+  background: #f5f5f5;
+  border: 2px solid #ff4d4f;
+  min-height: 300px;
+  border-radius: 12px;
+  box-shadow: 0 0 24px 0 #b3000055;
+  position: relative;
+  transition: box-shadow 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-item-3 {
+  background: #fff;
+  border: 2px solid #ff4d4f;
+  min-height: 300px;
+  border-radius: 12px;
+  box-shadow: 0 0 24px 0 #b3000055;
+  position: relative;
+  transition: box-shadow 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-row {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem; /* 버튼 사이 간격 */
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.map-btn, .link-btn {
+  background: linear-gradient(90deg, #b30000 0%, #ff4d4f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 1rem;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 2px 8px #b3000033;
+  transition: background 0.2s;
+  flex: 1 1 0;
+  min-width: 180px;
+  max-width: 250px;
+}
+
+.map-btn:hover, .link-btn:hover {
+  background: linear-gradient(90deg, #ff4d4f 0%, #b30000 100%);
+}
+
+.sidebar {
+  flex: 1;
+  border: 3px solid #e4d9d9;
+  background: #676b6d;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 0 1.5rem 1rem;
+  box-sizing: border-box;
+  height: calc(100vh + 150px);
+  min-width: 350px; /* 필요시 추가 */
+  overflow: hidden;  /* 내부 스크롤만 허용 */
+}
+
+.search-box {
+  background: #b30000;
+  color: #fff;
+  font-size: 1.3rem;
+  padding: 0.7rem 1rem;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  margin-right: 15px;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  margin-right: 0.5rem;
+  outline: none;
+}
+
+.search-icon {
+  background: none;
+  border: none;
+  color: #fff200;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.chat-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  justify-content: flex-start;
+  overflow-y: auto;   /* 세로 스크롤 */
+  height: 100%;
+  min-height: 0;      /* flexbox에서 overflow 동작 보장 */
+  padding-right: 12px;
+}
+
+.chat-area::-webkit-scrollbar {
+  width: 8px;           /* 스크롤바 너비 */
+  background: transparent; /* 트랙(배경)은 투명 */
+}
+
+.chat-area::-webkit-scrollbar-thumb {
+  background: #888;     /* 회색 막대 */
+  border-radius: 6px;   /* 둥글게 */
+  margin-right: -6px;
+}
+
+.chat-area::-webkit-scrollbar-thumb:hover {
+  background: #fff;     /* 호버 시 더 진한 회색 */
+}
+
+.chat-bubble {
+  min-height: 60px;
+  border-radius: 20px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.chat-bubble.user {
+  background: #bfc9d1;
+  align-self: flex-end;
+  width: 80%;
+}
+
+.chat-bubble.bot {
+  background: #b30000;
+  color: #fff;
+  align-self: flex-start;
+  width: 83%;
+}
+
+.chat-bubble-messenger {
+  max-width: 83%;
+  padding: 0.8rem 1.2rem;
+  border-radius: 18px;
+  font-size: 1rem;
+  line-height: 1.5;
+  word-break: break-all;
+  box-shadow: 0 2px 8px #b3000033;
+  margin-bottom: 0.2rem;
+}
+
+.chat-bubble-messenger.user {
+  background: #bfc9d1;
+  color: #222;
+  align-self: flex-end;
+  border-bottom-right-radius: 4px;
+  margin-right: 4px;
+}
+
+.chat-bubble-messenger.bot {
+  background: #b30000;
+  color: #fff;
+  align-self: flex-start;
+  border-bottom-left-radius: 4px;
+}
+
+.chat-area.column-reverse {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1.5rem;
+  justify-content: flex-start;
+  overflow-y: auto;
+  height: 100%;
+}
+

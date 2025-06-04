@@ -1,0 +1,80 @@
+{
+    "group_name": [
+        "Babuk"
+    ],
+    "group_description": "Babuk Ransomware is a sophisticated ransomware compiled for several platforms. Windows and ARM for Linux are the most used compiled versions, but ESX and a 32bit old PE executable were observed over time. as well It uses an Elliptic Curve Algorithm (Montgomery Algorithm) to build the encryption keys.",
+    "Victims count": 8,
+    "First discovered victims": "2020-10-25",
+    "Last discovered victim": "2023-07-31",
+    "Avg Delay": "757.8 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare and Public Health": 1,
+                    "Commercial Facilities": 1,
+                    "Government Facilities": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "France": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "4murs.com",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "2021-06-15",
+            "v_description": "The Babuk v2.0 new..."
+        },
+        {
+            "v_name": "Arabian Computer Supplies co.",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "2021-06-21",
+            "v_description": "The Babuk 2.0 new..."
+        },
+        {
+            "v_name": "spsr-law.com",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "2021-07-07",
+            "v_description": "The Babuk v2.0 new..."
+        },
+        {
+            "v_name": "E.A. Gibson Shipbrokers",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "2021-07-06",
+            "v_description": "The Babuk 2.0new..."
+        },
+        {
+            "v_name": "BridgeMill Athletic Club",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "2021-07-27",
+            "v_description": "https://www.bridgemillathleticclub.com..."
+        },
+        {
+            "v_name": "Houston Rockets NBA Team",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Washington DC Metropolitan Police Department",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Serco",
+            "Discovery Date": "2020-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

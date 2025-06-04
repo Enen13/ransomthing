@@ -1,0 +1,47 @@
+{
+    "group_name": [
+        "Grief"
+    ],
+    "group_description": "Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: \".how2decrypt.txt\".",
+    "Victims count": 3,
+    "First discovered victims": "2021-05-26",
+    "Last discovered victim": "2021-06-30",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education Facilities": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Booneville School District",
+            "Discovery Date": "2021-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lancaster Independent School District",
+            "Discovery Date": "2021-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Clover Park School District",
+            "Discovery Date": "2021-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

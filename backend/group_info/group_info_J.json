@@ -1,0 +1,121 @@
+{
+    "group_name": [
+        "J"
+    ],
+    "group_description": "None",
+    "Victims count": 14,
+    "First discovered victims": "2025-05-02",
+    "Last discovered victim": "2025-05-12",
+    "Avg Delay": "46.9 days",
+    "Infostealer": "14.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 3,
+                    "Education": 2,
+                    "Public Sector": 1,
+                    "Technology": 1,
+                    "Energy": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "Argentina": 2,
+                    "Brazil": 2,
+                    "China": 1,
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "psec.com.ar",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-03-16",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "bouygues-es.fr",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-04-25",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ferretornillos.com",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-04-25",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ratnasagar.com",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-04-26",
+            "v_description": "[AI generated] Ratna Sagar is an educational publishing company based in India with over three decad..."
+        },
+        {
+            "v_name": "brdigital.net.br",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "2025-05-05",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "uva.edu.br",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ausfec1.com.au",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-02-22",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "rosekennedygreenway.org",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-02-23",
+            "v_description": "[AI generated] The Rose Kennedy Greenway is a contemporary public park in Boston, Massachusetts. Nam..."
+        },
+        {
+            "v_name": "jean-petit.lu",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-02",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "atp.chaco.gob.ar",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "l-a.com.vn",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "automobile-mueller.info",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "laticrete.com.cn",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "[AI generated] Laticrete is a leading international manufacturer specializing in the construction in..."
+        },
+        {
+            "v_name": "mygoalseek.com",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "[AI generated] N/A..."
+        }
+    ]
+}

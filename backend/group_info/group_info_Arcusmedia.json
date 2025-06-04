@@ -1,0 +1,547 @@
+{
+    "group_name": [
+        "Arcusmedia"
+    ],
+    "group_description": "None",
+    "Victims count": 85,
+    "First discovered victims": "2024-05-15",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "4.7 days",
+    "Infostealer": "14.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 16,
+                    "Technology": 14,
+                    "Agriculture and Food Production": 6,
+                    "Transportation/Logistics": 5,
+                    "Manufacturing": 4
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 18,
+                    "United States": 10,
+                    "Spain": 4,
+                    "Italy": 3,
+                    "Colombia": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "STANDBYTE",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "standbyte.com.br\nA Standbyte Computer it is an electronics store located in the center of L…..."
+        },
+        {
+            "v_name": "Acorn Sales",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "www.acornsales.com\nAcorn Sales has been providing marking and identification supplies since…..."
+        },
+        {
+            "v_name": "Antea Luce",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "www.antealuce.com\nOur adventure began over 40 years ago and over the years has led to a gre…..."
+        },
+        {
+            "v_name": "Colegio de la Compania de Maria Vigo",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "Days00006666Hours22222222Minutes55559999Seconds11115555\n\n\nciamariavigo.org\nMake the Mission of the C..."
+        },
+        {
+            "v_name": "Fong Shann Printing Philippines",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "Days00006666Hours22222222Minutes55559999Seconds11115555\n\n\nfongshann.com.ph\ne aim to be the best prin..."
+        },
+        {
+            "v_name": "Road Development Corporation",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "Days00006666Hours22222222Minutes55559999Seconds11115555\n\n\nwww.rdc.com.mv\nRoad Development Corporatio..."
+        },
+        {
+            "v_name": "RECI SYSTEMS",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "Days00006666Hours22222222Minutes55559999Seconds11115555\n\n\nwww.recisystems.com\nRECISYSTEMS as a compa..."
+        },
+        {
+            "v_name": "Grupo Boulevard",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "Days00006666Hours22222222Minutes55559999Seconds11115555\n\n\ngrupoboulevard.com\nGrupo Boulevard es un g..."
+        },
+        {
+            "v_name": "Coopertruni",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "Days00006666Hours22222222Minutes44448888Seconds22224545\n\n\nwww.coopertruni.com.br\nCooperativa dos Tra..."
+        },
+        {
+            "v_name": "THX Transport",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "Days00006666Hours22222222Minutes44448888Seconds22224545\n\n\nwww.thxtransport.com\nTHX Transport LLC is ..."
+        },
+        {
+            "v_name": "Kiribati Government",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "Days00006666Hours22222222Minutes44448888Seconds22224545\n\n\nKao.gov.ki\nthey have limited time to Conta..."
+        },
+        {
+            "v_name": "HYPONAMIRU",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Days00006666Hours22223333Minutes33332222Seconds33336767\n\n\nwww.hyponamiru.cz\nHyponamiru company is be..."
+        },
+        {
+            "v_name": "HYPERNOVA TELECOM",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Days00006666Hours22223333Minutes33332222Seconds33336767\n\n\nwww.hypernovatelecom.com.br\nYou know that ..."
+        },
+        {
+            "v_name": "REYCOTEL",
+            "Discovery Date": "2025-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "Days00006666Hours22222222Minutes44449999Seconds22226767\n\n\nreycotel.com\nReycotel is an e-commerce web..."
+        },
+        {
+            "v_name": "LINKGROUP",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Hard landscaping including new patios, retaining walls, rockeries, decking,…..."
+        },
+        {
+            "v_name": "Openreso",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Openreso is a company that operates in the Consumer Services industry, has 1Mt…..."
+        },
+        {
+            "v_name": "Itapeseg",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Itapeseg is a company that operates in the Manufacturing industry, has 1Mto…..."
+        },
+        {
+            "v_name": "logic insectes",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Our benefits include treatment for ratat, disinsecting and disinfection. …..."
+        },
+        {
+            "v_name": "RJ IT Solutions",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "RJ IT Solutions is a company that operates in the Repair Services industry\nEST SELL : 5 Day…..."
+        },
+        {
+            "v_name": "Grafitec",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Welcome to Grafitec Ltd the UK’s largest stockist of top quality binding and…..."
+        },
+        {
+            "v_name": "synaptic.co.tz",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Synaptic Solutions combines mature processes, robust delivery models and wor…..."
+        },
+        {
+            "v_name": "ICO",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "2024-12-02",
+            "v_description": "Since 1986, ICO ESTACIONAMENTOS has been offering its customers ???safety???, qu…..."
+        },
+        {
+            "v_name": "Falcon Gaming",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours11112222Minutes11111111Seconds33336767\n\n\nwww.falcongaming.com.auFalcon Gaming’s hea..."
+        },
+        {
+            "v_name": "Eascon",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours11112222Minutes11111111Seconds33336767\n\n\nwww.eascon.com.br\nEascon Contabilidade is ..."
+        },
+        {
+            "v_name": "Utilissimo Transportes",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours11112222Minutes11111111Seconds33336767\n\n\nwww.utilissimo.com.br\nUtilissimo Transport..."
+        },
+        {
+            "v_name": "GATTELLI SpA",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours11112222Minutes11111111Seconds33336767\n\n\nwww.gattelli.it\nGatelli Prefabbricati S.p...."
+        },
+        {
+            "v_name": "Technico",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours11112222Minutes11111111Seconds33336767\n\n\nwww.technico.com.br\nFounded by German Wolf..."
+        },
+        {
+            "v_name": "Enge Ilha Construção",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nwww.engeilha.com.brEnge Ilha Construção E ..."
+        },
+        {
+            "v_name": "Hi-Raise Constructions Holding",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nwww.hi-raise.comThanks to innovative techn..."
+        },
+        {
+            "v_name": "Megaexit",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nwww.megaexit.comMegaexit SL was created in..."
+        },
+        {
+            "v_name": "Wosac",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00002222Minutes55553333Seconds00001212\n\n\nwww.Wosac.co.tzWosac Limited offers a wide..."
+        },
+        {
+            "v_name": "Innois",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00005555Hours00001111Minutes22221111Seconds00001212\n\n\nwww.innois.ininnois is a fast growing IT c..."
+        },
+        {
+            "v_name": "Meerapfel Family",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nmeerapfel.comM. Meerapfel and currently sh..."
+        },
+        {
+            "v_name": "IEC + EMCO",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nwww.iec.com.pkwww.emco.com.pkIn 1951, a ve..."
+        },
+        {
+            "v_name": "Engenet Informatica",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours00001111Minutes22221111Seconds00001212\n\n\nwww.engenet-recife.com.br–Engenet Informat..."
+        },
+        {
+            "v_name": "MGEMAL",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "Days00007777Hours22221111Minutes11118888Seconds44448888\n\n\nwww.mgemal.com.brand efficiency, to guaran..."
+        },
+        {
+            "v_name": "Symantric IT",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "Days00006666Hours22222222Minutes55555555Seconds44448888\n\n\nSymantric IT & Network Co., Ltd. was estab..."
+        },
+        {
+            "v_name": "PK Mulyo",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Days00006666Hours22223333Minutes22223333Seconds11115555\n\n\nwww.mulyo.comThe Mulyo story began in Sala..."
+        },
+        {
+            "v_name": "Barneek Safety Consultancies",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Days00006666Hours11118888Minutes22223333Seconds11115555\n\n\nwww.barneekleptis.aeBarneek Safety Consult..."
+        },
+        {
+            "v_name": "Trust Seeds",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Days00007777Hours22223333Minutes22222222Seconds11115555\n\n\nwww.trustseeds.comTRUST SEEDS, was establi..."
+        },
+        {
+            "v_name": "HM Environmental Services",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Days00006666Hours11119999Minutes22227777Seconds11115555\n\n\nwww.hmenvironmental.comHM Environmental Se..."
+        },
+        {
+            "v_name": "IT Networks",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "Days00008888Hours11115555Minutes22227777Seconds11115555\n\n\nhttps://itnetworks.mx/We exist to provide ..."
+        },
+        {
+            "v_name": "Surfnet Communications",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "www.surfnetc.com Surfnet Communications is a high-speed......"
+        },
+        {
+            "v_name": "Interbel",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "www.interbel.esInterbel: Pioneers in Email & Cybersecurity......"
+        },
+        {
+            "v_name": "Petropolis Pet Resort",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "www.petropolis.comPetropolis Pet Resort has offered everything......"
+        },
+        {
+            "v_name": "Superior Quality Insurance Agency",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Superior Quality Insurance is a company......"
+        },
+        {
+            "v_name": "Vasesa",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "www.vasesa.com.mxVasesa Vasesa is a company that......"
+        },
+        {
+            "v_name": "Country Club El Bosque",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "www.elbosque.org.peCountry Club El Bosque is a......"
+        },
+        {
+            "v_name": "Frigocenter",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Frigocenter.com.br Frigocenter is a company that operates......"
+        },
+        {
+            "v_name": "Partners Air",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Partners Air is a company that......"
+        },
+        {
+            "v_name": "Solutii Sistemas",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Solutii.com.br Solutii Sistemas is a borderless Information......"
+        },
+        {
+            "v_name": "Nova Sinseg",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Novasinseg.com.brNova Sinseg is a company that......"
+        },
+        {
+            "v_name": "Emtel",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.emtel.com Emtel is a leading telecommunications......"
+        },
+        {
+            "v_name": "Gino Giglio Generation Spa",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "2024-09-14",
+            "v_description": "gigliospa.comGino Giglio Generation Spa – Il......"
+        },
+        {
+            "v_name": "Rextech",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "2024-09-14",
+            "v_description": "Rextech can handle all the company’s......"
+        },
+        {
+            "v_name": "Like Family’s",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "2024-09-14",
+            "v_description": "www.likefamilypr.comLike Family is a Puerto Rican......"
+        },
+        {
+            "v_name": "UNI-PA A.Ş",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "2024-09-14",
+            "v_description": "www.unipa.com.tr UNI-PA A.Ş., one of the......"
+        },
+        {
+            "v_name": "Doodle Tech",
+            "Discovery Date": "2024-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "https://doodletech.aeWith our unique blend of expertise,......"
+        },
+        {
+            "v_name": "GED Lawyers",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "Gedlawyers.com Proudly Serving Clients For Personal......"
+        },
+        {
+            "v_name": "Clima Lodi",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.climalodi.com Innovative heating and air conditioning......"
+        },
+        {
+            "v_name": "DatAnalítica",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "www.datanalitica.comWe are the Dominican consulting firm......"
+        },
+        {
+            "v_name": "Freightliner of Grand Rapids & Kalamazoo",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.ftlgr.com Freightliner of Grand Rapids &......"
+        },
+        {
+            "v_name": "GED Lawyers – Sells Open",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "Gedlawyers.com Proudly Serving Clients For Personal......"
+        },
+        {
+            "v_name": "Total Revisjon DA",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "Totalrevisjon.no tal Revisjon DA ble stiftet......"
+        },
+        {
+            "v_name": "Exhaustpro shops",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "This female owner and her partners......"
+        },
+        {
+            "v_name": "BankSelfStorage",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "We offer personal and business storage......"
+        },
+        {
+            "v_name": "GED Lawyers & ..",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "Gedlawyers.com Proudly Serving Clients For Personal......"
+        },
+        {
+            "v_name": "WinFashion ERP",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "WinFashion is an international company supplying......"
+        },
+        {
+            "v_name": "Langescheid GbR",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "your traditional logistic partner from Germany......."
+        },
+        {
+            "v_name": "Franja IT Integradores de Tecnología",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "Franja IT is a company that......"
+        },
+        {
+            "v_name": "Duque Saldarriaga",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "We are a marketing company, established......"
+        },
+        {
+            "v_name": "BHMAC",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "Bhmac is a company that operates......"
+        },
+        {
+            "v_name": "Botselo",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "Botselo.co.za Botselo Mills is a company......"
+        },
+        {
+            "v_name": "Immediate Transport – UK",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "Immediatetransport.comImmediate Transportation Co. is a privately......"
+        },
+        {
+            "v_name": "Colégio Nova Dimensão",
+            "Discovery Date": "2024-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "colegiond.com.br The world has changed and......"
+        },
+        {
+            "v_name": "RIO TECHNOLOGY",
+            "Discovery Date": "2024-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Riotechnology.com.co Riotechnology, experts in software, hardware......"
+        },
+        {
+            "v_name": "Egyptian Sudanese",
+            "Discovery Date": "2024-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Egyptiansudanese.com The Egyptian Sudanese company was......"
+        },
+        {
+            "v_name": "BRAZIL GOV",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "Santoantoniodapatrulha.rs.gov.br : City Hall of Santo......"
+        },
+        {
+            "v_name": "Braz Assessoria Contábil",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Brazcontabil.com.br Braz Assessoria Contábil is a company......"
+        },
+        {
+            "v_name": "Thibabem Atacadista",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Thibabem.com.br Thibabem Atacadista e Distribuidor operates......"
+        },
+        {
+            "v_name": "FILSCAP",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Filscap.com.ph : Filipino Society of Composers,......"
+        },
+        {
+            "v_name": "Cusat",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Cusat.com.ar Cusat develop and operate Geo-Location......"
+        },
+        {
+            "v_name": "Frigrífico Boa Carne",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Frigboacarne.com.br The BOA CARNE Refrigerator was......"
+        },
+        {
+            "v_name": "GOLD RH S.A.S",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Goldrh.com.coGold RH is a company with......"
+        },
+        {
+            "v_name": "Grupo SASMET",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-11",
+            "v_description": "Grupo SASMET is a company that......"
+        }
+    ]
+}

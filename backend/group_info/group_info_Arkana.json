@@ -1,0 +1,56 @@
+{
+    "group_name": [
+        "Arkana"
+    ],
+    "group_description": "None",
+    "Victims count": 4,
+    "First discovered victims": "2025-03-25",
+    "Last discovered victim": "2025-05-29",
+    "Avg Delay": "1 days",
+    "Infostealer": "100.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Telecommunication": 1,
+                    "Energy": 1,
+                    "Financial Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "United Kingdom": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Infinox",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-28",
+            "v_description": "[AI generated] Infinox is a UK-based financial services company that offers clients the ability to t..."
+        },
+        {
+            "v_name": "Anglo American plc",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Anglo American plc is a multinational mining corporation based in Johannesburg, South..."
+        },
+        {
+            "v_name": "Oregon Surveillance Network - OSN!",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Oregon Surveillance Network - OSN!\" is a company that specializes in providing cutti..."
+        },
+        {
+            "v_name": "Wide Open West - WOW!",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "[AI generated] Wide Open West (WOW!) is the sixth largest cable operator in the United States. It pr..."
+        }
+    ]
+}

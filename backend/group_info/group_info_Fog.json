@@ -1,0 +1,1171 @@
+{
+    "group_name": [
+        "Fog"
+    ],
+    "group_description": "Fog, which uses the .flocked extension for encrypted files, was first observed in May in campaigns by Storm-0844, a threat actor known for distributing Akira. By June, Storm-0844 was deploying Fog more than Akira.",
+    "Victims count": 189,
+    "First discovered victims": "2024-07-16",
+    "Last discovered victim": "2025-03-20",
+    "Avg Delay": "57.4 days",
+    "Infostealer": "29.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 37,
+                    "Education": 26,
+                    "Business Services": 26,
+                    "Manufacturing": 22,
+                    "Government": 9
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 74,
+                    "Germany": 15,
+                    "France": 7,
+                    "Australia": 6,
+                    "Brazil": 6
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Newtown Friends School (newtownfriends.org)",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Newtown Friends School is a private, co-educational day school located in Newtown, Pe..."
+        },
+        {
+            "v_name": "RAE (Real Academia Española) (rae.es)",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "<1 GB..."
+        },
+        {
+            "v_name": "University Diagnostic Medical Imaging, PC (udmi.net)",
+            "Discovery Date": "2025-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "28.1 GB..."
+        },
+        {
+            "v_name": "El Camino Real Academy (elcaminorealacademy)",
+            "Discovery Date": "2025-03-13",
+            "Estimated Attack Date": "2025-03-12",
+            "v_description": "111 GB..."
+        },
+        {
+            "v_name": "Wilkinson Rogers (wilkinsonrogers.com)",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "2025-03-10",
+            "v_description": "57 GB..."
+        },
+        {
+            "v_name": "Magnolia Manor (magnoliamanor.com)",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "54.6 GB..."
+        },
+        {
+            "v_name": "WJCC Public Schools (wjccschools.org)",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "27.7 GB..."
+        },
+        {
+            "v_name": "Oberlin Cable Co-op (oberlin.net)",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "33 GB..."
+        },
+        {
+            "v_name": "1X Internet",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Bizcode",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Manning Publications Co.",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Engikam",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "FHNW",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Aeonsparx",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "CIE",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-02-01",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Flightsim studio",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Neopoly",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Kr3m",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "InfoReach",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Euranova",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Inelmatic",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Kotliva",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Inet",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2021-12-20",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Blue Planet",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Eumetsat",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "Melexis",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "USGS",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2023-07-12",
+            "v_description": "Extract from The 19 biggest gitlabs..."
+        },
+        {
+            "v_name": "The 19 biggest gitlabs",
+            "Discovery Date": "2025-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SCOLARO FETTER GRIZANTI & McGOUGH, P.C. (scolaro.com)",
+            "Discovery Date": "2025-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "92.5 GB..."
+        },
+        {
+            "v_name": "Pampili (pampili.com.br)",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "36.3 GB..."
+        },
+        {
+            "v_name": "Grupo Baston Aerossol (baston.com.br)",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "88.3 GB..."
+        },
+        {
+            "v_name": "Central McGowan (centralmcgowan.com)",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "23.5 GB..."
+        },
+        {
+            "v_name": "Klesk Metal Stamping Co (kleskmetalstamping.com)",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "2.2 GB..."
+        },
+        {
+            "v_name": "Gitlabs: Synelixis Solutions, INGV, VMO Holdings",
+            "Discovery Date": "2025-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] It seems there is a bit of confusion in the request as GitLab, Synelixis Solutions, I..."
+        },
+        {
+            "v_name": "Bayteq",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Naphix, WDNA, Bayteq - Bayteq is a technology partner specializing in software..."
+        },
+        {
+            "v_name": "WDNA",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Naphix, WDNA, Bayteq - WDNA (Wireless Domestic Network Auditors) is a Spanish ..."
+        },
+        {
+            "v_name": "Naphix",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Naphix, WDNA, Bayteq - gitlab..."
+        },
+        {
+            "v_name": "Gitlabs: Naphix, WDNA, Bayteq",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hochschule",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2023-09-28",
+            "v_description": "Extract from Gitlabs: Next TI, VISEO, Hochschule Trier - Hochschule Trier is a German university of ..."
+        },
+        {
+            "v_name": "VISEO",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Next TI, VISEO, Hochschule Trier - VISEO is a global technology company offeri..."
+        },
+        {
+            "v_name": "Next TI",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Next TI, VISEO, Hochschule Trier: Next TI is an Indonesian IT solutions compan..."
+        },
+        {
+            "v_name": "Haggin Oaks Golf (hagginoaks.com)",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "29,2 GB..."
+        },
+        {
+            "v_name": "Gitlabs: Next TI, VISEO, Hochschule Trier",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greencastle-Antrim Senior High School (gcasd.org)",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "7.6 GB..."
+        },
+        {
+            "v_name": "Pamrya.de",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Acqua development, QBurst, Pamyra.de- Pamyra.de is a platform that allows user..."
+        },
+        {
+            "v_name": "QBurst",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Acqua development, QBurst, Pamyra.de- QBurst is a full-service software develo..."
+        },
+        {
+            "v_name": "Acqua development",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Acqua development, QBurst, Pamyra.de..."
+        },
+        {
+            "v_name": "Gitlabs: Acqua development, QBurst, Pamyra.de",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Gitlabs: Acqua development, QBurst, Pamyra.de refers to a combination of several tech..."
+        },
+        {
+            "v_name": "ADULLACT",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Omydoo, Ayomi, ADULLACT- ADULLACT is a French association that develops and pr..."
+        },
+        {
+            "v_name": "Ayomi",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Omydoo, Ayomi, ADULLACT- Ayomi is a French platform that assists entrepreneurs..."
+        },
+        {
+            "v_name": "Omydoo",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Omydoo, Ayomi, ADULLACT - Omydoo is a French company specializing in implement..."
+        },
+        {
+            "v_name": "Gitlabs: Omydoo, Ayomi, ADULLACT",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mozo Grau (mozo-grau.com)",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "72.2..."
+        },
+        {
+            "v_name": "Squeezer-software",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: INGV, Spacemanic, Squeezer-software..."
+        },
+        {
+            "v_name": "Spacemanic",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: INGV, Spacemanic, Squeezer-softwareSpacemanic is a Czech start-up that provide..."
+        },
+        {
+            "v_name": "INGV",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: INGV, Spacemanic, Squeezer-software - The Istituto Nazionale di Geofisica e Vu..."
+        },
+        {
+            "v_name": "Gitlabs: INGV, Spacemanic, Squeezer-software",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Gitlabs: INGV, Spacemanic, Squeezer-software is a conglomerate of three diverse speci..."
+        },
+        {
+            "v_name": "Hess (hess-gmbh.de)",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "6.5 GB..."
+        },
+        {
+            "v_name": "Saint George's College (saintgeorge.cl)",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "5 GB..."
+        },
+        {
+            "v_name": "Aurora Public Schools (aurorak12.org)",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "171 GB..."
+        },
+        {
+            "v_name": "The University of Notre Dame Australia (nd.edu.au)",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "62 GB..."
+        },
+        {
+            "v_name": "iRidge Inc.",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc...."
+        },
+        {
+            "v_name": "Maxvy Technologies Pvt",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc...."
+        },
+        {
+            "v_name": "Universitatea Politehnica din Bucuresti",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc...."
+        },
+        {
+            "v_name": "Gitlabs: Universitatea Politehnica din Bucuresti, Maxvy Technologies Pvt, iRidge Inc.",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "3SS",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS..."
+        },
+        {
+            "v_name": "Fligno",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS..."
+        },
+        {
+            "v_name": "Chalmers tekniska högskola",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: Chalmers tekniska högskola, Fligno, 3SS..."
+        },
+        {
+            "v_name": "Gitlabs: Chalmers tekniska högskola, Fligno, 3SS",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DIEM",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: eConceptions, Top Systems, DIEM..."
+        },
+        {
+            "v_name": "Top Systems",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: eConceptions, Top Systems, DIEM..."
+        },
+        {
+            "v_name": "eConceptions",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: eConceptions, Top Systems, DIEM..."
+        },
+        {
+            "v_name": "Gitlabs: eConceptions, Top Systems, DIEM",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kombinat",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "Extract from Gitlabs: Prasaga, HE2B, Kombinat..."
+        },
+        {
+            "v_name": "HE2B",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "Extract from Gitlabs: Prasaga, HE2B, Kombinat..."
+        },
+        {
+            "v_name": "Prasaga",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "Extract from Gitlabs: Prasaga, HE2B, Kombinat..."
+        },
+        {
+            "v_name": "Propulsion Academy AG",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Extract from Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG..."
+        },
+        {
+            "v_name": "X-Pans",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Extract from Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG..."
+        },
+        {
+            "v_name": "Professional Computer Co., Ltd.",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Extract from Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG..."
+        },
+        {
+            "v_name": "LUA Coffee",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-01",
+            "v_description": "Extract from Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA ..."
+        },
+        {
+            "v_name": "GFZ Helmholtz Centre for Geosciences",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-01",
+            "v_description": "Extract from Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA ..."
+        },
+        {
+            "v_name": "PT. ITPRENEUR INDONESIA TECHNOLOGY",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-01",
+            "v_description": "Extract from Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA ..."
+        },
+        {
+            "v_name": "Devlion",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: hemio.de, SOLEIL, Devlion..."
+        },
+        {
+            "v_name": "SOLEIL",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: hemio.de, SOLEIL, Devlion..."
+        },
+        {
+            "v_name": "hemio.de",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Extract from Gitlabs: hemio.de, SOLEIL, Devlion..."
+        },
+        {
+            "v_name": "Madia",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-03",
+            "v_description": "Extract from Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia..."
+        },
+        {
+            "v_name": "X-lab group",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-03",
+            "v_description": "Extract from Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia..."
+        },
+        {
+            "v_name": "Bolin Centre for Climate Research",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "2025-02-03",
+            "v_description": "Extract from Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia..."
+        },
+        {
+            "v_name": "Gitlabs: hemio.de, SOLEIL, Devlion",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gitlabs: Bolin Centre for Climate Research, X-lab group, Madia",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Karadeniz Holding (karadenizholding.com)",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "1.5 TB..."
+        },
+        {
+            "v_name": "Gitlabs: PT. ITPRENEUR INDONESIA TECHNOLOGY, GFZ Helmholtz Centre for Geosciences, LUA Cof...",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gitlabs: Professional Computer, X-Pans, Propulsion Academy AG",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gitlabs: Prasaga, HE2B, Kombinat",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Boutin Jones (boutindentino.com)",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "180 GB..."
+        },
+        {
+            "v_name": "De La Salle High School (dlshs.org)",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "20 GB..."
+        },
+        {
+            "v_name": "ELTEK Group (eltekgroup.com)",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "13 GB..."
+        },
+        {
+            "v_name": "Kooijman Vianen (kooijmanvianen.nl)",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "25.7 GB..."
+        },
+        {
+            "v_name": "The University of Oklahoma (ou.edu)",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "91 MB..."
+        },
+        {
+            "v_name": "SciTech Services, Inc.",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "15 GB..."
+        },
+        {
+            "v_name": "Buttery (butterycompany.com)",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "1.7 GB..."
+        },
+        {
+            "v_name": "OmniRide (omniride.com)",
+            "Discovery Date": "2025-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "7.2 GB..."
+        },
+        {
+            "v_name": "Saint-Bar (saintbar.be)",
+            "Discovery Date": "2025-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "16.8 GB..."
+        },
+        {
+            "v_name": "Ober Mountain (OberGatlinburg.com)",
+            "Discovery Date": "2024-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "14.3 GB..."
+        },
+        {
+            "v_name": "Aroma Housewares Co (Aromaco.com)",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "35 GB..."
+        },
+        {
+            "v_name": "RODS Surveying (rods.cc)",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "43.5 GB..."
+        },
+        {
+            "v_name": "Forum Architecture & Interior Design (forumarchitecture.com)",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "5.7 GB..."
+        },
+        {
+            "v_name": "Gallade Chemical (galladechem.com)",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "2.4 GB..."
+        },
+        {
+            "v_name": "Industria e Comercio Jolitex Ltda (jolitex.com)",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "23 GB..."
+        },
+        {
+            "v_name": "Schenkelberg - Die Medienstrategen (schenkelberg-druck.de)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "6.8 GB..."
+        },
+        {
+            "v_name": "Village Community School (vcsnyc.org)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "1 GB..."
+        },
+        {
+            "v_name": "Circle Electric (circleelectric.com)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "25.9 GB..."
+        },
+        {
+            "v_name": "Howell Township Public Schools (howell.k12.nj.us)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "14.2 GB..."
+        },
+        {
+            "v_name": "EP Holdings (epholdingsinc.com)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "2.7 GB..."
+        },
+        {
+            "v_name": "Jet Edge (jetedgewaterjets.com)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "2024-12-19",
+            "v_description": "5 GB..."
+        },
+        {
+            "v_name": "Energy Capital Credit Union (eccu.net)",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "2024-12-19",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Vroninks Ricker Weyts & Sacre- Notaires (notassoc.be)",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "15 GB..."
+        },
+        {
+            "v_name": "Reliance Connects (relianceconnects.com)",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "19 GB..."
+        },
+        {
+            "v_name": "SpeedLine Solutions (speedlinesolutions.com)",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "6 GB..."
+        },
+        {
+            "v_name": "Ouro Verde (ouroverde.net.br)",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "4 GB..."
+        },
+        {
+            "v_name": "Cognity (cognity.gr)",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "36 GB..."
+        },
+        {
+            "v_name": "Waverley Christian College (wcc.vic.edu.au)",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "5 GB..."
+        },
+        {
+            "v_name": "Planters Telephone Cooperative (planters.net)",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "about 1  GB..."
+        },
+        {
+            "v_name": "Dorner (dorner-gmbh.de)",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "1 GB..."
+        },
+        {
+            "v_name": "Conlin's Pharmacy (conlinspharmacy.com)",
+            "Discovery Date": "2024-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Weld Racing (weldracing.com)",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "10,1 GB..."
+        },
+        {
+            "v_name": "Chanas Assurances S.A. (chanasassurances.com)",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "6 GB..."
+        },
+        {
+            "v_name": "ALLTUB Group (alltub.com)",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "20 GB..."
+        },
+        {
+            "v_name": "Bedminster School (bedminsterschool.org)",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WPM Pathology Laboratory (wpmpath.com)",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "3 GB..."
+        },
+        {
+            "v_name": "Gruber Tool & Die (grubertool.com)",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "8,2 GB..."
+        },
+        {
+            "v_name": "Signal Health Washington (signalhealthwa.com)",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "1 GB..."
+        },
+        {
+            "v_name": "Pioneer Urban Land & Infrastructure (pioneerurban.in)",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Pinnacle Plastic Products (pinnacleplasitcporducts.com)",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "5,3 GB..."
+        },
+        {
+            "v_name": "Complete Recycling Services (completerecyclingservices.com)",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "1,4 GB..."
+        },
+        {
+            "v_name": "Marketing Incentives (leinsterappointments.ie)",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "about 1 GB..."
+        },
+        {
+            "v_name": "Metroline (metrolinedirect.com)",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "1,3 GB..."
+        },
+        {
+            "v_name": "Hogan Mfg (hoganmfg.com)",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "10,5 GB..."
+        },
+        {
+            "v_name": "Fifteenfortyseven Critical Systems Realty (1547realty.com)",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "6 GB..."
+        },
+        {
+            "v_name": "Burkburnett Independent School District",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "1 GB..."
+        },
+        {
+            "v_name": "Valley Planing Mill (valleyplaning.com)",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "5,6 GB..."
+        },
+        {
+            "v_name": "Waters Truck and Tractor (waterstruck.com)",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "3 GB..."
+        },
+        {
+            "v_name": "Vector Transport (vectortransport.com)",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "19 GB..."
+        },
+        {
+            "v_name": "Cape Cod Regional Technical High School (capetech.us)",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "6 GB..."
+        },
+        {
+            "v_name": "GSR Andrade Architects (gsr-andrade.com)",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "65 GB..."
+        },
+        {
+            "v_name": "Askling Car (asklingbil.se)",
+            "Discovery Date": "2024-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "2,6 GB..."
+        },
+        {
+            "v_name": "Jillamy (jillamy.com)",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "28 GB..."
+        },
+        {
+            "v_name": "SmartSource (smartsource-inc.com)",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "81 GB..."
+        },
+        {
+            "v_name": "Jordan Public Schools (https://www.jordan.k12.mn.us/)",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "11 GB..."
+        },
+        {
+            "v_name": "Sage Automotive Interior (sageautomotiveinteriors.com)",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "76 GB..."
+        },
+        {
+            "v_name": "Evergreen SD50 (evergreensd50.com)",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "5,1 GB..."
+        },
+        {
+            "v_name": "Cucamonga Valley Water District (cvwdwater.com)",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "41 GB..."
+        },
+        {
+            "v_name": "Evergreen Local School District (evgvikings.org)",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "5,1 GB..."
+        },
+        {
+            "v_name": "Value City NJ (valuecitynj.com)",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "25 GB..."
+        },
+        {
+            "v_name": "The Getz Group (getz.com.hk)",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "45 GB..."
+        },
+        {
+            "v_name": "Apache Mills, Inc. (apachemills.com)",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "27 GB..."
+        },
+        {
+            "v_name": "Goshen Central School District (gcsny.org)",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Mar-Bal (mar-bal.com)",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "37 GB..."
+        },
+        {
+            "v_name": "Lincoln University (lincolnu.edu)",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Clear Connection (clearconnection.com)",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "71 GB..."
+        },
+        {
+            "v_name": "Schweiger Transport (schweiger-gmbh.de)",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "118 GB..."
+        },
+        {
+            "v_name": "Philadelphia Macaroni (philamacaroni.com)",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "102 GB..."
+        },
+        {
+            "v_name": "Trimarc Financial (trimarc.com)",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "3 GB..."
+        },
+        {
+            "v_name": "Fromm (FrommBeauty.com)",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "16 GB..."
+        },
+        {
+            "v_name": "Ultra Tune (ultratune.com.au)",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "3 GB..."
+        },
+        {
+            "v_name": "Welker (welker.com)",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "27,6 GB..."
+        },
+        {
+            "v_name": "Cordogan Clark and Associates (cordoganclark.com)",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "107 GB..."
+        },
+        {
+            "v_name": "Food Sciences Corporation (foodsciences.com)",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "86 GB..."
+        },
+        {
+            "v_name": "Central Pennsylvania Food Bank",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "20 GB..."
+        },
+        {
+            "v_name": "Juice Generation",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Sunrise Farms",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "30 GB..."
+        },
+        {
+            "v_name": "Prentke Romich Company",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "250 GB..."
+        },
+        {
+            "v_name": "S. Walter Packaging",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Clatronic International GmbH",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "469 GB..."
+        },
+        {
+            "v_name": "Seaway Manufacturing Corp.",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IOI Corporation Berhad",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "20 GB..."
+        },
+        {
+            "v_name": "Ziba Design",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "22 GB..."
+        },
+        {
+            "v_name": "Hi-P International",
+            "Discovery Date": "2024-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "22 GB..."
+        },
+        {
+            "v_name": "BASF - Nunhems",
+            "Discovery Date": "2024-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "30 GB..."
+        },
+        {
+            "v_name": "City of Cold Lake",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Odessa College",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "18 GB..."
+        },
+        {
+            "v_name": "Wichita State University Campus of Applied Sciences and Technology",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Geelong Lutheran College",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-06-19",
+            "v_description": "4GB..."
+        },
+        {
+            "v_name": "Asbury Theological Seminary",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-06-24",
+            "v_description": "10 GB..."
+        },
+        {
+            "v_name": "Djg Projects",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-07-07",
+            "v_description": "19.4GB..."
+        },
+        {
+            "v_name": "Verweij Elektrotechniek",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-07-04",
+            "v_description": "95GB..."
+        },
+        {
+            "v_name": "Alvin Independent School District",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-07-04",
+            "v_description": "60GB..."
+        },
+        {
+            "v_name": "West Allis-West Milwaukee School District",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "2024-07-11",
+            "v_description": "9,5 GB..."
+        },
+        {
+            "v_name": "German University of Technology in Oman",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "10 GB..."
+        }
+    ]
+}

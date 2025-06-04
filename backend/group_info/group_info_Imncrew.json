@@ -1,0 +1,85 @@
+{
+    "group_name": [
+        "Imncrew"
+    ],
+    "group_description": "None",
+    "Victims count": 8,
+    "First discovered victims": "2025-05-05",
+    "Last discovered victim": "2025-05-20",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Consumer Services": 2,
+                    "Healthcare": 1,
+                    "Financial Services": 1,
+                    "Business Services": 1,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3,
+                    "Indonesia": 1,
+                    "Croatia": 1,
+                    "Mexico": 1,
+                    "Czechia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Stiga.com",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1934, Stiga is a gardening brand focusing on innovation and designing effective gardening..."
+        },
+        {
+            "v_name": "Synthesia.com",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "SYNTHESIA TECHNOLOGY was founded in 1964 with private capital. It started operations in the chemical..."
+        },
+        {
+            "v_name": "Grupo Herradura Occidente",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Grupo Herradura Occidente is a Mexican transportation company formed in 2007 through the merger of t..."
+        },
+        {
+            "v_name": "Croatianmint.hr",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Hrvatska kovnica novca specializes in the production of circulating and commemorative coins, as well..."
+        },
+        {
+            "v_name": "Derp.org",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "We’re the Denver Employees Retirement Plan (DERP). Your partner in building, planning, and living a ..."
+        },
+        {
+            "v_name": "Abdainsurance.co.id",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "ABDA Insurance focuses on providing protection against any losses or damages, such as Fire, Vehicles..."
+        },
+        {
+            "v_name": "Vnakc.org",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1891, Visiting Nurse Association (VNA Home Health) is a nonprofit home health agency...."
+        },
+        {
+            "v_name": "Goodson.com",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Goodson is the premier supplier to engine rebuilders around the world . Founded in 1945, Goodson has..."
+        }
+    ]
+}

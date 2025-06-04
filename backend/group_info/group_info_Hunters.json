@@ -1,0 +1,1879 @@
+{
+    "group_name": [
+        "Hunters"
+    ],
+    "group_description": "In mid-October 2023, just a few days before the Europol operation, the source code of the Ransomware Hive was sold, along with its website and older versions developed in Golang and C (although this purchase has only been reported by the actors without concrete evidence). The buyer of this new source code was the group Hunters International, who claimed to have fixed the bugs in the Ransomware Hive that were responsible for preventing file decryption in some cases. The group also stated that file encryption would not be their primary focus; instead, they would use data theft as a method to pressure victims during extortion attempts.",
+    "Victims count": 307,
+    "First discovered victims": "2023-10-20",
+    "Last discovered victim": "2025-05-27",
+    "Avg Delay": "44.8 days",
+    "Infostealer": "20.8%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 58,
+                    "Manufacturing": 42,
+                    "Technology": 34,
+                    "Healthcare": 26,
+                    "Energy": 20
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 150,
+                    "United Kingdom": 16,
+                    "Canada": 15,
+                    "France": 12,
+                    "Germany": 9
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Corantioquia",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Wrap & Send Services",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Eight8Ate Holdings, Inc",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "GPF Lewis",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Sioux Chief",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Telco Intercontinental",
+            "Discovery Date": "2025-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Digestive Specialists",
+            "Discovery Date": "2025-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "FCC",
+            "Discovery Date": "2025-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Minnesota Lawyers Mutual Insurance",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Kenworth Del Sur",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Kasb Bank - K-Trade",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Mafi",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Pharma Force",
+            "Discovery Date": "2025-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "HOPI",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Groupe Delcourt",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Hofmann Fördertechnik GmbH",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "IDS Infotech",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Nexia Poyiadjis IT",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "TEDOM",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-01-11",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Blackmon Mooring",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Sansone Group",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "National Sign corp",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Cargills Bank",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Megacentro",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "CableVision",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Courageous Home Care",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Edesur Dominicana",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Tata Technologies",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Kendall Auto Group",
+            "Discovery Date": "2025-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Omni United",
+            "Discovery Date": "2025-02-26",
+            "Estimated Attack Date": "2025-02-04",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Vermeer Mexico",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Nichino Ryokka Co Ltd",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SPEED Co",
+            "Discovery Date": "2025-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "CCOO Servicios",
+            "Discovery Date": "2025-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Swissmem",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Rogers",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2021-09-09",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SAKAI SOUKEN Co.",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Robertshaw",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "PetroVietnam Exploration Production Corporation",
+            "Discovery Date": "2025-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "T. Hasegawa USA",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Barber Specialties",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Costex",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Patriarche Office of Architecture",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "COROB",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "RocSearch",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Unisource Information Services",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Nikki-Universal Co Ltd",
+            "Discovery Date": "2025-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Japan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Family Help & Wellness",
+            "Discovery Date": "2024-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SeaLandAire Technologies",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "2024-12-15",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SmartLynx Airlines SIA",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "2024-10-31",
+            "v_description": "Country : Latvia - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Astaphans",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Microvision",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Trev Deeley Motorcycles",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "2024-09-30",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Development Bank of Jamaica",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Jamaica - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Archetype Group",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Viet Nam - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ecritel",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "2024-12-08",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Wintergreen Learning Materials",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "2024-11-15",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "AFD",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "2024-11-19",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Southern Acids",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "Country : Malaysia - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Telecom Namibia",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "2024-11-21",
+            "v_description": "Country : Namibia - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "InterCon Construction",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Conteg",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "2024-11-10",
+            "v_description": "Country : Czechia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Horsa",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "IAС",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "2024-11-10",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "R Pac Central America S.A. de C.V.",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "JN attorney",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-10-20",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Orshan, Spann & Fernandez-Mesa",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Ace Laboratories Limited",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-11-08",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Jones & Mayer",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Aeris Energy",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "CK Power Public Manufacturing",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Thailand - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Performance Health & Fitness",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Dorner Law & Title Services",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Mantinga",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "2024-11-17",
+            "v_description": "Country : Lithuania - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "A&O IT Group",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Kumla Kommun",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Sweden - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Schmack",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Sercomm",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Amourgis & Associates",
+            "Discovery Date": "2024-11-11",
+            "Estimated Attack Date": "2024-11-02",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Dietzgen Corporation",
+            "Discovery Date": "2024-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Banco Sucredito Regional S.A.U.",
+            "Discovery Date": "2024-11-11",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "Country : Argentina - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "New Law",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "European External Action Service (EEAS)",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Air Specialists Heating & Air Conditioning",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "2024-10-07",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Hemubo",
+            "Discovery Date": "2024-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Netherlands - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Cerp Bretagne Nord",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ambica Steels",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country : India - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Niko Resources Ltd.",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "IdeaLab",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Mercury Theatre",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "2024-07-15",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Atende Software's",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Poland - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "KMC Controls",
+            "Discovery Date": "2024-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Michael J Gurfinkel",
+            "Discovery Date": "2024-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Parnell Defense",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Aaren Scientific",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Protective Industrial Products",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Therabel Lucien Pharma SAS",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "2024-09-01",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Rumpke Consolidated Companies",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "2024-07-28",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Elmore Goldsmith",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Structural and Steel Products",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Glacier",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "AIUT",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Poland - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ibermutuamur",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "BNBuilders",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Amplitude Laser",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "GW Mechanical",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Dreyfuss + Blackford Architecture",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "CobelPlast",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-10-03",
+            "v_description": "Country : Belgium - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "CaleyWray",
+            "Discovery Date": "2024-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "DJH Jugendherberge",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "New Electric",
+            "Discovery Date": "2024-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "AutoCanada",
+            "Discovery Date": "2024-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "VIcom Corporation",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Arch-Con",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "HB Construction",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Associated Building Specialties",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "ICBC (London)",
+            "Discovery Date": "2024-09-12",
+            "Estimated Attack Date": "2024-09-11",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "ICBC London",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Bank Rakyat",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Malaysia - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "SESAM Informatics",
+            "Discovery Date": "2024-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Senegal - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Custom Security Systems",
+            "Discovery Date": "2024-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Sunrise Erectors",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Quálitas México",
+            "Discovery Date": "2024-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Mexico - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Navitas Semiconductor",
+            "Discovery Date": "2024-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Ireland - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Rinehart Butler Hodge Moss & Bryant",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Crowe",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "US Marshals Service",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Crimson Interactive",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Akkanat Holding",
+            "Discovery Date": "2024-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Turkey - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ferraro Group",
+            "Discovery Date": "2024-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SuperDrob S.A.",
+            "Discovery Date": "2024-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Poland - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "BTS Biogas",
+            "Discovery Date": "2024-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "NetOne",
+            "Discovery Date": "2024-08-12",
+            "Estimated Attack Date": "2024-07-03",
+            "v_description": "Country : Zimbabwe - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Hanon Systems",
+            "Discovery Date": "2024-08-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : South Korea - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Anderson Oil & Gas",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Omni Family Health",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Casco Antiguo",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Fractalia Group",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "LRN",
+            "Discovery Date": "2024-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Jangho Group",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "Country : China - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Khandelwal Laboratories Pvt",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "Country : India - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "ENEA Italy",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "2024-08-01",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Durham Manufacturing",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Kleven Construction",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Crownlea Group",
+            "Discovery Date": "2024-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "The Gill Corporation",
+            "Discovery Date": "2024-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Priefert",
+            "Discovery Date": "2024-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Physical & Occupational Therapy Examiners of Texas",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Physical & Occupational Therapy Examiners ofTexas",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Betances Health Center",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Arcmed Group",
+            "Discovery Date": "2024-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Northeast Rehabilitation Hospital Network",
+            "Discovery Date": "2024-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Seamon Whiteside",
+            "Discovery Date": "2024-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Santa Rosa",
+            "Discovery Date": "2024-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Argentina - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Braum's Inc",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Lantronix Inc.",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "HOYA Corporation",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Japan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Gibbs Hurley Chartered Accountants",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "ComNet Communications",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "MS Ultrasonic Technology Group",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "RZO",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Kenya Urban Roads Authority",
+            "Discovery Date": "2024-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Kenya - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Carigali Hess Operating Company",
+            "Discovery Date": "2024-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Malaysia - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Indika Energy",
+            "Discovery Date": "2024-07-09",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Indonesia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Сoquitlam Concrete",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Multisuns Communication",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "WheelerShip",
+            "Discovery Date": "2024-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Bartlett & Weigle Co. LPA.",
+            "Discovery Date": "2024-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Circle K Atlanta",
+            "Discovery Date": "2024-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Acteon Group",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Legrand CRM",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Australia - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "MRI",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Concrete",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Harper Industries",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Axip Energy Services",
+            "Discovery Date": "2024-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "RAVEN Mechanical",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "This entry has been removed following a request from the company.",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Belgium - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Arrabawn Co-op",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "Country : Ireland - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Jess-link Products",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Formosa Plastics USA",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Aero Tec Laboratories",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Treasury of Cote d'Ivoire",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Côte d'Ivoire - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Pella",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Richelieu Foods",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Trade-Mark Industrial",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Hibser Yamauchi Architects",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Noritsu America Corp.",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Magicolor",
+            "Discovery Date": "2024-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SSS Australia",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Rocky Mountain Sales",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Central Power Systems and Services",
+            "Discovery Date": "2024-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Mid-South Health Systems",
+            "Discovery Date": "2024-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "City of St. Cloud, Florida",
+            "Discovery Date": "2024-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "St. Cloud Florida",
+            "Discovery Date": "2024-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Chicony Electronics",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Jack Doheny Company",
+            "Discovery Date": "2024-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Toyota Brazil",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Kablutronik SRL",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Romania - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Caxton and CTP Publishers and Printers",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : South Africa - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "NanoLumens",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Integrated Control",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Frederick Wildman and Sons",
+            "Discovery Date": "2024-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Notions Marketing",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Jordano's Inc.",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Bojangles’ International",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Optima Manufacturing",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Inszone Insurance Services",
+            "Discovery Date": "2024-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Robertson Cheatham Farmers",
+            "Discovery Date": "2024-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "T A Khoury",
+            "Discovery Date": "2024-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Paulmann Licht",
+            "Discovery Date": "2024-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "BeneCare Dental Insurance",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Interface",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "DataBank",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Beaver Run Resort",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Benetton Group",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Citi Trends",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Intersport",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Sysmex",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Japan - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Exela Technologies",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "CLARK Material Handling Company",
+            "Discovery Date": "2024-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Hallesche Kraftverkehrs & Speditions GmbH",
+            "Discovery Date": "2024-03-24",
+            "Estimated Attack Date": "2024-03-19",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "ACS",
+            "Discovery Date": "2024-03-24",
+            "Estimated Attack Date": "2024-02-17",
+            "v_description": "Country : United States of America - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Sting AD",
+            "Discovery Date": "2024-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Bulgaria - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Therapeutic Health Services",
+            "Discovery Date": "2024-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Panzeri Cattaneo",
+            "Discovery Date": "2024-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Italy - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "HSI",
+            "Discovery Date": "2024-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "AGL",
+            "Discovery Date": "2024-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : China - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Sun Holdings",
+            "Discovery Date": "2024-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Miki Travel",
+            "Discovery Date": "2024-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "ATL Leasing",
+            "Discovery Date": "2024-03-15",
+            "Estimated Attack Date": "2024-03-12",
+            "v_description": "Country : Tunisia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Cosmocolor",
+            "Discovery Date": "2024-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Mexico - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "ATL",
+            "Discovery Date": "2024-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Tunisia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Kaplan",
+            "Discovery Date": "2024-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "NetVigour",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "ACE Air Cargo",
+            "Discovery Date": "2024-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "DiVal Safety Equipment, Inc.",
+            "Discovery Date": "2024-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "IJM Corporation",
+            "Discovery Date": "2024-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Malaysia - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Finlay Screening & Crushing Systems",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Australia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Greater Napanee",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Tiete Automobile",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Voice Technologies",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Aftrp",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Chicago Zoological Society",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "BS&B Safety Systems L.L.C",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : N/A - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Wapiti Energy",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "PSI",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "CP Communications",
+            "Discovery Date": "2024-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Réseau Ribé",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Concello de Teo",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ribe-Groupe",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : France - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Griffin Dewatering",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Schuster Trucking Company",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Sindicato de Enfermería (SATSE)",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "2024-02-13",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Communication Federal Credit Union",
+            "Discovery Date": "2024-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "SOPEM",
+            "Discovery Date": "2024-02-13",
+            "Estimated Attack Date": "2024-02-10",
+            "v_description": "Country : Tunisia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Satse",
+            "Discovery Date": "2024-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Spain - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Kreyenhop & Kluge",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Village of Skokie",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Lancaster County Sheriff's Office",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Nastech",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Arab Emirates - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Benchmark Management Group",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "SOPEM Tunisie",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Tunisia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Impact Energy Services",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Groupe Goyette",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Dalmahoy Hotel & Country Club",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Carespring Health Care",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Avianor Aircraft",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Canada - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Ducont",
+            "Discovery Date": "2024-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Charles Trent",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Innovative Automation",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Tamdown",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Thorite Group",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Double Eagle Energy Holdings IV",
+            "Discovery Date": "2024-01-23",
+            "Estimated Attack Date": "2024-01-22",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "R.C. Moore Trucking",
+            "Discovery Date": "2024-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Double Eagle Development",
+            "Discovery Date": "2024-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Alupar Investimento SA",
+            "Discovery Date": "2024-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Brazil - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Gallup McKinley County Schools",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : no - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Ausa",
+            "Discovery Date": "2024-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Project M.O.R.E.",
+            "Discovery Date": "2024-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Thermosash Commercial Ltd",
+            "Discovery Date": "2024-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : New Zealand - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Gunning & LaFazia, Inc.",
+            "Discovery Date": "2024-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Bradford Health",
+            "Discovery Date": "2024-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Blackstone Valley Community Health Care",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "2023-12-18",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Fred Hutchinson Cancer Research Center",
+            "Discovery Date": "2023-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Azienda USL di Modena",
+            "Discovery Date": "2023-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Italy - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Austal USA",
+            "Discovery Date": "2023-12-02",
+            "Estimated Attack Date": "2023-12-01",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Austal",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "St. Johns River Water Management District",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Covenant Care",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "First Housing Development",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "InstantWhip",
+            "Discovery Date": "2023-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Lincoln Office",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Crystal Lake Health Center",
+            "Discovery Date": "2023-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "THK Co., Ltd.",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Japan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Bartec Top Holding GmbH",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-10",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "Garr Silpe, P.C.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-09",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : no..."
+        },
+        {
+            "v_name": "United Africa Group Ltd.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-06",
+            "v_description": "Country : Namibia - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "IDESA group, S.A. De C.V.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-12",
+            "v_description": "Country : Mexico - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "DrilMaco",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-12",
+            "v_description": "Country : Singapore - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Builders Hardware and Hollow Metal, Inc.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-03",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Homeland Inc.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Deegenbergklinik",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-03",
+            "v_description": "Country : Germany - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Owens Group",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-12",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "TCI Co., Ltd.",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Country : Taiwan - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Medjet",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "2023-11-03",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "Dr. Jaime Schwartz MD, FACS",
+            "Discovery Date": "2023-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country : United States of America - Exfiltraded data : yes - Encrypted data : yes..."
+        },
+        {
+            "v_name": "UK Stratton Primary School",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "2023-10-12",
+            "v_description": "Country : United Kingdom - Exfiltraded data : yes - Encrypted data : no..."
+        }
+    ]
+}

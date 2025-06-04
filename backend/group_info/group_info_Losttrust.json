@@ -1,0 +1,349 @@
+{
+    "group_name": [
+        "Losttrust"
+    ],
+    "group_description": "None",
+    "Victims count": 53,
+    "First discovered victims": "2023-09-26",
+    "Last discovered victim": "2023-09-26",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 5,
+                    "Italy": 2,
+                    "Mexico": 1,
+                    "Germany": 1,
+                    "Argentina": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Arazoza Brothers",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Arazoza Brothers is Florida’s leading Commercial Landscape company. We take pride in delivering cons..."
+        },
+        {
+            "v_name": "Popovici Niu Stoica & Asociaii",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Popovici Nițu Stoica & Asociații is one of the first incorporated professional partnerships in Roman..."
+        },
+        {
+            "v_name": "Procab",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "With a vision of 0% incidents we are driven to create safety in the process industry. We offer the m..."
+        },
+        {
+            "v_name": "Hoosier Uplands Economic Development",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Hoosier Uplands is a local non-profit agency based in Southern Indiana that serves as an Area Agency..."
+        },
+        {
+            "v_name": "Oasys Technologies",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Oasys Technologies is the premiere IT staffing and consulting firm in Minnesota. Serving the largest..."
+        },
+        {
+            "v_name": "Merced City School District",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "OUR MISSION All scholars are ensured equitable access to high quality instruction in environments th..."
+        },
+        {
+            "v_name": "Morgan School District",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Morgan County School District Community stands united in the pursuit of educational excellence. ..."
+        },
+        {
+            "v_name": "Ferguson Wellman",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "WE ARE A PRIVATELY OWNED, INVESTMENT ADVISORY FIRM serving individuals, families and institutions.  ..."
+        },
+        {
+            "v_name": "TORMAX",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "TORMAX Quality for Demanding Customers TORMAX installed Europe’s first automatic door in 1951. Today..."
+        },
+        {
+            "v_name": "Brown and Streza",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "OUR MISSION Serve families, businesses, entrepreneurs, investors, philanthropists, and charitable or..."
+        },
+        {
+            "v_name": "Bit",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "BIT SA is an ag-tech company that provides IT consulting, analytics, ERP management, business intell..."
+        },
+        {
+            "v_name": "Glassline",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Glassline® has come a long way from our humble beginnings of building double edgers in 1970. Our gla..."
+        },
+        {
+            "v_name": "SydganCorp",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "As a leading property management and development company, Sydgan is committed to making Winter Park,..."
+        },
+        {
+            "v_name": "Alexander City, Alabama",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Alexander City, known to locals as \"Alex City\", is the largest city in Tallapoosa County, Alabama, U..."
+        },
+        {
+            "v_name": "SPEC Engineering",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Delivering excellence for over two decades, SPEC proudly stands tall as an all-in-one premier EPC so..."
+        },
+        {
+            "v_name": "Jersey College",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "As a private, post-secondary institution, Jersey College strives to provide its students with an edu..."
+        },
+        {
+            "v_name": "JSM Group",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "JSM is a utilities service provider specialising in the delivery of integrated power and communicati..."
+        },
+        {
+            "v_name": "Key Construction",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1978, Key remains true to the belief that strong relationships with everyone from clients..."
+        },
+        {
+            "v_name": "Leiblein & Kollegen Steuerberatungsgesellschaft",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Leiblein & Kollegen Steuerberatungsgesellschaft mbH is a company that operates in the Accounting ind..."
+        },
+        {
+            "v_name": "Liberty Lines",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Since its meager beginnings in 1953 as a 4 vehicle operation, Liberty Lines has grown through merger..."
+        },
+        {
+            "v_name": "LoopLoc",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "In 1978, Bill Donation founded LOOP-LOC with five employees. In 2000, Bill’s daughter, LeeAnn Donato..."
+        },
+        {
+            "v_name": "Reload SPA",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Reload SPA is a company that operates in the Computer Software industry...."
+        },
+        {
+            "v_name": "Ananda Temple",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Ananda is a worldwide group of individuals who share the search for higher consciousness and the ide..."
+        },
+        {
+            "v_name": "Omniatel",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Omnitel story is one of success and stable relationships forged over the years. A customer-orien..."
+        },
+        {
+            "v_name": "Paradise Custom Kitchens",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Paradise Custom Kitchens is a custom cabinetry and remodeling company rooted in quality craftsmanshi..."
+        },
+        {
+            "v_name": "Specialty Process Equipment",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Established in Houston, Texas in the year 2000, we operate and provide service to over more than 20 ..."
+        },
+        {
+            "v_name": "The WorkPlace",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Serving as southwest Connecticut's Workforce Development Board we administer job training and prepar..."
+        },
+        {
+            "v_name": "Professional Moving Company - Mackie Group",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Mackie Group of companies has represented the highest standard of quality, professionalism and c..."
+        },
+        {
+            "v_name": "Mexican Government",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1824 and headquartered in Mexico City, Mexico, the Mexican Government was put forth as a ..."
+        },
+        {
+            "v_name": "Central Trenching",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "CTI is a growing North Dakota based company that specializes in directional boring, trenching, plowi..."
+        },
+        {
+            "v_name": "Immanuel Christian School",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Immanuel Christian School is a kindergarten through 10th grade private Christian school in Fairfax C..."
+        },
+        {
+            "v_name": "Cullum Services",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Cullum Services, Inc., has provided mechanical maintenance, repair and retrofit services in South Ca..."
+        },
+        {
+            "v_name": "Gold Coin Restaurant",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Gold Coin Restaurant is a company that operates in the Restaurants industry. It employs 11-20 people..."
+        },
+        {
+            "v_name": "Marlboro Township Public School",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Marlboro Township School District is a community public school district that serves students in ..."
+        },
+        {
+            "v_name": "Carmocal",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Carmichael is an Argentinean company with presence in Latin America, that offers a wide range of ser..."
+        },
+        {
+            "v_name": "Johnson Boiler Works",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Johnson Boiler is one of the best, instant and efficient service provider in town. We are utilizing ..."
+        },
+        {
+            "v_name": "EnCom Polymers",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "EnCom Polymers was established in October 1999, with a goal of servicing automotive companies in the..."
+        },
+        {
+            "v_name": "Ambrosini Holding",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Ambrosini Holding is a Food Group with five companies that work every day to ensure quality products..."
+        },
+        {
+            "v_name": "Colors Dress",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Colors Dress is adding more wonder to their dresses. Dedicated to making the most magical night of y..."
+        },
+        {
+            "v_name": "THEATER LEAGUE INC",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Theater League is a not-for-profit civic performing arts organization dedicated to enhancing the qua..."
+        },
+        {
+            "v_name": "GI Medical Services",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "GI Medical Services is Staten Island’s premiere provider of expert gastroenterology services. GI Med..."
+        },
+        {
+            "v_name": "Gordon Law Firm",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Gordon Law Firm is an experienced and accomplished law office in New Orleans, Louisiana, Our law..."
+        },
+        {
+            "v_name": "Contraband Control Specialists",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Contraband Control Specialists is a renowned private investigation and professional education consul..."
+        },
+        {
+            "v_name": "I&Y Senior Care",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Agency provides qualified and paraprofessionals who are under the supervision of the Agency's Re..."
+        },
+        {
+            "v_name": "EWBizservice",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Ewbizservice was created to allow a business owner to focus on what he loves. A cook opens a restaur..."
+        },
+        {
+            "v_name": "Center Township Trustee",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Everything we do at the Center Township Trustee's Office makes a difference for our Muncie community..."
+        },
+        {
+            "v_name": "Garlick & Markison",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Garlick & Markison is a boutique law firm specializing in patent portfolio building for its clients...."
+        },
+        {
+            "v_name": "Double V Construction",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Double V Construction enjoys a solid reputation as one of Vancouver's leading general contractors. W..."
+        },
+        {
+            "v_name": "Swann's Furniture & Design",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Shop at Swann's Furniture store for the best selection and latest styles in home decor and furniture..."
+        },
+        {
+            "v_name": "Gateseven Media Group",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Gateseven Media Group has been creating high-level communications for over ten years. The company™s ..."
+        },
+        {
+            "v_name": "Asia Vegetable",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "After our Founder, Wai K. Lo, immigrated to the United States, he spent his earlier years working in..."
+        },
+        {
+            "v_name": "Carnelutti Law Firm",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "CARNELUTTI Law Firm is one of the best known corporate law firms in the Italian market with a strong..."
+        },
+        {
+            "v_name": "Foundation Professionals of Florida",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Foundation Professionals of Florida are foundation repair experts in foundation repair for the Virgi..."
+        }
+    ]
+}

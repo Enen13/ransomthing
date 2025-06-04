@@ -1,0 +1,67 @@
+{
+    "group_name": [
+        "Karma"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 7,
+    "First discovered victims": "2021-10-04",
+    "Last discovered victim": "2021-10-04",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Our first post",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Saurer. Part 1.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Align Technology. Part 1.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The next leak will be of a multi billion dollar cosmetics and fragrance company.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Align Technology. Part 2.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SI Group. Part 1.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "YASH Technologies. Part 1.",
+            "Discovery Date": "2021-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

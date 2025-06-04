@@ -1,0 +1,397 @@
+{
+    "group_name": [
+        "Maze"
+    ],
+    "group_description": "Maze ransomware group is one of the most known ransomware gangs, they targeted organizations worldwide across many industries. Security researchers believed that Maze operates as an affiliated network model. MAZE was one of the first groups that made a 'Double Extortion Attack' involved Allied Universal, in November 2019, the group leaks their victim's data in the darknet. On November 1, 2020, MAZE announced an official press release that they are closing their operation. is malware targeting organizations worldwide across many industries. Security researchers claim that the threat actor behind the MAZE group is 'TA2101'.",
+    "Victims count": 60,
+    "First discovered victims": "2019-10-21",
+    "Last discovered victim": "2020-09-11",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Critical Manufacturing": 15,
+                    "Information Technology": 10,
+                    "Financial": 7,
+                    "Healthcare and Public Health": 5,
+                    "Transportation Systems": 5
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 39,
+                    "Thailand": 3,
+                    "Canada": 2,
+                    "United Kingdom": 2,
+                    "Australia": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Fairfax County Public Schools",
+            "Discovery Date": "2020-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toledo Public Schools (TPS)",
+            "Discovery Date": "2020-09-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Artech Information Systems",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Canon",
+            "Discovery Date": "2020-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SK Hynix (semiconductor company)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Strata Plus (strata management firm)",
+            "Discovery Date": "2020-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "X-FAB",
+            "Discovery Date": "2020-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Thai Beverage Public Company",
+            "Discovery Date": "2020-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ostermeir FZE (engineering firm)",
+            "Discovery Date": "2020-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VirtualGuard",
+            "Discovery Date": "2020-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Xerox Corporation",
+            "Discovery Date": "2020-06-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity Generating Authority of Thailand",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FERSPED Inc. (Macedonian shipping company)",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United Enertech (US construction company",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Domingos Martins",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Daily Thermetrics",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "John Christner Trucking",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mead O'Brien, Inc",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Munoz Engineering PC",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ahmed Almazrouei Group",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Omnix Int'l",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Westmoreland Mechanical Testing and Research, Inc.",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Collabera",
+            "Discovery Date": "2020-06-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Westech International (US military contractor)",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity Generating Authority of Thailand",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LG Electronics",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WorldNet Telecommunications and ISP",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Columbus Metro Federal Credit Union",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Webuild SpA (industrial group)",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Faxon Machining",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Conducent",
+            "Discovery Date": "2020-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Max Linear (radio- frequency chip maker)",
+            "Discovery Date": "2020-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pitney Bowes",
+            "Discovery Date": "2020-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "HLB (Belgian accounting firm)",
+            "Discovery Date": "2020-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ashville Plastic Surgery Institute",
+            "Discovery Date": "2020-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Plastic Surgeon Kristin Tarbet (Bellevue, Wash)",
+            "Discovery Date": "2020-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sparboe (egg producer)",
+            "Discovery Date": "2020-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Banco BCR",
+            "Discovery Date": "2020-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dakota Carrier Network (DCN)",
+            "Discovery Date": "2020-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tom Berkowitz Trucking Inc (whitinsville, MA)",
+            "Discovery Date": "2020-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Benefit Recovery Specialists Inc (BRSI)",
+            "Discovery Date": "2020-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cognizant",
+            "Discovery Date": "2020-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Southeastern Wire (wire manufacturer)",
+            "Discovery Date": "2020-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Chubb",
+            "Discovery Date": "2020-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Berkine (Algerian Petroleum Joint Venture)",
+            "Discovery Date": "2020-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Henning Harders (freight and logistics firm)",
+            "Discovery Date": "2020-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hammersmith Medicines Research",
+            "Discovery Date": "2020-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VT San Antonio Aerospace (aerospace and defense contractor)",
+            "Discovery Date": "2020-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Affordacare Urgent Care Clinic",
+            "Discovery Date": "2020-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Affordacare Urgent Care Clinics",
+            "Discovery Date": "2020-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CU Collections",
+            "Discovery Date": "2020-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lakeland Community College",
+            "Discovery Date": "2020-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Busch's Inc (Grocery chain)",
+            "Discovery Date": "2019-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Southwire (cable and wire manufacturer)",
+            "Discovery Date": "2019-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Pensacola",
+            "Discovery Date": "2019-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BST & CO (accounting firm)",
+            "Discovery Date": "2019-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Medical Diagnostic Laboratories",
+            "Discovery Date": "2019-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bird Construction",
+            "Discovery Date": "2019-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Allied Universal",
+            "Discovery Date": "2019-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Andrew Agencies",
+            "Discovery Date": "2019-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

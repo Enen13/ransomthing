@@ -1,0 +1,45 @@
+{
+    "group_name": [
+        "Ragnarok"
+    ],
+    "group_description": "According to Bleeping Computer, the ransomware is used in targeted attacks against unpatched Citrix servers. It excludes Russian and Chinese targets using the system's Language ID for filtering. It also tries to disable Windows Defender and has a number of UNIX filepath references in its strings. Encryption method is AES using a dynamically generated key, then bundling this key up via RSA.",
+    "Victims count": 3,
+    "First discovered victims": "2021-03-31",
+    "Last discovered victim": "2021-12-30",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Commercial Facilities": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "FNBNWFL Data leaked",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Decrypt",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Boggi Milano",
+            "Discovery Date": "2021-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

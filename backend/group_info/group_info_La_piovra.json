@@ -1,0 +1,31 @@
+{
+    "group_name": [
+        "La_piovra"
+    ],
+    "group_description": "ℹ️  La Piovra Ransomware is an exercise of the company Offensive Security (also known as OffSec)",
+    "Victims count": 1,
+    "First discovered victims": "2023-06-10",
+    "Last discovered victim": "2023-06-10",
+    "Avg Delay": "350 days",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "MegaCorp One",
+            "Discovery Date": "2023-06-10",
+            "Estimated Attack Date": "2022-06-25",
+            "v_description": "In case you were wondering how we did it, your entire website code is on github!!!!  A look on the c..."
+        }
+    ]
+}

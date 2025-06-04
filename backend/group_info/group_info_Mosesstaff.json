@@ -1,0 +1,121 @@
+{
+    "group_name": [
+        "Mosesstaff"
+    ],
+    "group_description": "Cybereason Nocturnus describes Moses Staff as an Iranian hacker group, first spotted in October 2021. Their motivation appears to be to harm Israeli companies by leaking sensitive, stolen data.",
+    "Victims count": 16,
+    "First discovered victims": "2021-12-18",
+    "Last discovered victim": "2021-12-18",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Electron Csillag",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Meshulam",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DOSIK Technology",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Epsilor Company",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "First part of Israel Post data leaked",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Israel MOD and Benny Gantz",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "First part of Epsilor data leaked",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ehud Leviathan Engineering",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "David Engineers",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "H.G.M Engineering",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AHEC Tax Solutions",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "V-ON",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MATITIAHU BRUCHIM Law office",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unit 8200",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "3D imagery of israel",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "This is just the beginning",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

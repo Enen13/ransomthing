@@ -1,0 +1,43 @@
+{
+    "group_name": [
+        "Vendetta"
+    ],
+    "group_description": "Ransomware, which appears to be a rebranding of win.cuba.",
+    "Victims count": 3,
+    "First discovered victims": "2023-02-12",
+    "Last discovered victim": "2023-02-27",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Chowtaifook",
+            "Discovery Date": "2023-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "Chow Tai Fook “Lodestar” CollectionCelebrate a Lustrous Love Story2023-01-26This Valentine's Day, le..."
+        },
+        {
+            "v_name": "Highwealth",
+            "Discovery Date": "2023-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "In the best location, build the best house, the best homeMore than 30 years ago, we started our busi..."
+        },
+        {
+            "v_name": "albouyassociesconsult",
+            "Discovery Date": "2023-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Nos originesCréée en 1946, l'entreprise a durant les trois premières décennies, développé sa notorié..."
+        }
+    ]
+}

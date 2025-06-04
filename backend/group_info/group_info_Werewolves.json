@@ -1,0 +1,190 @@
+{
+    "group_name": [
+        "Werewolves"
+    ],
+    "group_description": "None",
+    "Victims count": 26,
+    "First discovered victims": "2023-12-20",
+    "Last discovered victim": "2024-03-13",
+    "Avg Delay": "97.7 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 2,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Russian Federation": 14,
+                    "United States": 2,
+                    "France": 1,
+                    "Germany": 1,
+                    "Netherlands": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "vsexshop.ru",
+            "Discovery Date": "2024-03-13",
+            "Estimated Attack Date": "2024-03-04",
+            "v_description": "Компания VsexShop.Ru существует на рынке уже более 10 лет. За это время услугами нашего онлайн секс ..."
+        },
+        {
+            "v_name": "davidsbridal.com",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "2024-02-14",
+            "v_description": "David's Bridal — известная американская сеть свадебных магазинов, известная своим широким ассортимен..."
+        },
+        {
+            "v_name": "solveindustrial.com",
+            "Discovery Date": "2024-02-09",
+            "Estimated Attack Date": "2023-12-22",
+            "v_description": "Клиенты из самых разных отраслей обращаются к Solve Industrial Motion Group™ за подшипниками и компо..."
+        },
+        {
+            "v_name": "forabank.ru",
+            "Discovery Date": "2023-12-23",
+            "Estimated Attack Date": "2023-12-15",
+            "v_description": "АКБ «ФОРА-БАНК» (АО) зарегистрирован Банком России на рынке финансовых услуг 27 мая 1992 г. Входит в..."
+        },
+        {
+            "v_name": "vasexperts.ru",
+            "Discovery Date": "2023-12-23",
+            "Estimated Attack Date": "2023-12-17",
+            "v_description": "Компания VAS Experts — разработчик программного обеспечения для контроля и анализа трафика. Компания..."
+        },
+        {
+            "v_name": "bigcenters.rs",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-05-18",
+            "v_description": "Посетите ближайший БОЛЬШОЙторговый центр! Вас ждут более 1000магазинов самых известных мировыхи отеч..."
+        },
+        {
+            "v_name": "aek.mk",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-05-23",
+            "v_description": "We create favourable conditions for the effective and sustainable competition on the electronic comm..."
+        },
+        {
+            "v_name": "metalnet.nl",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-05-24",
+            "v_description": "Metalnet is a high-level supplier of machining operations. With our divisions for high-precision pre..."
+        },
+        {
+            "v_name": "interfides.de",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-05-25",
+            "v_description": "interfides Steuerberatungsgesellschaft mbH was established in 1978, and specialises in providing adv..."
+        },
+        {
+            "v_name": "lzaim38.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-06-17",
+            "v_description": "Компания \"Лёгкий ЗАЙМ\", имеющая в Иркутской области развитую сеть офисов микрофинансирования, предла..."
+        },
+        {
+            "v_name": "qb2b.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-07-01",
+            "v_description": "Компания занимается преимущественно бухгалтерским обслуживанием организаций малого бизнеса.Имеет хор..."
+        },
+        {
+            "v_name": "emprint.com",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-08-04",
+            "v_description": "Emprint предлагает различные решения для печати и бизнеса, такие как вариативная печать, переплет, п..."
+        },
+        {
+            "v_name": "lapostemobile.fr",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-08-28",
+            "v_description": "PosteMobile S.p.A. — итальянскаятелекоммуникационная компания,принадлежащая Poste Italiane S.p.A.кот..."
+        },
+        {
+            "v_name": "acac.com",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-13",
+            "v_description": "We’re dedicated to the integration of medicine and fitness to improve community health by focusing o..."
+        },
+        {
+            "v_name": "krasnoyarsk.amaks",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-14",
+            "v_description": "«АМАКС Сити-отель» - современный пятнадцатиэтажный бизнес-комплекс, который входит в гостиничную сет..."
+        },
+        {
+            "v_name": "avrora24.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-22",
+            "v_description": "755369 клиентов,поддерживаем высокий уровень качества услуг - согласно проведенным исследованиям, ин..."
+        },
+        {
+            "v_name": "habarovsk.amaks",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-24",
+            "v_description": "Уютный АМАКС Конгресс-отель располагается недалеко от спортивного комплекса «Платинум Арена» в Хабар..."
+        },
+        {
+            "v_name": "maritimebank.com",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-27",
+            "v_description": "МОРСКОЙ БАНК (АО) работает на рынке банковского обслуживания уже 34 года и является одним из старейш..."
+        },
+        {
+            "v_name": "croc.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-27",
+            "v_description": "ЗАО «КРОК инкорпорейтед» — российская компания, связанная с рынком информационных технологий. Работа..."
+        },
+        {
+            "v_name": "carmoney.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-29",
+            "v_description": "Общество с ограниченной ответственностью Микрофинансовая компания «КарМани».CarMoney - современный о..."
+        },
+        {
+            "v_name": "roomhotel-sochi.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-09-30",
+            "v_description": "Отель «RoomHotel» с видом на город удобно расположен в центре Сочи, рядом с Сочинским государственны..."
+        },
+        {
+            "v_name": "atol.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-10-04",
+            "v_description": "АТОЛ – IT-компания, ведущий российский производитель оборудования и разработчик программного обеспеч..."
+        },
+        {
+            "v_name": "gaztranscom.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-10-14",
+            "v_description": "Общество с ограниченной ответственностью «Газотранспортная компания» зарегистрировано Межрайонной ин..."
+        },
+        {
+            "v_name": "kailos.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-10-14",
+            "v_description": "Агентство деловых услуг \"Кайлос\" начало свою работу 28 ноября 2007 года с одного маленького офиса и ..."
+        },
+        {
+            "v_name": "promproektspb.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-11-02",
+            "v_description": "Компания была основана с целью занять достойное место на рынке экспертных услуг в сфере промышленной..."
+        },
+        {
+            "v_name": "auditexpertnn.ru",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "2023-11-02",
+            "v_description": "Центр бухгалтерских услуг «АУДИТ-ЭКСПЕРТ» принимает желание заказчика работать эффективно как профес..."
+        }
+    ]
+}

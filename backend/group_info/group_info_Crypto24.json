@@ -1,0 +1,95 @@
+{
+    "group_name": [
+        "Crypto24"
+    ],
+    "group_description": "None",
+    "Victims count": 10,
+    "First discovered victims": "2025-04-08",
+    "Last discovered victim": "2025-05-29",
+    "Avg Delay": "83 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial Services": 2,
+                    "Business Services": 2,
+                    "Technology": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Colombia": 1,
+                    "Egypt": 1,
+                    "India": 1,
+                    "Indonesia": 1,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Choice AG",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Choice AG\" is a Switzerland-based company that specializes in providing solutions fo..."
+        },
+        {
+            "v_name": "Elite Advanced Laser Corporation ( Elaser )",
+            "Discovery Date": "2025-05-28",
+            "Estimated Attack Date": "2025-03-06",
+            "v_description": "[AI generated] Elite Advanced Laser Corporation, or Elaser, is a company that specializes in the man..."
+        },
+        {
+            "v_name": "N8XT",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "3 TB data including Customer information, DB data, Technical documents, Projects data and Company-re..."
+        },
+        {
+            "v_name": "CMC Corperation",
+            "Discovery Date": "2025-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "2 TB data including Token Data, Database Data, Website Data, ... from MariaDB, MongoDB and RARS-DB e..."
+        },
+        {
+            "v_name": "ModulusGroup,Ludi-SFM",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "casino customer info, db, ERP data, casino system projects source code and so on...."
+        },
+        {
+            "v_name": "Taxplan",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Tax-related documents and data, database and programs..."
+        },
+        {
+            "v_name": "Mochtar Karuwin Komar: Indonesian law firm - MKK",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Legal advice, case-related documents, financial information, contracts, billing..."
+        },
+        {
+            "v_name": "technoforte software pvt ltd",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "All source codes of technoforte's main project - Palms(including mobile version)..."
+        },
+        {
+            "v_name": "International Busines Service",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Identity cards including front and back of about 3,000 people (image, pdf), HR reports, Pay document..."
+        },
+        {
+            "v_name": "Iris Neofinanciera",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "All files of google drives, google chatting data  ,workmanager documents(for last 5years) ,sql dbs a..."
+        }
+    ]
+}

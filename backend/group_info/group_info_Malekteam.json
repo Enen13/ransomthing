@@ -1,0 +1,73 @@
+{
+    "group_name": [
+        "Malekteam"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2023-12-24",
+    "Last discovered victim": "2024-04-05",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 2,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Israel": 5,
+                    "Switzerland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "emalon.co.il",
+            "Discovery Date": "2024-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "🔥Malek team in the newest cyber attack to Israeli sites, recently hacked emalon.co.il. \"emalon\" in h..."
+        },
+        {
+            "v_name": "Doctorim",
+            "Discovery Date": "2024-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "🔥\"Doctorim\" ,in Hebrew \"דוקתורים\" ,is the online medical site in Israel which attacked by Malek team..."
+        },
+        {
+            "v_name": "Beit Handesai",
+            "Discovery Date": "2024-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "Beit Handesai ,in Hebrew \"בית ההנדסאי\" , the engineering company in Israel attacked by Malek team 🔥 ..."
+        },
+        {
+            "v_name": "Ono Academic College",
+            "Discovery Date": "2023-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "👁 130000 records of Personal Information include First name Last name Email Address Phone number Hom..."
+        },
+        {
+            "v_name": "dorimedia",
+            "Discovery Date": "2023-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "🩸 Dori Media Group Hacked by Malek Team 🩸We have destroyed more than 100 TB data from this company. ..."
+        },
+        {
+            "v_name": "gav.co.il",
+            "Discovery Date": "2023-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "🔥🔥After infiltrating the network system of this site, we took the necessary access to it and transfe..."
+        },
+        {
+            "v_name": "ZIV Hospital",
+            "Discovery Date": "2023-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "The ZIV medical center in northern Israel, in Safed, hacked by Malek team 🔥 based on this successful..."
+        }
+    ]
+}

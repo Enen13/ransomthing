@@ -1,0 +1,65 @@
+{
+    "group_name": [
+        "Donex"
+    ],
+    "group_description": "None",
+    "Victims count": 5,
+    "First discovered victims": "2024-03-08",
+    "Last discovered victim": "2024-03-08",
+    "Avg Delay": "12.4 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Agriculture and Food Production": 1,
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Belgium": 1,
+                    "Czechia": 1,
+                    "Italy": 1,
+                    "United States": 1,
+                    "Netherlands": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "vdhelm",
+            "Discovery Date": "2024-03-08",
+            "Estimated Attack Date": "2024-02-22",
+            "v_description": "Van der Helm is a 4PL logistic service provider with a limitless passion for transport and logistics..."
+        },
+        {
+            "v_name": "PFLEET",
+            "Discovery Date": "2024-03-08",
+            "Estimated Attack Date": "2024-02-23",
+            "v_description": "P-Fleet is a leader in expense and payment management solutions for commercial fleets, including tho..."
+        },
+        {
+            "v_name": "elsapspa",
+            "Discovery Date": "2024-03-08",
+            "Estimated Attack Date": "2024-02-24",
+            "v_description": "Da oltre 50 anni, Elsap è un’impresa dedita alla rappresentanza e alla distribuzione di componenti e..."
+        },
+        {
+            "v_name": "CHOCOTOPIA",
+            "Discovery Date": "2024-03-08",
+            "Estimated Attack Date": "2024-02-27",
+            "v_description": "Chocotopia is a center of entertainment in the heart of Prague. You can visit here Museum of Chocola..."
+        },
+        {
+            "v_name": "mirel",
+            "Discovery Date": "2024-03-08",
+            "Estimated Attack Date": "2024-02-27",
+            "v_description": "Nous sommes votre partenaire en matière de recrutement et de sélection. Nous nous déplaçons sans eng..."
+        }
+    ]
+}

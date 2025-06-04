@@ -1,0 +1,85 @@
+{
+    "group_name": [
+        "Worldleaks"
+    ],
+    "group_description": "World Leaks emerged in January 2025 as a rebrand of the Hunters International ransomware operation, shifting its focus from file encryption to solely stealing sensitive data and threatening to leak it unless a ransom is paid",
+    "Victims count": 8,
+    "First discovered victims": "2025-05-18",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "30.5 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 3,
+                    "Hospitality and Tourism": 2,
+                    "Financial Services": 1,
+                    "Construction": 1,
+                    "Energy": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Romania": 1,
+                    "Belgium": 1,
+                    "France": 1,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Canadian Rocky Mountain Resorts",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Canadian Rocky Mountain Resorts is a hotel and hospitality company operating in the h..."
+        },
+        {
+            "v_name": "ASC Machine Tools",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ASC Machine Tools is a prominent manufacturer of high-quality, innovative, and depend..."
+        },
+        {
+            "v_name": "Valiant Energy Solutions",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Valiant Energy Solutions is a company specializing in energy-efficient home improveme..."
+        },
+        {
+            "v_name": "Sylvania",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Sylvania is a leading designer and manufacturer of lighting systems and specialty pro..."
+        },
+        {
+            "v_name": "A M King",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] A M King is a comprehensive design-build firm primarily serving the food processing, ..."
+        },
+        {
+            "v_name": "Indigo Group S.A.",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Indigo Group S.A. is a leading company operating in the parking management industry a..."
+        },
+        {
+            "v_name": "Horecamaterialen De Meester NV",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-05-07",
+            "v_description": "[AI generated] \"Horecamaterialen De Meester NV\" is a Belgium-based company that specializes in the w..."
+        },
+        {
+            "v_name": "Asco Tools",
+            "Discovery Date": "2025-05-18",
+            "Estimated Attack Date": "2025-03-29",
+            "v_description": "Asco Tools Company specialises in the production of sharp tools for wood, PVC and non-ferrous proces..."
+        }
+    ]
+}

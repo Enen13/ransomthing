@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Secp0"
+    ],
+    "group_description": "Encrypted Extension: .vanhelsing, .vanlocker. Targets Windows Platform only",
+    "Victims count": 1,
+    "First discovered victims": "2025-03-14",
+    "Last discovered victim": "2025-03-14",
+    "Avg Delay": "N/A",
+    "Infostealer": "100.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Terralogic",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "Due to Terralogic's unwillingness to cooperate, we are publishing evidence of the breach of their ne..."
+        }
+    ]
+}

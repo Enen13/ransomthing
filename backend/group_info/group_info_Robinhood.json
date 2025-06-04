@@ -1,0 +1,31 @@
+{
+    "group_name": [
+        "Robinhood"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 1,
+    "First discovered victims": "2021-12-06",
+    "Last discovered victim": "2021-12-06",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Besson Seguros",
+            "Discovery Date": "2021-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

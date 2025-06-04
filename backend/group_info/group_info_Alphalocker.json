@@ -1,0 +1,139 @@
+{
+    "group_name": [
+        "Alphalocker"
+    ],
+    "group_description": "None",
+    "Victims count": 17,
+    "First discovered victims": "2024-01-24",
+    "Last discovered victim": "2024-08-09",
+    "Avg Delay": "N/A",
+    "Infostealer": "5.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 6,
+                    "Manufacturing": 3,
+                    "Transportation/Logistics": 2,
+                    "Technology": 2,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "United Kingdom": 3,
+                    "Italy": 2,
+                    "Taiwan, Province of China": 1,
+                    "Iceland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.arkworkplacerisk.co.uk",
+            "Discovery Date": "2024-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "90GB DATA-Customer data -Financial data of the company -Employee information etc...."
+        },
+        {
+            "v_name": "goftac.com/ firsttx.com First Texas Alliance Corp (FTAC)",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)Providing advisory services to..."
+        },
+        {
+            "v_name": "www.carri.com",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "All important information downloaded from the https://www.carri.com servers will be placed here: -Cu..."
+        },
+        {
+            "v_name": "www.consorzioinnova.it",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "225GB DATAemployeesclientsdatabase and etc..."
+        },
+        {
+            "v_name": "goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)Providing advisory services to..."
+        },
+        {
+            "v_name": "biw-burger.de",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "100GB DATAemployeesclientsdatabase and etc..."
+        },
+        {
+            "v_name": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)",
+            "Discovery Date": "2024-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "https://goftac.com/    firsttx.com  First Texas Alliance Corp   (FTAC)Providing advisory services to..."
+        },
+        {
+            "v_name": "https://geodis.com",
+            "Discovery Date": "2024-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "GEODIS Thai Ltd. came under attack! All SQL bases of the company are available! We think there's a l..."
+        },
+        {
+            "v_name": "https://www.consorzioinnova.it",
+            "Discovery Date": "2024-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "225GB DATAemployeesclientsdatabase and etc..."
+        },
+        {
+            "v_name": "BM Catalysts    bmcatalysts.co.uk",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "BM Catalysts is the largest independent manufacturer of high-quality aftermarket catalytic converter..."
+        },
+        {
+            "v_name": "elandenergy.com         Eland Energy",
+            "Discovery Date": "2024-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "Eland Energy is an independent oil and natural gas exploration and production company. Eland's opera..."
+        },
+        {
+            "v_name": "IntegrityInc.org   Integrity Inc",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "IntegrityInc.org   Integrity, Inc. is an organization that provides home and community based service..."
+        },
+        {
+            "v_name": "https://www.carri.com",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "All important information downloaded from the https://www.carri.com servers will be placed here: -Cu..."
+        },
+        {
+            "v_name": "https://www.gadotbio.com/  Gadot Biochemical Industries Ltd",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Gadot Biochemical Industries LtdGBi is a leading manufacturer of food and nutraceutical ingredients,..."
+        },
+        {
+            "v_name": "accolade-group.com + levelwear.com +Taiwan  microelectronics(CRM).",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "accolade-group.com + levelwear.comLevelwear is a premium sports apparel brand providing on-trend, te..."
+        },
+        {
+            "v_name": "a24group.com  ambition24hours.co.za",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "The A24Group has been operating for over 27 years, providing high-quality temporary nurses and care ..."
+        },
+        {
+            "v_name": "https://www.mikeferry.com",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "We publish the database of Mike Ferry, it includes the entire accounting of the company, the CRM bas..."
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "group_name": [
+        "Pay2key"
+    ],
+    "group_description": "Pay2Key is ransomware that has been used by the threat actor Fox Kitten. The group seems to operate since July 2020, targetting mainly Israeli companies. Pay2Key has a darknet leak site to public stolen and sensitive information of their victims. Some of their victims: Intel - Habana Labs, IAI - Israel Aerospace Industries, Portnox - Network Security Solutions.",
+    "Victims count": 7,
+    "First discovered victims": "2020-12-13",
+    "Last discovered victim": "2021-09-09",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Israel": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "MT-LAW [Markman&Tomashin Law Firm]",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "INTER - InterElectric",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "InfiApps - Joyvoo",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Intel - Habana Labs",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IAI - Israel Aerospace Industries",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Portnox - Network Security Solutions",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Habana Labs",
+            "Discovery Date": "2020-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

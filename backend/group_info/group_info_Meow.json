@@ -1,0 +1,907 @@
+{
+    "group_name": [
+        "Meow"
+    ],
+    "group_description": "None",
+    "Victims count": 145,
+    "First discovered victims": "2023-11-24",
+    "Last discovered victim": "2024-11-19",
+    "Avg Delay": "31.1 days",
+    "Infostealer": "6.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 36,
+                    "Manufacturing": 17,
+                    "Agriculture and Food Production": 12,
+                    "Healthcare": 11,
+                    "Government": 9
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 53,
+                    "United Kingdom": 8,
+                    "Canada": 7,
+                    "Italy": 6,
+                    "Australia": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "San Francisco Ballet",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] San Francisco Ballet, founded in 1933, is one of America's oldest professional ballet..."
+        },
+        {
+            "v_name": "Zyloware",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 118 GB of confidential dat..."
+        },
+        {
+            "v_name": "Pine Belt Cars",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 8 GB of confidential data ..."
+        },
+        {
+            "v_name": "DieTech North America",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!<br>We are excited to offer exclusive access to over 85 GB of confidential data fr..."
+        },
+        {
+            "v_name": "Cottles Asphalt Maintenance Inc",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer exclusive access to over 40 GB of confidential data..."
+        },
+        {
+            "v_name": "Herron Todd White",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 298 GB of confidential dat..."
+        },
+        {
+            "v_name": "J.S.T. Espana",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer exclusive access to over 52 GB of confidential data..."
+        },
+        {
+            "v_name": "Karl Malone Toyota",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 120 GB of confidential dat..."
+        },
+        {
+            "v_name": "OMara Ag Equipment",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 93 GB of confidential data..."
+        },
+        {
+            "v_name": "Finger Beton Unternehmensgruppe",
+            "Discovery Date": "2024-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are thrilled to offer exclusive access to over 350 GB of confidential da..."
+        },
+        {
+            "v_name": "Karman Inc",
+            "Discovery Date": "2024-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!<br>We are pleased to offer exclusive access to over 148 GB of confidential data f..."
+        },
+        {
+            "v_name": "Equator Worldwide",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 9 GB of confidential data ..."
+        },
+        {
+            "v_name": "Lexco",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer exclusive access to over 28 GB of confidential data..."
+        },
+        {
+            "v_name": "Lincoln University",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer you exclusive access to over 21 GB of confidential ..."
+        },
+        {
+            "v_name": "Houston Housing Authority",
+            "Discovery Date": "2024-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer you exclusive access to over 38 GB of confidential ..."
+        },
+        {
+            "v_name": "Westwood Country Club",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer exclusive access to over 31 GB of confidential data..."
+        },
+        {
+            "v_name": "PT Transportasi Gas Indonesia",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer exclusive access to over 180 GB of confidential dat..."
+        },
+        {
+            "v_name": "The Eye Clinic Surgicenter",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are thrilled to offer you exclusive access to over 59 GB of confidential..."
+        },
+        {
+            "v_name": "By Design LLC",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are thrilled to present you with exclusive access to over 550 GB of conf..."
+        },
+        {
+            "v_name": "Youngs Timber Builders Merchants",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer you exclusive access to over 64 GB of confidential ..."
+        },
+        {
+            "v_name": "KEE Process",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer you exclusive access to over 126 GB of confidential..."
+        },
+        {
+            "v_name": "Arango Billboard",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are offering exclusive access to over 15 GB of confidential data from Ar..."
+        },
+        {
+            "v_name": "Sanglier Limited",
+            "Discovery Date": "2024-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are pleased to offer you exclusive access to over 43 GB of confidential ..."
+        },
+        {
+            "v_name": "Astero",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "<p>Dear customers!</p><p>We are excited to offer you exclusive access to over 26 GB of confidential ..."
+        },
+        {
+            "v_name": "Rocky Mountain Gastroenterology",
+            "Discovery Date": "2024-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Rocky Mountain Gastroenterology is a healthcare provider specializing in the diagnosis and treatment..."
+        },
+        {
+            "v_name": "Modiin Ezrachi",
+            "Discovery Date": "2024-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "Modiin Ezrachi is an Israeli security company specializing in providing a wide range of security ser..."
+        },
+        {
+            "v_name": "OSG Tool",
+            "Discovery Date": "2024-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "OSG Tool is a leading manufacturer of cutting tools, including taps, end mills, drills, and indexabl..."
+        },
+        {
+            "v_name": "Unita Turism",
+            "Discovery Date": "2024-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "Unita Turism is a Romanian company involved in the hospitality and tourism industry. It operates a r..."
+        },
+        {
+            "v_name": "The Law Office of Omar O Vargas",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "The Law Office of Omar O. Vargas is a legal practice specializing in immigration law. The firm is de..."
+        },
+        {
+            "v_name": "La Futura",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "\"La Futura\" is a forward-thinking company specializing in trend forecasting and innovation consultan..."
+        },
+        {
+            "v_name": "Barnes Cohen and Sullivan",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "I'm sorry, but I couldn't find any information on a company named \"Barnes Cohen and Sullivan.\" It's ..."
+        },
+        {
+            "v_name": "Atlantic Coast Consulting Inc",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Atlantic Coast Consulting Inc is a professional firm specializing in environmental consulting and en..."
+        },
+        {
+            "v_name": "CANEA ONE",
+            "Discovery Date": "2024-10-09",
+            "Estimated Attack Date": "2024-08-22",
+            "v_description": "CANEA ONE is a comprehensive software suite designed to enhance organizational performance through e..."
+        },
+        {
+            "v_name": "Advantage CDC",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Advantage CDC is a community development corporation focused on fostering economic growth and revita..."
+        },
+        {
+            "v_name": "Trinity Wholesale Distributors Inc",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Trinity Wholesale Distributors Inc is a company specializing in the distribution of a wide range of ..."
+        },
+        {
+            "v_name": "Maxdream",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Maxdream is a company specializing in innovative solutions across various sectors, such as technolog..."
+        },
+        {
+            "v_name": "Davis Pickren Seydel and Sneed LLP",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Davis Pickren Seydel & Sneed LLP is a law firm that provides a range of legal services. Known for it..."
+        },
+        {
+            "v_name": "Accurate Railroad Construction Ltd",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Accurate Railroad Construction Ltd is a company specializing in the design, construction, and mainte..."
+        },
+        {
+            "v_name": "The Superior Court of California",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "The Superior Court of California is a state trial court with jurisdiction over civil, criminal, fami..."
+        },
+        {
+            "v_name": "Corantioquia",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Corantioquia, or Corporación Autónoma Regional del Centro de Antioquia, is a regional environmental ..."
+        },
+        {
+            "v_name": "Community Hospital of Anaconda",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "The Community Hospital of Anaconda, located in Anaconda, Montana, is a healthcare facility dedicated..."
+        },
+        {
+            "v_name": "Lee Hoffoss Injury Lawyers",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "Lee Hoffoss Injury Lawyers is a legal firm specializing in personal injury cases, based in Lake Char..."
+        },
+        {
+            "v_name": "Freshstart Credit Repair",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "Freshstart Credit Repair is a company dedicated to helping individuals improve their credit scores a..."
+        },
+        {
+            "v_name": "MacGillivray Law",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "MacGillivray Law is a prominent Canadian law firm specializing in personal injury and insurance liti..."
+        },
+        {
+            "v_name": "Alvan Blanch",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Alvan Blanch is a UK-based company specializing in the design and manufacturing of agricultural mach..."
+        },
+        {
+            "v_name": "Moeller Door and Window",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Moeller Door and Window is a reputable company specializing in high-quality door and window solution..."
+        },
+        {
+            "v_name": "OffRoadAction",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "OffRoadAction is an adventurous company specializing in off-road experiences and events. They offer ..."
+        },
+        {
+            "v_name": "SaniRent",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "SaniRent specializes in providing high-quality, temporary sanitation solutions for events, construct..."
+        },
+        {
+            "v_name": "Environmental Code Consultants Inc",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Environmental Code Consultants Inc is a specialized firm dedicated to providing expert guidance on e..."
+        },
+        {
+            "v_name": "EnviroNET Inc",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "EnviroNET Inc is a leading environmental consulting firm specializing in sustainable solutions for b..."
+        },
+        {
+            "v_name": "Robson Planning Group Inc",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Robson Planning Group Inc is a specialized financial advisory firm that offers comprehensive wealth ..."
+        },
+        {
+            "v_name": "Carpenter McCadden and Lane LLP",
+            "Discovery Date": "2024-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "Carpenter McCadden and Lane LLP is a distinguished law firm renowned for its expertise in corporate ..."
+        },
+        {
+            "v_name": "CSMR Agrupación de Colaboración Empresaria",
+            "Discovery Date": "2024-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "CSMR Agrupación de Colaboración Empresaria is a collaborative business group focused on fostering sy..."
+        },
+        {
+            "v_name": "Advanced Physician Management Services LLC",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "Advanced Physician Management Services LLC is a healthcare management company specializing in provid..."
+        },
+        {
+            "v_name": "Arville",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "Arville is a specialized textile manufacturer known for its expertise in producing high-performance ..."
+        },
+        {
+            "v_name": "IDF and Mossad agents",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "\"IDF and Mossad agents\" is not a company but rather refers to operatives from two distinct Israeli o..."
+        },
+        {
+            "v_name": "Myelec Electrical",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "Myelec Electrical is a professional electrical services company specializing in residential, commerc..."
+        },
+        {
+            "v_name": "Nocciole Marchisio",
+            "Discovery Date": "2024-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "Nocciole Marchisio is an Italian company renowned for its premium hazelnut products. Located in Pied..."
+        },
+        {
+            "v_name": "Elsoms Seeds",
+            "Discovery Date": "2024-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "Elsoms Seeds is a leading UK-based seed specialist established in 1844. The company focuses on breed..."
+        },
+        {
+            "v_name": "Caseificio Alta Valsesia",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Caseificio Alta Valsesia is an Italian dairy company renowned for its high-quality cheese production..."
+        },
+        {
+            "v_name": "Donco and Sons Inc.",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Donco and Sons Inc. is a family-owned business specializing in high-quality, sustainable agricultura..."
+        },
+        {
+            "v_name": "Grupo Modesto Cerqueira",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Grupo Modesto Cerqueira is a prominent Portuguese company specializing in the production and distrib..."
+        },
+        {
+            "v_name": "NOBI AS",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "NOBI AS is a Norwegian company specializing in innovative smart home solutions. It focuses on enhanc..."
+        },
+        {
+            "v_name": "Instituto Cardiovascular del Cesar",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Instituto Cardiovascular del Cesar is a medical institution specializing in cardiovascular care loca..."
+        },
+        {
+            "v_name": "Special Oilfield Services Company LLC",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Special Oilfield Services Company LLC is a prominent energy services provider based in the Middle Ea..."
+        },
+        {
+            "v_name": "Diamcad",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Diamcad is a distinguished company specializing in the precision cutting and shaping of diamonds. Re..."
+        },
+        {
+            "v_name": "Woden",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Woden is a company that specializes in brand strategy and storytelling. They help businesses articul..."
+        },
+        {
+            "v_name": "Y. Shilat Management Services Ltd",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Y. Shilat Management Services Ltd is a company specializing in providing comprehensive management so..."
+        },
+        {
+            "v_name": "Success Microfinance Bank",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Success Microfinance Bank is a financial institution focused on providing accessible financial servi..."
+        },
+        {
+            "v_name": "WT Gruber Steuerberatung GmbH",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "WT Gruber Steuerberatung GmbH is a professional tax consulting firm based in Germany. It specializes..."
+        },
+        {
+            "v_name": "Finlogic S.p.A",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "Finlogic S.p.A is an Italian company specializing in the production of labeling and product identifi..."
+        },
+        {
+            "v_name": "Barkal Food Industries",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "Barkal Food Industries is a dynamic company specializing in the production and distribution of high-..."
+        },
+        {
+            "v_name": "Modulkit",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "Modulkit is an innovative company specializing in modular construction solutions. They offer a range..."
+        },
+        {
+            "v_name": "Artesanía Chopo",
+            "Discovery Date": "2024-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "Artesanía Chopo is a distinguished Spanish company renowned for its high-quality, handcrafted wooden..."
+        },
+        {
+            "v_name": "All Parks Insurance",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "All Parks Insurance specializes in providing comprehensive insurance solutions tailored for the uniq..."
+        },
+        {
+            "v_name": "Vans Lumber and Custom Builders",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Vans Lumber and Custom Builders is a family-owned business specializing in high-quality lumber suppl..."
+        },
+        {
+            "v_name": "Optimize EGS",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Optimize EGS is a forward-thinking company specializing in Environmental, Social, and Governance (ES..."
+        },
+        {
+            "v_name": "Complete Payroll Solutions",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Complete Payroll Solutions is a comprehensive human resource and payroll service provider. They offe..."
+        },
+        {
+            "v_name": "South American Tours",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "South American Tours is a specialized travel company dedicated to offering immersive and custom-tail..."
+        },
+        {
+            "v_name": "Burns Industrial Equipment",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Burns Industrial Equipment is a leading provider of material handling solutions, offering a wide ran..."
+        },
+        {
+            "v_name": "Certified Transmission",
+            "Discovery Date": "2024-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "Certified Transmission is a company specializing in the remanufacturing and repair of automotive tra..."
+        },
+        {
+            "v_name": "Lennartsfors AB",
+            "Discovery Date": "2024-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Lennartsfors AB is a Swedish company known for its expertise in manufacturing machinery and equipmen..."
+        },
+        {
+            "v_name": "Rostance Edwards",
+            "Discovery Date": "2024-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Rostance Edwards is a legal firm known for delivering high-quality legal services across various pra..."
+        },
+        {
+            "v_name": "Zydus Pharmaceuticals",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "Zydus Pharmaceuticals is a prominent global healthcare company based in India. It specializes in the..."
+        },
+        {
+            "v_name": "American Contract Systems",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "American Contract Systems (ACS) is a healthcare company specializing in providing sterile and non-st..."
+        },
+        {
+            "v_name": "Element Food Solutions",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "Element Food Solutions is a company specializing in the development and production of high-quality, ..."
+        },
+        {
+            "v_name": "Aerotech Solutions",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "Aerotech Solutions is a technology-driven company specializing in aerospace engineering and advanced..."
+        },
+        {
+            "v_name": "E-Z UP",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Safefood",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gaston Fence",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FatBoy Cellular",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KLA",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "HUD User",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Banx Systems",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CPA Tax Solutions",
+            "Discovery Date": "2024-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WPG Holdings",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "National Beverage",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PeoplesHR",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dometic Group",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Remitano",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Premier Equities",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Texas Tech University",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Global Industry Analysts",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "669..."
+        },
+        {
+            "v_name": "Encore",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Daikin",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "692..."
+        },
+        {
+            "v_name": "Miami Gardens Florida",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Nuclep",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Andersen Tax",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Physical Medicine Rehabilitation Center",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Villarreal and Begum Law Firm",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greenheck",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "9000$..."
+        },
+        {
+            "v_name": "CBIZ Inc",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "6999$..."
+        },
+        {
+            "v_name": "Hewlett Packard Enterprise",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "199$..."
+        },
+        {
+            "v_name": "BCS Systems",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "2000$..."
+        },
+        {
+            "v_name": "Guhring",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "10000$..."
+        },
+        {
+            "v_name": "Odfjell Drilling",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "3000$..."
+        },
+        {
+            "v_name": "Golan Christie Taglia",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "500$..."
+        },
+        {
+            "v_name": "First Commonwealth Federal Credit Union",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "100000$..."
+        },
+        {
+            "v_name": "CBIZ, Inc",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Greenheck Fan",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "GE Aerospace",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Biomedical Research Institute",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Future Generations Foundation",
+            "Discovery Date": "2024-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "River Delta Unified School District",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "FREE..."
+        },
+        {
+            "v_name": "Disaronno International",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Allmetal Inc.",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Freedom Munitions",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Arlington Perinatal Associates",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "FREE..."
+        },
+        {
+            "v_name": "Southwark Council",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Winona Pattern & Mold",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "Lake of the Woods County",
+            "Discovery Date": "2023-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Bladen County Public Library",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "SALE..."
+        },
+        {
+            "v_name": "RCSB PDB",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Tulane University",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Memorial Sloan Kettering Cancer Center",
+            "Discovery Date": "2023-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Agamatrix",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Katsky Korins",
+            "Discovery Date": "2023-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "PREVIEW..."
+        },
+        {
+            "v_name": "Giti",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-09-04",
+            "v_description": "100% leaked..."
+        },
+        {
+            "v_name": "WemaBank",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-09-14",
+            "v_description": "Preview..."
+        },
+        {
+            "v_name": "Es Saadi",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-05",
+            "v_description": "100% LEAKED..."
+        },
+        {
+            "v_name": "Zenithpharma",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-05",
+            "v_description": "15% LEAKED..."
+        },
+        {
+            "v_name": "Back Roads",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-05",
+            "v_description": "1% LEAKED..."
+        },
+        {
+            "v_name": "Equaldex",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-09",
+            "v_description": "100% LEAKED..."
+        },
+        {
+            "v_name": "Vanderbilt University Medical Center",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-18",
+            "v_description": "100% LEAKED..."
+        },
+        {
+            "v_name": "Standard Filter",
+            "Discovery Date": "2023-11-24",
+            "Estimated Attack Date": "2023-11-22",
+            "v_description": "PREVIEW..."
+        }
+    ]
+}

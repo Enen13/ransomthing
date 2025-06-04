@@ -1,0 +1,91 @@
+{
+    "group_name": [
+        "Datacarry"
+    ],
+    "group_description": "None",
+    "Victims count": 9,
+    "First discovered victims": "2025-05-26",
+    "Last discovered victim": "2025-05-29",
+    "Avg Delay": "205.5 days",
+    "Infostealer": "25.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Consumer Services": 3,
+                    "Financial Services": 2,
+                    "Healthcare": 2,
+                    "Business Services": 1,
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Belgium": 2,
+                    "Latvia": 1,
+                    "Türkiye": 1,
+                    "South Africa": 1,
+                    "Switzerland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Alliance Healthcare IT",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Alliance Healthcare IT is a company dedicated to providing advanced healthcare inform..."
+        },
+        {
+            "v_name": "La Maison Liégeoise",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"La Maison Liégeoise\" is a Belgian company that sells Carlina tapioca, an original pr..."
+        },
+        {
+            "v_name": "Executive Jet Support",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "[AI generated] Executive Jet Support is a UK-based company that specializes in providing comprehensi..."
+        },
+        {
+            "v_name": "alles Lægehus",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Mammut Sports Group",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2024-09-27",
+            "v_description": "[AI generated] Mammut Sports Group is a Swiss multinational company that specializes in producing an..."
+        },
+        {
+            "v_name": "FrontierCo",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Étude Bordet",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-01-12",
+            "v_description": "[AI generated] \"Étude Bordet\" is a estate firm specializing in property auctions. They provide a var..."
+        },
+        {
+            "v_name": "ALB Forex",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "[AI generated] ALB Forex is a financial services company based in Turkey. It specializes in forex tr..."
+        },
+        {
+            "v_name": "Balcia Insurance",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "[AI generated] Balcia Insurance SE is a European insurer founded in 1993 and based in Latvia. It off..."
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "group_name": [
+        "Frag"
+    ],
+    "group_description": "None",
+    "Victims count": 28,
+    "First discovered victims": "2025-03-24",
+    "Last discovered victim": "2025-04-04",
+    "Avg Delay": "86.6 days",
+    "Infostealer": "3.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 4,
+                    "Financial Services": 4,
+                    "Construction": 3,
+                    "Manufacturing": 3,
+                    "Technology": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 20,
+                    "United Kingdom": 3,
+                    "Canada": 1,
+                    "Netherlands": 1,
+                    "Iran, Islamic Republic of": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Source Photonics",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "Source Photonics is a leading global provider of innovative and reliable technology that enables com..."
+        },
+        {
+            "v_name": "AmeriKen Die Supply, Inc",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "Packaging and Containers Manufacturing\n\n\nA leader and innovator in the die supply industry.\n\n\nOur te..."
+        },
+        {
+            "v_name": "Andrew Davidson & Co., Inc.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "Financial Services\n\nAndrew Davidson & Co., Inc. is a leading provider of risk analytics and consulti..."
+        },
+        {
+            "v_name": "AeroWorx",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-11-19",
+            "v_description": "Aviation and Aerospace Component Manufacturing\n\nAeroWorx has quickly grown to become a leading FAA r..."
+        },
+        {
+            "v_name": "Bunting Capital Management Inc",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-02-28",
+            "v_description": "Finance\n\nBunting Capital Management, located in Virginia Beach, is a team of financial advisors at W..."
+        },
+        {
+            "v_name": "California Gasket and Rubber Corporation",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-02-28",
+            "v_description": "Aviation and Aerospace Component Manufacturing\n\nCalifornia Gasket and Rubber Corporation (CGR) was e..."
+        },
+        {
+            "v_name": "Community Management, Inc.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-21",
+            "v_description": "Business Consulting and Services\n\nCMI is an Oregon Corporation headquartered in Portland, Oregon. Ka..."
+        },
+        {
+            "v_name": "Ellis Glass and Mirror Ltd",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-22",
+            "v_description": "Construction\n\nEllis Glass and Mirror Ltd has been supplying contractors, professionals, and homeowne..."
+        },
+        {
+            "v_name": "Texas Fifth Wall Roofing Systems",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Construction\n\nTexas Fifth Wall Roofing Systems, founded in 1973, works with builders, tenants, owner..."
+        },
+        {
+            "v_name": "FRANKLIN PRODUCTS",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-19",
+            "v_description": "Airlines and Aviation\n\nFranklin Products, seat frame manufacturers and airlines each bring different..."
+        },
+        {
+            "v_name": "Kontane Logistics, Inc.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Business Services\n\nFounded in 1975, Kontane Logistics, Inc. offers a variety services, including war..."
+        },
+        {
+            "v_name": "Lake Beverage Corp.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Wholesale\n\nLake Beverage is a family-owned business that sells and distributes some of the finest be..."
+        },
+        {
+            "v_name": "Maine Highlands Federal Credit Union",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "[redacted]Our team was successful in extracting the following documents:\n\nFinancial statements of th..."
+        },
+        {
+            "v_name": "Red Credit solution, LLC",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-15",
+            "v_description": "Business Services\n\nRed Credit Solutions is a debt collection and purchasing agency located in Bellev..."
+        },
+        {
+            "v_name": "Moody Homes",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Real Estate\n\nMoody Development Corporation builders and developers of quality  new homes, including ..."
+        },
+        {
+            "v_name": "iTEK Services, Inc.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "IT Services and IT Consulting\n\nRetail is a core competency; however iTEK have subject matter knowled..."
+        },
+        {
+            "v_name": "Komoto Healthcare",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Hospitals and Health Care\n\nKomoto Healthcare is a group of specialty healthcare companies driven by ..."
+        },
+        {
+            "v_name": "Nelson Law Firm",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Law Firms & Legal Services\n\nNelson Law Firm specializes in knowing the rights and responsibilities o..."
+        },
+        {
+            "v_name": "Opulent",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-07",
+            "v_description": "Appliances, Electrical, and Electronics Manufacturing\n\nA one-stop electronics manufacturer with wide..."
+        },
+        {
+            "v_name": "Rahnama Law",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Legal Services\n\nProudly protecting the rights of innocent victims since 1996 and recovering over $75..."
+        },
+        {
+            "v_name": "QUILTCRAFT",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-23",
+            "v_description": "Household Goods\n\nQuiltcraft offers an extensive line of products and services for the healthcare, ho..."
+        },
+        {
+            "v_name": "Salvi, Schostok & Pritchard P.C.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-18",
+            "v_description": "Law Practice\n\nYour IL Medical Malpractice and Personal Injury Attorneys. Over $2.5 billion recovered..."
+        },
+        {
+            "v_name": "Southwest Inspection and Testing",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "Commercial & Residential Construction\n\nSouthwest Inspection and Testing offers a full range of speci..."
+        },
+        {
+            "v_name": "STATEWIDE ENTERPRISES",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-10-23",
+            "v_description": "Real Estate\n\nStatewide Enterprises is a full-service property management company that was originally..."
+        },
+        {
+            "v_name": "Stuwarooij",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-09-24",
+            "v_description": "Transportation, Logistics, Supply Chain and Storage\n\nFor over 25 years Stuwarooij have been providin..."
+        },
+        {
+            "v_name": "Superior Technology, Inc.",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-11-17",
+            "v_description": "Machinery Manufacturing\n\nSuperior Technology, Inc. are a family owned and operated precision machine..."
+        },
+        {
+            "v_name": "Woodbine Hospitality",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2024-11-21",
+            "v_description": "Hospitality\n\nWoodbine Hospitality is a family of companies that continues to grow and expand, offeri..."
+        },
+        {
+            "v_name": "SEAQUEST SEAFOOD",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "2025-03-14",
+            "v_description": "Seaquest Seafood specializes in processing, imports, and wholesale distribution of seafood. \n\n\n\nOur ..."
+        }
+    ]
+}

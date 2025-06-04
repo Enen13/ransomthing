@@ -1,0 +1,13 @@
+{
+    "group_name": [
+        "Contfr"
+    ],
+    "group_description": "RAAS - Ransomware intégré à un fichier PDF, à faire ouvrir à vos victimes ou à insérer vous-même, Windows et Mac, ne fonctionne pas sur Linux. Tableau de vitcimes et récupération de données possible depuis votre espace abonné. Configuration de votre ransomware à votre première connexion, puis modification possible selon votre formule.",
+    "Victims count": "",
+    "First discovered victims": "",
+    "Last discovered victim": "",
+    "Avg Delay": "",
+    "Infostealer": "",
+    "Target": [],
+    "victims": []
+}

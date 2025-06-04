@@ -1,0 +1,79 @@
+{
+    "group_name": [
+        "Rook"
+    ],
+    "group_description": "According to PCrisk, Rook is ransomware (an updated variant of Babuk) that prevents victims from accessing/opening files by encrypting them. It also modifies filenames and creates a text file/ransom note (HowToRestoreYourFiles.txt). Rook renames files by appending the .Rook extension. For example, it renames 1.jpg to 1.jpg.Rook, 2.jpg to 2.jpg.Rook.",
+    "Victims count": 9,
+    "First discovered victims": "2021-12-07",
+    "Last discovered victim": "2022-01-08",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Abdi ibrahim",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Evalueserve",
+            "Discovery Date": "2021-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DENSO",
+            "Discovery Date": "2021-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Data breach summary",
+            "Discovery Date": "2021-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rossell Techsys(Data will be given tomorrow)",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KMG Prestige, Inc. (Data will be given tomorrow)",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rosendahl Design Group",
+            "Discovery Date": "2021-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rossell Techsys",
+            "Discovery Date": "2021-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KMG Prestige, Inc.",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

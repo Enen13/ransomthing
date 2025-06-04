@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Slug"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2024-01-18",
+    "Last discovered victim": "2024-01-18",
+    "Avg Delay": "3 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Ireland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "aercap.com",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "2024-01-15",
+            "v_description": "About aercap: Our commitment to excellence is manifested by our comprehensive, innovative and tailor..."
+        }
+    ]
+}

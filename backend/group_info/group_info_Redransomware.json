@@ -1,0 +1,133 @@
+{
+    "group_name": [
+        "Redransomware"
+    ],
+    "group_description": "None",
+    "Victims count": 16,
+    "First discovered victims": "2024-03-28",
+    "Last discovered victim": "2024-06-12",
+    "Avg Delay": "21.3 days",
+    "Infostealer": "26.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 5,
+                    "Business Services": 4,
+                    "Manufacturing": 3,
+                    "Healthcare": 1,
+                    "Hospitality and Tourism": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 7,
+                    "Mexico": 2,
+                    "Denmark": 1,
+                    "Belgium": 1,
+                    "Spain": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Kutes.com",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "Building Materials..."
+        },
+        {
+            "v_name": "Aircod.com",
+            "Discovery Date": "2024-05-28",
+            "Estimated Attack Date": "",
+            "v_description": "Cloud-based Digitalization Platform..."
+        },
+        {
+            "v_name": "Sullairargentina.com",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Industrial Machinery & Equipment..."
+        },
+        {
+            "v_name": "Targus.com",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "Computer Equipment & Peripherals..."
+        },
+        {
+            "v_name": "K2systems.ca",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "K2 Systems is a full service Information Technology provider...."
+        },
+        {
+            "v_name": "Sfi-wfc.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "sfi-wfc.com..."
+        },
+        {
+            "v_name": "Bendallmednick",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Bendall Mednick..."
+        },
+        {
+            "v_name": "Comohotels.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "A multi-award-winning, family-owned group of luxury hotels and resorts worldwide at inspiring destin..."
+        },
+        {
+            "v_name": "Aluminumtrailer.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "(atctrailers.com)Our trailers are constructed with a fully integrated, welded aluminum frame that is..."
+        },
+        {
+            "v_name": "Southcoindustries.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Forestry Truck Body manufacturer. Custom Steel Fabricator Custom and Specialty products...."
+        },
+        {
+            "v_name": "Kogok.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Kogok Corporation is an industry leader in performance and customer satisfaction by continually unde..."
+        },
+        {
+            "v_name": "Baystate.edu",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Bay State College is a private, career-focused college with campuses in Boston's Back Bay, Taunton, ..."
+        },
+        {
+            "v_name": "Tecnolite.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "We are the biggest venetian blinds wood slat manufacturer in Europe, strong of a total vertically in..."
+        },
+        {
+            "v_name": "Solucionesls.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Solucionesls.com..."
+        },
+        {
+            "v_name": "Saglobal.com",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "sa.global is the leading Microsoft global implementation partner for project-based cloud ERP solutio..."
+        },
+        {
+            "v_name": "Thors-Data.dk",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "Holding Companies & Conglomerates..."
+        }
+    ]
+}

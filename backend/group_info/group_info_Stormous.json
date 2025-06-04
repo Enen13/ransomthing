@@ -1,0 +1,895 @@
+{
+    "group_name": [
+        "Stormous"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 143,
+    "First discovered victims": "2022-03-22",
+    "Last discovered victim": "2025-05-31",
+    "Avg Delay": "9.2 days",
+    "Infostealer": "23.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Hospitality and Tourism": 11,
+                    "Technology": 10,
+                    "Business Services": 8,
+                    "Government": 6,
+                    "Healthcare": 6
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Spain": 10,
+                    "United Arab Emirates": 7,
+                    "United States": 6,
+                    "Brazil": 5,
+                    "France": 4
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Volkswagen Group",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "",
+            "v_description": "User account data (partially hidden emails)\n                          Authentication tokens (OAuth t..."
+        },
+        {
+            "v_name": "French Gov 2025",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "We present a comprehensive leak including full email addresses and password hashes from multiple hig..."
+        },
+        {
+            "v_name": "www.seashoremotel.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "A large amount of valid banking card data from various sources – customer information from ID cards,..."
+        },
+        {
+            "v_name": "www.wirebangkok.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "www.axxoshotels.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "IPT – customer data – 2025 bookings – identity cards and more...."
+        },
+        {
+            "v_name": "crystalhotels.com.tr",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "Full names of hotel guests a\n          Email addresses (internal and external)\n          Customer co..."
+        },
+        {
+            "v_name": "nirvanahotels.com.tr",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "Full names of hotel guests a\n    Email addresses (internal and external)\n    Customer complaints and..."
+        },
+        {
+            "v_name": "thewatermansarms.net",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "www.atolon-parkhotel.com",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "CVs - FACTURES - Hwawei.com - AA GROUPE 2025 - RESERVATION 2025 - PERSONNELS - INFOS - STAGIAIRES ....."
+        },
+        {
+            "v_name": "www.jparkislandresort.com",
+            "Discovery Date": "2025-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "Full reservation databases\n                         Booking platform references (including HeyTripGo..."
+        },
+        {
+            "v_name": "www.regencytorviscas.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "Full customer reservation databases (names, phones, emails, addresses, booking dates)\n\n        Scann..."
+        },
+        {
+            "v_name": "www.regencycountryclub.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "Full customer reservation databases (names, phones, emails, addresses, booking dates)\n\n        Scann..."
+        },
+        {
+            "v_name": "www.regencyrestors.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "Full customer reservation databases (names, phones, emails, addresses, booking dates)\n\n        Scann..."
+        },
+        {
+            "v_name": "enersolcr.com",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-14",
+            "v_description": "Internal Data - System Data - 73 Partner Data - Customer Data (Email, Name, Phone Number) - Admin Da..."
+        },
+        {
+            "v_name": "KYC UK",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-03-17",
+            "v_description": "ENJOY!..."
+        },
+        {
+            "v_name": "Wizz Air",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-04-30",
+            "v_description": "The response stated: \"Wizz Air has strong security systems in place, designed to protect the sensiti..."
+        },
+        {
+            "v_name": "cmr24.by",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "Data Size: 5GB, Status: Leaked, Data Type: Account statements and payment checks A list of delinquen..."
+        },
+        {
+            "v_name": "turbomp.com",
+            "Discovery Date": "2025-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "Data Size: 700GB, Status: ?, Data Type: Because this company receives product design drawings from o..."
+        },
+        {
+            "v_name": "biodimed.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "2024-12-10",
+            "v_description": "Data :60GB - Status: ? - Data type: Email operations associated with all employees - attachments inc..."
+        },
+        {
+            "v_name": "uatf.edu.bo",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "Personal data of students, such as addresses, phone numbers, and more ... Internal correspondence of..."
+        },
+        {
+            "v_name": "guardianhc.com",
+            "Discovery Date": "2024-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "Data Size: 3GB, Status: Leaked, Data Type: Apps - Attachments - Daily Admission Copies - Documents -..."
+        },
+        {
+            "v_name": "Transak.com",
+            "Discovery Date": "2024-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "Data Size: 300GB, Status: ?, Data Type:  We have extracted more than 300GB of data, which includes s..."
+        },
+        {
+            "v_name": "fractal.id",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "THE FULL LEAK OF FRACTAL ID IS HERE ! web.fractal.id\n\nWe have extracted over 10GB of DATA from the K..."
+        },
+        {
+            "v_name": "AOSense",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "The data leak of AOSense/NASA and Ascires will be updated today ***\n\nBe ready..."
+        },
+        {
+            "v_name": "Ascires",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "The data leak of AOSense/NASA and Ascires will be updated today ***\n\nBe ready..."
+        },
+        {
+            "v_name": "Ascires Biomedical Group",
+            "Discovery Date": "2024-10-13",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "Data Breach at Ascires Biomedical Group here! \n\nWe have extracted over 700 GB of data from the syste..."
+        },
+        {
+            "v_name": "lyra.officegroup.it",
+            "Discovery Date": "2024-10-06",
+            "Estimated Attack Date": "2024-10-03",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "aosense.com",
+            "Discovery Date": "2024-10-06",
+            "Estimated Attack Date": "2024-10-05",
+            "v_description": "US..."
+        },
+        {
+            "v_name": "NASA/AOSense",
+            "Discovery Date": "2024-10-06",
+            "Estimated Attack Date": "2024-10-05",
+            "v_description": "US..."
+        },
+        {
+            "v_name": "asobostudio",
+            "Discovery Date": "2024-10-02",
+            "Estimated Attack Date": "2024-09-30",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "acuity.co.uk",
+            "Discovery Date": "2024-10-02",
+            "Estimated Attack Date": "2024-09-05",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "jatelindo",
+            "Discovery Date": "2024-09-14",
+            "Estimated Attack Date": "2024-09-11",
+            "v_description": "Indonésie..."
+        },
+        {
+            "v_name": "mivideo.club",
+            "Discovery Date": "2024-09-14",
+            "Estimated Attack Date": "2024-09-13",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "TELECO",
+            "Discovery Date": "2024-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "italy..."
+        },
+        {
+            "v_name": "intrama-bg",
+            "Discovery Date": "2024-07-28",
+            "Estimated Attack Date": "",
+            "v_description": "Bulgaria..."
+        },
+        {
+            "v_name": "HITC.VN",
+            "Discovery Date": "2024-07-09",
+            "Estimated Attack Date": "2024-06-30",
+            "v_description": "Vietnam..."
+        },
+        {
+            "v_name": "Barid soft",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Iran..."
+        },
+        {
+            "v_name": "sharik",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "UAE..."
+        },
+        {
+            "v_name": "tdra",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "UAE..."
+        },
+        {
+            "v_name": "fanr.gov.ae",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "UAE..."
+        },
+        {
+            "v_name": "Bayanat",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "UAE..."
+        },
+        {
+            "v_name": "kidx",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "UAE..."
+        },
+        {
+            "v_name": "casio india",
+            "Discovery Date": "2024-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "India..."
+        },
+        {
+            "v_name": "paginesi",
+            "Discovery Date": "2024-03-18",
+            "Estimated Attack Date": "2024-03-17",
+            "v_description": "Italie..."
+        },
+        {
+            "v_name": "lostlb",
+            "Discovery Date": "2024-03-15",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "Lebanon..."
+        },
+        {
+            "v_name": "education.eeb-lost",
+            "Discovery Date": "2024-03-15",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "Lebanon..."
+        },
+        {
+            "v_name": "mioa.gov",
+            "Discovery Date": "2024-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "duvel",
+            "Discovery Date": "2024-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "Belgium..."
+        },
+        {
+            "v_name": "www.loghmanpharma.com",
+            "Discovery Date": "2024-03-07",
+            "Estimated Attack Date": "2024-03-06",
+            "v_description": "Iran..."
+        },
+        {
+            "v_name": "viadirectamarketing",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "Spain..."
+        },
+        {
+            "v_name": "airbogo",
+            "Discovery Date": "2024-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "?..."
+        },
+        {
+            "v_name": "dismogas",
+            "Discovery Date": "2024-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "Colombia..."
+        },
+        {
+            "v_name": "everplast",
+            "Discovery Date": "2024-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "Brazil..."
+        },
+        {
+            "v_name": "Abelsantosyasoc",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "2024-02-14",
+            "v_description": "Argentina..."
+        },
+        {
+            "v_name": "calcomp",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "2024-02-14",
+            "v_description": "Thailand..."
+        },
+        {
+            "v_name": "KAI",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "2024-01-22",
+            "v_description": "indonesia..."
+        },
+        {
+            "v_name": "pcmarket",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "2024-01-31",
+            "v_description": "Uzbekistan..."
+        },
+        {
+            "v_name": "bombaygrills",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "2024-02-15",
+            "v_description": "India..."
+        },
+        {
+            "v_name": "delia.pl",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "Polish cosmetics company with over 25 years of experience, with an established position not only in ..."
+        },
+        {
+            "v_name": "bombaygrills.com",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "Bombay grill located at Zagreb, Tkalcieva is one of up coming leading restaurant & Bar. committed to..."
+        },
+        {
+            "v_name": "calcomp.co.th",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "Cal-Comp is the largest Electronics Manufacturing Services (EMS) Company in Thailand and Southeast A..."
+        },
+        {
+            "v_name": "Abelsantosyasoc.com.ar",
+            "Discovery Date": "2024-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "Our activities cover the regulatory, technical, medical, marketing, building and administrative mana..."
+        },
+        {
+            "v_name": "uffs.edu.br",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "UFFS is a public federal university located in the southern region of Brazil. It was established to ..."
+        },
+        {
+            "v_name": "www.kai.id \"FF\"",
+            "Discovery Date": "2024-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "\"PT Kereta Api Indonesia\" is the national railway company in Indonesia, also known as \"Kereta Api.\" ..."
+        },
+        {
+            "v_name": "pcmarket.uz",
+            "Discovery Date": "2023-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "The PC Market, a computer and hardware store, is the number one choice in Uzbekistan. Pc Market is a..."
+        },
+        {
+            "v_name": "comtrade.com",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Comtrade is a dynamic and well-established group of technology companies, with a 30-year track recor..."
+        },
+        {
+            "v_name": "zewailcity.edu.eg",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Zewail City of Science and Technology is a nonprofit, independent institution of learning, research ..."
+        },
+        {
+            "v_name": "evn.com.vn",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "VietNam Electricity (EVN) is the largest power company in Vietnam serving more than 19 million custo..."
+        },
+        {
+            "v_name": "inwi.ma",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1999, Inwi is a global operator covering all telecommunications services including g voic..."
+        },
+        {
+            "v_name": "rmutto.ac.th",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Rajamangala University of Technology Tawan-Ok It is a university of science and technology. Establis..."
+        },
+        {
+            "v_name": "trabzon.edu.tr",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Trabzon Akabat University was established by Law No. 7141 published in the Official Gazette No. 3042..."
+        },
+        {
+            "v_name": "zonesoft.pt",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Zone Soft is present in more than 30 thousand customers in Portugal, Brazil, Spain, South Africa, Ca..."
+        },
+        {
+            "v_name": "Epson",
+            "Discovery Date": "2023-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Epson is a global technology leader whose philosophy of efficient, compact and precise innovation im..."
+        },
+        {
+            "v_name": "Interep",
+            "Discovery Date": "2023-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "A Brazilian company specializing in national and international land travel with services exclusively..."
+        },
+        {
+            "v_name": "Enpos",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1995, EnPOS has been serving in many fields of activity such as payment systems, sale..."
+        },
+        {
+            "v_name": "Pvc-ms",
+            "Discovery Date": "2023-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "PetroVietnam Metallic Structures & Erection Joint Stock Company (PVC-MS) is a member unit of Vietnam..."
+        },
+        {
+            "v_name": "Vivtok",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "VIVOTEK Inc. was founded in February 2000. The Company markets VIVOTEK solutions worldwide, and has ..."
+        },
+        {
+            "v_name": "Mambo",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "safari travel company in Tanzania, offering unique and adventurous experiences. We are committed to ..."
+        },
+        {
+            "v_name": "Nipun",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "We at Nipun impart training and the skill-set that is required to succeed in the Pharma Industry. We..."
+        },
+        {
+            "v_name": "Jasper",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "The Jasper Picture Company is an ideal choice for creating corporate video production content for al..."
+        },
+        {
+            "v_name": "Econocom",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "the group econocom First General Digital Company in Europe, the Econocom group designs, finances and..."
+        },
+        {
+            "v_name": "dynamite",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "DYNAMITE was founded in 2004 and is home to many best-selling properties, including The Boys, The Sh..."
+        },
+        {
+            "v_name": "Senior",
+            "Discovery Date": "2023-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "Senior develops and delivers enterprise resource planning, logistics, access and security management..."
+        },
+        {
+            "v_name": "jasperpictures",
+            "Discovery Date": "2023-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "The Jasper Picture Company is an ideal choice for creating corporate video production content for al..."
+        },
+        {
+            "v_name": "Ministerio de Cultura de la Republica de Cuba \" STORMOUS + GhostSec \"",
+            "Discovery Date": "2023-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "Ministerio de Cultura de la Republica de Cuba - The triumph of the Cuban Revolution, government cult..."
+        },
+        {
+            "v_name": "Ministry of Foreign Trade \" STORMOUS + GhostSec \"",
+            "Discovery Date": "2023-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "It is the body of the Central State Administration in charge of proposing, and once approved, direct..."
+        },
+        {
+            "v_name": "Ministry of Energy and Mines (Cuba) \" STORMOUS +  GhostSec \"",
+            "Discovery Date": "2023-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "Ministry of Energy and Mines . Ministry created on December 3 , 2012 as an agreement of a meeting of..."
+        },
+        {
+            "v_name": "berjaya",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "For years, the name Berjaya Clubs has been sparking visions of scenic surroundings, great golfing ex..."
+        },
+        {
+            "v_name": "Ingersoll Rand",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "ngersoll Rand is a global market leader with a broad range of innovative and mission-critical air, f..."
+        },
+        {
+            "v_name": "Arrowall",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "Arrowall Co. is curtainwall designer, manufacturer, and installer with over 30 yearsâ€™ experience i..."
+        },
+        {
+            "v_name": "OKS",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "Delivering business and legal process outsourcing solutions to some of the worldâ€™s largest and mos..."
+        },
+        {
+            "v_name": "Matrix",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "Company of the ICCNET group, created in 1997, MATRIX TELECOMS is a Networks and Telecoms operator wi..."
+        },
+        {
+            "v_name": "treenovum.es",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "creative software agency that specializes in making customized software solutions..."
+        },
+        {
+            "v_name": "archiplusinter.com",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "The Sage Partner Network is a vibrant, close-knit partner community focused on winning together. Par..."
+        },
+        {
+            "v_name": "marehotels",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "In 2013, Mare expanded its business and opened the Mare Hotel complex within the same compound. The ..."
+        },
+        {
+            "v_name": "mamboafricaadventure",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "safari travel company in Tanzania, offering unique and adventurous experiences. We are committed to ..."
+        },
+        {
+            "v_name": "Nipun Consultancy",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "We at Nipun impart training and the skill-set that is required to succeed in the Pharma Industry. We..."
+        },
+        {
+            "v_name": "CAMERONMCH",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Cameron Memorial Community Hospital is a 40-bed, critical-access hospital located in Angola, Indiana..."
+        },
+        {
+            "v_name": "TWHOUSE",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "The Wholesale House is a company founded in 1978 by Steven and Mary Hite. Starting from humble begin..."
+        },
+        {
+            "v_name": "METALWORK",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Metal Work is an Italian company specialised in the production of pneumatic components for automatio..."
+        },
+        {
+            "v_name": "OCEAN",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "The Marine Engineering Study Program was established to prepare its graduates to master competence a..."
+        },
+        {
+            "v_name": "TREENOVUM",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "creative software agency that specializes in making customized software solutions ..."
+        },
+        {
+            "v_name": "ARCHI+",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Archiplus principal office is in Hong Kong, its wholly owned subsidiary company in the same name is ..."
+        },
+        {
+            "v_name": "SAGE",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "The Sage Partner Network is a vibrant, close-knit partner community focused on winning together. Par..."
+        },
+        {
+            "v_name": "GOV.PL",
+            "Discovery Date": "2023-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "matrixtelecoms",
+            "Discovery Date": "2023-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ieseco",
+            "Discovery Date": "2023-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MELCO",
+            "Discovery Date": "2023-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LINX",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "A company of the Stone Co group, Linx is a specialist in retail technology and leader in the managem..."
+        },
+        {
+            "v_name": "IRCO",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Ingersoll Rand is a global market leader with a broad range of innovative and mission-critical air, ..."
+        },
+        {
+            "v_name": "ARROWAL",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Arrowall Co. is curtainwall designer, manufacturer, and installer with over 30 years experience in t..."
+        },
+        {
+            "v_name": "OKSGROUP",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Delivering business and legal process outsourcing solutions to some of the worlds largest and most d..."
+        },
+        {
+            "v_name": "FURUNO",
+            "Discovery Date": "2023-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Furuno Spain S.A. is a subsidiary company of Furuno Electric Co., a world leader in marine electroni..."
+        },
+        {
+            "v_name": "turvatehnika",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Turvatehnika As is a security and protection company established in Tallinn, Estonia in 1995. Since ..."
+        },
+        {
+            "v_name": "KONICA",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Konica Minolta Co Ltd. is a Japanese printing solutions and IT services company headquartered in Tok..."
+        },
+        {
+            "v_name": "SOCOMEC",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Socomec is a global energy company that specializes in providing integrated and advanced electrical ..."
+        },
+        {
+            "v_name": "FICHTNER",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Fichtner Water & Transportation is a renowned global engineering company specializing in infrastruct..."
+        },
+        {
+            "v_name": "DAVINCI",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Da Vinci School has one of the largest educational technological infrastructures in Argentina: fully..."
+        },
+        {
+            "v_name": "ALKF+",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Li Jingxun and Lei Huanting Architects is an innovative and diverse architectural company that was f..."
+        },
+        {
+            "v_name": "berjayaClubs",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "For years, the name Berjaya Clubs has been sparking visions of scenic surroundings, great golfing ex..."
+        },
+        {
+            "v_name": "NOVELIS",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Novelis is an aluminum company created by Alcan's spin-off Alcan in 2005. It was acquired by Hindalc..."
+        },
+        {
+            "v_name": "CONFIDO",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Confido Technical Services LLC is a Control Systems Consultancy and Systems Integrator with particul..."
+        },
+        {
+            "v_name": "CESCE",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "CESCEBRASIL, the guarantee insurance specialist, implements digital certificates to speed up the ent..."
+        },
+        {
+            "v_name": "la providence",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Catholic educational establishment located in Blois, Campus La Providence is organized around a voca..."
+        },
+        {
+            "v_name": "DGCX",
+            "Discovery Date": "2023-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "DGCX is a subsidiary of Dubai Multi Commodities Centre (DMCC), a strategic initiative of the Governm..."
+        },
+        {
+            "v_name": "ioi",
+            "Discovery Date": "2022-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Danaher",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mattele",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Coca-Cola",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Epic Games Data Breach",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "National Rehabilitation Training Center",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ALAM LMS",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Delhi Heights School",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Success Neeti",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "A message to France",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "infotech ua",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Smith Transport company",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MIGROS",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "3S Standard Sharing Software",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Satz Kontor GmbH data",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aurora hacked data",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Core Design",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Company ENOS PROPERTIES",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "group_name": [
+        "Suncrypt"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 32,
+    "First discovered victims": "2020-08-24",
+    "Last discovered victim": "2022-06-18",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education Facilities": 1,
+                    "Healthcare and Public Health": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "SOCOTEC",
+            "Discovery Date": "2022-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Northeastern Technical College",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Co-opbank Pertama",
+            "Discovery Date": "2022-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DJS associate",
+            "Discovery Date": "2022-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gemeente Buren",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Atlas Copco",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Oklahoma City Indian Clinic",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FitFlop Ltd.",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Migros",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Royal Smilde",
+            "Discovery Date": "2022-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CENTRAL BAPTIST COLLEGE",
+            "Discovery Date": "2022-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KVK Tech | Specialty Brands and Generics",
+            "Discovery Date": "2022-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Heartland Alliance",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Community Health Center | Valle del Sol",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Consumers Supply Distributing LLC",
+            "Discovery Date": "2022-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bohlin Cywinski Jackson",
+            "Discovery Date": "2021-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Read more",
+            "Discovery Date": "2021-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hospitality Furnishings & Design Inc.",
+            "Discovery Date": "2021-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Herman & Kittle Properties Inc.",
+            "Discovery Date": "2021-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Outdoor Venture Corporation (OVC)",
+            "Discovery Date": "2021-11-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tri-signal Intergration",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Glen Dimplex Home Appliances",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grushwitz",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mark A. O'neal and Associates",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AGSO",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dean and Fulkerson",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SB Zantal Markt",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JSW Steel USA",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PRP diagnostic imaging",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cornerstone Automation Systems, LLC",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "University Hospital New Jersey",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Haywood County School District",
+            "Discovery Date": "2020-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

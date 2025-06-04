@@ -1,0 +1,883 @@
+{
+    "group_name": [
+        "Cloak"
+    ],
+    "group_description": "None",
+    "Victims count": 141,
+    "First discovered victims": "2023-08-24",
+    "Last discovered victim": "2025-05-06",
+    "Avg Delay": "10.3 days",
+    "Infostealer": "4.2%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 20,
+                    "Technology": 9,
+                    "Healthcare": 7,
+                    "Manufacturing": 6,
+                    "Transportation/Logistics": 5
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 36,
+                    "Germany": 33,
+                    "United Kingdom": 10,
+                    "Canada": 7,
+                    "France": 4
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "**********li.com",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bosshard-farben.ch",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Bosshard-farben.ch\" is a Swiss company specializing in the sale of floor and wall pa..."
+        },
+        {
+            "v_name": "Pe*************.lk",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Orl***********.com",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pea**********.uk",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pc***********.org",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bosshard-Farben AG",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "[IA generated] Swiss company specializing in the production of paints, varnishes, and glazes for bui..."
+        },
+        {
+            "v_name": "Oag.state.va.us",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Wr-recht.de",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Wr-recht.de\" is a German legal advisory firm that specializes in matters of insolven..."
+        },
+        {
+            "v_name": "Baltimorecityschools",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Baltimore City Public Schools, also known as City Schools, is a public school distric..."
+        },
+        {
+            "v_name": "Fi***************.pa",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "St***********.nl",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ba**********.org",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Waggonereng.com",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Waggoner Engineering, founded in 1976, is a professional services firm with a focus o..."
+        },
+        {
+            "v_name": "op*********.eu",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wr********.de",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pen********.de",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "oa*************.us",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ad***********.ca",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Centromedicoenova",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Spain\nViews: 69\n\nView more /enova\nPublic\n<100GB..."
+        },
+        {
+            "v_name": "Premierautocredit.com",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA\nViews: 53\n\nView more /pac\nPublic\n156GB..."
+        },
+        {
+            "v_name": "Kaisersbach.de",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany\nViews: 106\n\nView more /kaiser\nPublic\n<100GB..."
+        },
+        {
+            "v_name": "Neovita.de",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany\nViews: 88\n\nView more /neovita\nPublic\n227GB..."
+        },
+        {
+            "v_name": "Bwfg.at",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Bwfg.at\n\n\nCountry: austria\nViews: 16\n\nView more /bwfg\nPublic\n102GB..."
+        },
+        {
+            "v_name": "pre*************.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA\nViews: 0\nView more /hidden_113\nPrivate\n156GB..."
+        },
+        {
+            "v_name": "Wa**********.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA\nViews: 0\nView more /hidden_114\nPrivate..."
+        },
+        {
+            "v_name": "ge*******.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Italy\nViews: 0\nView more /hidden_115\nPrivate\n271GB..."
+        },
+        {
+            "v_name": "Mai***********.de",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "Mai***********.de\n\n\nCountry: germany\nViews: 1\nView more /hidden_112\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "bac***********.com.au",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "bac***********.com.au\n\n\nCountry: Australia\nViews: 2\n\nView more /hidden_111\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "Town of Ponoka",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "Ponoka.ca\n\n\nCountry: Canada\nViews: 52073\n\nView more /ponoka\nPublic\n110GB..."
+        },
+        {
+            "v_name": "Kai*************.de",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Kai*************.de\n\n\nCountry: germany\nViews: 0\nView more /hidden_109\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "Ne***********.de",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany\nViews: 0\nView more /hidden_110\nPrivate\n227GB..."
+        },
+        {
+            "v_name": "Fmp.gob.pe",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Fmp.gob.pe refers to the Fondo MIVIVIENDA, a Peruvian government initiative aimed at ..."
+        },
+        {
+            "v_name": "Ukh-hof.de",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "Ukh-hof.de\n\n\nCountry: Germany\nViews: 56\n\nView more /ukh\nPublic\n<100GB..."
+        },
+        {
+            "v_name": "Orthopaedie-hof.de",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "Orthopaedie-hof.de\n\n\nCountry: Germany\nViews: 51\n\nView more /ortho\nPublic\n<100GB..."
+        },
+        {
+            "v_name": "N************.uk",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N************.uk\n\n\nCountry: United Kingdom\nViews: 0\nView more /hidden_108\nPrivate\n125GB..."
+        },
+        {
+            "v_name": "Donnewalddistributing",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-12-04",
+            "v_description": "Country: USA\nViews: 61\n\nView more /donne\nPublic\n<100GB..."
+        },
+        {
+            "v_name": "o******************v",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-06",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Glo**************.com",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-06",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SCAFF'HOLDING",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-06",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Globalresultspr.com",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-19",
+            "v_description": "Globalresultspr.com\nCountry: USA\nPublic\n123GB..."
+        },
+        {
+            "v_name": "don****************.com",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "don****************.com\nCountry: USA\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "F************.pe",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "F************.pe\nCountry: Peru\nPrivate\n221GB..."
+        },
+        {
+            "v_name": "Uk***********.de",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Country: Germany\nViews: 0\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "Or*************.de",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Country: Germany\nViews: 0\nPrivate\n<100GB..."
+        },
+        {
+            "v_name": "Ma************.de",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Country: Germany\nViews: 0\nPrivate\n134GB..."
+        },
+        {
+            "v_name": "Bw**********.at",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Country: Austria\nViews: 0\nPrivate\n122GB..."
+        },
+        {
+            "v_name": "mm********.com",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Ireland..."
+        },
+        {
+            "v_name": "Ful************.com",
+            "Discovery Date": "2024-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Te***************.net",
+            "Discovery Date": "2024-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Country: italy..."
+        },
+        {
+            "v_name": "Pennvet.com",
+            "Discovery Date": "2024-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Wertachkliniken.de",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Pen*****************.com",
+            "Discovery Date": "2024-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "El**********.hu",
+            "Discovery Date": "2024-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "we****************.de",
+            "Discovery Date": "2024-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Stjamesplace.org",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Dunlop Aircraft Tyres",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "Vibo.dk",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Denmark..."
+        },
+        {
+            "v_name": "Hvb-ingenieure.de",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Westermans.com",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "Entr**************.fr",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country: France..."
+        },
+        {
+            "v_name": "Cb**********.com",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Cyprus..."
+        },
+        {
+            "v_name": "St**************.org",
+            "Discovery Date": "2024-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Dd*******uk",
+            "Discovery Date": "2024-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "Kalaswire.com",
+            "Discovery Date": "2024-07-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Hv*************.de",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "We*******.com",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "Ka******.com",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "upcli.com",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Vi*********.dk",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Denmark..."
+        },
+        {
+            "v_name": "Abileneisd.org",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Dun*****************uk",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "P********.pl",
+            "Discovery Date": "2024-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Poland..."
+        },
+        {
+            "v_name": "Unit*****************.com",
+            "Discovery Date": "2024-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Longviewbridge.com",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Ruland-viersen.de",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Mundocar.eu",
+            "Discovery Date": "2024-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country: spain..."
+        },
+        {
+            "v_name": "ab*******.org",
+            "Discovery Date": "2024-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "lo***********.com",
+            "Discovery Date": "2024-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Rul**********.de",
+            "Discovery Date": "2024-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Baeckerei-raddatz.de",
+            "Discovery Date": "2024-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "cli*********.com",
+            "Discovery Date": "2024-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Colombia..."
+        },
+        {
+            "v_name": "bae************.de",
+            "Discovery Date": "2024-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "B*****.hu",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Hungary..."
+        },
+        {
+            "v_name": "Ce***.com",
+            "Discovery Date": "2024-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Switzerland..."
+        },
+        {
+            "v_name": "Sev********.com",
+            "Discovery Date": "2024-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Wencor.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Theharriscenter.org",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Speditionweise.de",
+            "Discovery Date": "2024-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Mu*****.eu",
+            "Discovery Date": "2024-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country: spain..."
+        },
+        {
+            "v_name": "Cv*****.com",
+            "Discovery Date": "2024-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "Vhs-vaterstetten.de",
+            "Discovery Date": "2024-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Gascontec.com",
+            "Discovery Date": "2024-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Equatorial Energia",
+            "Discovery Date": "2024-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Brasil..."
+        },
+        {
+            "v_name": "******************",
+            "Discovery Date": "2024-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Country: ********..."
+        },
+        {
+            "v_name": "Hu********.ca",
+            "Discovery Date": "2024-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada..."
+        },
+        {
+            "v_name": "Ponoka.ca",
+            "Discovery Date": "2024-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada..."
+        },
+        {
+            "v_name": "Po****.ca",
+            "Discovery Date": "2024-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada..."
+        },
+        {
+            "v_name": "we****.com",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "The************.org",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Sped**********.de",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Forgepresion.com",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "bv*********.com",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "ga*******.com",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "vh********en.de",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "For**********.com",
+            "Discovery Date": "2024-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Maas911.com",
+            "Discovery Date": "2024-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "M********org",
+            "Discovery Date": "2023-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Ma******.com",
+            "Discovery Date": "2023-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Gaido-fintzen.com",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "2023-12-08",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Ga***********.com",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "farwickgrote.de",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "skncustoms.com",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Saint Kitts and Nevis..."
+        },
+        {
+            "v_name": "euro2000-spa.it",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Italy..."
+        },
+        {
+            "v_name": "Thenewtrongroup.com",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "Bankofceylon.co.uk",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "carranza.on.ca",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada..."
+        },
+        {
+            "v_name": "Arus-gmbh",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "Sportlab-srl",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: italia..."
+        },
+        {
+            "v_name": "BONI-PASSAU.DE",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "lusis-avocats.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: france..."
+        },
+        {
+            "v_name": "werk33.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "GRIDINSTALLERS.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: holland..."
+        },
+        {
+            "v_name": "surapon.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Thailand..."
+        },
+        {
+            "v_name": "mps-24.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "gruppomoba.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: italia..."
+        },
+        {
+            "v_name": "stshcpa.com.tw",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: taiwan..."
+        },
+        {
+            "v_name": "ihopmexico.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Mexico..."
+        },
+        {
+            "v_name": "Nicer technology",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: taiwan..."
+        },
+        {
+            "v_name": "binhamoodah.ae",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Saud Arabia..."
+        },
+        {
+            "v_name": "first-resources-ltd",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "country: Indonesia..."
+        },
+        {
+            "v_name": "Sbs-Berlin",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: germany..."
+        },
+        {
+            "v_name": "imtmro.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        },
+        {
+            "v_name": "INCOBEC",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada..."
+        },
+        {
+            "v_name": "still95.it",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: italia..."
+        },
+        {
+            "v_name": "gsh-cargo.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: UAE..."
+        },
+        {
+            "v_name": "flamewarestudios.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United Kingdom..."
+        },
+        {
+            "v_name": "ALEZZELPOWER.com",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Bahrain..."
+        },
+        {
+            "v_name": "Notaires.fr",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: France..."
+        },
+        {
+            "v_name": "Sonabhy.bf",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Burkina Faso..."
+        },
+        {
+            "v_name": "KVFCU.ORG",
+            "Discovery Date": "2023-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: USA..."
+        }
+    ]
+}

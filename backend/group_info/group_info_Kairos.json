@@ -1,0 +1,259 @@
+{
+    "group_name": [
+        "Kairos"
+    ],
+    "group_description": "None",
+    "Victims count": 37,
+    "First discovered victims": "2024-11-13",
+    "Last discovered victim": "2025-05-21",
+    "Avg Delay": "62.4 days",
+    "Infostealer": "5.6%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 7,
+                    "Education": 7,
+                    "Business Services": 4,
+                    "Manufacturing": 3,
+                    "Financial": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 21,
+                    "United Kingdom": 5,
+                    "Australia": 2,
+                    "Canada": 2,
+                    "Taiwan, Province of China": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "ndsohio.org",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Neighborhood Development Services..."
+        },
+        {
+            "v_name": "durhamarts.org",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Durham Arts Council..."
+        },
+        {
+            "v_name": "loopergoodwine.com",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Looper Goodwine..."
+        },
+        {
+            "v_name": "thederbyhighschool.co.uk",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "UK - The Derby High School..."
+        },
+        {
+            "v_name": "coloradopulmonary.com",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Colorado Pulmonary Intensivists..."
+        },
+        {
+            "v_name": "d-line-it.com",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "UK - d-line..."
+        },
+        {
+            "v_name": "RFMS, Inc.",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "USA - RFMS, Inc...."
+        },
+        {
+            "v_name": "galesburg.org",
+            "Discovery Date": "2025-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Galesburg Area Chamber of Commerce..."
+        },
+        {
+            "v_name": "stattorney.org",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "USA - State's Attorney Office..."
+        },
+        {
+            "v_name": "fredsalvuccicorp.com",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "usa - Fred Salvucci..."
+        },
+        {
+            "v_name": "drvitenas.com",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Vitenas Cosmetic Surgery..."
+        },
+        {
+            "v_name": "usarice.com",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "usa - USA Rice..."
+        },
+        {
+            "v_name": "thefireplacewarehouse.co.uk",
+            "Discovery Date": "2025-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "UK - Fireplace Warehouse..."
+        },
+        {
+            "v_name": "danecourt.kent.sch.uk",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "UK - Dane Court Grammar School..."
+        },
+        {
+            "v_name": "toitoiusa.com",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Toi Toi USA..."
+        },
+        {
+            "v_name": "casperstruck.com",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Casper's Truck Equipment..."
+        },
+        {
+            "v_name": "medicalreportsltd.com",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "UK - Medical Reports..."
+        },
+        {
+            "v_name": "delpackaging.com",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "USA - DEL Packaging..."
+        },
+        {
+            "v_name": "theurswickschool.co.uk",
+            "Discovery Date": "2025-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "UK - The Urswick School..."
+        },
+        {
+            "v_name": "nightingalehammerson.org",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "UK - Nightingale Hammerson..."
+        },
+        {
+            "v_name": "realtaxcanada.com",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "Canada - Real Tax..."
+        },
+        {
+            "v_name": "combinedpoolandspa.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Combined Pool and Spa..."
+        },
+        {
+            "v_name": "jgele.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "USA - J.G. Electrical Installations..."
+        },
+        {
+            "v_name": "austinsfs.com.au",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Australia - Austin's Financial Solutions..."
+        },
+        {
+            "v_name": "eisenhowerlaw.com",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "usa - Eisenhower Carlson..."
+        },
+        {
+            "v_name": "aneticaid.com",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "uk - Anetic Aid..."
+        },
+        {
+            "v_name": "tcpm.com",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "Usa - Tri County Property Management..."
+        },
+        {
+            "v_name": "archlou.org",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "usa - Archdiocese of Louisville..."
+        },
+        {
+            "v_name": "T&M Equipment",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "usa - T & M Equipment..."
+        },
+        {
+            "v_name": "brownpacking.com",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "USA - Brown Packing..."
+        },
+        {
+            "v_name": "tacomaengineers.com",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "canada - Tacoma Engineers..."
+        },
+        {
+            "v_name": "sunnydayssunshinecenter.com",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "usa - Sunshine Center..."
+        },
+        {
+            "v_name": "formosacpa.com.tw",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-11-05",
+            "v_description": "taiwan - Formosa Certified Public Accountants..."
+        },
+        {
+            "v_name": "clayplattefamily.com",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "USA - Clay Platte Family Medicine Clinic..."
+        },
+        {
+            "v_name": "askyouraccountant.com",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-11-05",
+            "v_description": "usa - Accounting & Advisory Services,..."
+        },
+        {
+            "v_name": "pmrcenter.com",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-07-08",
+            "v_description": "usa - The Physical Medicine and Rehabilitation Center..."
+        },
+        {
+            "v_name": "kansasrmc.com",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "usa - Kansas Regenerative medicine centre..."
+        }
+    ]
+}

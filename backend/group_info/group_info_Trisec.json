@@ -1,0 +1,51 @@
+{
+    "group_name": [
+        "Trisec"
+    ],
+    "group_description": "None",
+    "Victims count": 3,
+    "First discovered victims": "2024-02-16",
+    "Last discovered victim": "2024-02-19",
+    "Avg Delay": "N/A",
+    "Infostealer": "33.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 1,
+                    "Healthcare": 1,
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Ireland": 1,
+                    "Sweden": 1,
+                    "Italy": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "aivi.it",
+            "Discovery Date": "2024-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ki.se",
+            "Discovery Date": "2024-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.cogans.ie",
+            "Discovery Date": "2024-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

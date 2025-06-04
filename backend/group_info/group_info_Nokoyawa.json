@@ -1,0 +1,247 @@
+{
+    "group_name": [
+        "Nokoyawa"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 36,
+    "First discovered victims": "2022-12-09",
+    "Last discovered victim": "2023-08-04",
+    "Avg Delay": "36.3 days",
+    "Infostealer": "5.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Canada": 3,
+                    "United Kingdom": 2,
+                    "Morocco": 1,
+                    "Australia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Studio Domaine LLC",
+            "Discovery Date": "2023-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "Studio Domaine is an innovative design firm dedicated to creating personalized interiors for residen..."
+        },
+        {
+            "v_name": "Roman Catholic Diocese of Albany",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "The Roman Catholic Diocese of Albany covers 14 counties in Eastern New York including the south west..."
+        },
+        {
+            "v_name": "Pea River Electric Cooperative",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Pea River Electric Cooperative is a service-oriented, distribution electric utility that is owned by..."
+        },
+        {
+            "v_name": "Muncy Homes",
+            "Discovery Date": "2023-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "Muncy Homes was founded in 1973 in the stable and skilled labor environment of North Central Pennsyl..."
+        },
+        {
+            "v_name": "AT&S",
+            "Discovery Date": "2023-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "AT&S was incorporated in Singapore in 2009 with the goal to provide the entire spectrum of products ..."
+        },
+        {
+            "v_name": "Village Church of Barrington",
+            "Discovery Date": "2023-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "The Village Church is an religious institution founded in 1977 and is based in Mound, Texas . The vi..."
+        },
+        {
+            "v_name": "Modern Eyez",
+            "Discovery Date": "2023-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "Since 2003, Modern Eyez has been the leader and preferred provider of quality vision care products a..."
+        },
+        {
+            "v_name": "One Health Solutions",
+            "Discovery Date": "2023-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "ONE HEALTH is a pioneering healthcare platform that is the result of a unique partnership between a ..."
+        },
+        {
+            "v_name": "Tampa General Hospital",
+            "Discovery Date": "2023-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "Tampa General Hospital is a private not-for-profit hospital and one of the most comprehensive medica..."
+        },
+        {
+            "v_name": "CANAROPA Inc",
+            "Discovery Date": "2023-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "Canaropa, founded in 1954 and headquartered in Quebec, Canada, is a leading provider of quality comm..."
+        },
+        {
+            "v_name": "Roadies",
+            "Discovery Date": "2023-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "Roadies, a fast-growing and innovative logistics company that provides comprehensive and outstanding..."
+        },
+        {
+            "v_name": "CONEX",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-01-20",
+            "v_description": "CONEX is a customs procedure management software specialist. Our SaaS platform, complete and modular..."
+        },
+        {
+            "v_name": "Miescor",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-01-25",
+            "v_description": "Incorporated in December 1973 as a wholly owned subsidiary of Manila Electric Company (Meralco), the..."
+        },
+        {
+            "v_name": "MSX International",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-02-22",
+            "v_description": "For more than 25 years, MSX International has been a dedicated partner to leading automotive brands ..."
+        },
+        {
+            "v_name": "Gaston College",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-03-09",
+            "v_description": "Gaston College is a public community college in Dallas, North Carolina. Serving Gaston County and Li..."
+        },
+        {
+            "v_name": "City of Modesto",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-02",
+            "v_description": "Modesto is the county seat and largest city of Stanislaus County, California, United States. With a ..."
+        },
+        {
+            "v_name": "Pueblo Mechanical & Controls",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-03",
+            "v_description": "Pueblo Mechanical & Controls is a leading provider of commercial HVAC and plumbing repair, replaceme..."
+        },
+        {
+            "v_name": "comcom-sgc",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-09",
+            "v_description": "The community of communes of Grand Couronné is a former French community of communes, located in the..."
+        },
+        {
+            "v_name": "Guardian Fine Art Services",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-09",
+            "v_description": "GUARDIAN is the premier fine art storage facility in the Chicago-Milwaukee metropolitan region dedic..."
+        },
+        {
+            "v_name": "Accurate Auto Insurance",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-15",
+            "v_description": "Accurate Auto Insurance was founded in 1992 in Chicago, Illinois. We have a simple approach to doing..."
+        },
+        {
+            "v_name": "Stockmann Natursteine & Fliesen",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-15",
+            "v_description": "Welcome to Stockmann Natursteine & Fliesen - your natural stone and tiler in Laupheim and the surrou..."
+        },
+        {
+            "v_name": "Snodland C of E Primary School",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-15",
+            "v_description": "Snodland Church of England Primary School is a school that we are all very proud of. Everyone who vi..."
+        },
+        {
+            "v_name": "Sabin",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-20",
+            "v_description": "Sabin Laboratory is one of the leading medical diagnostics companies in Brazil. The company is well-..."
+        },
+        {
+            "v_name": "Canadian Nurses Association",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-24",
+            "v_description": "Canadian Nurses Association is located in Ontario, Canada and was founded in 1908. Canadian Nurses A..."
+        },
+        {
+            "v_name": "Rural Workforce Agency",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-04-27",
+            "v_description": "Rural Workforce Agency Victoria (RWAV) is a not-for-profit government funded organization improving ..."
+        },
+        {
+            "v_name": "Fresca",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-04",
+            "v_description": "Founded in 2004, Fresca is headquartered in Kent, United Kingdom. Fresca Group is a largest privatel..."
+        },
+        {
+            "v_name": "Canopy Children's Solutions",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-11",
+            "v_description": "Canopy Children’s Solutions (Canopy), formerly Mississippi Children’s Home Services, is Mississippi’..."
+        },
+        {
+            "v_name": "Wyoming County Community Health System",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-12",
+            "v_description": "Wyoming County Community Health System has been serving Wyoming County and the surrounding area for ..."
+        },
+        {
+            "v_name": "ePerformax",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-13",
+            "v_description": "In 1988 the Performance Consulting Group was founded by Teresa Hartsaw in Memphis, TN as a marketing..."
+        },
+        {
+            "v_name": "Hyundai Motors Etats-Unis",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-14",
+            "v_description": "Hyundai Motors Etats-Unis is a company that operates in the Automotive industry. It employs 251-500 ..."
+        },
+        {
+            "v_name": "Chattanooga State Community",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-18",
+            "v_description": "Chattanooga State Community College is a public community college in Chattanooga, Tennessee. The col..."
+        },
+        {
+            "v_name": "Miami University",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-20",
+            "v_description": "Established in 1809, Miami University is consistently ranked among the top 50 national public univer..."
+        },
+        {
+            "v_name": "Medical University of the Americas",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-20",
+            "v_description": "Medical University of the Americas (MUA) is a private for-profit offshore medical school in Charlest..."
+        },
+        {
+            "v_name": "Global Remote Services",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-22",
+            "v_description": "GRS provides personalized management services for its clients across a broad range of business secto..."
+        },
+        {
+            "v_name": "Liveaction inc.",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "2023-05-22",
+            "v_description": "LiveAction’s Network Intelligence platform transforms complex data into actionable insights, providi..."
+        },
+        {
+            "v_name": "Nexon Asia Pacific",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT pr..."
+        }
+    ]
+}

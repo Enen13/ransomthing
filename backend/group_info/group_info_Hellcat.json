@@ -1,0 +1,157 @@
+{
+    "group_name": [
+        "Hellcat"
+    ],
+    "group_description": "None",
+    "Victims count": 20,
+    "First discovered victims": "2024-10-25",
+    "Last discovered victim": "2025-04-10",
+    "Avg Delay": "4.5 days",
+    "Infostealer": "75.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 8,
+                    "Education": 3,
+                    "Government": 2,
+                    "Energy": 1,
+                    "Business Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "China": 2,
+                    "Israel": 1,
+                    "France": 1,
+                    "Jordan": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Potomac Financial Services",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-07",
+            "v_description": "We have breached a U.S.-based financial services firm. 381GB of sensitive data has been secured. The..."
+        },
+        {
+            "v_name": "P**o***",
+            "Discovery Date": "2025-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "We have breached a U.S.-based financial services firm. 381GB of sensitive data has been secured. The..."
+        },
+        {
+            "v_name": "CVTE",
+            "Discovery Date": "2025-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "We have breached the internal systems of Guangzhou Shiyuan Electronic Technology, securing sensitive..."
+        },
+        {
+            "v_name": "HighWire Press",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "Jiraware <<3 !! We hold sensitive data from HighWire Press, a leading platform serving scholarly pub..."
+        },
+        {
+            "v_name": "Racami",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "Jiraware <<3 !! We have breached Racami’s internal systems. The data in our possession poses a serio..."
+        },
+        {
+            "v_name": "Asseco",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "Jiraware <<3 !! We have breached Asseco’s internal systems, stealing sensitive files, communications..."
+        },
+        {
+            "v_name": "LeoVegas AB",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "We have compromised the internal systems of LeoVegas AB. The data in our possession threatens their ..."
+        },
+        {
+            "v_name": "Transsion Holdings",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "We hold almost 70GB of sensitive data from Transsion, a leading mobile device provider with $8.6B in..."
+        },
+        {
+            "v_name": "Grupo Santillana",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "We hold sensitive files from Santillana, the largest business unit of Spain’s publicly traded Prisa ..."
+        },
+        {
+            "v_name": "Omnitracs",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "We hold sensitive files from Omnitracs, a leading provider of fleet management and logistics soluti..."
+        },
+        {
+            "v_name": "Electronics For Imaging",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "We hold 19GB of sensitive files from Electronics For Imaging, Inc., including critical corporate dat..."
+        },
+        {
+            "v_name": "Ascom Holding AG",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "2025-03-15",
+            "v_description": "44GB of sensitive data including internal reports, sales documents, confidential contracts, developm..."
+        },
+        {
+            "v_name": "OneDealer",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2025-02-25",
+            "v_description": "We have obtained over 330,000 records from OneDealer partners, including sales reports, leads, custo..."
+        },
+        {
+            "v_name": "Car Care Plan - Turkey",
+            "Discovery Date": "2024-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfully stolen over50 GBof data from Car Care Plan, including financial records with se..."
+        },
+        {
+            "v_name": "Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfully stolen82 GBof data, including backups, from the e-Finance system of Blora Regen..."
+        },
+        {
+            "v_name": "Pinger - USA",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfully breached Pinger, obtaining 111 GB of sensitive data. This includes over 9 milli..."
+        },
+        {
+            "v_name": "College of Business - Tanzania",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "We have released over 500,000 records from Tanzania’s College of Business Education, containing stud..."
+        },
+        {
+            "v_name": "Ministry of Education - Jordan",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfully accessed and compromised a range of sensitive documents from Jordan's Ministry ..."
+        },
+        {
+            "v_name": "Schneider Electric - France",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] Schneider Electric, based in France, is a global leader in energy management and auto..."
+        },
+        {
+            "v_name": "The Knesset - Israel",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfully compromised the Knesset's secure networks and extracted 64GB of sensitive data...."
+        }
+    ]
+}

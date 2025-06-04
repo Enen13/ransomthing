@@ -1,0 +1,49 @@
+{
+    "group_name": [
+        "Shaoleaks"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 4,
+    "First discovered victims": "2022-11-01",
+    "Last discovered victim": "2022-11-01",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Welcome to new customers!",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Some of our customers was not payed to us for data decryption. So we publish some of his d",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Update for boxerproperty",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greetings to havi.com and tmsw.com",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

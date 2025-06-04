@@ -1,0 +1,175 @@
+{
+    "group_name": [
+        "Termite"
+    ],
+    "group_description": "None",
+    "Victims count": 23,
+    "First discovered victims": "2024-11-17",
+    "Last discovered victim": "2025-05-05",
+    "Avg Delay": "16.8 days",
+    "Infostealer": "30.4%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 3,
+                    "Business Services": 3,
+                    "Healthcare": 3,
+                    "Technology": 3,
+                    "Energy": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "France": 4,
+                    "United Kingdom": 4,
+                    "Germany": 2,
+                    "Canada": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "LGM",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "2025-04-29",
+            "v_description": "LGM, filiale du Groupe LGM, accompagne ses clients dans lamélioration de la performance en conceptio..."
+        },
+        {
+            "v_name": "Ushio",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-28",
+            "v_description": "Ushio is a world market leader for speciality lighting, from ultraviolet to infrared and everything ..."
+        },
+        {
+            "v_name": "Bjørklund",
+            "Discovery Date": "2025-04-12",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "Bjorklund Norge AS was founded in 1992. The Company&amp;#x27;s line of business includes the wholesa..."
+        },
+        {
+            "v_name": "On IT",
+            "Discovery Date": "2025-04-11",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "Provider of information technology services focused on digital transformation for enterprises. The c..."
+        },
+        {
+            "v_name": "Perrigo Company",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "Perrigo, founded in 1887 and headquartered in Dublin, Ireland, is a global healthcare supplier and m..."
+        },
+        {
+            "v_name": "London Belgravia",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "London Belgravia Brokers provide risk insurance and finance advisory solutions to global property de..."
+        },
+        {
+            "v_name": "National Legal Service",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "National Legal Service are a leading Criminal, Family and Child Care firm conducting both private an..."
+        },
+        {
+            "v_name": "Rooks Rider Solicitors",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "Founded in 1761, Rooks Rider Solicitors is a boutique law firm specializing in corporate law, real e..."
+        },
+        {
+            "v_name": "Arcandco",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "Arc &amp; Co. was formed in 2007,  concentrates on financing Property, Marine and Aviation assets. \n..."
+        },
+        {
+            "v_name": "Genea",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-24",
+            "v_description": "Founded in 1984, Genea is a reproductive and fertility treatment and care facility. The company is h..."
+        },
+        {
+            "v_name": "Ligentia",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "Ligentia provides freight forwarding and supply chain management solutions. The company was founded ..."
+        },
+        {
+            "v_name": "CESI",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "CESI is a private French higher education and vocational training group specialising in training eng..."
+        },
+        {
+            "v_name": "Zschimmer and Schwarz",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Zschimmer and Schwarz, a family owned business founded in 1894, with headquarters in Lahnstein, Germ..."
+        },
+        {
+            "v_name": "Huntington Hotel Group",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "Huntington Hotel Group was founded in 1998 by Kevin Keefer and Brent Andrus with the vision of devel..."
+        },
+        {
+            "v_name": "Tharisa",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Tharisa is an integrated resource group critical to the energy transition and decarbonisation of eco..."
+        },
+        {
+            "v_name": "Watsonville Community Hospital",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "2024-12-05",
+            "v_description": "Watsonville Community Hospital is community healthcare provider; a 106-bed facility that offers a co..."
+        },
+        {
+            "v_name": "Blue Yonder",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "Blue Yonder Group, Inc. (formerly JDA Software Group) is an American supply chain management company..."
+        },
+        {
+            "v_name": "Département de La Réunion",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "La Réunion se situe au Sud de l’Océan Indien, entre l’île Maurice et Madagascar, à près de 9500km de..."
+        },
+        {
+            "v_name": "Conseil scolaire Viamonde",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "The Conseil scolaire Viamonde is a public-secular French first language school board, and manages el..."
+        },
+        {
+            "v_name": "Lebenshilfe Heinsberg",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-11-13",
+            "v_description": "Die Bundesvereinigung Lebenshilfe e. V. ist ein 1958 gegründeter gemeinnütziger Verein. Sie versteht..."
+        },
+        {
+            "v_name": "Oman Oil",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "OQ, formerly known as Oman Oil Company, is an energy investment company headquartered in Muscat, Oma..."
+        },
+        {
+            "v_name": "Culligan",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "Founded in 1936, Culligan Entreprises is a global water treatment company specializing in premium se..."
+        },
+        {
+            "v_name": "Nifast",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "Operating from 1987, Nifast is a specialist of fastening components and automobile parts with a broa..."
+        }
+    ]
+}

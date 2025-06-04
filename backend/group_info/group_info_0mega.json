@@ -1,0 +1,71 @@
+{
+    "group_name": [
+        "0mega"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 7,
+    "First discovered victims": "2022-07-14",
+    "Last discovered victim": "2024-01-25",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Four Hands LLC",
+            "Discovery Date": "2024-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "Manufacturing and distributing home furnishing products, retail, design..."
+        },
+        {
+            "v_name": "Rotorcraft Leasing Company",
+            "Discovery Date": "2023-10-17",
+            "Estimated Attack Date": "",
+            "v_description": "Helicopter support, pilot training, fueling service, maintenance..."
+        },
+        {
+            "v_name": "US Liner Company & American Made LLC",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Industrial engineering, manufacturing, advanced materials, thermoplastic composite solutions..."
+        },
+        {
+            "v_name": "Aviacode (GeBBS)",
+            "Discovery Date": "2023-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "Medical coding, outsourced coding, auditing & consulting..."
+        },
+        {
+            "v_name": "Aviacode",
+            "Discovery Date": "2023-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "Medical coding, outsourced coding, auditing & consulting..."
+        },
+        {
+            "v_name": "Nextlabs",
+            "Discovery Date": "2022-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "Business services, security software & IT services, risk management software ..."
+        },
+        {
+            "v_name": "Maxey Moverley",
+            "Discovery Date": "2022-07-14",
+            "Estimated Attack Date": "",
+            "v_description": "Electronics repair & refurbishment, technical service, CCTV..."
+        }
+    ]
+}

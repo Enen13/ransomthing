@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Insane"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2024-01-17",
+    "Last discovered victim": "2024-01-17",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Thailand": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "JspPharma",
+            "Discovery Date": "2024-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "A few words about the breached company: JSP Pharmaceutical Manufacturing (Thailand) PCL is engaged i..."
+        }
+    ]
+}

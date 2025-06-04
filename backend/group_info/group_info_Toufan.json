@@ -1,0 +1,733 @@
+{
+    "group_name": [
+        "Toufan"
+    ],
+    "group_description": "Pro-Palestinian Group",
+    "Victims count": 117,
+    "First discovered victims": "2023-12-17",
+    "Last discovered victim": "2023-12-27",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Israel": 27,
+                    "Canada": 3,
+                    "Australia": 2,
+                    "United Kingdom": 2,
+                    "Singapore": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "ecom.gov.il",
+            "Discovery Date": "2023-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maytronics.com",
+            "Discovery Date": "2023-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "carolinalemke.com",
+            "Discovery Date": "2023-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ari.co.il",
+            "Discovery Date": "2023-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "allot.com",
+            "Discovery Date": "2023-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bconnect.co.il",
+            "Discovery Date": "2023-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "super-pharm.co.il",
+            "Discovery Date": "2023-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "teldor.com",
+            "Discovery Date": "2023-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "erco.co.il",
+            "Discovery Date": "2023-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tefentech.com",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zoko.co.il",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "strauss-group.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.pts-tools.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.plasson-pead.com.br",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.nistx.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.ktstooling.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.herrickindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.drillmex.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.dixie-tool.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.copreinternacional.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.butlerbros.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.atwoodindustries.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wsies.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vehicle.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tryhardindustrial.ca",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys.udidagan.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartnershq1.caesarstone.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartners.caesarstoneus.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartners.caesarstone.sg",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartners.caesarstone.co.uk",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartners.caesarstone.com.au",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys-cspartners.caesarstone.ca",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sys.biopet.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "store.toolneeds.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "store.brunswickindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stage.kravitz.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.smithindustrialsupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.shopsupply.net",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.reggiemckenzieindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.qct.tools",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.lgindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.emprecise.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.clador.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.britecon.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shefa-online.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "selwayindustrialsupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rocket-supply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rmpis.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reserved-il.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pts-tools.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "product.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pmt-usa.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "phoenix.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pet.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pet.biopet.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "paragon-supply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "old.shefa-online.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "norviktools.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northernprecisionsales.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "newstore.johnstoncompanies.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mortgage.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "morsecuttingtools.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mitchellmckinney.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mgisales.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "m.biopet.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "libertytool.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ktstooling.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "knightesupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keter.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keter.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "its-supply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "h-o.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "goronco.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gordonindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "global.keter.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "giddirect.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gfwdsupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fugatesales.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "drillmex.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dixie-tool.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dctsupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartnershq1.caesarstone.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartners.caesarstoneus.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartners.caesarstone.sg",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartners.caesarstone.co.uk",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartners.caesarstone.com.au",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cspartners.caesarstone.ca",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "core.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "copreinternacional.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "colmarindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cmtindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cdt1.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "catalog.ustg.net",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "catalog.toolkrib.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "catalog.fotcnc.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cartersoshkosh.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "butlerbros.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "blueashsupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "berkshireesupply.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "barindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "badgermill.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atwoodindustries.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "arieladar.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "api.touch-ins.co.il",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "apisinc.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "amtektool.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alleghenytool.net",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alcornindustrial.com",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ustg.net",
+            "Discovery Date": "2023-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "naandanjain.com",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ta-Supply.com",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "techno-rezef.com",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "curver.com",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dorot.com",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "graf.co.il",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brother.co.il",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

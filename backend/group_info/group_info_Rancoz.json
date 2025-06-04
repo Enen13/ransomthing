@@ -1,0 +1,61 @@
+{
+    "group_name": [
+        "Rancoz"
+    ],
+    "group_description": "None",
+    "Victims count": 6,
+    "First discovered victims": "2023-05-05",
+    "Last discovered victim": "2023-09-03",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "DDB Unlimited (ddbunlimited.com)",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Manufactures..."
+        },
+        {
+            "v_name": "Rick Ramos Law (rickramoslaw.com)",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Legal Services industry..."
+        },
+        {
+            "v_name": "Industrial Heat Transfer (iht-inc.com)",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Custom Heat Exchanger Manufacturer..."
+        },
+        {
+            "v_name": "Air Comfort (aircomfort.ac)",
+            "Discovery Date": "2023-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "Construction industry..."
+        },
+        {
+            "v_name": "RIC Electronics (ricelectronics.com)",
+            "Discovery Date": "2023-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Electrical Equipment Manufacturing..."
+        },
+        {
+            "v_name": "TrueLogic (truelogiccompany.com)",
+            "Discovery Date": "2023-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Software and services company..."
+        }
+    ]
+}

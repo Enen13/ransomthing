@@ -1,0 +1,283 @@
+{
+    "group_name": [
+        "Devman"
+    ],
+    "group_description": "Former RansomHub and INC Ransom affiliate.",
+    "Victims count": 41,
+    "First discovered victims": "2025-04-06",
+    "Last discovered victim": "2025-05-26",
+    "Avg Delay": "15 days",
+    "Infostealer": "20.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 6,
+                    "Construction": 4,
+                    "Healthcare": 3,
+                    "Consumer Services": 2,
+                    "Telecommunication": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "South Africa": 6,
+                    "Singapore": 4,
+                    "United States": 3,
+                    "Thailand": 3,
+                    "China": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "dmbarone.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "130k USD..."
+        },
+        {
+            "v_name": "Gobierno del Estado de Colima",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "www.nijar.es",
+            "Discovery Date": "2025-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "www.paragonradiology.com",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "200k USD..."
+        },
+        {
+            "v_name": "netstar.co.za",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "1.2 million USD..."
+        },
+        {
+            "v_name": "NSSF KENYA",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "4.5 million USD..."
+        },
+        {
+            "v_name": "TBD KOREA",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "TBD HONK KONG",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "TBD GREECE",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "TOHO-CO",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "120k..."
+        },
+        {
+            "v_name": "TBD KENYA",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "piriou.vn",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "383K USD..."
+        },
+        {
+            "v_name": "tvgoiania.com.br",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "80K USD..."
+        },
+        {
+            "v_name": "Pienaar Brothers",
+            "Discovery Date": "2025-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "590K USD..."
+        },
+        {
+            "v_name": "Victim from Japan",
+            "Discovery Date": "2025-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "dailynews.co.th",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "375K USD..."
+        },
+        {
+            "v_name": "gmanetwork.com",
+            "Discovery Date": "2025-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "2.5 million USD..."
+        },
+        {
+            "v_name": "https://pestbusters.com.sg/",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "100K USD..."
+        },
+        {
+            "v_name": "smvthailand.com",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "375K USD..."
+        },
+        {
+            "v_name": "Chinese Healthcare Organisation",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "Singapour Factory",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "South African IT firm",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "South African Hr company",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "TBD..."
+        },
+        {
+            "v_name": "dovesit.co.za",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "550k USD..."
+        },
+        {
+            "v_name": "EU victim",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "(To be discoled)..."
+        },
+        {
+            "v_name": "China Harbour Engeneiring Company",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "450k USD..."
+        },
+        {
+            "v_name": "Premier Meats South Africa",
+            "Discovery Date": "2025-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "(90k USD)..."
+        },
+        {
+            "v_name": "Feel Four",
+            "Discovery Date": "2025-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "60k USD..."
+        },
+        {
+            "v_name": "Singapour Victim",
+            "Discovery Date": "2025-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "(To be discoled)..."
+        },
+        {
+            "v_name": "Honk Kong Victim",
+            "Discovery Date": "2025-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "(To be discoled)..."
+        },
+        {
+            "v_name": "China Harbour Engeneiring Company",
+            "Discovery Date": "2025-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "450k USD..."
+        },
+        {
+            "v_name": "FEELFOUR",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "70k USD..."
+        },
+        {
+            "v_name": "Med institute",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Price -Soon..."
+        },
+        {
+            "v_name": "Bangkok Electronics Co., Ltd",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "200k USD..."
+        },
+        {
+            "v_name": "Tawasol",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "150k USD..."
+        },
+        {
+            "v_name": "Texas Construction Firm",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "Amount TBD..."
+        },
+        {
+            "v_name": "Optimax Technology",
+            "Discovery Date": "2025-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "590k USD..."
+        },
+        {
+            "v_name": "Dubai Company",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Different Locker..."
+        },
+        {
+            "v_name": "Texas Construction Firm",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Name disclosed soon..."
+        },
+        {
+            "v_name": "Optimax Technology",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Pending..."
+        },
+        {
+            "v_name": "doumen.fr",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "Still in negotiation..."
+        }
+    ]
+}

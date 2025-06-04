@@ -1,0 +1,151 @@
+{
+    "group_name": [
+        "Xinglocker"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 21,
+    "First discovered victims": "2021-04-29",
+    "Last discovered victim": "2021-10-26",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Wayne Automatic Fire Sprinklers, Inc.",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tilia GmbH. TILIA GROUP",
+            "Discovery Date": "2021-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "J.Irwin Company",
+            "Discovery Date": "2021-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DiaSorin",
+            "Discovery Date": "2021-07-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greenwood Fabricating & Plating",
+            "Discovery Date": "2021-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Positive Promotions, Inc.",
+            "Discovery Date": "2021-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AQUALUNG",
+            "Discovery Date": "2021-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sharafi Group Investments",
+            "Discovery Date": "2021-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Coastal Family Health Center",
+            "Discovery Date": "2021-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "T.I.S. Group",
+            "Discovery Date": "2021-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OSF Healthcare System",
+            "Discovery Date": "2021-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Solen A.S",
+            "Discovery Date": "2021-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CBN Logistic",
+            "Discovery Date": "2021-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LineStar",
+            "Discovery Date": "2021-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Desert Plastering LLC",
+            "Discovery Date": "2021-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gulfeagle Supply",
+            "Discovery Date": "2021-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GlobeMed Saudi",
+            "Discovery Date": "2021-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Washoe Tribe",
+            "Discovery Date": "2021-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bridgelux, Inc.",
+            "Discovery Date": "2021-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pezzuto Group",
+            "Discovery Date": "2021-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NAVNIT GROUP",
+            "Discovery Date": "2021-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

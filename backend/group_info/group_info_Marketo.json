@@ -1,0 +1,219 @@
+{
+    "group_name": [
+        "Marketo"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 32,
+    "First discovered victims": "2021-12-07",
+    "Last discovered victim": "2022-02-14",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Vehicle Service Group (VSG)",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Millensys",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GigaTribe",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Morgan Truck Body, LLC",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Luxottica Group S.p.A.",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kawasaki Kisen Kaisha, Ltd. (“K” LINE)",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "X-FAB",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Axis Communications",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gamesa Corporation leaked data",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sea Mar Community Health Centers",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Elm3 Financial Group, LLC",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Virginia Department of Military Affairs",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sandhills Center",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Virginia Defense Force",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Otto Instrument",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Navistar (Volkswagen Group)",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Align Technology, Inc",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "puma.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meditopia.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tpicorp.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "elementia.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gigatribe.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "millensys.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cbsltrans.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bowmanplating.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "morgancorp.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fujitsu.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "spsr-law.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "esited.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "epicor.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "luxottica.com",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dwr.virginia.gov",
+            "Discovery Date": "2021-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

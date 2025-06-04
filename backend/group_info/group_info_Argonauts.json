@@ -1,0 +1,115 @@
+{
+    "group_name": [
+        "Argonauts"
+    ],
+    "group_description": "None",
+    "Victims count": 13,
+    "First discovered victims": "2024-11-27",
+    "Last discovered victim": "2024-12-16",
+    "Avg Delay": "43.8 days",
+    "Infostealer": "10.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 6,
+                    "Manufacturing": 2,
+                    "Transportation/Logistics": 2,
+                    "Business Services": 1,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Italy": 8,
+                    "Taiwan, Province of China": 2,
+                    "Japan": 1,
+                    "United States": 1,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "baseisapis.it",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "ACM_IT",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "RDC",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "ivylifesciences.com",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-09-15",
+            "v_description": "Due to the company’s refusal to pay the ransom,We continue to sell ALL DATA SIZE: 200GB+..."
+        },
+        {
+            "v_name": "BOCCHI S.r.l.",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-09-20",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "contactsrl.eu",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "弘潔科技股份有限公司",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-06",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "avisinterac.it",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-22",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "藤森工業株式会社",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "ALL DATA SIZE: 140GB [news:00.pdf] Due to the company’s refusal to pay the ransom,We continue to sel..."
+        },
+        {
+            "v_name": "AIAD.IT",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-26",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "crollatelecom.it",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-26",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "fitcisl",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-30",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "NUUO",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-11-08",
+            "v_description": "There is no excerpt because this is a protected post...."
+        }
+    ]
+}

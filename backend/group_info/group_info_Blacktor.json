@@ -1,0 +1,49 @@
+{
+    "group_name": [
+        "Blacktor"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 4,
+    "First discovered victims": "2021-12-30",
+    "Last discovered victim": "2021-12-30",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "ticketclub-it",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bankjatim-co-id",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "salesplaypos-com",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "unexca-edu-ve",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

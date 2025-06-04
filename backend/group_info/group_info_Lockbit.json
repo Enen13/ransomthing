@@ -1,0 +1,65 @@
+{
+    "group_name": [
+        "Lockbit"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 5,
+    "First discovered victims": "2020-10-21",
+    "Last discovered victim": "2021-08-23",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Transportation Systems": 2,
+                    "Communication": 1,
+                    "Critical Manufacturing": 1,
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "India": 1,
+                    "Switzerland": 1,
+                    "United Kingdom": 1,
+                    "Thailand": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Bangkok Airways",
+            "Discovery Date": "2021-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Accenture",
+            "Discovery Date": "2021-07-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Merseyrail (Rail network)",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kopter",
+            "Discovery Date": "2020-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Press Trust of India (PTI)",
+            "Discovery Date": "2020-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

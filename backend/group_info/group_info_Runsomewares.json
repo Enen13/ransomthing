@@ -1,0 +1,62 @@
+{
+    "group_name": [
+        "Runsomewares"
+    ],
+    "group_description": "None",
+    "Victims count": 5,
+    "First discovered victims": "2025-02-27",
+    "Last discovered victim": "2025-04-10",
+    "Avg Delay": "153.5 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial Services": 3,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "Thailand": 1,
+                    "France": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Harvest",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "Harvest is a French TechForFin of more than 35 years in full development. Harvest is the leading Fin..."
+        },
+        {
+            "v_name": "Donna G. Rogers, CPA, P.A.",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "Focusing on customer service, we provide accounting solutions for small to mid-sized businesses with..."
+        },
+        {
+            "v_name": "Thai Metal Aluminium Co., Ltd",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "For over 32 years The Gilbert Company has specialized in supply-chain services for the retail sector..."
+        },
+        {
+            "v_name": "F&V Capital Management, LLC (FVCM)",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "2025-01-01",
+            "v_description": "F&V Capital Management, LLC (FVCM) is an SEC registered investment advisor that offers customized as..."
+        },
+        {
+            "v_name": "Gilbert",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "2024-06-22",
+            "v_description": "For over 32 years The Gilbert Company has specialized in supply-chain services for the retail sector..."
+        }
+    ]
+}

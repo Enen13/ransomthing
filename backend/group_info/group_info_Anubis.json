@@ -1,0 +1,75 @@
+{
+    "group_name": [
+        "Anubis"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2025-02-25",
+    "Last discovered victim": "2025-04-23",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 3,
+                    "Business Services": 1,
+                    "Hospitality and Tourism": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3,
+                    "Peru": 1,
+                    "Australia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Two Kings Casino Resort",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Leaked ultra-detailed blueprints of a casino that plans a grand opening in 2026...."
+        },
+        {
+            "v_name": "DG2 Design",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "Blueprints of M1 Bank, Mastercard and so on...."
+        },
+        {
+            "v_name": "Ambleside",
+            "Discovery Date": "2025-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "Breach of personal data of patients, company employees, and dozens of incidents, including Patient a..."
+        },
+        {
+            "v_name": "Pound Road Medical Centre",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "AU Passports, DOB, Medical Records...."
+        },
+        {
+            "v_name": "Summit Home Health, INC.",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "7000+ US Fullinfo..."
+        },
+        {
+            "v_name": "Comercializadora S&E Perú",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "Detailed financial and privacy information...."
+        },
+        {
+            "v_name": "First Defense Fire Protection",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "Leaked blueprints for casinos, airports and hundreds of other companies...."
+        }
+    ]
+}

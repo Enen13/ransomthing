@@ -1,0 +1,85 @@
+{
+    "group_name": [
+        "Direwolf"
+    ],
+    "group_description": "None",
+    "Victims count": 8,
+    "First discovered victims": "2025-05-27",
+    "Last discovered victim": "2025-05-31",
+    "Avg Delay": "1 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial Services": 2,
+                    "Technology": 2,
+                    "Public Sector": 1,
+                    "Consumer Services": 1,
+                    "Construction": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Australia": 1,
+                    "India": 1,
+                    "Thailand": 1,
+                    "Italy": 1,
+                    "Taiwan, Province of China": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Bin Faqeeh Real Estate",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "2025-05-30",
+            "v_description": "Kingdom of Bahrain’s leading real estate investment company...."
+        },
+        {
+            "v_name": "TDM Technical Services",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "TDM Technical Services provides the best human resources available, on an as needed contract basis...."
+        },
+        {
+            "v_name": "DataPost",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "DataPost Pte Ltd is a leading provider of secured data handling solutions based in Singapore, specia..."
+        },
+        {
+            "v_name": "kiwi86",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "Provide 'fair' and 'professional': [Insurance Product Database] and related [Policy: Physical Examin..."
+        },
+        {
+            "v_name": "qualitas-pro",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "Qualitas Commercialisti Associati is an association of Chartered Accountants able to offer consultan..."
+        },
+        {
+            "v_name": "SMV Thailand",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "Wilson International is a global commodities trading company specializing in the supply chain for fe..."
+        },
+        {
+            "v_name": "Wilson International",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "Wilson International is a global commodities trading company specializing in the supply chain for fe..."
+        },
+        {
+            "v_name": "Legal Practice Board of Western Australia",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "[AI generated] The Legal Practice Board of Western Australia is an independent statutory body establ..."
+        }
+    ]
+}

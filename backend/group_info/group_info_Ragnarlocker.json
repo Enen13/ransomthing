@@ -1,0 +1,802 @@
+{
+    "group_name": [
+        "Ragnarlocker"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 128,
+    "First discovered victims": "2020-04-01",
+    "Last discovered victim": "2023-10-11",
+    "Avg Delay": "10 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Energy": 1,
+                    "Transportation Systems": 1,
+                    "Food and Agriculture": 1,
+                    "Critical Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "France": 3,
+                    "Portugal": 1,
+                    "Italy": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Scotbeef Ltd. - Leaks",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Eicon Controle Inteligentes",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "International Presence Ltd - Leaked",
+            "Discovery Date": "2023-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Learning Partnership West - Leaked",
+            "Discovery Date": "2023-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Groupe Fructa Partner - Leaked",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Network Pacific Real Estate - Leak",
+            "Discovery Date": "2023-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Astre - Leaked",
+            "Discovery Date": "2023-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stratesys Full data leak",
+            "Discovery Date": "2023-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: COMECA Group going to be Leaked",
+            "Discovery Date": "2023-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: Skatax Accounting company going to be leaked",
+            "Discovery Date": "2023-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Retail House - Full Leak",
+            "Discovery Date": "2023-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: Stratesys solutions going to be leaked",
+            "Discovery Date": "2023-09-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: Stratesys solutions going to b",
+            "Discovery Date": "2023-09-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: Groupe Fructa Partner will be leaked soon",
+            "Discovery Date": "2023-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CITIZEN company LEAKED",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "2023-09-17",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: Retail House going to be LEAKED",
+            "Discovery Date": "2023-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Updates: Israel \"MYMC\"",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Israel Medical Center - leaked",
+            "Discovery Date": "2023-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DOIT - Canadian IT company allowed leak of its own clients.",
+            "Discovery Date": "2023-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Batesville didn't react on appeal and allows Full Leak",
+            "Discovery Date": "2023-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Batesville Tool & Die, Inc will be leaked in 3 Days",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Belize Electricity Limited - Leaked",
+            "Discovery Date": "2023-07-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Portugal Scotturb Data Leaked",
+            "Discovery Date": "2023-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Australian Universal Crane Leak",
+            "Discovery Date": "2023-05-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Autlan Metallorum, Mexican Miner Leak",
+            "Discovery Date": "2023-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CANTALK, Canadian translation services - Leak",
+            "Discovery Date": "2023-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Public Appeal to the CANTALK management",
+            "Discovery Date": "2023-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Temporary Leak Page #0013995NTa",
+            "Discovery Date": "2023-03-29",
+            "Estimated Attack Date": "2023-03-10",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Leak in lawyers company AASP.",
+            "Discovery Date": "2023-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Leak in lawyers company.",
+            "Discovery Date": "2023-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AASP claim there was no data leakage!",
+            "Discovery Date": "2023-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hundred thousands of personal data, leak preview",
+            "Discovery Date": "2022-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "AOAL - Azienda Ospedaliera di Alessandria..."
+        },
+        {
+            "v_name": "Wrapex Industrial - Leaked",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Serena Hotels - Leaked",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ITONCLOUD - LEAKED",
+            "Discovery Date": "2022-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Essent company - Leaked",
+            "Discovery Date": "2022-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leak Announcement - IT company ITonCLOUD",
+            "Discovery Date": "2022-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Belgium company Zwijndrecht - Leaked",
+            "Discovery Date": "2022-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DURAVIT A.G. - Announcement before publishing data",
+            "Discovery Date": "2022-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dollmar SpA - Leaked",
+            "Discovery Date": "2022-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DIPF-INTERN - Leaked",
+            "Discovery Date": "2022-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fashion company ZIGI NY - Leaked",
+            "Discovery Date": "2022-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DMCI Holding Leaked",
+            "Discovery Date": "2022-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TANG CAPITAL LEAKED",
+            "Discovery Date": "2022-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Avalon luxury transport company - Leaked",
+            "Discovery Date": "2022-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AudioQuest Data Leaked",
+            "Discovery Date": "2022-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Malayan Flour Mills Bhd. Data Leak",
+            "Discovery Date": "2022-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.",
+            "Discovery Date": "2022-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TAP Air Leak of more than 1.5 million of customers and many other.",
+            "Discovery Date": "2022-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TAP AIR PORTUGAL - 115k personal data leak",
+            "Discovery Date": "2022-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DDoS instead of the Discuss - Nice try TAP Air",
+            "Discovery Date": "2022-09-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TAP Air - First Facts",
+            "Discovery Date": "2022-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "USA Insurance company - Smith brothers File tree and some proofs",
+            "Discovery Date": "2022-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Huge drama for Tap Air Portugal",
+            "Discovery Date": "2022-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement. Action Lab File-tree",
+            "Discovery Date": "2022-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DESFA - Pipeline company LEAK",
+            "Discovery Date": "2022-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greece pipeline company breached - DESFA",
+            "Discovery Date": "2022-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "File-tree of Tang Capital",
+            "Discovery Date": "2022-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Puma Biotechnology - decided to allow Leaks",
+            "Discovery Date": "2022-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GENSCO Inc. - allows Leak",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Epec.PL - Lied about the absence of Leak",
+            "Discovery Date": "2022-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Leak: Prudential LTG.",
+            "Discovery Date": "2022-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Leak: Northern Data Systems",
+            "Discovery Date": "2022-06-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sierra Packaging Leaked",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jonathan Adler Leaks",
+            "Discovery Date": "2022-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Germany Corporation \"VMT-GmbH\" Leaked",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Simonson-Lumber decided to be Leaked",
+            "Discovery Date": "2022-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Simonson-Lumber Inc. First batch of Data.",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "International Centre Leaked",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Smith Transport Full Leak",
+            "Discovery Date": "2022-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GHI Hornos Industriales Fully Leaked",
+            "Discovery Date": "2022-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GHI Hornos Industriales  first batch of Data (0,1%)",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Airspan Networks got Leaked",
+            "Discovery Date": "2022-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IT-companies Subex & Sectrio Leaked",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Company Group LDLC",
+            "Discovery Date": "2021-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leak of IT company Saksoft",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Full Data Leak Linical",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Update: Linicals Data",
+            "Discovery Date": "2021-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Groupe LDLC is going to be Leaked",
+            "Discovery Date": "2021-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Team Computers Ltd. - Leak",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LINICAL doesn't care about digital hygiene",
+            "Discovery Date": "2021-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Atlas Financial Holdings, Inc. - Leaked",
+            "Discovery Date": "2021-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FULL DATA LEAK of Primary Residential Mortgage, Inc. //",
+            "Discovery Date": "2021-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Primary Residential Mortgage inc. - Leaked",
+            "Discovery Date": "2021-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Announcement: FTP",
+            "Discovery Date": "2021-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GATEWAY Property Management",
+            "Discovery Date": "2021-06-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Software company Xoriant",
+            "Discovery Date": "2021-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Leak GatewayPM",
+            "Discovery Date": "2021-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NEW Links for ADATA",
+            "Discovery Date": "2021-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ADATA LEAKED",
+            "Discovery Date": "2021-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ADATA",
+            "Discovery Date": "2021-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Webhelp's company - XtraSource",
+            "Discovery Date": "2021-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ludwig Pfeiffer Leaked",
+            "Discovery Date": "2021-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grupo SADA Leak",
+            "Discovery Date": "2020-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Data Leak post from Chemical company",
+            "Discovery Date": "2020-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kaye/Bassman International - New \"Wall of Shamer\"",
+            "Discovery Date": "2020-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cornerstone-BB Group Leaked",
+            "Discovery Date": "2020-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Attention, Dassault Falcon Jet updated",
+            "Discovery Date": "2020-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Advertising Material: Forest Construction Leaked",
+            "Discovery Date": "2020-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LEAK Post Campari Group",
+            "Discovery Date": "2020-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Updates with files in EastCoastSeafood Inc.",
+            "Discovery Date": "2020-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New \"WallofShamer\" - East Coast Seafood Inc.",
+            "Discovery Date": "2020-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Shasun Chemicals & Drugs Ltd. LEAK",
+            "Discovery Date": "2020-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JMA Energy LEAK",
+            "Discovery Date": "2020-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Files For Leak Campari Post",
+            "Discovery Date": "2020-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ragnar_Team Announce of Potential \"WallofShamer\"",
+            "Discovery Date": "2020-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LEAK Post CAPCOM",
+            "Discovery Date": "2020-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LEAK post FINSA",
+            "Discovery Date": "2020-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Campari Group",
+            "Discovery Date": "2020-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Official appeal to DASSAULT FALCON JET",
+            "Discovery Date": "2020-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DASSAULT FALCON JET",
+            "Discovery Date": "2020-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Security breach of CAPCOM network",
+            "Discovery Date": "2020-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Security breach of Campari Group network",
+            "Discovery Date": "2020-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CMA CGM (french carrier, container line)",
+            "Discovery Date": "2020-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BIOLOGICAL E. Ltd. (BE) LEAK POST",
+            "Discovery Date": "2020-09-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Insignia Environmental company.",
+            "Discovery Date": "2020-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Astro Industries, Inc.",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bailey&Galyen Attorney at Law",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New leaks from SOLTEK PACIFIC",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GST Autoleather Company !",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ST Engineering",
+            "Discovery Date": "2020-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leaks from company EDP Group",
+            "Discovery Date": "2020-06-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leaks from company Omniga GmbH & Co.",
+            "Discovery Date": "2020-06-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leakage from company Catania, Mahon & Rider, PLLC",
+            "Discovery Date": "2020-06-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brunner Announce – Hello World !",
+            "Discovery Date": "2020-06-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leaks Company Birch Communications inc.",
+            "Discovery Date": "2020-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Energias de Portugal (EDP)",
+            "Discovery Date": "2020-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,535 @@
+{
+    "group_name": [
+        "Ransomexx"
+    ],
+    "group_description": "RansomExx is a ransomware family that targeted multiple companies starting in mid-2020. It shares commonalities with Defray777.",
+    "Victims count": 83,
+    "First discovered victims": "2020-05-14",
+    "Last discovered victim": "2025-03-07",
+    "Avg Delay": "342.1 days",
+    "Infostealer": "26.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 4,
+                    "Technology": 4,
+                    "Information Technology": 3,
+                    "Healthcare": 3,
+                    "Manufacturing": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 9,
+                    "Canada": 2,
+                    "Brazil": 2,
+                    "France": 2,
+                    "Italy": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "ADDA (adda.io)",
+            "Discovery Date": "2025-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "ADDA is SaaS for Residential Community Management. 12 millions residents, visitors and stuff records..."
+        },
+        {
+            "v_name": "Grupo Vargas",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "2024-12-21",
+            "v_description": "Laboratorios Vargas stands out in the pharmaceutical sector, not just for its longevity but also thr..."
+        },
+        {
+            "v_name": "Lakeshore Title Agency",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Lakeshore Title Agency has closed over $100 million in commercial transactions and over $700 million..."
+        },
+        {
+            "v_name": "Makesworth Accountants",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "2025-02-09",
+            "v_description": "Makesworth Accountants is multi-award-winning accountancy practice of a chartered accountant, tax an..."
+        },
+        {
+            "v_name": "Retemex",
+            "Discovery Date": "2024-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Retemex is a virtual mobile operator in Mexico, operating on the country’s 4.5G LTE network. 24883 c..."
+        },
+        {
+            "v_name": "Brontoo Technology Solutions",
+            "Discovery Date": "2024-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "OstaApp, developed by Brontoo Technology Solutions India Private Limited, is a digital payment platf..."
+        },
+        {
+            "v_name": "nursing.com",
+            "Discovery Date": "2024-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "NURSING.com is an all-in-one online platform designed to help nursing students succeed in their stud..."
+        },
+        {
+            "v_name": "Planet Group International",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "Planet Group International is a multinational corporation specializing in innovative technology solu..."
+        },
+        {
+            "v_name": "LITEON",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "LITEON Technology Corporation, based in Taiwan, is a leading company in the electronics industry kno..."
+        },
+        {
+            "v_name": "Wagner-Meinert",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "2024-07-08",
+            "v_description": "Wagner-Meinert is a company that specializes in industrial refrigeration, food process systems, and ..."
+        },
+        {
+            "v_name": "United Carton Industries Company",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2021-09-20",
+            "v_description": "United Carton Industries Company (UCIC) is a leading packaging solutions provider based in Saudi Ara..."
+        },
+        {
+            "v_name": "Ruwac Industrial Vacuums",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2021-12-06",
+            "v_description": "Ruwac Industrial Vacuums is a leading manufacturer of industrial vacuum cleaners and vacuum systems ..."
+        },
+        {
+            "v_name": "Diagnostica Stago",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2022-03-01",
+            "v_description": "Diagnostica Stago is a global leader in the field of in-vitro diagnostics, specializing in hemostasi..."
+        },
+        {
+            "v_name": "Bombardier Recreational Products",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2022-08-23",
+            "v_description": "Bombardier Recreational Products (BRP) is a Canadian company that designs, manufactures, distributes..."
+        },
+        {
+            "v_name": "Consorci Sanitari Integral",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2022-10-11",
+            "v_description": "Consorci Sanitari Integral (CSI) is a healthcare consortium based in Catalonia, Spain Leaked data si..."
+        },
+        {
+            "v_name": "Badan Urusan Logistik",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2023-02-22",
+            "v_description": "BULOG, or Badan Urusan Logistik, is the state-owned logistics agency of Indonesia Leaked data size: ..."
+        },
+        {
+            "v_name": "Jacobs Farm / Del Cabo",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2023-06-24",
+            "v_description": "Jacobs Farm / Del Cabo is an organic farming company known for its commitment to sustainable agricul..."
+        },
+        {
+            "v_name": "DVision Architecture",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2023-07-01",
+            "v_description": "Dvision Architecture is a global architecture and design firm known for its innovative approach to a..."
+        },
+        {
+            "v_name": "Telecommunications Services of Trinidad and Tobago",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2023-10-27",
+            "v_description": "Telecommunications Services of Trinidad and Tobago (TSTT) is the primary telecommunications provider..."
+        },
+        {
+            "v_name": "Ministry of Defense of Peru",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2024-03-24",
+            "v_description": "The Peruvian Ministry of Defense (Ministerio de Defensa del Perú) is the government agency responsib..."
+        },
+        {
+            "v_name": "Asteco",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "Asteco is a real estate services firm based in the United Arab Emirates (UAE), with its headquarters..."
+        },
+        {
+            "v_name": "Kenya Airways",
+            "Discovery Date": "2023-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "Kenya Airways Ltd., more commonly known as Kenya Airways, is the flag carrier airline of Kenya. The ..."
+        },
+        {
+            "v_name": "AlJaber Engineering",
+            "Discovery Date": "2023-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "AlJaber Engineering (JEC) is a leading general contractor based in the State of Qatar...."
+        },
+        {
+            "v_name": "Admilla ELAP",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Elap (formerly Admilia) offers its expertise and support throughout the implementation of your budge..."
+        },
+        {
+            "v_name": "Telecommunications Services of Trinidad and Tobago (tstt.co.tt)",
+            "Discovery Date": "2023-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "tstt.co.tt and bmobile.co.tt. 4293368 customer's lines, ID scans, gitlab projects, db dumps...."
+        },
+        {
+            "v_name": "DVA - DVision Architecture",
+            "Discovery Date": "2023-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "Dalla digitalizzazione del progetto alla realizzazione di prototipi costruttivi: l’attività di DVA s..."
+        },
+        {
+            "v_name": "Jacobs Farm",
+            "Discovery Date": "2023-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "Jacobs Farm was founded in 1980 as a small organic family farm dedicated to growing fresh, high qual..."
+        },
+        {
+            "v_name": "Bettuzzi And Partners",
+            "Discovery Date": "2023-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "Lo Studio BETTUZZI & PARTNERS - Dottori Commercialisti è stato fondato dal dott. Alvaro Bettuzzi, ne..."
+        },
+        {
+            "v_name": "BULOG",
+            "Discovery Date": "2023-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "BULOG adalah perusahaan umum milik negara yang bergerak di bidang logistik pangan...."
+        },
+        {
+            "v_name": "REC Silicon",
+            "Discovery Date": "2022-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "REC Silicon is a global leader in silane-based, high-purity silicon materials...."
+        },
+        {
+            "v_name": "Unimed Belem",
+            "Discovery Date": "2022-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "A Unimed é a maior realidade cooperativista na área da saúde em todo o mundo e também a maior rede d..."
+        },
+        {
+            "v_name": "Consorci Sanitari Integral & Geseme",
+            "Discovery Date": "2022-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "El Consorci Sanitari Integral (CSI) és un ens públic de serveis sanitaris i socials que neix l'any 2..."
+        },
+        {
+            "v_name": "Ferrari",
+            "Discovery Date": "2022-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "Some internal documents, datasheets, repair manuals, etc...."
+        },
+        {
+            "v_name": "Bombardier Recreational Products (BRP) - SOURCE CODES",
+            "Discovery Date": "2022-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Here are some codes from BRP's repos. atgk.brp.ApprenticeShopAPI, atgk.brp.ApprenticeShopMobileAppBa..."
+        },
+        {
+            "v_name": "Fundo Nacional de Desenvolvimento da Educação",
+            "Discovery Date": "2022-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "The National Fund for Educational Development (FNDE) is a federal agency under the Ministry of Educa..."
+        },
+        {
+            "v_name": "Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)",
+            "Discovery Date": "2022-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "In addition to previous leak: employees credentials, if you need netflix, battle.net, paypal or porn..."
+        },
+        {
+            "v_name": "Bombardier Recreational Products (BRP)",
+            "Discovery Date": "2022-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "BRP Inc. is the holding company for Bombardier Recreational Products Inc., operating as BRP, a Canad..."
+        },
+        {
+            "v_name": "Sonae",
+            "Discovery Date": "2022-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stago",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Scottish Association for Mental Health",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Viva Air",
+            "Discovery Date": "2022-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "POP TV",
+            "Discovery Date": "2022-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KCA Deutag",
+            "Discovery Date": "2022-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hellmann Worldwide Logistics",
+            "Discovery Date": "2021-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UMW Group",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ruwac",
+            "Discovery Date": "2021-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unione dei Comuni Terre di Pianura",
+            "Discovery Date": "2021-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Digicel Group",
+            "Discovery Date": "2021-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unione Reno Galliera",
+            "Discovery Date": "2021-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United Carton Industries Company Ltd",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ultrapar Participações S.A.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Vistra",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Indura SA",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Soluzioni Infrastrutturali Telefoniche ed Elettriche S.p.A.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CalAmp (NASDAQ: CAMP)",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pertamina EP",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Consiglio Nazionale del Notariato",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ajuntament de Castelló",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Nobiskrug",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Samvardhana Motherson Peguform",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wallace & Carey",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "STEMCOR",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Universal Assistance S.A.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WT Microelectronics",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Walsin",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Corporación Nacional de Telecomunicación",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Liberty Group & ForHousing",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ermenegildo Zegna Holding",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gigabyte Technology",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "American Megatrends International",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gigabyte",
+            "Discovery Date": "2021-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lazio Region in Italy",
+            "Discovery Date": "2021-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Corporación Nacional de Telecomunicación (CNT)",
+            "Discovery Date": "2021-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mutuelle Nationale des Hospitaliers (MNH)",
+            "Discovery Date": "2021-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Inchcape",
+            "Discovery Date": "2020-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brazil’s Superior Tribunal de Justiça (Court System)",
+            "Discovery Date": "2020-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Société de transport de Montréal (STM) (public transport agency)",
+            "Discovery Date": "2020-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tyler Technologies",
+            "Discovery Date": "2020-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IPG Photonics",
+            "Discovery Date": "2020-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SoftServe",
+            "Discovery Date": "2020-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "R1 RCM (medical debt collection firm)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Konica Minolta",
+            "Discovery Date": "2020-07-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Texas Department of Transportation",
+            "Discovery Date": "2020-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,1945 @@
+{
+    "group_name": [
+        "Incransom"
+    ],
+    "group_description": "None",
+    "Victims count": 318,
+    "First discovered victims": "2023-08-09",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "16.7 days",
+    "Infostealer": "7.2%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 66,
+                    "Business Services": 33,
+                    "Government": 25,
+                    "Technology": 23,
+                    "Education": 17
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 147,
+                    "United Kingdom": 23,
+                    "Germany": 18,
+                    "Canada": 14,
+                    "Australia": 7
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "mysfa.org",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "St. Francis Advocate (SFA) provides individualized support for adults and youth with developmental d..."
+        },
+        {
+            "v_name": "Jordan Drug",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "Jordan Drug, Inc. currently operates seven independent pharmacies across eastern Kentucky. The Jorda..."
+        },
+        {
+            "v_name": "oxparkrec.org",
+            "Discovery Date": "2025-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "Oxford Parks and Rec focuses on enhancing community engagement through diverse parks, recreational p..."
+        },
+        {
+            "v_name": "piercecountylibrary.org",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "The Pierce County Library System includes 20 libraries in Pierce county. The libraries offer familie..."
+        },
+        {
+            "v_name": "Rivers Academy West London",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "At Rivers Academy we are committed to supporting and challenging all students to fulfil ambitious go..."
+        },
+        {
+            "v_name": "The Vascular Experts",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "2025-05-19",
+            "v_description": "Founded in 2001, by one surgeon, The Vascular Experts has nearly 30 clinical providers and more than..."
+        },
+        {
+            "v_name": "nissi-beach.com",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Located in Ayia Napa, the Nissi Beach Resort has garnered a reputation as a true paradise destinatio..."
+        },
+        {
+            "v_name": "alpha-steuer.de",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Die Zukunft gemeinsam erfolgreich gestalten Bei uns stehen Sie und Ihre persönlichen Ziele im Mittel..."
+        },
+        {
+            "v_name": "npfy.org",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "New Pathways for Youth is dedicated to transforming the lives of youth in Phoenix, AZ, through a com..."
+        },
+        {
+            "v_name": "finanzconsult-immobilien.de",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Location, concept, architecture, and profitability – cooperatively combined in a complete package!\n ..."
+        },
+        {
+            "v_name": "www.davisdavisco.com",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Davis & Davis Company specializes in providing products and systems for Oil, Natural Gas, and Liquid..."
+        },
+        {
+            "v_name": "ros.eu",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "TRAPOROL is the specialist and leading provider of idler rollers, motor rollers, expansion elements ..."
+        },
+        {
+            "v_name": "ccrcda.org",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Catholic Charities, a ministry of the Catholic Diocese of Albany, is committed to active witness on ..."
+        },
+        {
+            "v_name": "south african airways (flysaa.com)",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "South African Airways (SAA) is a passenger and freight airline that is owned and operated by the Sou..."
+        },
+        {
+            "v_name": "GARDNER ORTHOPEDICS",
+            "Discovery Date": "2025-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "Gardner Orthopedics is an orthopedic practice based in Fort Myers, Florida, offering a wide range of..."
+        },
+        {
+            "v_name": "StudioVaiani",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "Studio Vaiani is an Italian accounting and consulting firm based in Crema, founded in the early 1970..."
+        },
+        {
+            "v_name": "The Saint James Hospital Group",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "2025-04-30",
+            "v_description": "At Saint James Hospital Group, they have over 25 years of experience in the healthcare sector. It ha..."
+        },
+        {
+            "v_name": "Hpital Glengarry Memorial Hospital (clglen.local)",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "Community Living Glengarry is focused on enhancing the lives of individuals with intellectual disabi..."
+        },
+        {
+            "v_name": "arkansasprimarycare.com",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "Arkansas Primary Care Clinic PA is a company that operates in the Hospitals & Physicians Clinics ind..."
+        },
+        {
+            "v_name": "lemi-group",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Lemi Group has been manufacturing equipment for beauty salons, spas, podiatry, and medical use for 3..."
+        },
+        {
+            "v_name": "franklin nursing home",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Franklin Nursing Home looks after old people, feeds them, monitors their treatment..."
+        },
+        {
+            "v_name": "Koninklijke Ahold Delhaize N.V.",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "The family of Ahold Delhaize serve 72 million customers every week in the United States, Europe and ..."
+        },
+        {
+            "v_name": "iblinfo.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "ibL – Ingenieurbüro für Landentwicklung GmbH – based in Halle (Saale) is a consulting and planning e..."
+        },
+        {
+            "v_name": "trocaire.edu",
+            "Discovery Date": "2025-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1958 in the Buffalo, NY by the Sisters of Mercy, Trocaire College is a private, career-or..."
+        },
+        {
+            "v_name": "Orthopaedic Specialists of Connecticut",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "Best Orthopedics, Sports Medicine, Joint Replacement...."
+        },
+        {
+            "v_name": "MENTAL HEALTH",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "Mental Health Partners \n Is now Clinica Family Health & Wellness\n \n So many factors influence your h..."
+        },
+        {
+            "v_name": "Chickenshed",
+            "Discovery Date": "2025-04-12",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "Chickenshed is an inclusive theatre company based in London, founded in 1974. It brings together peo..."
+        },
+        {
+            "v_name": "Imagineering Finishing Technologies",
+            "Discovery Date": "2025-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Imagineering Finishing Technologies (IFT) is the industry KnowledgeSource for metal finishing soluti..."
+        },
+        {
+            "v_name": "inspec-international.com",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "INSPEC JAPAN QA SM specializes in high technology and high reliability Quality Assurance, Quality En..."
+        },
+        {
+            "v_name": "silocaf.com",
+            "Discovery Date": "2025-04-09",
+            "Estimated Attack Date": "2025-02-28",
+            "v_description": "Silocaf of New Orleans, Inc. is an experienced coffee processor, translating thorough product knowle..."
+        },
+        {
+            "v_name": "chesterfieldtwp.org",
+            "Discovery Date": "2025-04-09",
+            "Estimated Attack Date": "2025-03-06",
+            "v_description": "The Chesterfield Township Library provides meeting rooms so that the library can promote its program..."
+        },
+        {
+            "v_name": "finetech.de",
+            "Discovery Date": "2025-04-09",
+            "Estimated Attack Date": "2025-03-09",
+            "v_description": "Copyright © 2020 Finetech GmbH & Co. KG, All rights reserved. Finetech respects your privacy. We use..."
+        },
+        {
+            "v_name": "ccso2014.local(sheriffs)",
+            "Discovery Date": "2025-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Cleburne County, Arkansas, population 25,970, is the states 75th and youngest county, formed in 1883..."
+        },
+        {
+            "v_name": "Coop57",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "OVER 12,000 IDS AND PASSPORTS OF CITIZENS OF DIFFERENT COUNTRIES WERE TAKEN\n \n Coop57 is a financial..."
+        },
+        {
+            "v_name": "Thiekon Constructie",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Thiekon Constructie BV is a company from Reijen (Netherlands) with more than 40 years of experience ..."
+        },
+        {
+            "v_name": "The Loretto Hospital",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1923, Loretto Hospital serves more than 33,000 patients each year. They provide quali..."
+        },
+        {
+            "v_name": "bahnlog.com",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "2025-02-26",
+            "v_description": "BahnLog is a railway transport company (EVU) and a railway infrastructure company (EIU).\n The EIU op..."
+        },
+        {
+            "v_name": "importantsteps.com",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "2025-03-01",
+            "v_description": "Important Steps, Inc. (\"Important Steps\") provides Early Intervention (\"EI\") Home-Community & Facili..."
+        },
+        {
+            "v_name": "augustssons.se",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "Augustssons Beslagsindustri AB is a family business founded in 1946. The father and uncle of the cur..."
+        },
+        {
+            "v_name": "City of Fort St. John (city.cityfsj.local)",
+            "Discovery Date": "2025-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "With a population of 21,000 and growing with the city itself, Fort St. John is the largest city in N..."
+        },
+        {
+            "v_name": "TriCity Family Services",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "TriCity Family Services (TCFS) is the leading provider of counseling and mental health services in K..."
+        },
+        {
+            "v_name": "TMT Clam Dredger",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "TMT Clam Dredger TMT Marine Terminal LLC South Jersey Surf Clam Address: manahawkin NJ 08050..."
+        },
+        {
+            "v_name": "allbiz.com",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "Sheermax LLC is located in New York City, and was founded in 2009. At this location, Sheermax LLC em..."
+        },
+        {
+            "v_name": "abeyor.fr",
+            "Discovery Date": "2025-03-23",
+            "Estimated Attack Date": "2025-03-15",
+            "v_description": "www.abeyor.com\n Abeyor is a French manufacturer of overhead and overhead conveyors designed for auto..."
+        },
+        {
+            "v_name": "bellendorf.de",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Auf dem richtigen Weg mit dem Autohaus Bellendorf\n Bei Autohaus Bellendorf sind wir mehr als nur ein..."
+        },
+        {
+            "v_name": "warmsworth.doncaster.sch.uk",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "WARMSWORTH PRIMARY SCHOOL\n If your child or anyone in your household is displaying any of the sympto..."
+        },
+        {
+            "v_name": "alphaoil.ca",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-02-22",
+            "v_description": "Alpha Oil is a family run business based in Toronto servicing the Greater Toronto area. We are a ful..."
+        },
+        {
+            "v_name": "newhollandwood.com",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "New Holland Church Furniture established in 1919 and is located in Lancaster County in the heart of ..."
+        },
+        {
+            "v_name": "gaertnerhof-jeutter.de",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "In 1907, Carl Christoph Jeutter founded his horticultural business. They laid the foundation for a c..."
+        },
+        {
+            "v_name": "expertdata.com.au",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Expert Data Cabling (EDC) is certified in a range of services, including designing and installing fi..."
+        },
+        {
+            "v_name": "airtelligence.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "AirTelligence specializes in providing HVAC solutions across various industries, including healthcar..."
+        },
+        {
+            "v_name": "sitro.com.au",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "2025-03-15",
+            "v_description": "Finetech is a leading manufacturer of equipment for submicron die bonding and advanced SMD rework.\n ..."
+        },
+        {
+            "v_name": "yeanshalle.de",
+            "Discovery Date": "2025-03-15",
+            "Estimated Attack Date": "2025-02-13",
+            "v_description": "Als Jeans-Fachgeschäft, bieten wir unseren Besuchern einen persönlichen, kundenorientierten Service,..."
+        },
+        {
+            "v_name": "Bancroft Wines",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-02-15",
+            "v_description": "Bancroft Wines is an award- winning London-based wine distributor offering a complete and competitiv..."
+        },
+        {
+            "v_name": "wmk-hvb.de",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "Facharztzentrum Westmecklenburg GmbH is a company that operates in the Medical & Surgical Hospitals ..."
+        },
+        {
+            "v_name": "Essex County OB/GYN Associates",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "We offer preventative, diagnostic, and acute care for a wide range of Women's Health issues. Each of..."
+        },
+        {
+            "v_name": "emperors.edu",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-14",
+            "v_description": "Emperor's College of Traditional Oriental Medicine is a graduate school of traditional Oriental medi..."
+        },
+        {
+            "v_name": "wog-kaiserbaeder.de",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-13",
+            "v_description": "Wohnungsgesellschaft Kaiserbder Gemeinde Ostseebad Heringsdorf Verwaltungs - GmbH is a company that ..."
+        },
+        {
+            "v_name": "BerksBar.org",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "The Berks County Bar Association's mission is to promote professional excellence, access to justice,..."
+        },
+        {
+            "v_name": "williampevear.com",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "William Pevear is the President at William Pevear Architects based in Cambridge, Massachusetts. Prev..."
+        },
+        {
+            "v_name": "baldaufarchitekten.de",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "Das Büro bearbeitet seit über 30 Jahren Städtebau- und Hochbauprojekte in und um Baden-Württemberg. ..."
+        },
+        {
+            "v_name": "State Bar of Texas (www.texasbar.com)",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1939, the State Bar of Texas agency assists the Texas Supreme Court in overseeing attorne..."
+        },
+        {
+            "v_name": "Greenwood Village South GVS",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "In Greenwood, 15 miles south of Indianapolis, comfortable living and helpful services come together ..."
+        },
+        {
+            "v_name": "Naples Heritage Golf & Country Club",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "Naples Heritage is a casually elegant golf and country club community situated on 550 acres of land ..."
+        },
+        {
+            "v_name": "germancentre.sg",
+            "Discovery Date": "2025-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "German Centre Singapore - Offices, Advice, Networks. Rent offices, meeting rooms, conference space, ..."
+        },
+        {
+            "v_name": "breakawayconcretecutting.com",
+            "Discovery Date": "2025-03-01",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "ABOUT BREAK AWAY CONCRETE CUTTING, INC. Throughout the years in the Construction Industry, builders ..."
+        },
+        {
+            "v_name": "sublettecountywy.gov",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2024-11-27",
+            "v_description": "Meetings To Be Public\n Government is and should be the servant of the people, and it should be fully..."
+        },
+        {
+            "v_name": "megamtls.com",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Mega Metals is a leading titanium recycling company that prides itself on our unwavering commitment ..."
+        },
+        {
+            "v_name": "evergreenpnw.com",
+            "Discovery Date": "2025-02-22",
+            "Estimated Attack Date": "2025-01-22",
+            "v_description": "Evergreen Christian Community is a company that operates in the Religious Organizations industry. It..."
+        },
+        {
+            "v_name": "teamsters175.org",
+            "Discovery Date": "2025-02-22",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "PROUDLY SERVING TEAMSTER MEMBERS AND THEIR FAMILIES IN WEST VIRGINIA, KENTUCKY, OHIO AND VIRGINIA SI..."
+        },
+        {
+            "v_name": "statesideseattle.com",
+            "Discovery Date": "2025-02-21",
+            "Estimated Attack Date": "2025-02-03",
+            "v_description": "Stateside Entertainment started when the Georgia Entertainment Industry Investment Act was signed in..."
+        },
+        {
+            "v_name": "californiaclingpeaches.com",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "2025-01-10",
+            "v_description": "California Cling Peaches growers offer nutritious peaches packed in Cans, Jars, and Single Serve cup..."
+        },
+        {
+            "v_name": "ehdd.com",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1946, EHDD seeks to create built environments that enhance our culture, honor the natural..."
+        },
+        {
+            "v_name": "lavi.co.il",
+            "Discovery Date": "2025-02-18",
+            "Estimated Attack Date": "2024-12-30",
+            "v_description": "Kibbutz Lavi Hotel is a company that operates in the Furniture industry. It employs 50to99 people an..."
+        },
+        {
+            "v_name": "pyasolutions.com",
+            "Discovery Date": "2025-02-18",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "PYA Solutions specializes in Microsoft Dynamics NAV and Microsoft Dynamics 365 Business Central, off..."
+        },
+        {
+            "v_name": "Persante Health Care",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "Persante Health Care is a leading provider of sleep management services across the nation. Over the ..."
+        },
+        {
+            "v_name": "Northeast Delta Human Services Authority",
+            "Discovery Date": "2025-02-15",
+            "Estimated Attack Date": "2025-02-09",
+            "v_description": "NE Delta HSA is devoted to delivering programs and services that encourage citizens of Northeast Lou..."
+        },
+        {
+            "v_name": "City of McKinney",
+            "Discovery Date": "2025-02-15",
+            "Estimated Attack Date": "2025-02-09",
+            "v_description": "McKinney Economic Development Corporation works in conjunction with the City of McKinney, Texas to p..."
+        },
+        {
+            "v_name": "The Children's Center Of Hamden",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-02-04",
+            "v_description": "The Children's Center of Hamden is a credentialed provider of highly effective, individualized progr..."
+        },
+        {
+            "v_name": "Boldon James",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Data classification that keeps you secure, compliant, and in control.\n Data is everywhere and prot..."
+        },
+        {
+            "v_name": "air europa",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Air Europa, the airline of the Globalia tourism group, is a full member of the SkyTeam Alliance. C..."
+        },
+        {
+            "v_name": "tnlottery.com",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "USA education lottery.\n We have a lot of DATA this company.750 gb include SQL DATABASE with private ..."
+        },
+        {
+            "v_name": "Turning Leaf (TURNINGLEAF.local)",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Turning Leaf Residential Rehabilitation Services is a company that operates in the Mental Health & R..."
+        },
+        {
+            "v_name": "Heart to Heart Hospice",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Heart to Heart Hospice, headquartered in Plano, Texas, and established in 2003, provides palliative ..."
+        },
+        {
+            "v_name": "City Of Beloit",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "The beautiful and historic City of Beloit is located along Interstate 39/90, just north of the Wisco..."
+        },
+        {
+            "v_name": "Menominee Tribal Clinic",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Menominee Tribal Clinic ~ Keshena, WI ~ Soar to good health. Providing the best patient care to our ..."
+        },
+        {
+            "v_name": "Mission Locale Montpellier",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Mission Locale des jeunes de Montpellier..."
+        },
+        {
+            "v_name": "broward.edu",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "2024-12-11",
+            "v_description": "Founded in 1959, Broward College is a education facility that offers a variety of courses such as he..."
+        },
+        {
+            "v_name": "cnnindonesia.com",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "2025-01-05",
+            "v_description": "CNNIndonesia.com menyajikan berita Terbaru, Terkini Indonesia seputar nasional, politik, ekonomi, in..."
+        },
+        {
+            "v_name": "lhps.org",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1970, Lake Highland Preparatory School is the 8th largest coeducational independent day s..."
+        },
+        {
+            "v_name": "Prinston Pharmaceutical (huahaius.com)",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Prinston Pharmaceutical Inc., is a fast growing, emerging global pharmaceutical company, located in ..."
+        },
+        {
+            "v_name": "International AIDS Vaccine Initiative (iavi.org)",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "The International AIDS Vaccine Initiative (IAVI) is a global not-for-profit, public-private partners..."
+        },
+        {
+            "v_name": "starkaerospace.com",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "At Stark Aerospace, we stand as a beacon of excellence in the realm of defense manufacturing. Founde..."
+        },
+        {
+            "v_name": "RETAL Baltic Films",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "RETAL has been offering our customers complete packaging solutions for over 20 years. With 19 produc..."
+        },
+        {
+            "v_name": "Washington Gastroenterology (DHSWA.NET)",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "Washington Gastroenterology (WAGI) was formed with the merger of three western Washington-based gast..."
+        },
+        {
+            "v_name": "Kilgore College (kilgore.edu)",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "Kilgore Economic Development Corporation is an organization founded in 1990 and funded by a dedicate..."
+        },
+        {
+            "v_name": "peponline.org",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "People Encouraging People is an organization driven by our core values. Our programs provide a wide ..."
+        },
+        {
+            "v_name": "Taylor Regional Hospital (thcg.local)",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "Taylor Regional Hospital is a private, not-for-profit acute care facility governed by a self-perpetu..."
+        },
+        {
+            "v_name": "Regina Coeli Convent",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "Our program provides high-quality, comprehensive early childhood services to over 1,800 children and..."
+        },
+        {
+            "v_name": "Onecare",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "2024-12-15",
+            "v_description": "ONE CARE provides a range of supportive care services that enable seniors and people with disabiliti..."
+        },
+        {
+            "v_name": "Biomedical Caledonia Medical Laboratory (calmedlab.local)",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "2024-11-02",
+            "v_description": "Biomedical Caledonia Medical Laboratory Limited is a private medical laboratory with a network of fo..."
+        },
+        {
+            "v_name": "Imperial Valley Respite (ivrespite.com)",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "2024-11-03",
+            "v_description": "Caregiving is demanding, and Imperial Valley Respite is a helpful source to ease the demands of care..."
+        },
+        {
+            "v_name": "Riverina Medical",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "The Riverina Medical and Dental Aboriginal Corporation, or RivMed as it is widely known, has become ..."
+        },
+        {
+            "v_name": "Spectrum",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "2024-11-22",
+            "v_description": "Spectrum Medical Imaging is an independent radiology practice providing state-of-the-art imaging ser..."
+        },
+        {
+            "v_name": "depewgillen.com",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "Depew Gillen Rathbun &amp; McIntee..."
+        },
+        {
+            "v_name": "fwmep.edu",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "2024-12-18",
+            "v_description": "The Family Medicine Center, in partnership with the Fort Wayne Medical Education Program, has been s..."
+        },
+        {
+            "v_name": "Youth Eastside Services",
+            "Discovery Date": "2025-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "Since 1968, Youth Eastside Services helped children, teens and families struggling with depression, ..."
+        },
+        {
+            "v_name": "falp.org",
+            "Discovery Date": "2024-12-27",
+            "Estimated Attack Date": "2024-12-22",
+            "v_description": "Fundación Arturo López Pérez..."
+        },
+        {
+            "v_name": "Inner City Family Health Team (ICFHT.local)",
+            "Discovery Date": "2024-12-27",
+            "Estimated Attack Date": "2024-12-23",
+            "v_description": "What is Inner City Family Health Team? We provide primary care to homeless and previously homeless i..."
+        },
+        {
+            "v_name": "Primary Health Services Center",
+            "Discovery Date": "2024-12-27",
+            "Estimated Attack Date": "2024-12-24",
+            "v_description": "Primary Health Services Center (PHSC) is a private, 501(c)(3) nonprofit organization and certified P..."
+        },
+        {
+            "v_name": "Haji Husein Alireza",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "Haji Husein Alireza and Company Limited is a general trading company with diverse interests in foods..."
+        },
+        {
+            "v_name": "Arc Community Services Inc",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "2024-11-01",
+            "v_description": "ARC Community Services Inc is a company that operates in the Mental Health & Rehabilitation Faciliti..."
+        },
+        {
+            "v_name": "Black Creek Community Health Centre (bcch.local)",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "2024-10-12",
+            "v_description": "Black Creek Community Health Centre is a company that operates in the Medical & Surgical Hospitals i..."
+        },
+        {
+            "v_name": "McKibbin",
+            "Discovery Date": "2024-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "McKibbin Commercial are one of the leading firms of Chartered Surveyors, Estate Agents & Valuers in ..."
+        },
+        {
+            "v_name": "NHS Alder Hey",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Evidence of large-scale data\n \n Patient records, donor reports, procurement data are indicated\n \n In..."
+        },
+        {
+            "v_name": "visufarma.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "200gb\n 50kk\n https://www.zoominfo.com/c/visufarma/399327127\n https://www.visufarma.com/\n \n \n VISUf..."
+        },
+        {
+            "v_name": "formpipe.com",
+            "Discovery Date": "2024-11-27",
+            "Estimated Attack Date": "2024-10-13",
+            "v_description": "Formpipe\n We transform your business to take you into the future. Our highly skilled team and premiu..."
+        },
+        {
+            "v_name": "borohradek",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-11-20",
+            "v_description": "City BORHODAREK..."
+        },
+        {
+            "v_name": "atfservices.com.au",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-11-23",
+            "v_description": "Don't risk inferior solutions. ATF is trusted by top contractors all around Australia.\n For over 2..."
+        },
+        {
+            "v_name": "aclaser.com.au",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-11-14",
+            "v_description": "Rich in history, fuelled by innovation\n Innovation drives us at AC Laser. As a family-owned and oper..."
+        },
+        {
+            "v_name": "Nicholsons Solicitors",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "2024-11-24",
+            "v_description": "Nicholsons Solicitors is a leading mid-tier law firm with offices in Brisbanes CBD and in Noosa. The..."
+        },
+        {
+            "v_name": "Hadwins Volkswagen",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "Volkswagen has a reputation for developing vehicles that offer something for everyone. From the ever..."
+        },
+        {
+            "v_name": "Pastor Real Estate",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Pastor Real Estate is a prominent real estate firm based in London, specializing in l..."
+        },
+        {
+            "v_name": "Sa.SS Datentechnik",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "Drucklösungen, Industrie-Drucker, Etiketten, TTF-Folien, Auto-ID, Zubehör &amp; Service ✓ Top Servic..."
+        },
+        {
+            "v_name": "Service Avicole JGL",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Service Avicole JGL is a company specializing in poultry services. They focus on prov..."
+        },
+        {
+            "v_name": "Darlington EMS",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Darlington EMS is a company that specializes in emergency medical services, providing..."
+        },
+        {
+            "v_name": "Schuck-Gruppe",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Schuck-Gruppe is a German company specializing in pipeline and infrastructure systems..."
+        },
+        {
+            "v_name": "IPE Engwicht",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] IPE Engwicht is a company focused on innovative traffic calming and urban planning so..."
+        },
+        {
+            "v_name": "Alna-Bioscience",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Alna-Bioscience is a biotechnology company focused on developing innovative solutions..."
+        },
+        {
+            "v_name": "Goldsmith & Hull",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Goldsmith & Hull is a law firm known for specializing in debt collection and creditor..."
+        },
+        {
+            "v_name": "Brueck Golosow Kim & Associates",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "Brueck, Golosow, Kim And Associates is a medical establishment that diagnoses and provides treatment..."
+        },
+        {
+            "v_name": "United Bakery Equipment",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] United Bakery Equipment is a company specializing in the design and manufacture of hi..."
+        },
+        {
+            "v_name": "Zimmerei Buder",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Zimmerei Buder is a carpentry company specializing in timber construction and roofing..."
+        },
+        {
+            "v_name": "PBS AEROSPACE",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "2024-11-04",
+            "v_description": "PBS Group PBS GROUP, a.s. is a joint-stock company of the holding type, which is engaged in investme..."
+        },
+        {
+            "v_name": "PHARMATIS-SAS",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "Pharmatis is, as always, a company on a human scale, with multidiscipline,\n responsive teams that li..."
+        },
+        {
+            "v_name": "vbuzrt.hu",
+            "Discovery Date": "2024-11-08",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság\n According to Crefoport s.r.o.'s cre..."
+        },
+        {
+            "v_name": "europe-qualité",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "Europe Quality Group\n \n \n We have 500 gb data of this company. Publication coming soon...."
+        },
+        {
+            "v_name": "ucv.es",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "2024-09-28",
+            "v_description": "La UCV es una institución capaz de ofrecer formación en cualquier etapa de nuestra vida, relacionánd..."
+        },
+        {
+            "v_name": "Webb Institute",
+            "Discovery Date": "2024-11-05",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1889 by New York-based ship builder William H. Webb, Webb Institute is a highly selective..."
+        },
+        {
+            "v_name": "San Francisco Ballet",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "2024-10-30",
+            "v_description": "San Francisco Ballet, long recognized for pushing boundaries in dance, has a history of making histo..."
+        },
+        {
+            "v_name": "Doctors Regional Cancer Center",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Doctors Regional Cancer Treatment Center has been providing oncology services to the communities we ..."
+        },
+        {
+            "v_name": "Storck-Baugesellschaft mbH",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "2024-10-04",
+            "v_description": "Storck-Baugesellschaft mbH is a construction company based out of Germany. STORCK is a nationwide c..."
+        },
+        {
+            "v_name": "Quantum Healthcare",
+            "Discovery Date": "2024-10-02",
+            "Estimated Attack Date": "2024-10-01",
+            "v_description": "Quantum Healtcare..."
+        },
+        {
+            "v_name": "Divine Interprises INC",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Divine Enterprises Inc., is a growing transportation company, that specializes in providing logisti..."
+        },
+        {
+            "v_name": "DINAS Corp",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "DINAS is a wholesale distributor specializing in the sale of Latin American goods. With roots start..."
+        },
+        {
+            "v_name": "Direct Access Partners",
+            "Discovery Date": "2024-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Direct Access Partners was a financial services firm that specialized in providing brokerage and inv..."
+        },
+        {
+            "v_name": "Visionary Homes",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "Visionary Homes is a homebuilding company known for crafting high-quality, customizable homes. They ..."
+        },
+        {
+            "v_name": "Nusser Mineralöl GmbH",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.nusser-mineraloel.de..."
+        },
+        {
+            "v_name": "OnePoint Patient Care",
+            "Discovery Date": "2024-09-15",
+            "Estimated Attack Date": "2024-09-12",
+            "v_description": "One Point Patient Care (OPPC) founded in 1965 and headquartered in Tempe, Arizona, is a national, ho..."
+        },
+        {
+            "v_name": "Cathedral Prep (villalan.edu)",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "2024-08-18",
+            "v_description": "Cathedral Prep is a Christ-Centered, Men's College Preparatory School of the Diocese of Erie. Founde..."
+        },
+        {
+            "v_name": "Regent Care Center",
+            "Discovery Date": "2024-09-11",
+            "Estimated Attack Date": "2024-09-10",
+            "v_description": "Regent Care Center Of Oakwell Farms offers a variety of services designed to provide comprehensive r..."
+        },
+        {
+            "v_name": "E-Z Pack Holdings LLC",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "As part of Commercial Specialty Truck Holdings (CSTH), E-Z Pack is leading refuse truck manufacturer..."
+        },
+        {
+            "v_name": "San Francisco Sheriff's Department (sjcso.local)",
+            "Discovery Date": "2024-09-02",
+            "Estimated Attack Date": "2024-08-09",
+            "v_description": "The San Francisco Sheriff's Department serves the people of San Francisco by administering the count..."
+        },
+        {
+            "v_name": "ERoko Distributors + Colonial Countertops",
+            "Discovery Date": "2024-09-02",
+            "Estimated Attack Date": "2024-08-24",
+            "v_description": "E. Roko Distributors has been in business for over 35 years in British Columbia, Alberta and the Was..."
+        },
+        {
+            "v_name": "The University and College Union",
+            "Discovery Date": "2024-08-25",
+            "Estimated Attack Date": "2024-08-09",
+            "v_description": "The University and College Union (UCU) is the largest union for academic and academic-related staff ..."
+        },
+        {
+            "v_name": "Health Quality Council",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "2024-08-07",
+            "v_description": "HQC offers learning programs for people working at all levels in the health care system...."
+        },
+        {
+            "v_name": "HL Lawson & Sons",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "2024-08-22",
+            "v_description": "H. L. Lawson & Son, Inc. provides transportation management solutions. In-house logistics for produc..."
+        },
+        {
+            "v_name": "Don’t Waste Group",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "With over twenty-five years of phenomenal success, DON’T WASTE provides industry leading business\n i..."
+        },
+        {
+            "v_name": "Larc",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "2024-07-24",
+            "v_description": "LARC operates a 16,000 square foot workshop that provides a setting to not only provide training of ..."
+        },
+        {
+            "v_name": "Boombah Inc.",
+            "Discovery Date": "2024-08-09",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "Boombah was founded in 2003 by owner and founder, Rick Tollefson. Boombah Inc. is now one of the fas..."
+        },
+        {
+            "v_name": "HP Distribution",
+            "Discovery Date": "2024-08-05",
+            "Estimated Attack Date": "2024-07-02",
+            "v_description": "HP Distribution is a family owned and family operated asset based trucking company in Kansas City, ..."
+        },
+        {
+            "v_name": "Norther n Bedford County School District (nbcsc.org)",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-07-17",
+            "v_description": "The Northern Bedford County School District is a public school district serving parts of Bedford Cou..."
+        },
+        {
+            "v_name": "maingroup",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "2024-07-16",
+            "v_description": "WELCOME TO THE WILD ATLANTIC WAY STARTING POINT\n The Inishowen Gateway Hotel in Donegal is a three-s..."
+        },
+        {
+            "v_name": "Association Management Strategies(AAMC.local)",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "",
+            "v_description": "Association Management Strategies is a full-service association management company providing manage..."
+        },
+        {
+            "v_name": "CIMP.COM",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "2024-07-08",
+            "v_description": "Welcome to Consultants in Pain Medicine, PA.\n CPM is lead by a multi-disciplinary team of highly tra..."
+        },
+        {
+            "v_name": "A.L.P. Lighting Components",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-07-06",
+            "v_description": "Founded in 1972 A.L.P. is an international company that does the design, manufacturing, and distribu..."
+        },
+        {
+            "v_name": "The Coffee Bean & Tea Leaf",
+            "Discovery Date": "2024-07-13",
+            "Estimated Attack Date": "2024-07-01",
+            "v_description": "The Coffee Bean & Tea Leaf, founded in 1963 and headquartered in Salt Lake City, Utah, is a coffee c..."
+        },
+        {
+            "v_name": "State of Alabama - Alabama Department Of Education",
+            "Discovery Date": "2024-07-13",
+            "Estimated Attack Date": "2024-07-01",
+            "v_description": "The Alabama State Department of Education (ALSDE) is the state education agency of Alabama. It is he..."
+        },
+        {
+            "v_name": "erne",
+            "Discovery Date": "2024-07-13",
+            "Estimated Attack Date": "2024-06-27",
+            "v_description": "DIE LEISTUNGEN DER ERNE AG HOLZBAU\n Als führende Schweizer Holzbau-Unternehmung ist die ERNE AG Holz..."
+        },
+        {
+            "v_name": "REPLIGEN",
+            "Discovery Date": "2024-07-09",
+            "Estimated Attack Date": "2024-07-03",
+            "v_description": "Repligen is a bioprocessing-focused life sciences company bringing expertise and innovation to our c..."
+        },
+        {
+            "v_name": "Guhring USA",
+            "Discovery Date": "2024-07-08",
+            "Estimated Attack Date": "2024-06-24",
+            "v_description": "Guhring is a world-class manufacturer of round shank cutting tools for the metalworking industry; al..."
+        },
+        {
+            "v_name": "Center for Human Capital Innovation (centerforhci.org)",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "The Center for Human Capital Innovation (CHCI) advises government organizations on \"best practices\" ..."
+        },
+        {
+            "v_name": "waupacacounty-wi.gov",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "Waupaca County is a county in the U.S. state of Wisconsin. As of the 2010 census, the population was..."
+        },
+        {
+            "v_name": "waupaca.wi.us",
+            "Discovery Date": "2024-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "Waupaca County is a county in the U.S. state of Wisconsin. As of the 2010 census, the population was..."
+        },
+        {
+            "v_name": "a4hs-dom.local",
+            "Discovery Date": "2024-06-30",
+            "Estimated Attack Date": "2024-05-27",
+            "v_description": "Our physician-owned multi-specialty medical group has been serving Pocahontas, Arkansas for over 30 ..."
+        },
+        {
+            "v_name": "Puyallup Tribe (ptoi.local)",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "2024-06-23",
+            "v_description": "The Puyallup Tribal Council is the elected governing body of the Puyallup Tribe of Indians. The coun..."
+        },
+        {
+            "v_name": "City Of Coon Rapids",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "2024-06-23",
+            "v_description": "Coon Rapids, Minnesota is a fabulous community located just 15 miles north of Minneapolis! Our city ..."
+        },
+        {
+            "v_name": "Cambridge University Press & Assessment",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "2024-06-24",
+            "v_description": "We unlock the potential of millions of people worldwide. Our assessments, publications and research ..."
+        },
+        {
+            "v_name": "GBA GROUP",
+            "Discovery Date": "2024-06-28",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "We have invested more than £7.2m on in-house specialist IT Systems\n We are leaders in Finished Vehic..."
+        },
+        {
+            "v_name": "Planar",
+            "Discovery Date": "2024-06-25",
+            "Estimated Attack Date": "2024-06-08",
+            "v_description": "Founded in 1983, Planar develops, manufactures, and markets electronic display products. The company..."
+        },
+        {
+            "v_name": "middletown-township.org",
+            "Discovery Date": "2024-06-25",
+            "Estimated Attack Date": "2024-06-18",
+            "v_description": "Middletown Township\n 600 gb data from police and townhall..."
+        },
+        {
+            "v_name": "Maryhaven (MHCLINICAL.LOCAL)",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "An active partner in the Franklin County & Central Ohio community for more than six decades, we have..."
+        },
+        {
+            "v_name": "Sacred Heart Community Service (shcstheheart.org)",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "The Sacred Heart Community Service , Is providing essential services to individuals and families in ..."
+        },
+        {
+            "v_name": "Gorrie-Regan",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "For over 50 years Gorrie-Regan has demonstrated a level of service that is unmatched to the industri..."
+        },
+        {
+            "v_name": "Behavioral Health Response (bhr.local)",
+            "Discovery Date": "2024-06-19",
+            "Estimated Attack Date": "",
+            "v_description": "BHR provides confidential telephone counseling to people in mental health crises as well as mobile o..."
+        },
+        {
+            "v_name": "DERBY SCHOOL",
+            "Discovery Date": "2024-06-19",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "Welcome to the Upper Darby School District, home of the Royals!\n \n Located just outside of Philadelp..."
+        },
+        {
+            "v_name": "OCEANAIR",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "2024-06-10",
+            "v_description": "Boston-based OCEANAIR, Inc. has been a leader in international logistics management services and sup..."
+        },
+        {
+            "v_name": "Sensory Spectrum",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Sensory Spectrum, a globally recognized management consulting firm, specializes in understanding the..."
+        },
+        {
+            "v_name": "Kito Canada",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "Canada's most reliable heavy duty lever hoist available in 3/4 to 9 metric tonne capacity Canada's m..."
+        },
+        {
+            "v_name": "Rockford Public School District",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "2024-05-30",
+            "v_description": "In the course of successful work with this company, we have more than 1.5 TB of data in our hands. D..."
+        },
+        {
+            "v_name": "CONTROLNET",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "2024-05-29",
+            "v_description": "Where Smart Buildings Are Built\n ControlNET has earned the reputation as one of the most proficient ..."
+        },
+        {
+            "v_name": "aloft",
+            "Discovery Date": "2024-06-07",
+            "Estimated Attack Date": "2024-05-31",
+            "v_description": "ALOFT\n Manufacturing · Portugal ·\n \n In our hands everything is about 50gb of the critical date of t..."
+        },
+        {
+            "v_name": "Access Sports Medicine & Orthopaedics",
+            "Discovery Date": "2024-05-25",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "Access Sports Medicine & Orthopaedics is the Seacoast of New Hampshire's leader in the innovative tr..."
+        },
+        {
+            "v_name": "Crandall ISD (CISD.crandallisd.org)",
+            "Discovery Date": "2024-05-25",
+            "Estimated Attack Date": "2024-05-20",
+            "v_description": "Crandall Independent School District is a 4-A school district fully accredited by the Texas Educatio..."
+        },
+        {
+            "v_name": "Audubon Nature Institute (auduboninstitute.org)",
+            "Discovery Date": "2024-05-24",
+            "Estimated Attack Date": "2024-04-23",
+            "v_description": "Audubon Nature Institute operates a family of museums, parks and research facilities dedicated to ce..."
+        },
+        {
+            "v_name": "Hands TheFamilyHelpNetwork.ca",
+            "Discovery Date": "2024-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "Hands - TheFamilyHelpNetwork.ca is an organization dedicated to helping our community members achiev..."
+        },
+        {
+            "v_name": "Richland City Hall",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "The Richland Library continues to offer temporary digital library cards and will soon provide enhanc..."
+        },
+        {
+            "v_name": "Midwest Covenant Home",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Midwest Covenant Home, Inc., located in Stromsburg, Nebraska, offers a senior living campus which en..."
+        },
+        {
+            "v_name": "First Nations Health Authority (fnha.local)",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "The First Nations Health Authority founded in 2013 and headquartered in West Vancouver, BC, is respo..."
+        },
+        {
+            "v_name": "William S. Hein & Co.",
+            "Discovery Date": "2024-05-21",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "William S. Hein & Co., Inc. is a leading, family-run publishing company that has been serving the wo..."
+        },
+        {
+            "v_name": "California Highway Patrol (SVEL237.org)",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "The California Association of Highway Patrolmen is, at its heart, a labor union that advocates on be..."
+        },
+        {
+            "v_name": "Regional Obstetrical Consultants",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "2024-05-18",
+            "v_description": "Regional Obstetrical Consultants (ROC) is a group of high-risk obstetricians and other healthcare pr..."
+        },
+        {
+            "v_name": "Delano Adult School (DJUHSD.ORG)",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "The Delano Joint Union High School District is a District of rich tradition, high expectations, and ..."
+        },
+        {
+            "v_name": "Specialty Market Managers",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "We have over 20+ years experience providing specialty insurance products and over 75% of our staff h..."
+        },
+        {
+            "v_name": "Sterling Transportation Services (sts.local)",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "Sterling Transportation Services (STS) is a family-owned business in Blair, NE. STS is a carrier of ..."
+        },
+        {
+            "v_name": "Continuing Healthcare Solutions (chs.local)",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "Continuing Healthcare Solutions has a network of communities that offer a range of senior living opt..."
+        },
+        {
+            "v_name": "allied-mechanical-services-inc",
+            "Discovery Date": "2024-05-20",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "Allied Mechanical Services\n \n One of Michigan's largest and most experienced full-service mechanical..."
+        },
+        {
+            "v_name": "drmsusa.com",
+            "Discovery Date": "2024-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "\"Our Priority\n \n We believe that everyone deserves the right to work and play without regards to int..."
+        },
+        {
+            "v_name": "aharvey.nf.ca",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "A. Harvey and Co Ltd. is a leading supplier of logistic support services to the Canadian east coast ..."
+        },
+        {
+            "v_name": "gravetye-manor",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "2024-05-08",
+            "v_description": "GRAVETYE MANOR\n Nestled in the Sussex Countryside\n A manor house and garden that feel perfectly at o..."
+        },
+        {
+            "v_name": "Talley Group",
+            "Discovery Date": "2024-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "Talley Group Limited manufactures medical devices for customers in AMER, EMEA, and APAC territories...."
+        },
+        {
+            "v_name": "Eden Project Ltd",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "The Eden Project, an educational charity and social enterprise; creates gardens, exhibitions, events..."
+        },
+        {
+            "v_name": "Helapet Ltd",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "Helapet is a manufacturer and distributor of medical and cleanroom consumables for hospital pharmacy..."
+        },
+        {
+            "v_name": "Eden Project",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "The Eden Project, an educational charity and social enterprise; creates gardens, exhibitions, events..."
+        },
+        {
+            "v_name": "Seaman's Mechanical",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "2024-05-03",
+            "v_description": "Commercial/Industrial Mechanical, Electrical, Plumbing & Refrigeration Expertise\n Since 1961, Seaman..."
+        },
+        {
+            "v_name": "Deeside Timberframe",
+            "Discovery Date": "2024-05-13",
+            "Estimated Attack Date": "2024-05-06",
+            "v_description": "Bespoke Timberframes - Efficient, Durable, and Sustainable\n As one of Scotland’s leading timber fram..."
+        },
+        {
+            "v_name": "NHS (press update)",
+            "Discovery Date": "2024-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "After the first post on our blog, we contacted the NHS administration for a month by phone and email..."
+        },
+        {
+            "v_name": "Pinnacle Orthopaedics",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "Georgia-based Pinnacle Orthopaedics and Sports Medicine Specialists provides orthopaedic services, p..."
+        },
+        {
+            "v_name": "Softura",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "2024-04-23",
+            "v_description": "Who We Are\n \n 25+ years delivering projects using Onshore and Offshore Software Engineering Teams\n \n..."
+        },
+        {
+            "v_name": "Electric Mirror Inc",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Electric Mirror is in more hotels than all of our competitors combined, making us the leader in Ligh..."
+        },
+        {
+            "v_name": "Fribin",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "Welcome\n \n We are a Spanish meat processing company, founded in 1967; a family business and a lead..."
+        },
+        {
+            "v_name": "Electric Mirror",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "2024-05-06",
+            "v_description": "See yourself in the best light with our Front-lit Mirror Collection.\n From the timeless shape of the..."
+        },
+        {
+            "v_name": "City of Buckeye (buckeyeaz.gov)",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-05-01",
+            "v_description": "Midwest Covenant Home, Inc., located in Stromsburg, Nebraska, offers a senior living campus which en..."
+        },
+        {
+            "v_name": "JFK Financial Inc.",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "JFK Financial Inc. is a national mortgage lender offering a wide variety of loan programs, services,..."
+        },
+        {
+            "v_name": "NELLESFRERES",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "Entreprise familiale fondée en 1962 par Jean Nelles et ses frères, la s.a. Nelles Frères est d’abord..."
+        },
+        {
+            "v_name": "Seneca Nation Health System",
+            "Discovery Date": "2024-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "The Seneca Nation Health System (SNHS) is recognized as a non-profit public health organization and ..."
+        },
+        {
+            "v_name": "Mainline Health Systems (MHS.local)",
+            "Discovery Date": "2024-05-04",
+            "Estimated Attack Date": "2024-04-29",
+            "v_description": "Mainline Health Systems, Inc. mission is to provide high quality clinical services to all the people..."
+        },
+        {
+            "v_name": "US-Saudi Arabian Business Council",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "Facilitating hundreds of millions of dollars in cross-border trade and investment agreements between..."
+        },
+        {
+            "v_name": "It4 Solutions Robras Corp",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "It4 Solutions Robras Corp is a company that operates in the Information Technology and Services indu..."
+        },
+        {
+            "v_name": "Trylon Srl",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "Trylon has been supplying innovative, cell site steel infrastructure, as well as site acquisition, e..."
+        },
+        {
+            "v_name": "Sobieski Services Inc",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "Sobieski, headquartered in Newark, Delaware, is a commercial and residential HVAC contractor that of..."
+        },
+        {
+            "v_name": "Human Technology Inc.",
+            "Discovery Date": "2024-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "Innovative prosthetics and orthotics combined with clinical expertise and unparalleled patient care ..."
+        },
+        {
+            "v_name": "Continuing Healthcare Solutions",
+            "Discovery Date": "2024-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "The mission of Continuing Healthcare Solutions is to provide our residents with exceptional care and..."
+        },
+        {
+            "v_name": "Lutheran Social Services of Indiana",
+            "Discovery Date": "2024-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "As an organization accredited by the Council on Accreditation, Lutheran Social Services of Indiana a..."
+        },
+        {
+            "v_name": "Delano Joint Union High School District",
+            "Discovery Date": "2024-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "The Delano Joint Union High School District is a District of rich tradition, high expectations, and ..."
+        },
+        {
+            "v_name": "Druckman Law Group",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Druckman Law Group PLLC is a law firm in Westbury, New York, that provides real estate transactions ..."
+        },
+        {
+            "v_name": "Pulaski academy",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Pulaski Academy offers a unique and distinctive college preparatory educational experience. Whether ..."
+        },
+        {
+            "v_name": "Community Alliance",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "About Community Alliance:- Community Alliance offers a full continuum of behavioral health services ..."
+        },
+        {
+            "v_name": "Henningson & Snoxell, Ltd.",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Located in Maple Grove, Minnesota, Henningson & Snoxell has served businesses and individuals throug..."
+        },
+        {
+            "v_name": "Remitano - Cryptocurrency Exchange",
+            "Discovery Date": "2024-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "Remitano App is an Escrowed P2P Cryptocurrency Exchange. We help you easily Buy - Sell - Store - Inv..."
+        },
+        {
+            "v_name": "West Idaho Orthopedics",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "At West Idaho Orthopedics & Sports Medicine we’re committed to providing the best possible care for ..."
+        },
+        {
+            "v_name": "Norman Urology Associates",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "The physicians and staff at Norman Urology Associates are dedicated to serving the urological needs ..."
+        },
+        {
+            "v_name": "Leicester City Council",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "We have downloaded about 3TB of private information...."
+        },
+        {
+            "v_name": "Xenwerx Initiatives, LLC",
+            "Discovery Date": "2024-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "Xenwerx Initiatives, LLC provides a full suite of services and products to help our customer’s be su..."
+        },
+        {
+            "v_name": "Blueline Associates",
+            "Discovery Date": "2024-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "Blueline Associates was founded in 2005 as not only a general contracting company, but as a solution..."
+        },
+        {
+            "v_name": "Sisu Healthcare",
+            "Discovery Date": "2024-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "Sisu Healthcare Solutions is a privately held infusion therapy company that is dedicated to providin..."
+        },
+        {
+            "v_name": "Graypen Ltd",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "Graypen Limited is part of the Graypen Group which provides high quality, award winning, independent..."
+        },
+        {
+            "v_name": "Lodan Electronics Inc",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "LoDan Electronics, Inc. was established in 1967, and has served as an industry leader, designing, ma..."
+        },
+        {
+            "v_name": "PSEC Church",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "The United Church of Christ is made up of 38 regional conferences, each with its own distinct identi..."
+        },
+        {
+            "v_name": "Tech-Quip Inc",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1973, Tech-Quip has grown to become one of the largest manufacturer’s representatives..."
+        },
+        {
+            "v_name": "Florida Memorial University",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "The Florida Memorial University of today is ascending to excellence and stands in a position of grea..."
+        },
+        {
+            "v_name": "Otolaryngology Associates",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Otolaryngology Associates, LLC is one of the largest private practice Ear, Nose, and Throat groups i..."
+        },
+        {
+            "v_name": "NHS Scotland",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "3 terabytes of data will be published soon.NHSScotland currently employs approximately 140,000 staff..."
+        },
+        {
+            "v_name": "Barrie and Community Family Health Team",
+            "Discovery Date": "2024-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "A Family Health Team is an approach to primary health care that brings together different health car..."
+        },
+        {
+            "v_name": "Ejército del Per",
+            "Discovery Date": "2024-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "We present to your attention the Mystery of Defense and the Army of Peru. As a result of a successfu..."
+        },
+        {
+            "v_name": "Law Offices of John V. Orrick, P.L.",
+            "Discovery Date": "2024-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "he Law Offices of John V. Orrick, P.L. represents clients throughout the Tampa Bay Area and Florida...."
+        },
+        {
+            "v_name": "Pantana CPA",
+            "Discovery Date": "2024-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "We take pride in offering exceptional financial services tailored to meet your specific needs. With ..."
+        },
+        {
+            "v_name": "Acculabs Inc",
+            "Discovery Date": "2024-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Aculabs, Inc. a full service laboratory, has provided superior quality laboratory testing for over 3..."
+        },
+        {
+            "v_name": "Liquid Environmental Solutions",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 2002, Liquid Environmental Solutions is a full service waste management company. Liquid E..."
+        },
+        {
+            "v_name": "Orange Public School District",
+            "Discovery Date": "2024-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "Vision The Orange Public School District commits to provide a safe and caring environment where each..."
+        },
+        {
+            "v_name": "Hardeman County Community Health Center",
+            "Discovery Date": "2024-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "Hardeman County Community Health Center (HCCHC) is a Non-Profit Federal Qualified Health Center (FQH..."
+        },
+        {
+            "v_name": "WEL Partners",
+            "Discovery Date": "2024-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "Whaley Estate Litigation Partners (WEL Partners) is a Toronto based Trusts & Estates Litigation bout..."
+        },
+        {
+            "v_name": "Pacific American Fish Company Inc.",
+            "Discovery Date": "2024-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "In 1970, Joseph Huh, an immigrant from South Korea, moved to the United States with a dream. With a ..."
+        },
+        {
+            "v_name": "Black Butte Coal Co",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Black Butte Coal Company operates a coal mine. The Company produces high energy, low sulphur coal fr..."
+        },
+        {
+            "v_name": "Waterford Country School Inc",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "For 100 years Waterford Country School has worked to meet the special needs of children and families..."
+        },
+        {
+            "v_name": "Benjamin Plumbing Inc",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "With only one truck and a kitchen table office, Benjamin Plumbing, Inc. has grown to become an award..."
+        },
+        {
+            "v_name": "CORBETT EXTERMINATING Inc",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Pest control isn't always easy. But it is for us. Since Spencer Corbett founded Corbett Exterminatin..."
+        },
+        {
+            "v_name": "North American University",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "NAU is a private, non-profit, full-service college offering baccalaureate degree programs in three d..."
+        },
+        {
+            "v_name": "OrthoNY, Orthopedic Care",
+            "Discovery Date": "2024-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "OrthoNY is a group of physicians, physician assistants and nurse practitioners, engaging within the ..."
+        },
+        {
+            "v_name": "Sykes Consulting, Inc.",
+            "Discovery Date": "2024-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 2001, by Darien M. Sykes, PE, SE, Sykes Consulting provides structural engineering consul..."
+        },
+        {
+            "v_name": "Washington School For The Deaf",
+            "Discovery Date": "2024-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "ESTABLISHED IN 1886 Washington School for the Deaf is the state of Washington’s only ASL-English bil..."
+        },
+        {
+            "v_name": "CellNetix Pathology & Laboratories, LLC",
+            "Discovery Date": "2024-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "CellNetix Pathology & Laboratories is a dynamic, rapidly growing private pathology company headquart..."
+        },
+        {
+            "v_name": "Xerox Corp",
+            "Discovery Date": "2023-12-30",
+            "Estimated Attack Date": "2023-12-29",
+            "v_description": "Xerox Corporation provides document management solutions worldwide. The companys Document Technology..."
+        },
+        {
+            "v_name": "Unite Here",
+            "Discovery Date": "2023-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "UNITE HERE is a labor union in the United States and Canada with roughly 300,000 active members. The..."
+        },
+        {
+            "v_name": "New York School of Interior Design",
+            "Discovery Date": "2023-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "The New York School of Interior Design enters its 2023-2026 strategic plan with renewed confidence i..."
+        },
+        {
+            "v_name": "King Aerospace, Inc.",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "2023-12-12",
+            "v_description": "King Aerospace, Inc. (KAI) is a global operation that serves the U.S. military and government to del..."
+        },
+        {
+            "v_name": "Precision Technologies Group Ltd",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "One group. Three world-class divisions. That’s PTG. An organisation that specialises in the creation..."
+        },
+        {
+            "v_name": "Tri-city Medical Center",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Tri-City Medical Center has served San Diego County’s coastal communities of Carlsbad, Oceanside and..."
+        },
+        {
+            "v_name": "Kellett & Bartholow PLLC",
+            "Discovery Date": "2023-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "At Kellett & Bartholow PLLC, we help consumers protect their rights and their financial interests wi..."
+        },
+        {
+            "v_name": "B+P Gerüstbau GmbH",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "For more than 40 years, we have been involved in the most exciting construction projects in the coun..."
+        },
+        {
+            "v_name": "DM Civil Co.",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "DM Civil is a privately owned company established in 1976 by Reg Toohey, Tony Spanjers and his late ..."
+        },
+        {
+            "v_name": "Ingo Money Inc",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "On a Mission to Make Money Movement Instant, Digital and Secure Since 2001, we have focused on a sin..."
+        },
+        {
+            "v_name": "Nicole Miller",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "NICOLE MILLER is a global fashion and lifestyle brand headquartered in New York City. Founded in 198..."
+        },
+        {
+            "v_name": "Pro Metals LLC",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "When John Olivarez and a business partner started Pro Metals in 2007 it was located in a small 2,400..."
+        },
+        {
+            "v_name": "Springfield Area Chamber of Commerce",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1919 and headquartered in Springfield, Missouri, Springfield Area Chamber of Commerce is ..."
+        },
+        {
+            "v_name": "Trylon TSF Inc.",
+            "Discovery Date": "2023-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "Trylon has been supplying innovative, cell site steel infrastructure, as well as site acquisition, e..."
+        },
+        {
+            "v_name": "WellLife Network Inc.",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Today, with an annual operating budget of $100 million, a workforce of 1,800 staff, interns and volu..."
+        },
+        {
+            "v_name": "Decatur Independent School District",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "2023-11-15",
+            "v_description": "Decatur Independent School District is a public school district based in Decatur, Texas, northwest o..."
+        },
+        {
+            "v_name": "Consilium staffing llc",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "2023-11-16",
+            "v_description": "Consilium Staffing is a locum tenens company that connects contract healthcare providers with unders..."
+        },
+        {
+            "v_name": "Yamaha Motor Philippines,Inc.",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "2023-11-15",
+            "v_description": "Yamaha Motor Philippines,Inc. strives to realize people’s dreams with ingenuity and passion, a compa..."
+        },
+        {
+            "v_name": "Guardian Alarm",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "2023-11-15",
+            "v_description": "We design, install, and maintain your fire safety systems, anti-intrusion alarms and video surveilla..."
+        },
+        {
+            "v_name": "SCOLARI Srl",
+            "Discovery Date": "2023-11-17",
+            "Estimated Attack Date": "2023-11-15",
+            "v_description": "Founded in 1950, our business began with the production of manual or semi-automatic open-plan system..."
+        },
+        {
+            "v_name": "EFU Life Assurance",
+            "Discovery Date": "2023-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "EFU Group, originally Eastern Federal Union Insurance Company Limited, is a Pakistan based insurance..."
+        },
+        {
+            "v_name": "Livability",
+            "Discovery Date": "2023-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "Livability is the charity that’s committed to enabling people with disabilities to live the life the..."
+        },
+        {
+            "v_name": "Universal Sewing Supply",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "Universal Sewing Supply was founded in 1956 in St. Louis, Missouri. Universal Sewing Supply provides..."
+        },
+        {
+            "v_name": "Global Export Marketing Co. Ltd.",
+            "Discovery Date": "2023-10-30",
+            "Estimated Attack Date": "2023-10-29",
+            "v_description": "GEMCO is a pioneering company that helps American international brands to reach out to the world. We..."
+        },
+        {
+            "v_name": "Alam Flora Sdn Bhd",
+            "Discovery Date": "2023-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "Incorporated in 1995, Alam Flora Sdn Bhd (Alam Flora) is the leading environmental management compan..."
+        },
+        {
+            "v_name": "Direct Mail Corporation",
+            "Discovery Date": "2023-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "From humble beginnings in 1994, Direct Mail Corporation has grown to become one of Melbourne’s most ..."
+        },
+        {
+            "v_name": "Greenpoint",
+            "Discovery Date": "2023-10-17",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1987, Greenpoint Technologies is one of the original licensed Business Jet Completion..."
+        },
+        {
+            "v_name": "Catholic Charities",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Catholic Charities of Broome County is the lead agency in the joint initiative, called Encompass Fam..."
+        },
+        {
+            "v_name": "Cleveland City Schools",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Cleveland City Schools is a public school system located in Cleveland, Tennessee. We serve over 5,00..."
+        },
+        {
+            "v_name": "Vicon industries inc.",
+            "Discovery Date": "2023-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "Vicon is a global leader in advanced security and surveillance technology to safeguard businesses, s..."
+        },
+        {
+            "v_name": "Village Building Co.",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "We encourage a mix of integrated single title and multi‑unit housing in order to create strong, vibr..."
+        },
+        {
+            "v_name": "Sobieski",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "A Vision For the Future “35 years ago, J. F. Sobieski, Inc. was founded with a clear idea of what we..."
+        },
+        {
+            "v_name": "Jacobsen Construction",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "We present to you - jacobsenconstruction.com We use an uncommon and empowering employee-ownership st..."
+        },
+        {
+            "v_name": "Agilitas IT Solutions Limited",
+            "Discovery Date": "2023-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "We have been contacted by representative of the Agilitas IT Services company. Through long negotiati..."
+        },
+        {
+            "v_name": "ENTRUST Solutions Group",
+            "Discovery Date": "2023-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "ENTRUST Solutions Group is a community of people, 3,100+ strong, who are committed to our clients an..."
+        },
+        {
+            "v_name": "Federal Labor Relations Authority",
+            "Discovery Date": "2023-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "The Federal Labor Relations Authority (FLRA) is an independent agency of the United States governmen..."
+        },
+        {
+            "v_name": "Leoch Battery",
+            "Discovery Date": "2023-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "Products Lithium Battery Lithium solutions are mainly used in network power, green energy storage an..."
+        },
+        {
+            "v_name": "Elemetal",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Elemetal is one of the largest precious metals refiner. They are laundering money for drug cartel an..."
+        },
+        {
+            "v_name": "************",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "************ one of the largest precious metals refiner. they are laundering money for drug cartel a..."
+        },
+        {
+            "v_name": "Abbeyfield",
+            "Discovery Date": "2023-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "It's our mission to provide the best service of care and housing for all our residents, and to be a ..."
+        },
+        {
+            "v_name": "I Keating Furniture World",
+            "Discovery Date": "2023-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "I. Keating Furniture World is a family owned Furniture & Mattresses store located in Minot, ND...."
+        },
+        {
+            "v_name": "It4 Solutions Robras",
+            "Discovery Date": "2023-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "It4 Solutions Robras Corp is a company that operates in the Information Technology and Services indu..."
+        },
+        {
+            "v_name": "Arkopharma",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "Arkopharma in brief Arkopharma is a pharmaceutical laboratory specialised in the area of phytotherap..."
+        },
+        {
+            "v_name": "Pifer's Auction & Realty",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Pifer's Auction & Realty is a full service auction and real estate firm specializing in land auction..."
+        },
+        {
+            "v_name": "Hemmink",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "say hello martin! you have very bad it specialists..."
+        },
+        {
+            "v_name": "Thermenhotel Stoiser",
+            "Discovery Date": "2023-08-09",
+            "Estimated Attack Date": "2023-08-06",
+            "v_description": "ENJOY!..."
+        }
+    ]
+}

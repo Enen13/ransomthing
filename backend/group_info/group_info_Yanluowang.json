@@ -1,0 +1,61 @@
+{
+    "group_name": [
+        "Yanluowang"
+    ],
+    "group_description": "According to PCrisk, Yanluowang is ransomware that encrypts (and renames) files, ends all running processes, stops services, and creates the README.txt file containing a ransom note. It appends the .yanluowang extension to filenames. Cybercriminals behind Yanluowang are targeting enterprise entities and organizations in the financial sector.Files encrypted by Yanluowang can be decrypted with this tool (it is possible to decrypt all files if the original file is larger than 3GB. If the original file is smaller than 3GB, then only smaller files can be decrypted).",
+    "Victims count": 6,
+    "First discovered victims": "2022-07-02",
+    "Last discovered victim": "2022-08-10",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Hot news straight from Cisco",
+            "Discovery Date": "2022-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Shorr.com leakage",
+            "Discovery Date": "2022-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greetings to havi.com and tmsw.com",
+            "Discovery Date": "2022-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Big data dump from various organizations",
+            "Discovery Date": "2022-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Walmart was encrypted",
+            "Discovery Date": "2022-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cincinnati bell didn’t pay the ransom",
+            "Discovery Date": "2022-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

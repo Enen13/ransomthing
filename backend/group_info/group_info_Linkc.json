@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Linkc"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2025-02-19",
+    "Last discovered victim": "2025-02-19",
+    "Avg Delay": "21 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "h2o.ai",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-01-29",
+            "v_description": "As a result of our operation, we have discovered the following concerning data:\n\n1. Unanonymized cus..."
+        }
+    ]
+}

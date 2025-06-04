@@ -1,0 +1,181 @@
+{
+    "group_name": [
+        "Underground"
+    ],
+    "group_description": "None",
+    "Victims count": 24,
+    "First discovered victims": "2024-05-01",
+    "Last discovered victim": "2025-04-16",
+    "Avg Delay": "87.6 days",
+    "Infostealer": "5.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 6,
+                    "Business Services": 5,
+                    "Healthcare": 5,
+                    "Manufacturing": 4,
+                    "Agriculture and Food Production": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "Canada": 3,
+                    "Germany": 2,
+                    "Korea, Republic of": 2,
+                    "United Arab Emirates": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Afa Systems Ltd.",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "2025-02-13",
+            "v_description": "Revenue: $37.2 million\n Type: Industry\n Size: 1,1 TBytes..."
+        },
+        {
+            "v_name": "shengyusteel.com",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "Revenue: $431.6 million\n Type: Manufacturing\n Size: 353,9 GBytes..."
+        },
+        {
+            "v_name": "semex.com",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "Revenue: $170 million\n Type: Research\n Size: 214,2 GBytes..."
+        },
+        {
+            "v_name": "Simmtech Co., Ltd.",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue:$ 760M - Country :South Korea..."
+        },
+        {
+            "v_name": "hcsgcorp.com",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue:$1.7 Billion - Country :USA..."
+        },
+        {
+            "v_name": "Casio Computer Co., Ltd",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "Revenue:$1.858 billion - Country :Japan..."
+        },
+        {
+            "v_name": "ramservices.com",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue:$162M - Country :USA..."
+        },
+        {
+            "v_name": "Ethypharm",
+            "Discovery Date": "2024-07-01",
+            "Estimated Attack Date": "2024-06-20",
+            "v_description": "Revenue:$ 670M - Country :France..."
+        },
+        {
+            "v_name": "A-Line Staffing Solutions",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "2024-05-24",
+            "v_description": "Revenue:$96.1M - Country :USA..."
+        },
+        {
+            "v_name": "belcherpharma.com",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-15",
+            "v_description": "Revenue:$25.7M - Country :USA..."
+        },
+        {
+            "v_name": "CentralSecurities.com",
+            "Discovery Date": "2024-06-11",
+            "Estimated Attack Date": "2024-05-15",
+            "v_description": "Revenue:$230M - Country :USA..."
+        },
+        {
+            "v_name": "www.belcherpharma.com",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "2024-05-04",
+            "v_description": "Revenue:$25.7M - Country :USA..."
+        },
+        {
+            "v_name": "kc.co.kr",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-02-23",
+            "v_description": "Revenue:$650M - Country :South Korea..."
+        },
+        {
+            "v_name": "bulldogbag.com",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2023-07-14",
+            "v_description": "Revenue:$20.6M - Country :Canada..."
+        },
+        {
+            "v_name": "frenckengroup.com",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2023-07-18",
+            "v_description": "Revenue:$50.0M - Country :Singapore..."
+        },
+        {
+            "v_name": "synology.com",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2023-05-30",
+            "v_description": "Revenue:$183.6M - Country :Germany, Taiwan..."
+        },
+        {
+            "v_name": "tpa-group.sk",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2023-07-04",
+            "v_description": "Revenue:tpa-group.com $281M; tpa-group.sk $15M - Country :Slovakia..."
+        },
+        {
+            "v_name": "Triathlon.group",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-01-26",
+            "v_description": "Revenue:$176M - Country :Australia, Germa......"
+        },
+        {
+            "v_name": "awwg.com",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-01-25",
+            "v_description": "Revenue:€585M - Country :France, Spain, U......"
+        },
+        {
+            "v_name": "KyungChang",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-03-06",
+            "v_description": "Revenue:$650M - Country :South Korea..."
+        },
+        {
+            "v_name": "Y. Hata & Co., Ltd.",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "Revenue:$268M - Country :USA..."
+        },
+        {
+            "v_name": "Skender Construction",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-03-21",
+            "v_description": "Revenue:$318.3 Million - Country :USA..."
+        },
+        {
+            "v_name": "Creative Business Interiors",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-04-09",
+            "v_description": "Revenue:$27M - Country :USA..."
+        },
+        {
+            "v_name": "cochraneglobal.com",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "2024-04-15",
+            "v_description": "Revenue:$270.8 Million - Country :United Arab Emir......"
+        }
+    ]
+}

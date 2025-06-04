@@ -1,0 +1,64 @@
+{
+    "group_name": [
+        "Redalert"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 6,
+    "First discovered victims": "2022-07-14",
+    "Last discovered victim": "2022-09-22",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "France": 1,
+                    "United Kingdom": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.bbadmin.com",
+            "Discovery Date": "2022-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groupg4.com",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "coarc.org",
+            "Discovery Date": "2022-07-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keystonelegal.co.uk",
+            "Discovery Date": "2022-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vahanen.com",
+            "Discovery Date": "2022-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "syredis.fr",
+            "Discovery Date": "2022-07-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

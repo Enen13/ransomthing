@@ -1,0 +1,60 @@
+[
+    {
+        "date": "2025-05-28",
+        "title": "quickframes.com",
+        "group": "el dorado",
+        "group_details": [
+            {
+                "g_date": "2025-03-20",
+                "g_title": "Leave him alone, lol :D",
+                "g_description": ""
+            },
+            {
+                "g_date": "2025-03-20",
+                "g_title": "Oh, is this your .env file?",
+                "g_description": ""
+            }
+        ],
+        "Victims count": 71,
+        "Last discovered victim": "2025-05-28",
+        "First discovered victims": "2024-04-29",
+        "Target": [
+            {
+                "Top 5 Activity Sectors": [
+                    {
+                        "Technology": 11,
+                        "Healthcare": 11,
+                        "Business Services": 9,
+                        "Manufacturing": 8,
+                        "Transportation/Logistics": 7
+                    }
+                ]
+            },
+            {
+                "Top 5 Countries": [
+                    {
+                        "United States": 19,
+                        "Canada": 4,
+                        "India": 4,
+                        "Hong Kong": 3,
+                        "Germany": 2
+                    }
+                ]
+            }
+        ],
+        "victims": [
+            {
+                "v_name": "Fujipoly Ltd",
+                "Discovery Date": "2025-05-28",
+                "Estimated Attack Date": "2025-05-27",
+                "v_description": "Fujipoly is the leader ..."
+            },
+            {
+                "v_name": "Fujipoly Hong Kong Ltd",
+                "Discovery Date": "2025-05-28",
+                "Estimated Attack Date": "2025-05-24",
+                "v_description": "Fujipoly is the leader in the design..."
+            }
+        ]
+    }
+]

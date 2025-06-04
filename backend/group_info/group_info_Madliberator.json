@@ -1,0 +1,133 @@
+{
+    "group_name": [
+        "Madliberator"
+    ],
+    "group_description": "None",
+    "Victims count": 16,
+    "First discovered victims": "2024-07-17",
+    "Last discovered victim": "2024-10-01",
+    "Avg Delay": "13.5 days",
+    "Infostealer": "14.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 6,
+                    "Financial": 2,
+                    "Government": 2,
+                    "Manufacturing": 2,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Spain": 3,
+                    "Italy": 2,
+                    "Zimbabwe": 1,
+                    "South Africa": 1,
+                    "United Kingdom": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "marthamedeiros.com.br",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Martha Medeiros e uma estilista apaixonada que transformou a renda feita a mao em sua assinatura dis..."
+        },
+        {
+            "v_name": "ctelift.com",
+            "Discovery Date": "2024-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "Since 1981 CTE has been creating solutions to make working at height easier and safer. This is our p..."
+        },
+        {
+            "v_name": "ych.com",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1955 by the late Mr Yap Chwee Hock, YCH began as a modest passenger transportation compan..."
+        },
+        {
+            "v_name": "awsag.com",
+            "Discovery Date": "2024-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "We have more than 20 years of experience in consulting and engineering and focus on the highest stan..."
+        },
+        {
+            "v_name": "suandco.com",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "Suandco tiene su origen en el despacho fundado en 1951 por Don Francisco Suarez Sotillo, abogado e I..."
+        },
+        {
+            "v_name": "msprocuradores.es",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "",
+            "v_description": "Segura Procuradores SLP es una sociedad profesional, dedicada al ejercicio de la procura a nivel nac..."
+        },
+        {
+            "v_name": "coinbv.nl",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "",
+            "v_description": "COIN is your hands-on partner for IT Continuity, Disaster & Workplace Recovery, and Cyber Security.\t..."
+        },
+        {
+            "v_name": "orbinox.com",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "ORBINOX was founded in Tolosa in 1964, manufacturing industrial valves to fulfil the increasing dema..."
+        },
+        {
+            "v_name": "ORBINOX",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "ORBINOX was founded in Tolosa in 1964, manufacturing industrial valves to fulfil the increasing dema..."
+        },
+        {
+            "v_name": "vrd.be",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "VRD is een modern transportbedrijf waarbij kwaliteit, flexibiliteit en klantgerichtheid voorop staan..."
+        },
+        {
+            "v_name": "VITALDENT",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "Vitaldent is a dental company founded in 1989. Today, it has more than 400 clinics in Spain , has tr..."
+        },
+        {
+            "v_name": "BENICULTURALI.IT",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-07-12",
+            "v_description": "Il Ministero per i Beni Culturali e Ambientali fu istituito da Giovanni Spadolini, (con decreto-legg..."
+        },
+        {
+            "v_name": "MONTERO & SEGURA",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-07-12",
+            "v_description": "Segura Procuradores SLP es una sociedad profesional, dedicada al ejercicio de la procura a nivel nac..."
+        },
+        {
+            "v_name": "crosswear.co.uk",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-06-19",
+            "v_description": "Crosswear has been trading since 1972 and business has evolved to become very much focused on wholes..."
+        },
+        {
+            "v_name": "sacities.net",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-07-12",
+            "v_description": "Our vision and mission is crucial to the work we do. Integral to the South African Cities Network is..."
+        },
+        {
+            "v_name": "zb.co.zw",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-07-13",
+            "v_description": "In 1972, the company changed its name from The Netherlands Bank of Rhodesia Limited to Rhodesia Bank..."
+        }
+    ]
+}

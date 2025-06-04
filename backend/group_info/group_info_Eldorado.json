@@ -1,0 +1,721 @@
+{
+    "group_name": [
+        "Eldorado"
+    ],
+    "group_description": "In September The El Dorado ransomware group have been rebrand as BlackLock",
+    "Victims count": 114,
+    "First discovered victims": "2024-06-06",
+    "Last discovered victim": "2025-01-24",
+    "Avg Delay": "155.5 days",
+    "Infostealer": "8.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 34,
+                    "Technology": 20,
+                    "Manufacturing": 13,
+                    "Transportation/Logistics": 7,
+                    "Financial": 7
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 72,
+                    "Canada": 8,
+                    "Italy": 7,
+                    "Croatia": 3,
+                    "United Arab Emirates": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Rees NDT Inspection Services",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Rees NDT Inspection Services Visitors: 460 ..."
+        },
+        {
+            "v_name": "Rees NDT Inspection Services",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "Energy, Utilities & Waste · Canada · <25 Employees\nWe serve northwestern Canada from our locations i..."
+        },
+        {
+            "v_name": "EVAS Group",
+            "Discovery Date": "2025-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "Education · Canada · 294 Employees\nEVAS Air Charters provides a specially designed aircraft to meet ..."
+        },
+        {
+            "v_name": "Akantha",
+            "Discovery Date": "2025-01-05",
+            "Estimated Attack Date": "2024-12-23",
+            "v_description": "Software · France · <25 Employees\nAkantha offers Portalis, a legal software tailored for lawyers. Th..."
+        },
+        {
+            "v_name": "Inventory Management and Counting Solutions",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Business Services · Texas, United States · 319 Employees\nFounded in 1970, Datascan provides Retailer..."
+        },
+        {
+            "v_name": "HIDROCARBUROS ARGENTINOS S.A.",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Energy, Utilities & Waste · Argentina\n638 Employees\nHASA (Hidrocarburos Argentinos SA) is a company ..."
+        },
+        {
+            "v_name": "Perú Controls S.A.C.",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "Grocery Retail · Peru · 347 Employees\nControl Union Perú SAC is a company that operates in the Groce..."
+        },
+        {
+            "v_name": "D&G Enviro-Group",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "Energy, Utilities & Waste\nCanada · <25 Employees\nThe flexible corporate structure at D&G Enviro-Grou..."
+        },
+        {
+            "v_name": "Relate Infotech",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "Accounting Services · United Kingdom · 120 Employees\nRelate Infotech is a subsidiary of Relate Softw..."
+        },
+        {
+            "v_name": "Acumen Group",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "Home Improvement & Hardware Retail · California, United States\n<25 Employees\nAcumen Group, a foundin..."
+        },
+        {
+            "v_name": "LaSen",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "The company has been compromised. Further details will be provided later...."
+        },
+        {
+            "v_name": "Midland Turbo",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "Industrial Machinery & Equipment\nUnited Kingdom · < 25 Employees\nMidland Turbo has a 7000 sq ft turb..."
+        },
+        {
+            "v_name": "First Baptist Church",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "Organizations · Florida,\nUnited States\n<25 Employees\nFirst Baptist Church of High Springs maintains ..."
+        },
+        {
+            "v_name": "Kandelaar Electrotechniek",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "Civil Engineering Construction · Netherlands\n<25 Employees\nRevenue $5.4 Million..."
+        },
+        {
+            "v_name": "Light Speed Design",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "Manufacturing · Washington, United States · <25 Employees\nLightspeed Design, Inc. is located in Bell..."
+        },
+        {
+            "v_name": "Fleet Equipment Center, Inc.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Fleet Equipment Center, Inc. is a company specializing in the sale, rental, and servi..."
+        },
+        {
+            "v_name": "ATD-American",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ATD-American is a company known for supplying a wide range of institutional furniture..."
+        },
+        {
+            "v_name": "K-State College of Veterinary Medicine",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] K-State College of Veterinary Medicine is a renowned veterinary school located at Kan..."
+        },
+        {
+            "v_name": "UCC Retrievals, Inc.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] UCC Retrievals, Inc. specializes in public record research and retrieval services, fo..."
+        },
+        {
+            "v_name": "TBM Consulting Group, Inc.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] TBM Consulting Group, Inc. is a global management consulting firm specializing in ope..."
+        },
+        {
+            "v_name": "Premier Packaging",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Premier Packaging is a company that specializes in providing custom packaging solutio..."
+        },
+        {
+            "v_name": "LINDOSTAR",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] LINDOSTAR is a company specializing in innovative technology solutions, with a focus ..."
+        },
+        {
+            "v_name": "Gough Construction",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Gough Construction is a construction company known for delivering a range of building..."
+        },
+        {
+            "v_name": "Programs Improving Public Safety",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Clients of PES include Prosecutors, Probation Departments, Sheriff Departments, Health and Human Ser..."
+        },
+        {
+            "v_name": "Palm Facility Services",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $70.3 Million\nPalm Facility Services is an industry leader in facilities management, enginee..."
+        },
+        {
+            "v_name": "Kennedy Funding",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Up to over $4 billion in closed loans.\nKennedy Funding is a nationwide direct private lender special..."
+        },
+        {
+            "v_name": "BUROTEC S.A.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] BUROTEC S.A. is a company specializing in engineering and consulting services. It off..."
+        },
+        {
+            "v_name": "A & L Auto Recyclers",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] A & L Auto Recyclers is a company specializing in the recycling and resale of automot..."
+        },
+        {
+            "v_name": "Alliance Industries, LLC.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Alliance Industries, LLC is a diversified company specializing in manufacturing and i..."
+        },
+        {
+            "v_name": "CelPlan Technologies, Inc.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $51.8 million\nCelPlan is a leading provider of radio frequency (RF) planning &amp; optimizat..."
+        },
+        {
+            "v_name": "Panzer Solutions LLC Business Services",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "631 Employeesb\nRevenue $57.6 Million\nA front-line source in Recruiting & Talent Acquisition has indi..."
+        },
+        {
+            "v_name": "The Recycler Core",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $20.4 Million\nSupplies scrap materials, cores, used equipment, and catalytic converters for ..."
+        },
+        {
+            "v_name": "Thunderbird Country Club",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Thunderbird Country Club, located in Rancho Mirage, California, is a prestigious priv..."
+        },
+        {
+            "v_name": "Istituto di Istruzione Superiore \"Giulio Natta\"",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Istituto di Istruzione Superiore \"Giulio Natta\" is an educational institution located..."
+        },
+        {
+            "v_name": "ANKERSKA PLOVIDBA d.d.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ANKERSKA PLOVIDBA d.d. is a maritime company based in Croatia. It primarily engages i..."
+        },
+        {
+            "v_name": "Adams Homes",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $41 Million\nAdams Homes is known as the premier home builder and is one of the largest priva..."
+        },
+        {
+            "v_name": "A-1 Mobile Lock & Key",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] A-1 Mobile Lock & Key is a locksmith service company that specializes in offering mob..."
+        },
+        {
+            "v_name": "CURVC Corp",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $6.5 Million\nCurvc helps companies need to improve productivity in software development...."
+        },
+        {
+            "v_name": "Pensacola",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $89.9 Million\nThe City of Pensacola serves to administer and enforce city ordinances, direct..."
+        },
+        {
+            "v_name": "Think Simple",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $20.1 Million\nThink Simple is a full service audio/video and IT integration firm serving bus..."
+        },
+        {
+            "v_name": "Patrick Sanders and Company, P.C.",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue < $5 Million\nPatrick Sanders and Company, P.C. provides a wide range of services to a variet..."
+        },
+        {
+            "v_name": "Mullen Wylie, LLC",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Mullen Wylie LLC is a company that operates in the Legal Services industry.\nIt employs 11-20 people\n..."
+        },
+        {
+            "v_name": "Cmc Construction Material",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue is $26.1 Million\nCMC started out as a supplier and applicator of waterproofing products. Sin..."
+        },
+        {
+            "v_name": "Cucina Tagliani",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue < $5 Million\nHeadquarters 17045 N 59th Ave Ste 101, Glendale, Arizona, 85...\nPhone Number (6..."
+        },
+        {
+            "v_name": "Data Campos Sistemas",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "A commitment to innovation and sustainability\nÉtudes is a pioneering company that seamlessly unites ..."
+        },
+        {
+            "v_name": "GC Custom Metal Fabricationsoon",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "GC Custom Metal Fabrication Ltd is a Manufacturing, Mining, and Metals & Minerals company located in..."
+        },
+        {
+            "v_name": "Business Systems House FZ-LLC",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $6.1 Million\nBSH has delivered to the Middle East market state-of-the-art proprietary soluti..."
+        },
+        {
+            "v_name": "Aberdeen",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Aberdeen is a global asset management company headquartered in the UK, known for prov..."
+        },
+        {
+            "v_name": "Compra LTD Aruba",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $9.7 Million\nFounded in 1948, Compra Ltd. with over 110 employees continues to be Aruba’s la..."
+        },
+        {
+            "v_name": "Minuteman Press",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "is a company that operates in the Commercial Printing industry.\nIt employs 5 to 9 people\nand has 500..."
+        },
+        {
+            "v_name": "Keizer's Collision CSN & Automotive",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Keizer's Collision Centre has been a family run business for the last 35 years. We are a licensed au..."
+        },
+        {
+            "v_name": "The Municipal Administration of Barranquitas and its Department of Finance",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The Municipal Administration of Barranquitas, located in Puerto Rico, oversees local ..."
+        },
+        {
+            "v_name": "The PHOENIX",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "a company with more than 15 years in the market, providing innovative solutions to government and pr..."
+        },
+        {
+            "v_name": "Nations Homes Commercial & Residential Construction South Carolina, United States",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "2024-09-06",
+            "v_description": "Nations Homes has earned a reputation as one of the finest custom homebuilders in Myrtle Beach, Sout..."
+        },
+        {
+            "v_name": "PC AfterHours",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Consumer Services · Minnesota, United States.\nPC-AfterHours offers a variety of technical support se..."
+        },
+        {
+            "v_name": "PC AfterHours",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "2024-10-15",
+            "v_description": "Consumer Services · Minnesota, United States.\nPC-AfterHours offers a variety of technical support se..."
+        },
+        {
+            "v_name": "Bells Tax Service",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Accounting Services · California,\nUnited States\nBells Tax Service | Bells Tax Service Modesto Califo..."
+        },
+        {
+            "v_name": "Tiendas Carrion & Fernandez",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "Retail · Spain\nTiendas Carrion & Fernandez Sl is a company that operates in the Retail industry.\nIt ..."
+        },
+        {
+            "v_name": "LA LUCKY Brand",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "2024-11-01",
+            "v_description": "Grocery Retail · California,\nUnited States\nLA Lucky has been in business for over 28 years. In 2007,..."
+        },
+        {
+            "v_name": "phxcmp.com",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] I'm sorry, but I couldn't find any information on a company specifically identified a..."
+        },
+        {
+            "v_name": "barranquitas.pr.gov",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] Barranquitas.pr.gov is the official website of the municipal government of Barranquit..."
+        },
+        {
+            "v_name": "www.keizers.ca",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] Keizers Contracting is a Canadian company that specializes in home improvement and re..."
+        },
+        {
+            "v_name": "mmpunion.com",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] I'm sorry, but I don't have specific information about \"mmpunion.com.\" It's possible ..."
+        },
+        {
+            "v_name": "compra-aruba.com",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "Compra-aruba.com is an online platform specializing in providing shopping and shipping services for ..."
+        },
+        {
+            "v_name": "uccretrievals.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "UCC Retrievals is a company specializing in Uniform Commercial Code (UCC) services. They offer solut..."
+        },
+        {
+            "v_name": "premierpackaging.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2023-12-19",
+            "v_description": "Premier Packaging is a company specializing in packaging solutions, offering a wide range of product..."
+        },
+        {
+            "v_name": "htetech.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2023-11-27",
+            "v_description": "HTE Technologies is a company specializing in industrial automation solutions, providing products an..."
+        },
+        {
+            "v_name": "goughconstruction.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-03-09",
+            "v_description": "Certainly! Gough Construction is a company specializing in construction services, known for its comm..."
+        },
+        {
+            "v_name": "fleetequipment.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "FleetEquipment.com is a platform providing news, insights, and analysis related to the commercial tr..."
+        },
+        {
+            "v_name": "auto-recyclers.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2023-12-19",
+            "v_description": "Auto-recyclers.com is a company specializing in the recycling and resale of automotive parts. They f..."
+        },
+        {
+            "v_name": "atd-american.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2023-11-20",
+            "v_description": "ATD American is a company specializing in providing a wide range of products for educational, hospit..."
+        },
+        {
+            "v_name": "allianceind.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-02-09",
+            "v_description": "Alliance Industries, Inc. is a company that specializes in manufacturing and distributing industrial..."
+        },
+        {
+            "v_name": "avioesforza.it",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2023-12-07",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tankerska.hr",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Tankerska Plovidba is a Croatian shipping company specializing in maritime transport, primarily focu..."
+        },
+        {
+            "v_name": "totalelectronics.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "TotalElectronics.com is a comprehensive online retailer specializing in consumer electronics. They o..."
+        },
+        {
+            "v_name": "mullenwylie.com",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Mullen Wylie is a company that specializes in providing innovative solutions in the fields of archit..."
+        },
+        {
+            "v_name": "aberdeenwa.gov",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Aberdeenwa.gov represents the official website for the city of Aberdeen, Washington. It serves as a ..."
+        },
+        {
+            "v_name": "howardcpas.com",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Howard CPAs is a professional accounting firm offering comprehensive financial services including ta..."
+        },
+        {
+            "v_name": "bshsoft.com",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "BSH Soft is a technology company specializing in innovative software solutions. They focus on custom..."
+        },
+        {
+            "v_name": "datacampos.com",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "Datacampos.com is a company specializing in data management and analytics solutions. They offer serv..."
+        },
+        {
+            "v_name": "gccustommetal.com",
+            "Discovery Date": "2024-09-27",
+            "Estimated Attack Date": "",
+            "v_description": "G&C Custom Metal Fabricators specializes in bespoke metalwork solutions, offering services such as l..."
+        },
+        {
+            "v_name": "www.datacampos.com",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "DataCampos specializes in advanced data solutions, offering comprehensive services such as data anal..."
+        },
+        {
+            "v_name": "cucinatagliani.com",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "Cucinatagliani.com is a company specializing in authentic Italian cuisine, offering a range of produ..."
+        },
+        {
+            "v_name": "cmclb.com",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "CMCLB.com is a leading provider of comprehensive logistics and supply chain solutions. Catering to a..."
+        },
+        {
+            "v_name": "newriverelectrical.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "New River Electrical Corporation specializes in electrical contracting services, focusing on high-vo..."
+        },
+        {
+            "v_name": "seaglesafety.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Seagle Safety is a company specializing in providing comprehensive safety solutions for various indu..."
+        },
+        {
+            "v_name": "rccauto.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "RCC Auto is an automotive company specializing in high-quality aftermarket parts and accessories. Th..."
+        },
+        {
+            "v_name": "itasnatta.edu.it",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "itasnatta.edu.it is the official website of the Istituto Tecnico Agrario Statale \"Emilio Sereni,\" an..."
+        },
+        {
+            "v_name": "a1mobilelock.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "A1 Mobile Lock is a professional locksmith service specializing in automotive, residential, and comm..."
+        },
+        {
+            "v_name": "curvc.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Curvc.com is a company specializing in custom web and mobile development, offering tailored solution..."
+        },
+        {
+            "v_name": "patricksanderscompany.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "2024-07-16",
+            "v_description": "Patrick Sanders Company specializes in offering bespoke digital marketing solutions tailored to busi..."
+        },
+        {
+            "v_name": "thinksimple.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Think Simple is a design-driven company that focuses on creating innovative and user-friendly produc..."
+        },
+        {
+            "v_name": "pesprograms.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Pesprograms.com is a company focused on providing innovative educational software solutions. They sp..."
+        },
+        {
+            "v_name": "palmfs.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Palmfs.com is a company specializing in advanced data storage solutions. It offers innovative file s..."
+        },
+        {
+            "v_name": "kennedyfunding.com",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "2024-08-22",
+            "v_description": "Kennedy Funding is a prominent direct private lender specializing in bridge loans for commercial rea..."
+        },
+        {
+            "v_name": "New River Electrical Corporation",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "... Tags: #New River Electrical Corporation #Virginia #United States..."
+        },
+        {
+            "v_name": "The Recycler Core Company",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #The Recycler Core Company #Kansas #United States..."
+        },
+        {
+            "v_name": "www.curvc.com",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #Seoul #Seoul-t'ukpyolsi #South Korea..."
+        },
+        {
+            "v_name": "Eagle Safety Eyewear",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #3801 Bishop Lane #Louisville #United States..."
+        },
+        {
+            "v_name": "TBMCG.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2023-12-04",
+            "v_description": "... Tags: #TBM #Consulting Group #United States..."
+        },
+        {
+            "v_name": "www.vet.k-state.edu",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #VETERINARY HEALTH CENTER #Mosier Hall #Manhattan..."
+        },
+        {
+            "v_name": "www.uccretrievals.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2024-03-09",
+            "v_description": "... Tags: #Family Owned and Operated #Highly Trained, Knowledgeable #Sklar Technology Partners..."
+        },
+        {
+            "v_name": "HTE Technologies",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #MANUFACTURING PRODUCTIVITY #Factory Automation and Industrial Productivity #United States..."
+        },
+        {
+            "v_name": "goughhomes.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #GOUGH HOMES #GOUGH CONSTRUCTION #United States..."
+        },
+        {
+            "v_name": "Baker Triangle",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #Baker Triangle #Construction #United States..."
+        },
+        {
+            "v_name": "www.tankerska.hr",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2024-02-11",
+            "v_description": "... Tags: #Tankerska #Marine Shipping and Transportation #Croatia..."
+        },
+        {
+            "v_name": "cityofpensacola.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #cyberattack #municipalities #Florida..."
+        },
+        {
+            "v_name": "thunderbirdcc.org",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #Thunderbird Country Club #Country Club #Rancho Mirage..."
+        },
+        {
+            "v_name": "www.itasnatta.edu.it",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "... Tags: #ISTITUTO DI ISTRUZIONE SUPERIORE #Giulio Natta #MILANO - MI..."
+        },
+        {
+            "v_name": "panzersolutions.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2023-10-19",
+            "v_description": "......"
+        },
+        {
+            "v_name": "lindostar.it",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2023-12-07",
+            "v_description": "......"
+        },
+        {
+            "v_name": "burotec.biz",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2023-12-19",
+            "v_description": "......"
+        },
+        {
+            "v_name": "celplan.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "......"
+        },
+        {
+            "v_name": "adamshomes.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "2024-04-02",
+            "v_description": "......"
+        }
+    ]
+}

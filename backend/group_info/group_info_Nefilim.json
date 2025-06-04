@@ -1,0 +1,124 @@
+{
+    "group_name": [
+        "Nefilim"
+    ],
+    "group_description": "According to Vitali Kremez and Michael Gillespie, this ransomware shares much code with Nemty 2.5. A difference is removal of the RaaS component, which was switched to email communications for payments. Uses AES-128, which is then protected RSA2048.",
+    "Victims count": 15,
+    "First discovered victims": "2020-05-05",
+    "Last discovered victim": "2021-09-09",
+    "Avg Delay": "N/A",
+    "Infostealer": "100.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Critical Manufacturing": 3,
+                    "Transportation Systems": 1,
+                    "Communication": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Australia": 1,
+                    "New Zealand": 1,
+                    "France": 1,
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Atlanta Allergy & Asthma. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grimmway Farms. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Seven Seas. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The MADSACK Media Group. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tegut. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TPG Internet. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Saipa Press. Part 1.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tegut. Part 2.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The MADSACK Media Group. Part 2.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Whirlpool",
+            "Discovery Date": "2020-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DKA (refrigeration and air conditioning specialist, Dussmann Group subsidiary)",
+            "Discovery Date": "2020-07-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Orange (mobile operator)",
+            "Discovery Date": "2020-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fisher and Paykel Appliances",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toll Group",
+            "Discovery Date": "2020-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

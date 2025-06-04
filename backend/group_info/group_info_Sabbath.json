@@ -1,0 +1,127 @@
+{
+    "group_name": [
+        "Sabbath"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 17,
+    "First discovered victims": "2021-11-22",
+    "Last discovered victim": "2022-02-28",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "aria-label=Google>",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JALEEL TRADERS LLC",
+            "Discovery Date": "2022-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ASL Napoli 3 Sud Network Seized",
+            "Discovery Date": "2022-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Protected: PRIVATE POST  ITALY",
+            "Discovery Date": "2022-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Summit College",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Close drawer",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Close search modal",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TRIGYN 2 0 | Data Leak",
+            "Discovery Date": "2021-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Prenax",
+            "Discovery Date": "2021-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Social Enterprise (SEC)",
+            "Discovery Date": "2021-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Trigyn Technologies Ltd",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Flagship",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stoningtonschools",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AISD",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Starline",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "RocTechnologies",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MCP Services LLC",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

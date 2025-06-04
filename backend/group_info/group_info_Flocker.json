@@ -1,0 +1,319 @@
+{
+    "group_name": [
+        "Flocker"
+    ],
+    "group_description": "None",
+    "Victims count": 47,
+    "First discovered victims": "2024-05-03",
+    "Last discovered victim": "2025-05-31",
+    "Avg Delay": "6.5 days",
+    "Infostealer": "16.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 9,
+                    "Financial": 4,
+                    "Public Sector": 3,
+                    "Business Services": 2,
+                    "Transportation/Logistics": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Taiwan, Province of China": 2,
+                    "Zambia": 2,
+                    "United Arab Emirates": 2,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Trustgrp.ae",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "2025-05-23",
+            "v_description": "To The Board Of Trust Group Firm Trust Group is a well-established, multi-faceted organization with ..."
+        },
+        {
+            "v_name": "l*s.com.vn",
+            "Discovery Date": "2025-05-28",
+            "Estimated Attack Date": "",
+            "v_description": "For The Council Of L*S GROUP We have breached your main system l*s.com.vn We also took backup copy o..."
+        },
+        {
+            "v_name": "D****v.org",
+            "Discovery Date": "2025-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "For The Leadership Of D**a-C**e S*****s Inc We have compromised your main server D****v.org we also ..."
+        },
+        {
+            "v_name": "T******p.ae",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "To The Board Of T***t L*****s & L***l C*********s We have breached one of your servers and exfiltrat..."
+        },
+        {
+            "v_name": "Z****a.com",
+            "Discovery Date": "2025-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "To the Leadership Of S*****r We have gained access to your main system, Z*****a.com and took backup ..."
+        },
+        {
+            "v_name": "W*******w.com",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "To the management of W***** LLP We have breached the main servers, and took down W*******w.com, we h..."
+        },
+        {
+            "v_name": "Salemerode.com",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "To the management of Salem Erode Investment Limited We have breached your system servers Salemerode...."
+        },
+        {
+            "v_name": "S********e.com",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "To the management of S***m E***e I********t Limited We have breached your system servers S********e...."
+        },
+        {
+            "v_name": "K**d.edu",
+            "Discovery Date": "2025-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of K*** ********y ******e We have owned your system at k**d.edu we also took backup of ..."
+        },
+        {
+            "v_name": "Eservices.gov.zm",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-02-12",
+            "v_description": "To the leadership of Zamservices We have compromised Eservices.gov.zm main servers, backup, internal..."
+        },
+        {
+            "v_name": "Gpstech2007.com",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "To the board of GPSTECH2007 We have compromised your system servers for Gpstech2007.com and locked o..."
+        },
+        {
+            "v_name": "Mervis.info",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "For the Administration of Mervis.info We have compromised Mervis.info system and extracted data to d..."
+        },
+        {
+            "v_name": "Realtime.tw",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "To The council Of Realtime Taiwan We have breached Realtime.tw server and extracted data on all empl..."
+        },
+        {
+            "v_name": "A*u.edu.au",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of A********n N******l U********y We have took over the servers A*u.edu.au and before e..."
+        },
+        {
+            "v_name": "E*******s.gov.zm",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "To the leadership of Z*********S We have compromised E*******s.gov.zm main servers, backup, internal..."
+        },
+        {
+            "v_name": "R******e.tw",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "The council Of R******e we look forward to talk We have breached R******e.tw server and extracted da..."
+        },
+        {
+            "v_name": "G*********7.com",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of G*********7 We have compromised your system servers for G*********7.com and locked o..."
+        },
+        {
+            "v_name": "M****s.info",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "For the Administration of m****s.info We have compromised M****s.info system and extracted data to d..."
+        },
+        {
+            "v_name": "Toshapp.com",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "To the leadership of TOSH LOGISTICS CO LIMITED We have breached the system entirely we also took all..."
+        },
+        {
+            "v_name": "A2b-cargo.com",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "To the management of A2B Cargo We have gained access to A2b-cargo.com and have obtained sensitive da..."
+        },
+        {
+            "v_name": "Punjab.gov.pk",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "To The Organization of Punjab.gov.pk We have owned the servers and extract  ed all data of all offic..."
+        },
+        {
+            "v_name": "W*****e.com",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "To the managment of w*****e.com We have breached the main system servers and extracted all client de..."
+        },
+        {
+            "v_name": "T*****p.com",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "To the leadership of T**H L*******S CO LIMITED We have breached the system entirely we also took all..."
+        },
+        {
+            "v_name": "A**-****o.com",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "To the management of A** ****o We have gained access to A**-****o.com and have obtained sensitive da..."
+        },
+        {
+            "v_name": "K****S CORP",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "To the leadership of K****S.COM, We have gained access to K****S.COM and have obtained Server data i..."
+        },
+        {
+            "v_name": "d****I",
+            "Discovery Date": "2024-11-05",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of d****I.org, We have gained access to your system and have procured highly confidenti..."
+        },
+        {
+            "v_name": "C**********M",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "To the management of C**********M.com, We have breached C**********M.com and have obtained all data ..."
+        },
+        {
+            "v_name": "F*******M Corp",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "To the executives of F*******M, We have successfully breached F*******M.com and obtained critical da..."
+        },
+        {
+            "v_name": "B****A",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "To the management of Coinmama, We have gained access to B****A.ca and have obtained sensitive data i..."
+        },
+        {
+            "v_name": "Q***M",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "We have infiltrated the Q***M.com servers, a well-known Money Management institution. In just 7 days..."
+        },
+        {
+            "v_name": "K***N Corp",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of K***N, We have gained access to your system at K***N.com and have procured highly co..."
+        },
+        {
+            "v_name": "Y*********I",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "We have Access Y*********I.edu servers, a well-known University. In just 7 days, we will leak all da..."
+        },
+        {
+            "v_name": "A****N",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "To the Firm of A****N, We have gained unauthorized access to A***N.com and have gained highly confid..."
+        },
+        {
+            "v_name": "A*****D",
+            "Discovery Date": "2024-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "To the executives of A*****D, We have breached A*****D.com servers and your security measures and ob..."
+        },
+        {
+            "v_name": "O***M",
+            "Discovery Date": "2024-07-10",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of O***M, We have gained access to your system O***M.com and have highly confidential d..."
+        },
+        {
+            "v_name": "F*****H",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "To the board of F*****H, We have gained unauthorized access to your system F*****H.com and have proc..."
+        },
+        {
+            "v_name": "K*****S",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "To the leadership of K*****S.ca We have infiltrated the K*****S.ca servers, a well-known Law Firm in..."
+        },
+        {
+            "v_name": "H*******Y",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "To The Leadership Of H*******Y We have Successfully breached H*******y.net servers your systems are ..."
+        },
+        {
+            "v_name": "D*****S",
+            "Discovery Date": "2024-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "To The Board Of D*****S We have Successfully breached d*****s.com servers your systems are locked, W..."
+        },
+        {
+            "v_name": "SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2 Leak",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-05-05",
+            "v_description": "The four victims of our attack – SBC Global, Bitfinex, Coinmama, and Rutgers University. You refused..."
+        },
+        {
+            "v_name": "Coinmama",
+            "Discovery Date": "2024-05-06",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "To the management of Coinmama, We have gained access to Coinmama.com and have obtained sensitive dat..."
+        },
+        {
+            "v_name": "SBC Global, Bitfinex, Coinmama, and Rutgers University Part 2",
+            "Discovery Date": "2024-05-06",
+            "Estimated Attack Date": "2024-05-05",
+            "v_description": "The four victims of our attack – SBC Global, Bitfinex, Coinmama, and Rutgers University. You refused..."
+        },
+        {
+            "v_name": "SBC Global, Bitfinex, Coinmom, and Rutgers University Part 2",
+            "Discovery Date": "2024-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "the four victims of our attack – SBC Global, Bitfinex, Coinmom, and Rutgers University. You refused ..."
+        },
+        {
+            "v_name": "Bitfinex",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "To the executives of Bitfinex, We have successfully breached your security measures and obtained cri..."
+        },
+        {
+            "v_name": "SBC Global",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "To the board of SBC Global, We have gained unauthorized access to your system and have procured high..."
+        },
+        {
+            "v_name": "Rutgers University",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "We have infiltrated the Rutgers.edu servers, a well-known educational institution. In just 7 days, w..."
+        },
+        {
+            "v_name": "Coinmoma",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "To the management of Coinmoma, We have gained access to Coinmoma.com and have obtained sensitive dat..."
+        }
+    ]
+}

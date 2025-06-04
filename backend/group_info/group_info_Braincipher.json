@@ -1,0 +1,247 @@
+{
+    "group_name": [
+        "Braincipher"
+    ],
+    "group_description": "Brain Cipher emerged in July 2024. Both Windows and Linux variants are available. Brain Cipher using the leaked build of LockBit Black for their operations. The group suspected to have exploited CVE-2023-28252 (Microsoft Windows CLFS Driver Privilege Escalation Vulnerability). The Ransom demand ranges from $150,000 to $1,00,0000. Demand to be paid with Monero (XMR) cryptocurrency. In 2025, they have shifted their new Negotiation portal to new server with vanity TOR Domain starting with 'brain'.",
+    "Victims count": 35,
+    "First discovered victims": "2024-07-01",
+    "Last discovered victim": "2025-05-05",
+    "Avg Delay": "43.5 days",
+    "Infostealer": "32.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 8,
+                    "Manufacturing": 7,
+                    "Technology": 3,
+                    "Healthcare": 3,
+                    "Financial": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "Mexico": 4,
+                    "France": 3,
+                    "Argentina": 2,
+                    "Spain": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Pulmonary Physicians of South Florida Clinics",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "neatem.fr",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "mbmdubai.com",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ddecor.com",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] D'Decor is a leading home decor company known for its innovative and stylish range of..."
+        },
+        {
+            "v_name": "ruizre.es",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Ruizre.es is a real estate company based in Valencia, Spain that specializes in prope..."
+        },
+        {
+            "v_name": "soundtransit.org",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Sound Transit, operating under the domain \"soundtransit.org\", is a mass transit agenc..."
+        },
+        {
+            "v_name": "valedolobo.com",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Valedolobo.com\" is the online platform for the Vale do Lobo resort located in Portug..."
+        },
+        {
+            "v_name": "edisoft.es",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Edisoft is a Spanish technological company specializing in development and implementa..."
+        },
+        {
+            "v_name": "iycsa.com.co",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Rhode Island Department of Humain Services",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Provides support and resources for health, financial aid, and social services in Rhode Island...."
+        },
+        {
+            "v_name": "Modern Dental Group Limited",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Modern Dental Group Limited is a global dental service provider headquartered in Hong..."
+        },
+        {
+            "v_name": "Estar Seguros, S.A.",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Estar Seguros, S.A. is an insurance company that specializes in providing a range of ..."
+        },
+        {
+            "v_name": "Cristal y Lavisa S.A. de C.V.",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Cristal y Lavisa S.A. de C.V. is a Mexican company specializing in the production and..."
+        },
+        {
+            "v_name": "Deloitte UK",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Deloitte UK is a leading professional services firm, part of the global Deloitte netw..."
+        },
+        {
+            "v_name": "Royce Corporation",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Royce Corporation is a global trading company specializing in the distribution and ma..."
+        },
+        {
+            "v_name": "G-ONE AUTO PARTS DE MÉXICO, S.A. DE C.V.",
+            "Discovery Date": "2024-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] G-ONE Auto Parts de México, S.A. de C.V. is a company based in Mexico specializing in..."
+        },
+        {
+            "v_name": "COOPERATIVA TELEFONICA DE CALAFATE LTD.",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] COOPERATIVA TELEFONICA DE CALAFATE LTD. is a telecommunications cooperative based in ..."
+        },
+        {
+            "v_name": "G-One Auto Parts de México S.A. de C.V.",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] G-One Auto Parts de México S.A. de C.V. is a Mexican company specializing in the dist..."
+        },
+        {
+            "v_name": "Berridge Manufacturing Co.",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] Berridge Manufacturing Co. specializes in the production of high-quality metal roofin..."
+        },
+        {
+            "v_name": "K&S Tool & Mfg Co.",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] K&S Tool & Mfg Co. is a company specializing in precision manufacturing and tooling s..."
+        },
+        {
+            "v_name": "Basilio Advogados",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] Basilio Advogados is a prominent law firm based in Brazil, known for its expertise in..."
+        },
+        {
+            "v_name": "CHRISTODOULOS G. VASSILIADES & CO. LLC",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] CHRISTODOULOS G. VASSILIADES & CO. LLC is a prominent law firm based in Cyprus, speci..."
+        },
+        {
+            "v_name": "hanwa.co.th",
+            "Discovery Date": "2024-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "Hanwa Co., Ltd. (Thailand) is a subsidiary of Hanwa Co., Ltd., a Japan-based global trading company...."
+        },
+        {
+            "v_name": "rmn.fr",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "",
+            "v_description": "Réunion des Musées Nationaux-Grand Palais (RMN-GP) is a French cultural institution dedicated to man..."
+        },
+        {
+            "v_name": "ghanare.com",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Ghanare.com is an online platform dedicated to providing comprehensive real estate services in Ghana..."
+        },
+        {
+            "v_name": "beinlaw.co.il - Prof. Bein & Co.",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Prof. Bein & Co., accessible via beinlaw.co.il, is a reputable law firm based in Israel. It speciali..."
+        },
+        {
+            "v_name": "tiendasmacuto.com",
+            "Discovery Date": "2024-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "Tiendasmacuto.com is an online retail store specializing in outdoor and adventure gear. They offer a..."
+        },
+        {
+            "v_name": "fabamaq.com",
+            "Discovery Date": "2024-08-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cyceron.fr",
+            "Discovery Date": "2024-08-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sherbrooke Metals",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Apex Global | Big leak outlooks - 2tb.",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cole Technologies Group",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Family Wealth Advisors Ltd.",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mars 2 LLC",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Indonesia Terkoneksi",
+            "Discovery Date": "2024-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "More important than money, only honor...."
+        }
+    ]
+}

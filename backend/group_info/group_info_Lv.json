@@ -1,0 +1,409 @@
+{
+    "group_name": [
+        "Lv"
+    ],
+    "group_description": "LV ransomware group main message: \"Here are companies which didn't meet consumer data protection obligations. They rejected to fix their mistakes, they rejected to protect this data in the case when they could and had to ptotect it. These companies prefered to sell their private information, their employees' and customers' personal data\". Security researchers claim that the LV group is utilizing the REvil ransomware group malware. The LV group claim to have compromised the corporate network of Groupe Reorev.",
+    "Victims count": 63,
+    "First discovered victims": "2021-11-22",
+    "Last discovered victim": "2022-11-27",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "France": 2,
+                    "Malaysia": 2,
+                    "Czechia": 1,
+                    "Denmark": 1,
+                    "Netherlands": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA",
+            "Discovery Date": "2022-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P",
+            "Discovery Date": "2022-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.",
+            "Discovery Date": "2022-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BRAZILIAN PET FOODS",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.",
+            "Discovery Date": "2022-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED",
+            "Discovery Date": "2022-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED",
+            "Discovery Date": "2022-08-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN",
+            "Discovery Date": "2022-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "STTLK - HACKED AND MORE THEN 200GB DATA LEAKED",
+            "Discovery Date": "2022-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "valverdehotel.com",
+            "Discovery Date": "2022-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN",
+            "Discovery Date": "2022-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WARTSILA DATA - ATTENTION !!!",
+            "Discovery Date": "2022-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "STTLK",
+            "Discovery Date": "2022-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED",
+            "Discovery Date": "2022-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hong Kong Special Care Dentistry Association Limited",
+            "Discovery Date": "2022-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED",
+            "Discovery Date": "2022-07-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ryanhanley.ie - HACKED AND MORE THEN 200GB DATA LEAKED",
+            "Discovery Date": "2022-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sppc.com.sa - HACKED and more then 900GB data leaked",
+            "Discovery Date": "2022-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED",
+            "Discovery Date": "2022-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED",
+            "Discovery Date": "2022-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MOLTOLUCE - HACKED AND DATA LEAKED",
+            "Discovery Date": "2022-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SCHIFFMANS - HACKED AND DATA LEAKED",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MOTOLUCLE.COM - HACKED AND DATA LEAKED",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CAPECODRTA - HACKED AND DATA LEAKED",
+            "Discovery Date": "2022-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SilTerra - HACKED AND 1 TB DATA LEAKED WITH SOURCES AND NDA",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XYTECH - HACKED AND 650 GB DATA LEAKED",
+            "Discovery Date": "2022-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED",
+            "Discovery Date": "2022-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Important announcement",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Importador Ferretero Trujillo Cia. Ltda",
+            "Discovery Date": "2022-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OPS omniplussystem.com",
+            "Discovery Date": "2022-02-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gruporoveri.com.br",
+            "Discovery Date": "2022-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.tikg.co.jp",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ufa.com.lb",
+            "Discovery Date": "2022-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lhotellerie-restauration.fr",
+            "Discovery Date": "2022-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wagstaff.com - 1.5TB LEAKED",
+            "Discovery Date": "2021-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reliancenj.com - HACKED AND MORE THEN 200GB DATA LEAKED",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agrofair.nl",
+            "Discovery Date": "2021-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tt-network.dk",
+            "Discovery Date": "2021-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KOBE BUSSAN - HACKED AND MORE THEN 500Gb DATA LEAKED",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "benlineagencies.com",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tlpterminal.com.my",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "serta.com - MORE THEN 500Gb DATA LEAKED",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jpbdselangor.gov.my",
+            "Discovery Date": "2021-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gaben.cz",
+            "Discovery Date": "2021-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "promhotel.fr",
+            "Discovery Date": "2021-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ALPSRX.COM - MORE THEN 150GB DATA LEAKED",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "scotttesting.com  - MORE THEN 2.5TB DATA LEAKED",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reigroup.com",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "redsrugby.com.au - more then 300GB data leaked",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "docol.com.br - more then 1.5TB data leaked",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "adhhealth.com - more then 1.2Tb data leaaked",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

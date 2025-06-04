@@ -1,0 +1,240 @@
+{
+    "group_name": [
+        "Arvinclub"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 35,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2023-10-15",
+    "Avg Delay": "7.4 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Colombia": 3,
+                    "India": 1,
+                    "United Kingdom": 1,
+                    "Iran, Islamic Republic of": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Islamic Azad University Electronic Campus",
+            "Discovery Date": "2023-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jahesh Innovation",
+            "Discovery Date": "2023-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kimia Tadbir Kiyan",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Islamic Azad University of Shiraz",
+            "Discovery Date": "2023-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pasouk biological company",
+            "Discovery Date": "2023-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Shirin Travel Agency",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aban Tether & OK exchange",
+            "Discovery Date": "2023-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sti company",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sabalan Azmayesh",
+            "Discovery Date": "2023-08-09",
+            "Estimated Attack Date": "2023-08-08",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Parsian Bitumen",
+            "Discovery Date": "2023-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Draje food industrial group",
+            "Discovery Date": "2023-08-06",
+            "Estimated Attack Date": "2023-08-05",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "seaside-kish co",
+            "Discovery Date": "2023-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AFTA Isfahan",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-18",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hamyari Shahrdari golestan",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-20",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Haraz dairy",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-22",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "150k sib360 Database",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-27",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Padena Factory",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-29",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bitimen",
+            "Discovery Date": "2023-07-12",
+            "Estimated Attack Date": "2023-07-09",
+            "v_description": "A harmful truth is better than a useful lie..."
+        },
+        {
+            "v_name": "Al Bijjar",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AM International",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stormous",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bedfordshire.police.uk",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "afcx.co",
+            "Discovery Date": "2021-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vidisha.kvs.ac.in",
+            "Discovery Date": "2021-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Revil",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bureau van Dijk(bvdinfo.com)",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Compilation of Many Breaches (COMB)",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CardPayPortal",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "33M Bank Mellat – Iran",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Etoudplus.ir",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Beh Pardakht Mellat Cards",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UtAir",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leiden University Hacked",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "T-Mobile",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "elitemate.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

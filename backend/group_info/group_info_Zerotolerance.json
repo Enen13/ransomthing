@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Zerotolerance"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2024-05-09",
+    "Last discovered victim": "2024-05-09",
+    "Avg Delay": "4 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Argentina": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Banco central argentina",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "2024-05-05",
+            "v_description": "May 5th 2024, 5:53:55 am Banco central of argentina, suffered a databreach in 2024. Compromissing na..."
+        }
+    ]
+}

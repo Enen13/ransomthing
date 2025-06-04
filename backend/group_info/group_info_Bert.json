@@ -1,0 +1,64 @@
+{
+    "group_name": [
+        "Bert"
+    ],
+    "group_description": "None",
+    "Victims count": 5,
+    "First discovered victims": "2025-04-06",
+    "Last discovered victim": "2025-05-22",
+    "Avg Delay": "2 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Business Services": 1,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "Türkiye": 1,
+                    "Taiwan, Province of China": 1,
+                    "Malaysia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Wawasan Dengkil Sdn Bhd",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Wawasan Dengkil Sdn Bhd is a Malaysian construction company founded in 2003. It specializes in earth..."
+        },
+        {
+            "v_name": "ALL RING TECH CO., LTD.",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "All Ring Tech is a Taiwanese company producing advanced automation equipment for semiconductors, LED..."
+        },
+        {
+            "v_name": "SIMCO Electronics",
+            "Discovery Date": "2025-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "SIMCO Electronics is a leading provider of calibration and software solutions for technology compani..."
+        },
+        {
+            "v_name": "Yozgat City Hospital",
+            "Discovery Date": "2025-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Modern hospital in Yozgat offering quality care and innovation. Patient health is protected — their ..."
+        },
+        {
+            "v_name": "National Ticket Company",
+            "Discovery Date": "2025-04-06",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "National Ticket Company – Tickets and wristbands since 1907...."
+        }
+    ]
+}

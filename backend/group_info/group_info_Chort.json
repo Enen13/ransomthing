@@ -1,0 +1,75 @@
+{
+    "group_name": [
+        "Chort"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2024-11-17",
+    "Last discovered victim": "2024-11-22",
+    "Avg Delay": "N/A",
+    "Infostealer": "16.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education": 4,
+                    "Agriculture and Food Production": 1,
+                    "Technology": 1,
+                    "Government": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "Kuwait": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "sheboyganwi.gov",
+            "Discovery Date": "2024-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Wait for Decision - details: Wait for DecisionDatabases + Files of This Company Databases + ..."
+        },
+        {
+            "v_name": "texanscan.org",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Not Available - details:  Databases + Files of This Company ..."
+        },
+        {
+            "v_name": "edwardsburgschoolsfoundation.org",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Not Available - details:  Databases + Files of This Company ..."
+        },
+        {
+            "v_name": "Tri-TechElectronics.com",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Published - details:  Databases + Files of This Company ..."
+        },
+        {
+            "v_name": "bartow.k12.ga.us",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Published - details:  Databases + Files of This Company ..."
+        },
+        {
+            "v_name": "paaf.gov.kw",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Published - details:  Databases + Files of This Company ..."
+        },
+        {
+            "v_name": "hartwick.edu",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "Status: Wait for Decision - details:  Databases + Files of This Company ..."
+        }
+    ]
+}

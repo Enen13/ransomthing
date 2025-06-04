@@ -1,0 +1,367 @@
+{
+    "group_name": [
+        "Darkvault"
+    ],
+    "group_description": "None",
+    "Victims count": 55,
+    "First discovered victims": "2024-04-11",
+    "Last discovered victim": "2025-01-06",
+    "Avg Delay": "23.9 days",
+    "Infostealer": "13.2%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 18,
+                    "Business Services": 15,
+                    "Healthcare": 6,
+                    "Transportation/Logistics": 4,
+                    "Financial": 4
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "India": 9,
+                    "United States": 9,
+                    "Brazil": 6,
+                    "United Kingdom": 5,
+                    "Korea, Republic of": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "yoniot.cn",
+            "Discovery Date": "2025-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "有你物联”是一家专注于物联网科技、智能家居、智慧社区的软硬件研发与应用的国家高新技术企业。凭借在物联网领域深耕10余年的研发团队，不断自主研发，形成了以智慧社区、智能家居为一体的智慧系统解决方案。致力..."
+        },
+        {
+            "v_name": "confluxhr.com",
+            "Discovery Date": "2025-01-02",
+            "Estimated Attack Date": "",
+            "v_description": "Conflux HR, your all-in-one HR partner, empowers businesses by automating routine HR tasks, ensuring..."
+        },
+        {
+            "v_name": "timely.mn",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "Timely аппликейшн ямар нэгэн нэмэлт төхөөрөмж шаардлагагүйгээр ажилтны цагийг түргэн шуурхай цагаа б..."
+        },
+        {
+            "v_name": "salesgig.com",
+            "Discovery Date": "2024-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "SalesGig provides outsourced sales development to support our B2B clients generate leads. We deploy ..."
+        },
+        {
+            "v_name": "inthinking.net",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "InThinking is an innovative educational technology and training company which provides web-based res..."
+        },
+        {
+            "v_name": "arabot.io",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 2016, arabot is a high-tech company which specialises in providing end-to-end solutions w..."
+        },
+        {
+            "v_name": "techguard.in",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Techguard specializes in offering device protection products, warranty and repair services for tech ..."
+        },
+        {
+            "v_name": "naj.ae",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "NEJOUM ALJAZEERA initiated its movement during the late last century, where its activities revolved ..."
+        },
+        {
+            "v_name": "freshairefranchise.com",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Fresh Aire has been fragrancing and deodorizing offices since 1995! Our deodorizers and fragrances a..."
+        },
+        {
+            "v_name": "pocketrisk.com",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Pocket Risk is a provider of risk tolerance assessment and portfolio analysis tools for financial ad..."
+        },
+        {
+            "v_name": "ingotbrokers.com",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "INGOT Brokers is a premium multi-asset brokerage firm aimed at making financial markets easily avail..."
+        },
+        {
+            "v_name": "peoplewell.com",
+            "Discovery Date": "2024-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "PeopleWell Solutions is a single platform HR system built to reduce the time and effort it takes for..."
+        },
+        {
+            "v_name": "megatravel.com.mx",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "Compañía especializada en organizar y programar viajes internacionales para turismo cultural, recept..."
+        },
+        {
+            "v_name": "lenmed.co.za",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "Lenmed Hospitals are deeply rooted in the historical landscape of Southern Africa. They have provide..."
+        },
+        {
+            "v_name": "gpf.org.za",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "The Gauteng Partnership Fund, an agency of the Gauteng Department of Human Settlements, combines res..."
+        },
+        {
+            "v_name": "glazkov.co.il",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "Since its establishment in 2012, our firm has been successfully providing accounting, payroll, and t..."
+        },
+        {
+            "v_name": "comoferta.com",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Developer of a promotion-sharing application designed to offer an online channel for the disseminati..."
+        },
+        {
+            "v_name": "mercadomineiro.com.br",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Mercado Mineiro is an online site that performs research, price comparison and offers virtual retail..."
+        },
+        {
+            "v_name": "warrendale-wagyu.co.uk",
+            "Discovery Date": "2024-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 2017, we are a Yorkshire based Wagyu Beef Business, currently working in partnership ..."
+        },
+        {
+            "v_name": "blankstyle.com",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "Blankstyle and its founders have a collective history in the wholesale distribution and manufacturin..."
+        },
+        {
+            "v_name": "eurovilla.hr",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "",
+            "v_description": "Eurovilla real estate agency founded in 2002. has become one of the leading agencies in the Croatia,..."
+        },
+        {
+            "v_name": "sequelglobal.com",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "Sequel Logistics is a supply chain management company, providing solutions specifically for critical..."
+        },
+        {
+            "v_name": "foremedia.net",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "With years of experience in the digital ads industry, we, at ForeMedia, see ourselves as an innovati..."
+        },
+        {
+            "v_name": "life.vet.br",
+            "Discovery Date": "2024-06-30",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "Acting in the market since 2004 and with great experience of laboratories in the interior of the sta..."
+        },
+        {
+            "v_name": "pandacare.ae",
+            "Discovery Date": "2024-06-29",
+            "Estimated Attack Date": "",
+            "v_description": "Panda Care Car Wash and Pet grooming is your one-stop solution for all your Vehicle and Pet needs. W..."
+        },
+        {
+            "v_name": "buyeazzy.com",
+            "Discovery Date": "2024-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "BuyEazzy is building online Beauty Destination for Bharat, through trusted neighborhood micro-preneu..."
+        },
+        {
+            "v_name": "decreditos.com",
+            "Discovery Date": "2024-06-25",
+            "Estimated Attack Date": "",
+            "v_description": "Decreditos provides loans through a 100% online process. In constant search and development of new p..."
+        },
+        {
+            "v_name": "oexpress.id",
+            "Discovery Date": "2024-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "OExpress adalah platform logistik yang menawarkan berbagai layanan pengiriman ekspres, sebagai ekspe..."
+        },
+        {
+            "v_name": "cosimti.com",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Empresa boliviana lider en servicios de Seguridad de la Informacion. Las organizaciones de casi todo..."
+        },
+        {
+            "v_name": "journohq.com",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Create your own story with Journo! From classic journal writing to travel maps and photo books, you'..."
+        },
+        {
+            "v_name": "ZeepLive",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "Zeeplive offers you a stage for video chat and video calls with new friends, it gets simpler to make..."
+        },
+        {
+            "v_name": "nordspace.lt",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "Nordspace offers smart, compact and versatile boxes in the biggest cities of Lithuania...."
+        },
+        {
+            "v_name": "wave2.co.kr",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "eWave Corp.'s Precision Agriculture/Livestock Tech is a customized livestock farming technology for ..."
+        },
+        {
+            "v_name": "aletech.com.br",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Somos uma Edtech que busca, através da oferta de soluções tecnológicas, elevar o nível da educação n..."
+        },
+        {
+            "v_name": "eskarabajo.mx",
+            "Discovery Date": "2024-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "Somos una marca que a través de la experiencia artística y la libre expresión acompañamos a las trib..."
+        },
+        {
+            "v_name": "ikfhomefinance.com",
+            "Discovery Date": "2024-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "IKF Home Finance is a new age housing finance company rooted in the exceptional experience, values a..."
+        },
+        {
+            "v_name": "sandipuniversity.edu.in",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "Sandip University is a thriving hub of 21st century higher education.It is a UGC-approved University..."
+        },
+        {
+            "v_name": "atriline.by",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Онлайн продажа билетов по маршруту Бобруйск - Минск - Бобруйск ⭐️ Покупка занимает 2 минуты ⭐️ Ознак..."
+        },
+        {
+            "v_name": "bzrastreador.com.br",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-24",
+            "v_description": "A BZ Sistemas é uma empresa focada em soluções para empresas, visando otimização de recursos...."
+        },
+        {
+            "v_name": "bigtoe.yoga",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Book an in-home Massage or Private Yoga appointment with a provider in seconds! Bigtoe is the easies..."
+        },
+        {
+            "v_name": "qint.com.br",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "2024-04-14",
+            "v_description": "Oferecemos um Dashboard de acompanhamento e gestão da sua operação para que reaja em tempo real e es..."
+        },
+        {
+            "v_name": "thsp.co.uk",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "2024-04-04",
+            "v_description": "For 30 years, THSP have been putting people at the heart of all we do to build a better workplace cu..."
+        },
+        {
+            "v_name": "tommyclub.co.uk",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "RBLI is a national charity that supports the Armed Forces, people with disabilities and people who a..."
+        },
+        {
+            "v_name": "baheyabeauty.com",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "2024-04-11",
+            "v_description": "It is a holdings company based in the Kingdom of Saudi Arabia established in 2006 owns three institu..."
+        },
+        {
+            "v_name": "baheya.com",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "2024-04-11",
+            "v_description": "It is a holdings company based in the Kingdom of Saudi Arabia established in 2006 owns three institu..."
+        },
+        {
+            "v_name": "hawkremote2.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-02-08",
+            "v_description": "Hawk SCADA has been installing SCADA systems in multiple industries since 1994. Our products are pre..."
+        },
+        {
+            "v_name": "hawkremote.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-02-08",
+            "v_description": "Hawk SCADA has been installing SCADA systems in multiple industries since 1994. Our products are pre..."
+        },
+        {
+            "v_name": "hirebus.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "With HireBus, you can accurately identify the success potential of candidates fast and effectively d..."
+        },
+        {
+            "v_name": "ezeldsolutions.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "In late 2017, we established EZ ELD Solutions. The initial mission of our company was to be provide ..."
+        },
+        {
+            "v_name": "zanebenefits.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-04",
+            "v_description": "Zane Benefits is a legacy HR and employee benefits platform empowering employees to buy individual h..."
+        },
+        {
+            "v_name": "taskhound.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "TaskHound is an all-inclusive, easy-to-use time tracking solution for any size business, with Unlimi..."
+        },
+        {
+            "v_name": "lankacom.net",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "LankaCom is a Sri Lanka–based telecommunications company. Founded in 1991, it is a subsidiary of Sin..."
+        },
+        {
+            "v_name": "adachikan.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-18",
+            "v_description": "Ada conceptualized the traditional art of Lucknow Chikankari as a timeless fashion statement by brin..."
+        },
+        {
+            "v_name": "agribazaar.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-20",
+            "v_description": "Agribazaar is India’s leading tech platform for all agri needs to empower farmers and traders nation..."
+        },
+        {
+            "v_name": "wexer.com",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-04-08",
+            "v_description": "Enabling fitness anywhere. We make world-class exercise accessible to more people with best in class..."
+        }
+    ]
+}

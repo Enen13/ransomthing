@@ -1,0 +1,5455 @@
+{
+    "group_name": [
+        "Play"
+    ],
+    "group_description": "Initially observed in June 2022, the Play ransomware (a.k.a PlayCrypt) operates through double extortion, targeting numerous organizations in Latin America. Its Initial Access method is quite similar to other ransomwares, involving attacks such as Phishing, Exposed Services to the Internet, and Valid Account compromises.On April 19, 2023, the security company Symantec published two new tools developed by the Play group. These tools allow the malicious actor to enumerate and exfiltrate data from the internal network. The post mentions the following: 'Play threat actors use the .NET infostealer to enumerate software and services via WMI, WinRM, Remote Registry, and Remote Service. The malware checks for the existence of security and backup software, as well as remote administration tools and other programs, saving the information in .CSV files that are compressed into a .ZIP file for later manual exfiltration by threat actors.'Source: https://github.com/crocodyli/ThreatActors-TTPs",
+    "Victims count": 903,
+    "First discovered victims": "2022-11-26",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "22.3 days",
+    "Infostealer": "4.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 135,
+                    "Manufacturing": 118,
+                    "Technology": 57,
+                    "Transportation/Logistics": 30,
+                    "Agriculture and Food Production": 29
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 608,
+                    "Canada": 67,
+                    "United Kingdom": 29,
+                    "Germany": 28,
+                    "Sweden": 13
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Tri-Point Solutions",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "W.E. Bowers",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Anchor Industries",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Eliel Cycling",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "KDV Label",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Frederick's Machine & Tool Shop",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "WAT Supplies",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Media Links",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Japan..."
+        },
+        {
+            "v_name": "Vernon Milling",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "South Atlantic Federal Credit Union",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "AKJ Energiteknik",
+            "Discovery Date": "2025-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "CNHI LLC",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "AttainX",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Greater Seattle Concrete",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "K & K Fence",
+            "Discovery Date": "2025-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Carney Badley Spellman",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Grafton Technologies",
+            "Discovery Date": "2025-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Regal Ideas",
+            "Discovery Date": "2025-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Dishaka",
+            "Discovery Date": "2025-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Overhead Door of Nova Scotia",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Operative",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Just Concrete & Masonry",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "EIZO Rugged Solutions",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "EMX Enterprises",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Verrex",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sweet Shop USA",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gistic Research",
+            "Discovery Date": "2025-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "UniTrak",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "ATI Systems",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Novosit",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Dominican Republic..."
+        },
+        {
+            "v_name": "Downtown Travel",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Rand Technology",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Alberta Construction Safety Association",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Breen Construction Services",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Trybus",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sugar Lake Lodge",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Marine Technical Surveyors",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Webcor",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Technical Die-Casting",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Defected Records",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "ECOM America",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "2025-04-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Southern Fidelity",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Custom Paper",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "The Seydel Companies",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "National Steel City",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PermaCold Engineering",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Missouri Pipe Fittings",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cooper Global Chauffeured",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "BOLL Logistik",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-17",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Gorham Sand & Gravel",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "2025-04-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "FMT Consultants",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mantel Machine Products",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Scientel Solutions",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "2025-04-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Haas & Associates",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Crawford Door Sales",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Jet Ice",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-03-17",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Independent Financial Services",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "NESCTC",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Human Bean",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-04-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Lantronix",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2024-07-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "All Book Covers",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-03-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Suburban Carting",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Red Chamber",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Waller",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Miller Boskus Lack Architects",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2024-07-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cortez Resources",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Comport Technology Solutions",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Merri-Makers",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "O'Brien & Ryan",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-03-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Voigt-Abernathy Company",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Destination Toronto",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-04-03",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "James & Sons Fine Jewelers",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Calmont Group",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "2025-03-29",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "C?l???t Group",
+            "Discovery Date": "2025-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "???..."
+        },
+        {
+            "v_name": "Bonick Landscaping",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sfrent.net",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Study",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Codinter",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PAC Strapping Products",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-01-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "New York Sports Club",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Noyen Construction",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-03-31",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "KER Custom Molders",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-03-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cane Creek Cycling Components",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-03-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ABITL Finishing",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Baltimore Steel Erectors",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hawk Technology",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Csm Engineering",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "2025-03-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Royal Glass",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "2025-03-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fraser Trebilcock",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hop Industries",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Lifebreath",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-23",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Parvin-Clauss Sign Company",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "OTA Management",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fulfillment Plus",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Regionale Verkehrsbetriebe",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2025-03-21",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "usCalibration",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "B&C Industries",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kimco Steel",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "REOC San Antonio",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "2025-03-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Zaveta Custom Homes",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "2025-03-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Q railing",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "SL Tennessee Information",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Backes",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-02-24",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Best Cheer Stone",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-01-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Jerue Companies",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Syma-System",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-27",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Compound Solutions",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "T J Machine & Tool",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gevril",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Peak Season",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Yorke & Curtis",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2023-01-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Buckley BalaWilson Mew",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Holiday Comfort",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Clawson Honda",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dectron",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-18",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Nor Arc",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-18",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Pre Con Industries",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "IT-IQ Botswana",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "Botswana..."
+        },
+        {
+            "v_name": "North American Fire Hose",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Couri Insurance Agency",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2025-02-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "M&n Management",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2023-10-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Optometrics",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2025-02-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "International Process Plants",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "2025-02-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ganong Bros",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "3cBSI",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Finck Cigar",
+            "Discovery Date": "2025-02-27",
+            "Estimated Attack Date": "2025-02-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Story Environmental",
+            "Discovery Date": "2025-02-26",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Muller Insurance",
+            "Discovery Date": "2025-02-26",
+            "Estimated Attack Date": "2025-02-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Convert Solar",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Radco Industries",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fairhaven Shipyard Companies",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Island Realty",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "First Federal Savings & Loan",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ALCOTT HR GROUP",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cuna Supply",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Townsley Law Firm Information",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bushmans",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-01-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Inland Empire Distribution Systems, Inc.",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Wylie Steel Fabricators",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-01-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Oxford Companies",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Stage 3 Separation",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Transkid",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-07",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Rheinischer Sch",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-01-28",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Startek Peglar & Calcagni",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-01-22",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Weed Man Canada",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Bulldog Oilfield Services",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hydronic & Steam Equipment",
+            "Discovery Date": "2025-02-14",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ratioparts",
+            "Discovery Date": "2025-02-14",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "CST Corp",
+            "Discovery Date": "2025-02-14",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Shields Facilities Maintenance",
+            "Discovery Date": "2025-02-13",
+            "Estimated Attack Date": "2025-01-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Tie Down Engineering",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Monroe Transportation Services Inc",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kensington Glass Arts",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "EAC Consulting",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Baltimore Country Club",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Jildor Shoes",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mainline Information Systems",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fastighetsservice AB",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2024-12-24",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Shinn Fu Company of America",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ROCK SOLID Stabilization & Reclamation",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cold Storage Manufacturing",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Neaton Auto Products Manufacturing",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2025-01-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mid-State Machine & Fabricating Corp",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "2025-01-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dickerson & Nieman Realtors",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sheridan Nurseries",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-21",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "The Hill Brush",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "DPC Development",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2024-11-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Woodway USA",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Daniel Island Club",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-15",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "KWS",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "QGS Development",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Night Hawk",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "By design",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2025-01-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cahoon Farms",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Marshall & Bruce Printing",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-12-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Johnston",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-05-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Plymouth Foam",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Commercial & Residential Management Group",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "daVinci",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TRIVAD",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-12-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Wallin & Klarich",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Cimarron Telephone Company",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "2024-12-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "McCray Lumber",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "2024-12-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Zeifmans",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Luxury Yacht Group",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "2024-12-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bettisworth North",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "2024-12-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Krispy Kreme",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "2024-11-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Joshua Grading & Excavating",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-12-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "South Plains Implement",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-12-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Chemitex SA Information",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-12-10",
+            "v_description": "Belgium..."
+        },
+        {
+            "v_name": "Hatfield Consultants",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-11-13",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Lanigan Ryan",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-11-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Welker",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "2024-12-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sigarth",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Long Beach Convention Center",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "2024-12-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Maxus Group",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "SBW",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Sunline",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "2024-12-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Artemis Holding",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Arnott",
+            "Discovery Date": "2024-12-12",
+            "Estimated Attack Date": "2024-11-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Standard Calibrations",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-11-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "NatAlliance Securities",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-10-15",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ITO EN",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-11-22",
+            "v_description": "Japan..."
+        },
+        {
+            "v_name": "Max Trans",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "2024-11-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Trace3",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bendheim",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Specialty Bolt And Screw",
+            "Discovery Date": "2024-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "LenelS2",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "2024-10-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Henderson Stamping & Production",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-11-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Diamond Brand Gear",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dairy Farmers of Canada",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Miller & Smith",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-11-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hive Power Engineering",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "CMD",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "IVC Technologies",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Birdair",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Vox Printing",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Postcard Mania",
+            "Discovery Date": "2024-11-07",
+            "Estimated Attack Date": "2024-10-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Paragon Plastics",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-09-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Delfin Design & Manufacturing",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-11-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Smitty's Supply",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "S & W Kitchens",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dome Construction",
+            "Discovery Date": "2024-11-06",
+            "Estimated Attack Date": "2024-09-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "JS McCarthy Printers",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "CGR Technologies",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "2024-10-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Maval Industries",
+            "Discovery Date": "2024-10-31",
+            "Estimated Attack Date": "2024-10-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Unlimited Lawn Care",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "2024-10-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Pureflow Airdog",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "iFocus Consulting",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Pelsue",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "2024-10-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Paul White Company",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sunrise Express",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "2024-10-08",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Astac",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dana Safety Supply",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "2024-10-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dirksen Screw Products",
+            "Discovery Date": "2024-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TV Guide Magazine",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Positive Business Solutions",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "C & C Industries",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Iron World Manufacturing",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Eagle Industries",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Action Heating & Cooling",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mainelli Mechanical Contractors",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TU Parks",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ivanhoe Club",
+            "Discovery Date": "2024-10-24",
+            "Estimated Attack Date": "2024-10-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Wilkinson",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-02",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Mid State Electric",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Absolute Machine Tools",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "McCody",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Strainrite Companies",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "W?l?????n",
+            "Discovery Date": "2024-10-17",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "CETRULO",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "2024-10-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Nor-Well",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kuhn and Associates",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Nora Biscuits",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "2024-10-07",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "Rescar Companies",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Concord",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "OzarksGo",
+            "Discovery Date": "2024-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Byerly Aviation",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "2024-10-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Courtney Construction",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Henneman Engineering",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Misionero Vegetables",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Steel Art Signs",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "FortyEighty Architecture",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "2024-09-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "RobbJack & Crystallume",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "2024-09-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Universal Companies",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "2024-10-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Eagle Recovery Associates",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-10-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "AnVa Industries",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-10-01",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Smoker's Choice",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Saratoga Liquor",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Accounting Resource Group",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-09-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Aaren Scientific",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "2024-09-16",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Creative Consumer Concepts",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Power Torque Services",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "2024-09-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "C&L Ward",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-09-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Wilmington Convention Center",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-09-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Guerriere & Halnon",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-09-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Markdom Plastic Products",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-09-24",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Pete's Road Service",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-09-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Affirm Agency",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "InteriorWorx Commercial Flooring",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Performance Food Centers",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Reutter",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-16",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "4B Components",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Andantex USA",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "G/S Solutions",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-08-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Condere Ip, Infracom Group",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-24",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "The Rubber Resources",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Classic Business Products",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Garvey",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mile Hi Foods",
+            "Discovery Date": "2024-09-26",
+            "Estimated Attack Date": "2024-08-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PetEdge",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "BroadGrain Commodities",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "2024-08-19",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Eurobulk",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "2024-09-09",
+            "v_description": "Greece..."
+        },
+        {
+            "v_name": "Jackson Paper Manufacturing",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "2024-09-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Messe C",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "Denmark..."
+        },
+        {
+            "v_name": "Noble Environmental",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Omega Industries",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "2024-08-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Pacific Coast Building Products",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Thompson Construction Supply",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "2024-08-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Plaisted Companies",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-08-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Baskervill",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-09-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Protective Industrial Products",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-09-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Inktel",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-09-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Rsp",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-09-09",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Hariri Pontarini Architects",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-09-10",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Multidata",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "2024-08-28",
+            "v_description": "Luxembourg..."
+        },
+        {
+            "v_name": "True Family Enterprises",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "2024-07-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dimensional Merchandising",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "2024-09-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Creative Playthings",
+            "Discovery Date": "2024-09-13",
+            "Estimated Attack Date": "2024-09-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Evans Distribution Systems",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-09-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Weldco-Beales Manufacturing",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-09-03",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "PIGGLY WIGGLY ALABAMA DISTRIBUTING",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Elgin Separation Solutions",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-08-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bel-Air Bay Club",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-08-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Joe Swartz Electric",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Virginia Dare Extract Co.",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Southeast Cooler",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-08-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Farmers' Rice Cooperative",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "2024-08-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bakersfield",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "2024-08-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Crain Group",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "2024-08-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Seirus Innovation",
+            "Discovery Date": "2024-09-04",
+            "Estimated Attack Date": "2024-08-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Epi Breads",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Software Engineering Associates",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "GDB International",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-07-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ABC Parts International",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Universal Pure",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Omicron Granite & Tile",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Clabots",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-07-12",
+            "v_description": "Belgium..."
+        },
+        {
+            "v_name": "Microchip Technology",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Precom",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "2024-08-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The SMS Group",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "2024-08-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Grid Subject Matter Experts",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Quilvest Capital Partners",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "Armour Coatings",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "2024-08-15",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "RCG",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "2024-08-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Policy Administration Solutions",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "2024-08-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mill Creek Lumber",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "2024-08-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Parker Development Company",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Air International Thermal Systems",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Adina Design",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-08-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "CinemaTech",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-07-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Erie Meats",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "2024-07-31",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "M??? ????k ??????",
+            "Discovery Date": "2024-08-13",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TelPro",
+            "Discovery Date": "2024-08-11",
+            "Estimated Attack Date": "2024-08-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Credible Group",
+            "Discovery Date": "2024-08-09",
+            "Estimated Attack Date": "2024-07-09",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Nilorngruppen AB",
+            "Discovery Date": "2024-08-09",
+            "Estimated Attack Date": "2024-07-10",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Alternate Energy",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "2024-07-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "True Blue Environmental",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "2024-07-08",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Granit Design",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "2024-07-16",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "KinetX",
+            "Discovery Date": "2024-08-06",
+            "Estimated Attack Date": "2024-08-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Computer Merchant",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Williams Construction",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gateway Extrusions",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gendron & Gendron",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Golden Business Machines",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Odyssey Fitness Center",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "OfficeOps",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Congoleum",
+            "Discovery Date": "2024-07-23",
+            "Estimated Attack Date": "2024-06-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "C???o???m",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hayden Power Group",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-06-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "MIPS Technologies",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "2024-06-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hyperice",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Texas Electric Cooperatives",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "2024-06-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The 21st Century Energy Group",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "2024-06-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "T P C I",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Elyria Foundry",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "2024-06-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Texas Recycling",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "2024-06-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "INDA's",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Innerspec Technologies",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "2024-05-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Prairie Athletic Club",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "2024-06-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fareri Associates",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "2024-01-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TPI",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Harvey Construction",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Belle Tire",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hedrick Brothers Construction",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-08",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "World inquest",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-07",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Bunger Steel",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "RRCA Accounts Management",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-06-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ProMotion Holdings",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-05-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Custom Concrete",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "2024-05-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ladco",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Walder Wyss and Partners",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-06-12",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Celluphone",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-06-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Me Too Shoes",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-05-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ab Monsteras Metall",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Amarilla Gas",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-05-14",
+            "v_description": "Argentina..."
+        },
+        {
+            "v_name": "Aldenhoven",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-05-23",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "ANTECH-GUTLING Gruppe",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-06-12",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Refcio & Associates",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-06-12",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "City Builders",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Seagulf Marine Industries",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Western Mechanical",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-06-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Trisun Land Services",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Diverse Technology Industrial",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-04-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Air Cleaning Specialists",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-04-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Corbin Turf & Ornamental Supply",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-04-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kinter",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Goodman Reichwald-Dodge",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "3GL Technology Solutions",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-17",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Brainworks Software",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Eagle Materials",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Great Lakes International Trading",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Smartweb",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Peterbilt of Atlanta",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Chroma Color",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Shinnick & Ryan",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-05-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Elmhurst Group",
+            "Discovery Date": "2024-05-30",
+            "Estimated Attack Date": "2024-05-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "WALSER AUTOMOTIVE GROUP",
+            "Discovery Date": "2024-05-30",
+            "Estimated Attack Date": "2024-05-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "FPL Food",
+            "Discovery Date": "2024-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ntv",
+            "Discovery Date": "2024-05-30",
+            "Estimated Attack Date": "2024-05-10",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Credit Central",
+            "Discovery Date": "2024-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ryder Scott Co.",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Tri-state General Contractors",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-05-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Starostwo Powiatowe w Świebodzinie",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-04-11",
+            "v_description": "Poland..."
+        },
+        {
+            "v_name": "Aspire Tax",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-05-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Louis G Freeman",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-04-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Experis Technology Group",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Anchorage Daily News",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-03-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "RDI-USA",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-04-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ardenbrook",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-05-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Visa Lighting",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Semicore Equipment",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-05-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Levin Porter Associates",
+            "Discovery Date": "2024-05-22",
+            "Estimated Attack Date": "2024-04-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "LiveHelpNow",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "2024-04-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "NK Parts Industries",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "2024-05-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Badger Tag & Label",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Haumiller Engineering",
+            "Discovery Date": "2024-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Central Florida Equipment",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "High Performance Services",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-03-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mauritzon",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Somerville",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Donco Air",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Affordable Payroll & Bookkeeping Services",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Utica Mack",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "KC Scout",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sentry Data Management",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "2024-04-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Stainless Foundry & Engineering",
+            "Discovery Date": "2024-05-03",
+            "Estimated Attack Date": "2024-03-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Canatal Industries",
+            "Discovery Date": "2024-05-02",
+            "Estimated Attack Date": "2024-04-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Advanced Business Networks",
+            "Discovery Date": "2024-04-30",
+            "Estimated Attack Date": "2024-03-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Profile Products",
+            "Discovery Date": "2024-04-30",
+            "Estimated Attack Date": "2024-04-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "C?????l I????????s",
+            "Discovery Date": "2024-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Axip Energy Services",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Original Herkimer Cheese",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Precision Fluid Controls",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Yale Mortgage",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Madata",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "Mexico..."
+        },
+        {
+            "v_name": "Legislative Bill Drafting Commission",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-15",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Toolmarts",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "New Hudson Facades",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Alltruck Bodies",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "Australia..."
+        },
+        {
+            "v_name": "SIS Automatisering",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "2024-03-28",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "Pennsylvania Convention Center",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Engineered Automation of Maine",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "2024-04-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "JE Owens",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "2024-04-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "P??????? & ????",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Heritage Cooperative",
+            "Discovery Date": "2024-04-15",
+            "Estimated Attack Date": "2024-03-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Feldstein & Stewart",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "2024-03-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Agate Construction",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "H??????? C??????????",
+            "Discovery Date": "2024-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "MoldTech",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-04-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Theatrixx Technologies",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Access Intelligence",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-04-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "New England Wooden Ware",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-04-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "LS Networks",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The MBTW Group",
+            "Discovery Date": "2024-04-11",
+            "Estimated Attack Date": "2024-03-27",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "F???s???? & ??????t",
+            "Discovery Date": "2024-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sit",
+            "Discovery Date": "2024-04-04",
+            "Estimated Attack Date": "2024-03-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Guy's Floor Service",
+            "Discovery Date": "2024-04-04",
+            "Estimated Attack Date": "2024-03-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Everbrite",
+            "Discovery Date": "2024-04-04",
+            "Estimated Attack Date": "2024-03-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Wyoming Machinery",
+            "Discovery Date": "2024-04-02",
+            "Estimated Attack Date": "2024-03-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "W?????? ????????y",
+            "Discovery Date": "2024-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Pavilion Construction",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-04",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Boingo Graphics",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Tbr Kowalczyk",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "Poland..."
+        },
+        {
+            "v_name": "JM Thompson",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Weld Plus",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Festspielhaus Baden-Baden",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-01-25",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "West Monroe",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Frawner",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Alber Law Group",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-01-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hartz",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Quality Enclosures",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Lawrence Semiconductor Research Laboratory",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-02-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Lambda Energy Resources",
+            "Discovery Date": "2024-03-27",
+            "Estimated Attack Date": "2024-03-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "QEO Group",
+            "Discovery Date": "2024-03-12",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Schokinag",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-27",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Zips Car Wash",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bechtold",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-03-01",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Canada Revenue Agency",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-01-18",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "White Oak Partners",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ruda Auto",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Image Pointe",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Grassmid Transport",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fashion UK",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-19",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "QI Group",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-13",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "BiTec",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-29",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bridger Insurance",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "SREE Hotels",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Q?? ??o??",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Premier Technology",
+            "Discovery Date": "2024-03-11",
+            "Estimated Attack Date": "2024-02-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Continental Aerospace Technologies",
+            "Discovery Date": "2024-03-09",
+            "Estimated Attack Date": "2024-02-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "MainVest",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "C?????????? A???????e T???????????",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "K???o???",
+            "Discovery Date": "2024-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Skyland Grain",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "American Nuts",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "A&A Wireless",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Powill Manufacturing & Engineering",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Trans+Plus Systems",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-16",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Hedlunds",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-05",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "Red River Title",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Compact Mould",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-16",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Winona Pattern & Mold",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Marketon",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-15",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Stack Infrastructure",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Coastal Car",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "New Bedford Welding Supply",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Influence Communication",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-15",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Kool-air",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "2024-02-15",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "FBi Construction",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gilmore & Associates",
+            "Discovery Date": "2024-02-29",
+            "Estimated Attack Date": "2024-02-08",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Welch's",
+            "Discovery Date": "2024-02-23",
+            "Estimated Attack Date": "2024-02-01",
+            "v_description": "Massachusetts, United States..."
+        },
+        {
+            "v_name": "W???h?",
+            "Discovery Date": "2024-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "Massachusetts, United States..."
+        },
+        {
+            "v_name": "LD Davis",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-02-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "von Hagen",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Norman, Fox",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-02-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "HR Ewell & Hy-tec",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-02-07",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mechanical Reps",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-01-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Onclusive",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-01-30",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "MeerServices",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "2024-01-22",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "DuBose Strapping",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "SilverLining",
+            "Discovery Date": "2024-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Modern Kitchens",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Greenwich Leisure",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-22",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Ready Mixed Concrete",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Northeastern Sheet Metal",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2023-12-05",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hannon Transport",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-24",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "McMillan Pazdan Smith",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-23",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Mason Construction",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Albert Bartlett",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-18",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Perry-McCall Construction",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-02",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Virgin Islands Lottery",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-12",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Premier Facility Management",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Douglas County Libraries",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-03",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Leaders Staffing",
+            "Discovery Date": "2024-02-06",
+            "Estimated Attack Date": "2024-01-10",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Innovex Downhole Solutions",
+            "Discovery Date": "2024-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "TPG Architecture",
+            "Discovery Date": "2024-01-19",
+            "Estimated Attack Date": "2023-12-06",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Televerde",
+            "Discovery Date": "2024-01-06",
+            "Estimated Attack Date": "2023-12-21",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Madison Capital & WPM & The Time Group",
+            "Discovery Date": "2024-01-02",
+            "Estimated Attack Date": "2023-12-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Morgan, Chambers & Wright & The Green Group",
+            "Discovery Date": "2023-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "United States : M?????n C?????? & W?? & The ???? G????..."
+        },
+        {
+            "v_name": "Keyser Mason Ball",
+            "Discovery Date": "2023-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "CVR Associates",
+            "Discovery Date": "2023-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Jon Richard",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "2023-12-20",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Concept Data",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "2023-12-20",
+            "v_description": "Denmark..."
+        },
+        {
+            "v_name": "Packaging Solutions",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "2023-12-20",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Owen Quilty Professional",
+            "Discovery Date": "2023-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Richard Harris Personal Injury Law Firm",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "2023-11-09",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Schoepe Display",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Waldner's",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Succes Schoonmaak",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "DYWIDAG-Systems & American Transportation",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "2023-12-05",
+            "v_description": "Luxembourg, United States..."
+        },
+        {
+            "v_name": "C?????z????",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "The CM Paula",
+            "Discovery Date": "2023-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "GlobalSpec",
+            "Discovery Date": "2023-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "California Innovations",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "SMRT",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Intrepid Sea, Air & Space Museum",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Postworks",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PLS Logistics",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ridge Vineyards",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "AJO",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PHIBRO GMBH",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Silvent North America",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "GreenWaste Recovery",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Burton Wire & Cable",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Capespan",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "South Africa..."
+        },
+        {
+            "v_name": "Becker Furniture World",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Payne Hicks Beach",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Vitro Plus",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "GVM",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Planbox",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "AG Consulting Engineering",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Greater Richmond Transit",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "2023-11-22",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kuriyama of America",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Canderel Management",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "2023-11-09",
+            "v_description": "Quebec, Canada..."
+        },
+        {
+            "v_name": "OLA Consulting Engineers",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "2023-11-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Labtopia",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "2023-11-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "SC Hydraulic Engineering",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "2023-11-28",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Unitransfer",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "2023-11-28",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Noble Mountain Tree Farm",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Oregon, United States..."
+        },
+        {
+            "v_name": "EDGE Realty Partners",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "SurvTech Solutions",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Byfod",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "Retailer Web Services",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sparex",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Continental Shipping Line",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "MooreCo",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "AMERICAN INSULATED GLASS",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Georgia, United States..."
+        },
+        {
+            "v_name": "Elston-nationwide",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Thillens",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Illinois, United States..."
+        },
+        {
+            "v_name": "SinglePoint Outsourcing",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "McHale Landscape Design",
+            "Discovery Date": "2023-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The DMC",
+            "Discovery Date": "2023-11-18",
+            "Estimated Attack Date": "2023-11-11",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "PIKE Technologies",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Proforma Albrecht",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Fgs",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "Australia..."
+        },
+        {
+            "v_name": "Trademark Property",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Nomot",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "Global Technologies Racing Ltd",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Thompson Candy",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Road Scholar Transport",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "KaDeWe",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Wyatt Detention Center",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Guntert & Zimmerman",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "ConSpare",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "JS Hovnanian & Sons",
+            "Discovery Date": "2023-11-09",
+            "Estimated Attack Date": "2023-10-31",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Identification Products",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-27",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "M.R. Williams",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "DESIGNA Verkehrsleittechnik",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The Supply Room Companies & Citron WorkSpaces",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-19",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ackerman-Estvold",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Meindl",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-24",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Conditioned Air",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-26",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Inclinator",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "2023-10-25",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Crown Supply Co",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "GeoPoint Surveying",
+            "Discovery Date": "2023-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bry-Air",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "2023-11-01",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "JDRM Engineering",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Craft-Maid",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Hilyard's",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "North Dakota Grain Inspection Services",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Gsp Components",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Ricardo",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "G??P???? S????y???",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Brodart",
+            "Discovery Date": "2023-10-30",
+            "Estimated Attack Date": "2023-10-13",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Dallas County",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Alpha Mortgage",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Encompass Elements",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "CK Associates",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "2023-10-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Yingling Aviation",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Sam Tell Companies",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "2023-10-17",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Waterstone Faucets",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Bush Refrigeration",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Drug Emporium",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "2023-10-16",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Online Development",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "KDI Office Technology",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Het Veer",
+            "Discovery Date": "2023-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "Belgium..."
+        },
+        {
+            "v_name": "Laiho Group",
+            "Discovery Date": "2023-10-26",
+            "Estimated Attack Date": "2023-10-20",
+            "v_description": "Finland..."
+        },
+        {
+            "v_name": "Williamson Foodservice",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Epaccsys",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Tru-val Electric",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, United States..."
+        },
+        {
+            "v_name": "Bridgeport Fittings",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Connecticut, United States..."
+        },
+        {
+            "v_name": "Kobi Karp Architecture and Interior Design",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "RADISE",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Polar Tech Industries",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Illinois, United States..."
+        },
+        {
+            "v_name": "Ipswich Bay Glass",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Massachusetts, United States..."
+        },
+        {
+            "v_name": "Hygieneering",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Illinois, United States..."
+        },
+        {
+            "v_name": "The Fountain Group",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United State..."
+        },
+        {
+            "v_name": "Venture Plastics",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Ohio, United States..."
+        },
+        {
+            "v_name": "Milk Source",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Associated Wholesale Grocers",
+            "Discovery Date": "2023-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Metro Transit",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "2023-10-09",
+            "v_description": "Missouri, United States..."
+        },
+        {
+            "v_name": "Saltire Energy",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Singapore..."
+        },
+        {
+            "v_name": "Starr Finley",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "WCM Europe",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Essex, United Kingdom..."
+        },
+        {
+            "v_name": "NachtExpress Austria GmbH",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Lower Austria, Austria..."
+        },
+        {
+            "v_name": "Centek industries",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Georgia, United States..."
+        },
+        {
+            "v_name": "M??? T??????",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Missouri, United States..."
+        },
+        {
+            "v_name": "Hughes Gill Cochrane Tinetti",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "2023-10-10",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Roof Management",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Ohio, United States..."
+        },
+        {
+            "v_name": "Security Instrument",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Delaware, United States..."
+        },
+        {
+            "v_name": "Filtration Control",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Cinepolis USA",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "CHARMANT Group",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, 07950, United States..."
+        },
+        {
+            "v_name": "Stavanger Municipality",
+            "Discovery Date": "2023-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Norway..."
+        },
+        {
+            "v_name": "Jacobson",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, United States..."
+        },
+        {
+            "v_name": "Robuck Homes",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "North Carolina, United States..."
+        },
+        {
+            "v_name": "Webb Landscape",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Idaho, United States..."
+        },
+        {
+            "v_name": "Amanzi Marble & Granite",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "North Carolina, United States..."
+        },
+        {
+            "v_name": "BAMO",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Van Eck Transport",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Utrecht, Netherlands..."
+        },
+        {
+            "v_name": "Terralogic",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Virginia, United States..."
+        },
+        {
+            "v_name": "Kessler Collins",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Plumbase",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Wexas",
+            "Discovery Date": "2023-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "First Line",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "2023-09-09",
+            "v_description": "Oxfordshire, United Kingdom..."
+        },
+        {
+            "v_name": "Rea Magnet Wire",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "2023-09-07",
+            "v_description": "Indiana, United States..."
+        },
+        {
+            "v_name": "RTA",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Arizona, United States..."
+        },
+        {
+            "v_name": "TSC",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "PASCHAL - Werk G Maier",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Vucke",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "2023-09-04",
+            "v_description": "Slovakia..."
+        },
+        {
+            "v_name": "Dpc & S",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "2023-08-31",
+            "v_description": "Arizona, United States..."
+        },
+        {
+            "v_name": "Carpet One",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "Markentrainer Werbeagentur, Elwema Automotive",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Baden-Wuerttemberg, Germany..."
+        },
+        {
+            "v_name": "Precisely, Winshuttle",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Kikkerland Design",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Markentrainer Werbeagentur",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Master Interiors",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "Delaware, United States..."
+        },
+        {
+            "v_name": "Bordelon Marine",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "Louisiana, United States..."
+        },
+        {
+            "v_name": "Majestic Spice",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Firmdale Hotels",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "2023-09-01",
+            "v_description": "London, United Kingdom..."
+        },
+        {
+            "v_name": "F??????? ?????s",
+            "Discovery Date": "2023-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "London, United Kingdom..."
+        },
+        {
+            "v_name": "Alfagomma, Argus Fluidhandling Ltd",
+            "Discovery Date": "2023-08-25",
+            "Estimated Attack Date": "2023-07-07",
+            "v_description": "Iowa, United States..."
+        },
+        {
+            "v_name": "A???? F??????????? Ltd",
+            "Discovery Date": "2023-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "ABS Auto Auctions",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "DSA Law Pty Ltd",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "Victoria Australia..."
+        },
+        {
+            "v_name": "Miami Management",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "BTC Power",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Stanford Transportation Inc",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "USA..."
+        },
+        {
+            "v_name": "Bolton Group",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "Italy..."
+        },
+        {
+            "v_name": "Legends Limousine",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Oneonline",
+            "Discovery Date": "2023-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "Utah, United States..."
+        },
+        {
+            "v_name": "Top Light",
+            "Discovery Date": "2023-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "Nordrhein Westfalen, Germany..."
+        },
+        {
+            "v_name": "Algorry Zappia & Associates",
+            "Discovery Date": "2023-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "New South Wales, Australia..."
+        },
+        {
+            "v_name": "EAI",
+            "Discovery Date": "2023-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "USA..."
+        },
+        {
+            "v_name": "Garage Living",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "The Dispenser USA",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "Aapd",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Australia..."
+        },
+        {
+            "v_name": "Birch, Horton, Bittner & Cherot",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Alaska, United States..."
+        },
+        {
+            "v_name": "DAL-TECH Engineering",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Coral Resort",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Professionnel France",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "ACTIVA Group",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Cameroon..."
+        },
+        {
+            "v_name": "Aquatlantis",
+            "Discovery Date": "2023-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "Portugal..."
+        },
+        {
+            "v_name": "John Mulder Heating & Air Conditioning",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "British Columbia, Canada..."
+        },
+        {
+            "v_name": "Scharco Elektronik",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Nordrhein-Westfalen, Germany..."
+        },
+        {
+            "v_name": "Primoteq",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Overijssel, Netherlands..."
+        },
+        {
+            "v_name": "Grupo MH",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Barcelona, Spain..."
+        },
+        {
+            "v_name": "FERRE BARNIEDO",
+            "Discovery Date": "2023-07-24",
+            "Estimated Attack Date": "",
+            "v_description": "Mexico City, Mexico..."
+        },
+        {
+            "v_name": "Samson Electric",
+            "Discovery Date": "2023-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Anchorage, Alaska, US..."
+        },
+        {
+            "v_name": "Kensington Publishing",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Fernmoor Homes",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, United States..."
+        },
+        {
+            "v_name": "ECS Technology Group",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Woodbine Hospitality",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Sea Force IX",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Centennial Management",
+            "Discovery Date": "2023-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Lane Valente Industries",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "Lazer Tow",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Missouri, United States..."
+        },
+        {
+            "v_name": "Star Island Resort",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Indiana Dimension",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Indiana, United States..."
+        },
+        {
+            "v_name": "Lawer SpA",
+            "Discovery Date": "2023-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "Piedmont, Italy..."
+        },
+        {
+            "v_name": "NST Attorneys at Law",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "Tennessee, United States..."
+        },
+        {
+            "v_name": "Uniquify",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Geneva Software",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "Virginia, United States..."
+        },
+        {
+            "v_name": "MUJI Europe Holdings Limited",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "London, England..."
+        },
+        {
+            "v_name": "Betty Lou's",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "Oregon, United States..."
+        },
+        {
+            "v_name": "Capacity LLC",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, United States..."
+        },
+        {
+            "v_name": "Safety Network",
+            "Discovery Date": "2023-07-06",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Texas Heat Treating",
+            "Discovery Date": "2023-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Intoximeters",
+            "Discovery Date": "2023-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "Missouri, United States..."
+        },
+        {
+            "v_name": "Algotech",
+            "Discovery Date": "2023-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "Praha, Czech Republic..."
+        },
+        {
+            "v_name": "Cambridge Group of Clubs",
+            "Discovery Date": "2023-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "Hill International",
+            "Discovery Date": "2023-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "Pennsylvania, USA..."
+        },
+        {
+            "v_name": "Peter Mark",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Leinster, Ireland..."
+        },
+        {
+            "v_name": "Dancie Perugini Ware Public Relations",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Summit Hut",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Arizona, United States..."
+        },
+        {
+            "v_name": "OMNIPOL",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Czech Republic..."
+        },
+        {
+            "v_name": "Hi-tec, Batra Group",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Barentz North America",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Ohio, United States..."
+        },
+        {
+            "v_name": "PWI Engineering",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "New Jersey, United States..."
+        },
+        {
+            "v_name": "Federation Francaise de Rugby",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "Luís Simoes",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Portugal..."
+        },
+        {
+            "v_name": "Allpro Consulting Group",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "Lorclon",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "wolfs block management limited",
+            "Discovery Date": "2023-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Globalcaja",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Spain..."
+        },
+        {
+            "v_name": "Fortress Paper",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Alberta Newsprint",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "CS Cargo Group",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Czech Republic..."
+        },
+        {
+            "v_name": "BMD Systemhaus",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "2023-05-22",
+            "v_description": "Austria..."
+        },
+        {
+            "v_name": "Buffalo Niagara Association",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Abeko",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "NORANET - CZ",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Czech Republic..."
+        },
+        {
+            "v_name": "Shows & Artists",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Soroc",
+            "Discovery Date": "2023-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Black Cat Networks",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Paragon Software Lanka",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "Sri Lanka..."
+        },
+        {
+            "v_name": "Royal Centre",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Poly",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "California, United States..."
+        },
+        {
+            "v_name": "Mayberry Investments",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Jamaica..."
+        },
+        {
+            "v_name": "Grupo Corporacion Control",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Mexico..."
+        },
+        {
+            "v_name": "Studioline Photography",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Optimus Steel",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Xplain",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "2023-05-10",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "Aria Online",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Louisiana, United States..."
+        },
+        {
+            "v_name": "SOWITEC",
+            "Discovery Date": "2023-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Sauerbruch Hutton",
+            "Discovery Date": "2023-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Berlin, Germany..."
+        },
+        {
+            "v_name": "JP Maguire & Associates",
+            "Discovery Date": "2023-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Connecticut, United States..."
+        },
+        {
+            "v_name": "Germany",
+            "Discovery Date": "2023-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Berlin, Germany..."
+        },
+        {
+            "v_name": "KLC Network Services",
+            "Discovery Date": "2023-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "Virginia, United States..."
+        },
+        {
+            "v_name": "SIVSA",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Spaini - SIVSA Soluciones Informáticas is a consolidated company dedicated to the provision of servi..."
+        },
+        {
+            "v_name": "Coremain",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Spaini - Coremain is a company that operates in the Financial Services industry...."
+        },
+        {
+            "v_name": "Nova Group",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Australia - Nova Group is a leading engineering services and technology solutions partner. Our visio..."
+        },
+        {
+            "v_name": "City of Lowell",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Lowell, Massachusetts, United States..."
+        },
+        {
+            "v_name": "DGC",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "information: DGC´s business concept is to develop and deliver customized IT services to customers wh..."
+        },
+        {
+            "v_name": "Libra Virtua",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "information: LIBRA VIRTUA provides the necessary LIBRA modules, the database manager, server capacit..."
+        },
+        {
+            "v_name": "Commune de Saxon",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Saxon, Switzerlandi ;  Commune de Saxon is a company that operates in the Government industry...."
+        },
+        {
+            "v_name": "Negma Business Solutions",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United Statesi - Founded in 1996, Negma Business Solutions, Inc. has been leading the way, pr..."
+        },
+        {
+            "v_name": "Vocalcom",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "France - Vocalcom is a global provider of cloud technology which helps businesses win more customers..."
+        },
+        {
+            "v_name": "Woonkracht10",
+            "Discovery Date": "2023-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlandsi - Woonkracht10 is a housing corporation in the Drechtsteden region and manages more tha..."
+        },
+        {
+            "v_name": "Groupe Gambetta",
+            "Discovery Date": "2023-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "UECC",
+            "Discovery Date": "2023-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Norway..."
+        },
+        {
+            "v_name": "Bang IT Solutions",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Australia..."
+        },
+        {
+            "v_name": "Huissiers",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "Coldiretti",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Italy..."
+        },
+        {
+            "v_name": "Corrib Oil",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Ireland..."
+        },
+        {
+            "v_name": "Structab AB (MegTax)",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Sweden..."
+        },
+        {
+            "v_name": "CH Media",
+            "Discovery Date": "2023-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "Switzerland..."
+        },
+        {
+            "v_name": "PESA Bydgoszcz",
+            "Discovery Date": "2023-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "Poland..."
+        },
+        {
+            "v_name": "Palo Alto County Sheriff",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "2023-04-01",
+            "v_description": "Iowa, United States..."
+        },
+        {
+            "v_name": "PKF Antares",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Canada..."
+        },
+        {
+            "v_name": "Legion Aero",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Vleeswarenfabriek Jac Michiels",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Belgium..."
+        },
+        {
+            "v_name": "Schirm",
+            "Discovery Date": "2023-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "BMW France",
+            "Discovery Date": "2023-03-28",
+            "Estimated Attack Date": "2023-03-03",
+            "v_description": "France..."
+        },
+        {
+            "v_name": "Oscar Software",
+            "Discovery Date": "2023-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "Finland..."
+        },
+        {
+            "v_name": "Jablite",
+            "Discovery Date": "2023-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Lightcast",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "USA..."
+        },
+        {
+            "v_name": "Optica",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "District of Columbia, United States..."
+        },
+        {
+            "v_name": "James, McElroy and Diehl",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "North Carolina, United States..."
+        },
+        {
+            "v_name": "Lysander Associates",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "London, United Kingdom..."
+        },
+        {
+            "v_name": "TAC",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Styria, Austria..."
+        },
+        {
+            "v_name": "Guyana Goldfields",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Ontario, Canada..."
+        },
+        {
+            "v_name": "Picou Builders Supply",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Louisiana, United States..."
+        },
+        {
+            "v_name": "Kk Mehta Cpa Associates",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "New York, United States..."
+        },
+        {
+            "v_name": "Pizza 73",
+            "Discovery Date": "2023-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Alberta, Canada..."
+        },
+        {
+            "v_name": "Stanley Steemer",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Ohio, United States..."
+        },
+        {
+            "v_name": "A&T group of companies",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Poland..."
+        },
+        {
+            "v_name": "Berga Recycling",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Quebec, Canada..."
+        },
+        {
+            "v_name": "Pine Tree Commercial Realty",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Illinois, United States..."
+        },
+        {
+            "v_name": "Norman Shutters",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Texas, United States..."
+        },
+        {
+            "v_name": "TaxAssist Accountants",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Norfolk, United Kingdom..."
+        },
+        {
+            "v_name": "draftPros",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Florida, United States..."
+        },
+        {
+            "v_name": "Royal Dirkzwager",
+            "Discovery Date": "2023-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "Netherlands..."
+        },
+        {
+            "v_name": "Real Pro",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Leemock",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "The M. K. Morse",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Secure Wrap",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "Russell Finex",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Oakland",
+            "Discovery Date": "2023-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "United States..."
+        },
+        {
+            "v_name": "O???a??",
+            "Discovery Date": "2023-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "USA..."
+        },
+        {
+            "v_name": "InPro electric",
+            "Discovery Date": "2023-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "I???o e???t???",
+            "Discovery Date": "2023-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "Germany..."
+        },
+        {
+            "v_name": "Microgame SpA",
+            "Discovery Date": "2023-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "Italy..."
+        },
+        {
+            "v_name": "Energie Pool Schweiz",
+            "Discovery Date": "2023-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "Zurich, Switzerland..."
+        },
+        {
+            "v_name": "M???????? S??",
+            "Discovery Date": "2023-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "A10",
+            "Discovery Date": "2023-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "A10 Network..."
+        },
+        {
+            "v_name": "Cave Beblenheim",
+            "Discovery Date": "2023-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ACS",
+            "Discovery Date": "2023-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "L?? C??e",
+            "Discovery Date": "2023-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "?C?",
+            "Discovery Date": "2023-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Point Dedicated Services",
+            "Discovery Date": "2023-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Helicar",
+            "Discovery Date": "2023-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ADMIRAL Sportwetten",
+            "Discovery Date": "2023-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "A?????L S?????????? ????",
+            "Discovery Date": "2023-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "Austria..."
+        },
+        {
+            "v_name": "Arnold Clark",
+            "Discovery Date": "2023-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DAYTON PROGRESS",
+            "Discovery Date": "2023-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "D???? P??????s",
+            "Discovery Date": "2023-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "A????? ????k",
+            "Discovery Date": "2023-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "United Kingdom..."
+        },
+        {
+            "v_name": "Tarntank Ship Management",
+            "Discovery Date": "2023-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sirius Shipping",
+            "Discovery Date": "2023-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SUNY Polytechnic Institute",
+            "Discovery Date": "2023-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Furetank",
+            "Discovery Date": "2023-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "Donso, Vaestra Goetaland, Sweden..."
+        },
+        {
+            "v_name": "Stratacache",
+            "Discovery Date": "2023-01-02",
+            "Estimated Attack Date": "",
+            "v_description": "Dayton, Ohio, United States..."
+        },
+        {
+            "v_name": "S???",
+            "Discovery Date": "2023-01-02",
+            "Estimated Attack Date": "",
+            "v_description": "Utica, New-York..."
+        },
+        {
+            "v_name": "CDER",
+            "Discovery Date": "2023-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "Fere-Champenoise, France..."
+        },
+        {
+            "v_name": "FURETANK,SIRIUS SHIPPING,VAS,DONSONET",
+            "Discovery Date": "2022-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "Sweden,EU..."
+        },
+        {
+            "v_name": "Cervecería Regional",
+            "Discovery Date": "2022-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "Maracaibo, Zulia, Venezuela..."
+        },
+        {
+            "v_name": "F???????, ???, D????????, T???????, S?????????????",
+            "Discovery Date": "2022-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OPUS IT Services",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "H-Hotels",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "C???e????? ?????????????",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Creta Farm",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Athens, Greece..."
+        },
+        {
+            "v_name": "S??????????",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Arsat",
+            "Discovery Date": "2022-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "JMicron",
+            "Discovery Date": "2022-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VFS",
+            "Discovery Date": "2022-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cetrogar",
+            "Discovery Date": "2022-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Una Seguros",
+            "Discovery Date": "2022-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Antwerpen",
+            "Discovery Date": "2022-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "???????",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hilldrup",
+            "Discovery Date": "2022-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "????",
+            "Discovery Date": "2022-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Skoda Praha",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MME Group",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Highwater Ethanol",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wrota Mazowsza",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UJV Rez",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "????????? ???? ?????",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CIBTvisas",
+            "Discovery Date": "2022-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Austria Presse Agentur",
+            "Discovery Date": "2022-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "???",
+            "Discovery Date": "2022-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Verity cloud",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "???????????",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "???? ?????",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PVFCCo",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Leadtek",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Alcomet",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ministry of Transport and Public Works",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Itsgroup",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Conseil departemental - Alpes-Maritimes",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Origin Property Company Limited",
+            "Discovery Date": "2022-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

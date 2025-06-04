@@ -1,0 +1,66 @@
+{
+    "group_name": [
+        "Valencialeaks"
+    ],
+    "group_description": "None",
+    "Victims count": 5,
+    "First discovered victims": "2024-09-10",
+    "Last discovered victim": "2024-09-18",
+    "Avg Delay": "-8 days",
+    "Infostealer": "20.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 2,
+                    "Government": 1,
+                    "Healthcare": 1,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1,
+                    "Spain": 1,
+                    "Malaysia": 1,
+                    "Luxembourg": 1,
+                    "Bangladesh": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "globe.com.bd",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Data Exfiltrated : 200MB - Leak Date : 21.08.2024:00:01..."
+        },
+        {
+            "v_name": "satiagroup.com",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Data Exfiltrated : 7.1GB - Leak Date : 23.08.2024:00:01..."
+        },
+        {
+            "v_name": "duopharmabiotech.com",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Data Exfiltrated : 25.7GB - Leak Date : 23.08.2024:04:00..."
+        },
+        {
+            "v_name": "tendam.es",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Data Exfiltrated : ???GB - Leak Date : 04.10.2024:00:01..."
+        },
+        {
+            "v_name": "cityofpleasantonca.gov",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "2024-09-18",
+            "v_description": "Data Exfiltrated : 283GB - Leak Date : 10.09.2024:03:06..."
+        }
+    ]
+}

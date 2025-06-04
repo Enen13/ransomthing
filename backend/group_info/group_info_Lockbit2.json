@@ -1,0 +1,6067 @@
+{
+    "group_name": [
+        "Lockbit2"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 1006,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2022-06-28",
+    "Avg Delay": "N/A",
+    "Infostealer": "28.6%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Italy": 29,
+                    "Germany": 26,
+                    "France": 14,
+                    "Canada": 11,
+                    "Australia": 9
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "datalit.it",
+            "Discovery Date": "2022-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "oak-brook.org",
+            "Discovery Date": "2022-06-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ecos-office.com",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "coteg-azam.fr",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sigma-alimentos...",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "farmaciacirici....",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agricolaandrea....",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "business.gov.om",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "builditinc.com",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rhenus.group",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kuwaitairways.c...",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "plagepalace.com",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "emprint.com",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "acac.com",
+            "Discovery Date": "2022-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "optoma",
+            "Discovery Date": "2022-06-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vectorinf.com.b...",
+            "Discovery Date": "2022-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tb-kawashima.co...",
+            "Discovery Date": "2022-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lundinroof.com",
+            "Discovery Date": "2022-06-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keisei-",
+            "Discovery Date": "2022-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.tb-...",
+            "Discovery Date": "2022-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://www.lund...",
+            "Discovery Date": "2022-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bestatt",
+            "Discovery Date": "2022-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bestattung-",
+            "Discovery Date": "2022-06-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ardebolassessor",
+            "Discovery Date": "2022-06-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dgi.gouv.ml",
+            "Discovery Date": "2022-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "medcoenergi.com",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "genusplc.com",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "enclosuresoluti",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.dgi...",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gruppowasteital...",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ptg.com.au",
+            "Discovery Date": "2022-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "slgienergy.com",
+            "Discovery Date": "2022-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sanvitale.r",
+            "Discovery Date": "2022-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ses",
+            "Discovery Date": "2022-06-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.vectorinf.c...",
+            "Discovery Date": "2022-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cargoexperts.eu",
+            "Discovery Date": "2022-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kaisoten.co.jp",
+            "Discovery Date": "2022-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "virtus-",
+            "Discovery Date": "2022-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "equis.com",
+            "Discovery Date": "2022-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gpml",
+            "Discovery Date": "2022-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.equ...",
+            "Discovery Date": "2022-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mandiant.com",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kan",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sesver.gob.mx",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "patralogistik.c...",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "linmark.com",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hyatts.com",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IBRCN.COM",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kansashighwaypa...",
+            "Discovery Date": "2022-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bestattung-walz...",
+            "Discovery Date": "2022-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vainieritraspor...",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rosagroup",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wik-group.com",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "specpharm.co.za",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ora.com",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "colonail.com",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "familyclinicbri...",
+            "Discovery Date": "2022-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sport",
+            "Discovery Date": "2022-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "closetheloopeu....",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jewelry.or",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "compagniedep",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hilltopconstruc",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cepima",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bradfo",
+            "Discovery Date": "2022-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "intertabak.com",
+            "Discovery Date": "2022-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inla",
+            "Discovery Date": "2022-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tcpharmachem.co...",
+            "Discovery Date": "2022-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gpmlife.com",
+            "Discovery Date": "2022-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "foxconnbc.com",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "koenigstahl.pl",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pauly.de",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hospitalsanjose...",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kerrylog",
+            "Discovery Date": "2022-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "skinnertran",
+            "Discovery Date": "2022-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ils.theinnovate...",
+            "Discovery Date": "2022-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "edm-stone.com",
+            "Discovery Date": "2022-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pointsbet.com",
+            "Discovery Date": "2022-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vitalprev.com.b...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.vit...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pet-link.com",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kuwaitflourmill...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "erdwaerme-gruen...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "architectenbure...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.intertabak....",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "virtus-advocate...",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "berschneider.de",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "etrp",
+            "Discovery Date": "2022-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reitzner",
+            "Discovery Date": "2022-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "seatarrabida.pt",
+            "Discovery Date": "2022-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "focusadventure..",
+            "Discovery Date": "2022-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bsm.upf.ed",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "salumificiovene...",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "de",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "firbarcarolo.it",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "morrisonexpress...",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bata",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "skinnertrans.ne...",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gymund.dk",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groupe-trouille...",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gdctax.com.au",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fed-gmbh.de",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://wsretail...",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "clublinks.com.a...",
+            "Discovery Date": "2022-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mercyhurst.edu",
+            "Discovery Date": "2022-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://clublin...",
+            "Discovery Date": "2022-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "suntecktts.com",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "modetransportat...",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vivalia.be",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "2easy.com.br",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "khs-wp.de",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jaykal",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sherpamarketing...",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cassagne.com.ar",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "teka.com.mx",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "talaadthaii.com",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "saludparatodos....",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rexontec.com.tw",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://2easy.co...",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "grupocabal.cl",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "STU",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hinakaorg.com",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "arcelormittal.h...",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mercyhurst.edu",
+            "Discovery Date": "2022-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "boltburdon.co.u...",
+            "Discovery Date": "2022-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "redgwick.",
+            "Discovery Date": "2022-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hoffsu",
+            "Discovery Date": "2022-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "optoma.com",
+            "Discovery Date": "2022-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "boltburdonkemp....",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.optoma.com",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sgservicesud.it",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "riken-nosan.com",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mosaiceins.com",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bradfordmarine....",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "purapharm.com",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alliancesand.co...",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agapemeanslove....",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zine-eskola.eus",
+            "Discovery Date": "2022-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "saskarc.com",
+            "Discovery Date": "2022-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "topaces.us",
+            "Discovery Date": "2022-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sportco.com",
+            "Discovery Date": "2022-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "silverbayseafoo...",
+            "Discovery Date": "2022-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hansh",
+            "Discovery Date": "2022-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shimamura.gr.jp",
+            "Discovery Date": "2022-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "safarni.com",
+            "Discovery Date": "2022-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "realestateconsu...",
+            "Discovery Date": "2022-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nipmo.dst.gov.z...",
+            "Discovery Date": "2022-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mpusd.",
+            "Discovery Date": "2022-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fnoutlet.com",
+            "Discovery Date": "2022-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "liceu.barcelon",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "delcourt.fr",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jewelry.",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rogz.com",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nizing.com.tw",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aref.government...",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fivestar",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "erediriva.it",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cwaengineers.co...",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agenilsen.no",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vestas",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ethiopianai",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "card",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zdgllc.com",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "smtuc.pt",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "orthopaedie-app...",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sagefruit.com",
+            "Discovery Date": "2022-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "p",
+            "Discovery Date": "2022-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hispanoamerican...",
+            "Discovery Date": "2022-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "7generations.or...",
+            "Discovery Date": "2022-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "w",
+            "Discovery Date": "2022-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brid",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "remar.",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "watermarkbeachr",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bri",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hydromaxusa.com",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ospreyvideo.com",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "warrengibson.co...",
+            "Discovery Date": "2022-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "davislandscapel...",
+            "Discovery Date": "2022-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "multimmobiliare...",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "huesser.ch",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "emucor.es",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cronos.com.ar",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "schriesheim.de",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kdaponte.com",
+            "Discovery Date": "2022-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gp",
+            "Discovery Date": "2022-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "valoores.com",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tigergroup.ae",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "greenex",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ccfsinc.com",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.tigergroup....",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://valoore...",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "simplilearn.net",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fazenda.rj.gov....",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lifestylesoluti...",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "produitsneptune...",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ekz.de",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wilshire.com",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "huntongroup.com",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "beckerlaw.com",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "incegd.com",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tvothai.com",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "asp.messina.it",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "breadt",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "baugeschaeft-bo...",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DavislandscapeL...",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lekise.com",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MAGNAR-EIKELAND...",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ingesw.com",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "compagniedephal...",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reitzner.de",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "procab.se",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keisei-const.jp",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jannone.it",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groupe-corbat.c...",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "daumar.com",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tnmed.org",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ssi-steel.com",
+            "Discovery Date": "2022-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rockportmusic",
+            "Discovery Date": "2022-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gruppoathesis.i...",
+            "Discovery Date": "2022-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kainz-haustechn.",
+            "Discovery Date": "2022-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ville-sa",
+            "Discovery Date": "2022-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inland-engineer...",
+            "Discovery Date": "2022-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://inland-e...",
+            "Discovery Date": "2022-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "enclosuresoluti...",
+            "Discovery Date": "2022-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "museum-dingo",
+            "Discovery Date": "2022-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "verifiedlabel.c...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cassinobuilding...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mpm.fr",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "soharportandfre...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "radmangroup.com",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kpcg.com.hk",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cyberapex.com",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "polyplastics.co...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.verifiedlab...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.mpm.fr",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.cassinobuil...",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tpdrug.com",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "heartlandhealth...",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "applya.com",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "get-greenenergy...",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northstari",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inglotcosmetics...",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "breadtalk.com",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lee-associate",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "azcomputerlabs....",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tokyo-plant.co....",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ruthtaubman.com",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lo",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groupemeunier.c...",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "farmaciastatuto...",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lerros.com",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.farmaciasta...",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "spirit-ord.com",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "l",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sadeco.fr",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://groupem...",
+            "Discovery Date": "2022-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "clinique.cob-os...",
+            "Discovery Date": "2022-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "anasia.co",
+            "Discovery Date": "2022-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ch1",
+            "Discovery Date": "2022-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ardeche.fr",
+            "Discovery Date": "2022-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rosagroup.com",
+            "Discovery Date": "2022-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "genieroute.be",
+            "Discovery Date": "2022-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tnt",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "unholz.ch",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "feuerschutzbock...",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "get-entkernung....",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wania.at",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "toothbuds.com",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rnrinc.com",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.wania.at",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.rnrinc.com",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vgoc.ca",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://www.toot...",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "allcountysurvey...",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gordoncounty.or...",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "scoular.com",
+            "Discovery Date": "2022-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ferrolabella",
+            "Discovery Date": "2022-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "westminster.de",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sep2.com",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "noll-law.com",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gva-atencia.es",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ascotlloyd.co.u...",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "a-r-s.com",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "n",
+            "Discovery Date": "2022-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wiegaarden.dk",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "remar.com.ec",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nowiny",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "oldenburgdeurbe...",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centralban",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "greenexperts.co...",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "eksltd.com",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fec-corp.com",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bazzisrl.it",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ledesma.com.ar",
+            "Discovery Date": "2022-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "liceu.barcelona",
+            "Discovery Date": "2022-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://liceu.b...",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kssente",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "studiobrazzale....",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "keypoint.com",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "yachtcharterfle...",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bafokengholding...",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "omalleytunstall...",
+            "Discovery Date": "2022-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "avcimmedia.com",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "grupodeincendio...",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jlmsolicitors.c...",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "papierswhitebi",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "burlingtonsafet...",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "botswana",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bcad.org",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rebuildingt",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "axessa.ch",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "progettoedilesr...",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bro",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "its.ws",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "qarch.nl",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zentrum-dreilin...",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pirsonholland.c...",
+            "Discovery Date": "2022-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://pirsonh...",
+            "Discovery Date": "2022-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "girlguidingl",
+            "Discovery Date": "2022-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comune.g",
+            "Discovery Date": "2022-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aquazzura.",
+            "Discovery Date": "2022-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aquazzura.co",
+            "Discovery Date": "2022-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "microflex-servi...",
+            "Discovery Date": "2022-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centuryaluminum...",
+            "Discovery Date": "2022-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ctigas.com",
+            "Discovery Date": "2022-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://century...",
+            "Discovery Date": "2022-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "standard-furnit...",
+            "Discovery Date": "2022-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alaliengineerin...",
+            "Discovery Date": "2022-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "buffingtonl",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "onedoc.ch/fr/ce...",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stt-logistique....",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "guazzini.it",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "japoauto.com",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "serilization-se...",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ignitarium.com",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "redgwick.com",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "intouchgroup.ne...",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "credenceid.com",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "confindustriaca...",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "crich.it",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "avidoc.fr",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lazpiur.com",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "edukgroup.com",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ca.daiyafoods.c...",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "apec-capital.co...",
+            "Discovery Date": "2022-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sete.co.u",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ismea.it",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tomlinsonelectr...",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "chicagosteelgro...",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zabel-group.de",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "STUDIO PEREGO S...",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rh-europe.com",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "onglesdor.com",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "besp-oak.com",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bbst-clp.de",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "museum-dingolfi...",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meritresources",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "danubius-exim.r...",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "connectcec.com",
+            "Discovery Date": "2022-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pla-pumpen",
+            "Discovery Date": "2022-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "denro.ca",
+            "Discovery Date": "2022-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jewelry.org.hk",
+            "Discovery Date": "2022-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dgordonlcswr.co...",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kbkbcpa.com",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centralaccident...",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "megaproductos.c...",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "solvi.com",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kbkbcpa.com",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "genesis.ky",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "draftex.de",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.centralacci...",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gezairi.com",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ifis.com.sg",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thionvillenola....",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "montanarisrl.ne...",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "finances.gouv.c...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hilltopconstruc...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aetnabridge.com",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "specialinc.com",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lawsdn.com",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ihg.com",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rosslare.com.hk",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sbctanzania.co....",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vvrmc.org | Par...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.onedoc.ch/f...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rebuildingtoget...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "onedoc.ch/fr/ca...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comune.villafra...",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "drory.com.cn",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "taguefamilyprac...",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.comune.vill...",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.rebuildingt...",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "matteolisrl.it",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vbsharma.ca",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "medinadairy.co....",
+            "Discovery Date": "2022-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mfi",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "f",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "snteseccion30sa..",
+            "Discovery Date": "2022-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "etrps.de",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "danubiushotels....",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ambujaneotia.co...",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ikk-group.com",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "scanvogn.com",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "snteseccion30sa...",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "etg.digital",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cachibi.co",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "orientalaromati...",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ymcad",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sysmac.com.sg",
+            "Discovery Date": "2022-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "weber-betonpump..",
+            "Discovery Date": "2022-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tingtong.com.cn",
+            "Discovery Date": "2022-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bioskin.sg",
+            "Discovery Date": "2022-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fer",
+            "Discovery Date": "2022-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bridgestoneamer...",
+            "Discovery Date": "2022-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hamm",
+            "Discovery Date": "2022-03-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stanthonys.slou...",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jrichard-paysag...",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brownsville-pub...",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "luzeirosfortale.",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "abcp.or",
+            "Discovery Date": "2022-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "freedomfarmspa....",
+            "Discovery Date": "2022-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tovogom",
+            "Discovery Date": "2022-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "simatelex.com.h...",
+            "Discovery Date": "2022-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sapulpaps.org",
+            "Discovery Date": "2022-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tccm.com",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wimmog.ch",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "haeny.com",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "elitecorp.com",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.tccm.com",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.haeny.com",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.elitecorp.c...",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.wimmog.ch",
+            "Discovery Date": "2022-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wp",
+            "Discovery Date": "2022-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "e-fmc.com.ar",
+            "Discovery Date": "2022-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ccli",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "safed.in",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jamailsmith.com",
+            "Discovery Date": "2022-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lakeview.com",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "richmondmonroe....",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "us.jll.com",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ugcorp.com",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WARNING",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cgm",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ffnm.org",
+            "Discovery Date": "2022-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "chip",
+            "Discovery Date": "2022-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "giovana",
+            "Discovery Date": "2022-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "giovanard",
+            "Discovery Date": "2022-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fehrs.com",
+            "Discovery Date": "2022-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dtstechnical.c",
+            "Discovery Date": "2022-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "m",
+            "Discovery Date": "2022-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "verisilicon.co",
+            "Discovery Date": "2022-02-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lipinsk",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stetsonexpo.",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "blueocean.consu...",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trauma.lbg.ac.a...",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "komeg.de",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "photolitto.com",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groupe-sobotram...",
+            "Discovery Date": "2022-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gpvivienda.com",
+            "Discovery Date": "2022-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "weye",
+            "Discovery Date": "2022-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bynx.com",
+            "Discovery Date": "2022-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "partners.pia.be",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maldegem.be",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "strix.com",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "plane.biz",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centrictel.com",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "asgcourtage.com",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "taylorswindows....",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "oceantextile.dk",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brookledge.com",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centralia.edu",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pertusipastore....",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kokuyocamlin.co...",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sanvitale.ra.it",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "botswanatourism...",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "enit.it",
+            "Discovery Date": "2022-02-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "codisel.com.mx",
+            "Discovery Date": "2022-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "beautyindustryg...",
+            "Discovery Date": "2022-02-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hifly.aero",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pwma.org.hk",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ackmo.be",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "o2fit.cl",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sienaliteracy.o...",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meeuwesen.nl",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trustinnews.pt",
+            "Discovery Date": "2022-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wingsoft.it",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cclint.com",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rbhltd.com",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zhulian.co.th",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "i",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gruges.com.mx",
+            "Discovery Date": "2022-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "idm-srl.it",
+            "Discovery Date": "2022-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ibasis.com",
+            "Discovery Date": "2022-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cilent",
+            "Discovery Date": "2022-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ibasis.com | Pa...",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aludesign.ro",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "skandia.com.mx",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tntorello.com",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tntorello.com -...",
+            "Discovery Date": "2022-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bayer.co.at",
+            "Discovery Date": "2022-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sapulpaps.com",
+            "Discovery Date": "2022-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "se.",
+            "Discovery Date": "2022-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "watermark",
+            "Discovery Date": "2022-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tyresolesdobras...",
+            "Discovery Date": "2022-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kainz-haustechn...",
+            "Discovery Date": "2022-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aisc-airbus.",
+            "Discovery Date": "2022-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dap.gov.tr",
+            "Discovery Date": "2022-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "botafogo.ind.br",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "prefimetal.com",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "COFRAP ESPAÑOLA...",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "progereal.com",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "castro-urdiales...",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cometgroup",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hotelcedres.com",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maisonlaprise.c.",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bar2.co.uk",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ametisfacilitie...",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ukrl.co.uk",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dectro.com",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "savonia.fi",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rabba",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ourense do Bras...",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "siamdial.com",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nfcaa.org",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fivestarproduct...",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "udmercy.edu",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "paybito.com",
+            "Discovery Date": "2022-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wolfbergal",
+            "Discovery Date": "2022-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ci.hercules.ca....",
+            "Discovery Date": "2022-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "elmonterv.com",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "estpm.fr",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "girlguidinglase...",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "justice.fr",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "heubeck.de",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "saintcloud.fr",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "joda.de",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ambau-team.de",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "laponte.it",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vbhlaw.com",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "isnardi.it",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "optimissa.com",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "plainviewmn.com",
+            "Discovery Date": "2022-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mfkmakina.com",
+            "Discovery Date": "2022-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kentkonut.com.t...",
+            "Discovery Date": "2022-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "peabo",
+            "Discovery Date": "2022-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bagbyelevator.c...",
+            "Discovery Date": "2022-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "r",
+            "Discovery Date": "2022-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "onlinesalespro....",
+            "Discovery Date": "2022-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "efile.com",
+            "Discovery Date": "2022-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ged",
+            "Discovery Date": "2022-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bayview.com",
+            "Discovery Date": "2022-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "roemer-lueftung.",
+            "Discovery Date": "2022-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "harrisshelton.c...",
+            "Discovery Date": "2022-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "izo.es",
+            "Discovery Date": "2022-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bannerbuzz.com",
+            "Discovery Date": "2022-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "huntsville4rent...",
+            "Discovery Date": "2022-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centralbankfl.c...",
+            "Discovery Date": "2022-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "khattarlaw.com",
+            "Discovery Date": "2022-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fairnessforall....",
+            "Discovery Date": "2022-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "supersave.ca",
+            "Discovery Date": "2022-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northsideplumbi...",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bernheim.org",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "amerplumb.com",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "torann-france.f...",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "securiteassuran...",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "focusadventure....",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "giovanardi.it",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "owenscaroli",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mcsmorandi.com",
+            "Discovery Date": "2022-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "chervongroup.co...",
+            "Discovery Date": "2022-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cbibanks.com",
+            "Discovery Date": "2022-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "salesiancollege...",
+            "Discovery Date": "2022-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bricofer.it",
+            "Discovery Date": "2022-01-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atsair.com",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thalesgroup.com",
+            "Discovery Date": "2022-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "empireins.com",
+            "Discovery Date": "2022-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aulss6.veneto.i...",
+            "Discovery Date": "2022-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lee-associates....",
+            "Discovery Date": "2021-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "independentprin...",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.lee...",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rightsys.com",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "grupomakler.com",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "smiimaging.com",
+            "Discovery Date": "2021-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "riverhead.net",
+            "Discovery Date": "2021-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cgm.com",
+            "Discovery Date": "2021-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lozzaspa.it",
+            "Discovery Date": "2021-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sintesiautomoti...",
+            "Discovery Date": "2021-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cbjblawfirm.com",
+            "Discovery Date": "2021-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "burgsimpson.com",
+            "Discovery Date": "2021-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atskorea.co.kr",
+            "Discovery Date": "2021-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pestbusters.com...",
+            "Discovery Date": "2021-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hajery.com",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.hajery.com",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maibroker.com",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.maibroker.c...",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lipinskilogging...",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dcashpro.com",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "piolax.co.th",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "urbandevelop.co...",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cunninghamgolfc...",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "baa.legal",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "skinnertrans.co...",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "boxmarche.it",
+            "Discovery Date": "2021-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vipsmotel.it",
+            "Discovery Date": "2021-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hsisensing.com",
+            "Discovery Date": "2021-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rbauction.com",
+            "Discovery Date": "2021-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "masselin.com",
+            "Discovery Date": "2021-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tamerholding.co...",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "robroelaw.com",
+            "Discovery Date": "2021-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "se.com",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "volkswind.de",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ducab.com",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "continuumenergy...",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mswood.ba",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bsm.upf.edu",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kssenterprises....",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "clubpilates.com",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northstarice.co...",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inperium.org",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "apexbrasil.com....",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "proximitysystem...",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "g1group.co.uk",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pacifichills.co...",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "roemer-lueftung...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nowiny.pl",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atlas.in",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "psmportraits.co...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "murrayscheese.c...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "prairiesedgecas...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vestas.com",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ytlcement.com",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "caudillseed.com",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kerrylogistics....",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hp.icon-institu...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fr.shop-orchest...",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comark.ca",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "travel-general....",
+            "Discovery Date": "2021-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mainstreamdata....",
+            "Discovery Date": "2021-12-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "summit-christia...",
+            "Discovery Date": "2021-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kenwal.com",
+            "Discovery Date": "2021-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "totalfire.biz",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "callay.com.tr",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dlb.it",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "telepro.com.mx",
+            "Discovery Date": "2021-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "effectual.com",
+            "Discovery Date": "2021-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hsvgroup.talent...",
+            "Discovery Date": "2021-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nextech-asia.co...",
+            "Discovery Date": "2021-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lenzcontractors...",
+            "Discovery Date": "2021-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "iveqi.com",
+            "Discovery Date": "2021-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inlad.com",
+            "Discovery Date": "2021-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vicksburgha.org",
+            "Discovery Date": "2021-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ardebolassessor...",
+            "Discovery Date": "2021-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IVEQI.Com",
+            "Discovery Date": "2021-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mpusd.net",
+            "Discovery Date": "2021-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atlas.ind.br",
+            "Discovery Date": "2021-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lawrencegroup.n...",
+            "Discovery Date": "2021-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jurelus.de",
+            "Discovery Date": "2021-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mtradeasia.com",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "centerspacehome...",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fluidsealingpro...",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "planters-oil.ne...",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kankakeetitle.c...",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wnrllc.com",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "roteritaly.com",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mecfond.com",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "systematicatec....",
+            "Discovery Date": "2021-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "siix.co.jp",
+            "Discovery Date": "2021-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "telemovil.com.s...",
+            "Discovery Date": "2021-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "evans.co.id",
+            "Discovery Date": "2021-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "consortiumlegal...",
+            "Discovery Date": "2021-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "apower.com.sg",
+            "Discovery Date": "2021-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "a1ssi.com",
+            "Discovery Date": "2021-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "duncandisabilit...",
+            "Discovery Date": "2021-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ipbridge.co.jp",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hanshin-dp.co.j...",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "peschl-ultravio...",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reiss-beck.de",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "btc-alpha.com",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "royole.com",
+            "Discovery Date": "2021-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "essextec.com",
+            "Discovery Date": "2021-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pkf.com.au",
+            "Discovery Date": "2021-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cloudpros.com",
+            "Discovery Date": "2021-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "era.org.uk",
+            "Discovery Date": "2021-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mfitexas.com",
+            "Discovery Date": "2021-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bsg-llp.com",
+            "Discovery Date": "2021-11-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "barfieldinc.com",
+            "Discovery Date": "2021-11-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://bsg-llp....",
+            "Discovery Date": "2021-11-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rintal.com",
+            "Discovery Date": "2021-11-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "daviscrump.com",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ideaitaliausa.c...",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "home.hktdc.com",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cardigos.com",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comfacundi.com....",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thinkcaspian.co...",
+            "Discovery Date": "2021-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "betsaisonparago...",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "breslowstarling...",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "abvalve.com",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "transaher.es Pa...",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gunninglafazia....",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "evolvedevelopme...",
+            "Discovery Date": "2021-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cool-pak.com",
+            "Discovery Date": "2021-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "abiom.nl",
+            "Discovery Date": "2021-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "eberlesrl.com",
+            "Discovery Date": "2021-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Royale.co.uk",
+            "Discovery Date": "2021-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "chatrium.com",
+            "Discovery Date": "2021-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nurihiko.co.jp",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "eban.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cilentospa.it",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "autolaundrysyst...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "besttaxfiler.co...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rttax.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "interfor.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mcmanislaw.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "owenscarolina.c...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trueblueenviron...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mym.com.pe",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "optimumdesign.c...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "arrowheadadvanc...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fandi.fr",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "logistia.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cepimanagement....",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "waveridernurser...",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "waclighting.com",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "plumascounty.us",
+            "Discovery Date": "2021-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groweeisen.com",
+            "Discovery Date": "2021-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tornel.com.mx",
+            "Discovery Date": "2021-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gvalue.com",
+            "Discovery Date": "2021-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wpdn.net",
+            "Discovery Date": "2021-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dtstechnical.ca",
+            "Discovery Date": "2021-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "immodelaet.be",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bdtaid.com",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "morganskenderia...",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://gvalue....",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comune.gonzaga....",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "promo.parker.co...",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.radium.com....",
+            "Discovery Date": "2021-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "logcabinhomes.c...",
+            "Discovery Date": "2021-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "logi-cv.com",
+            "Discovery Date": "2021-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rijeka-airport....",
+            "Discovery Date": "2021-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "amina-treuhand....",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "psomagen.com",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "parkhotel.mk",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "roadrebel.com",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "katzmanproduce....",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pandol.com",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.parkhotel.m...",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stehimpuls.de",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.psomagen.co...",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "movingstation.c...",
+            "Discovery Date": "2021-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "http://www.movi...",
+            "Discovery Date": "2021-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tedia.com",
+            "Discovery Date": "2021-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lawyersforemplo...",
+            "Discovery Date": "2021-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ville-saintaffr...",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "le-inc.com",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "idline.fr",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dunndev.com",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://ville-s...",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "laserexcel.com",
+            "Discovery Date": "2021-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mediacrush.co.i...",
+            "Discovery Date": "2021-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cti.group",
+            "Discovery Date": "2021-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "delete",
+            "Discovery Date": "2021-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.cti...",
+            "Discovery Date": "2021-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.med...",
+            "Discovery Date": "2021-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "galaxybuilders....",
+            "Discovery Date": "2021-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rockportmusic.o...",
+            "Discovery Date": "2021-10-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "madejwrobel.pl",
+            "Discovery Date": "2021-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "datastorageip.c...",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "srstlaw.com",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wnj.com",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "selinigroup.it",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.datastorage...",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "urbis.com.hk",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "continentalcoun...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meritresources....",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "groeflinag.ch",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "radium.com.tw",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bataviacontaine...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.pea...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.mer...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.gro...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.continental...",
+            "Discovery Date": "2021-10-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thefoxhillclub....",
+            "Discovery Date": "2021-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "zgoda.net",
+            "Discovery Date": "2021-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atento.com",
+            "Discovery Date": "2021-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ferrolabella.co...",
+            "Discovery Date": "2021-10-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cassini-technol...",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "espera.com",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "valleyregionalt...",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "uslogic.com",
+            "Discovery Date": "2021-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sb-kc.com",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wmlaw.com.au",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "uvisionuav.com",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wataniaind.com",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alwatania.sa",
+            "Discovery Date": "2021-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wolfbergalvarez...",
+            "Discovery Date": "2021-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hitrac-engineer...",
+            "Discovery Date": "2021-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "planitox.com.br",
+            "Discovery Date": "2021-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cera",
+            "Discovery Date": "2021-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "riversidetwp.or...",
+            "Discovery Date": "2021-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nofeurope.com",
+            "Discovery Date": "2021-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hybuilding.com....",
+            "Discovery Date": "2021-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ceoempowers.org",
+            "Discovery Date": "2021-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "weber-betonpump...",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aisc-airbus.com",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "watermarkbeachr...",
+            "Discovery Date": "2021-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dusa.com.ve",
+            "Discovery Date": "2021-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cobabebrothers....",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "parkertide.com",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jaykaltrading.c...",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sapphiredentalc...",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atsgruppo.eu",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "generalplumbing...",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "weyers-architek...",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "reust.ch",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "isvo.it",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kacyumara.com.b...",
+            "Discovery Date": "2021-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sides.fr",
+            "Discovery Date": "2021-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "transdev.com",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maisonlaprise.c...",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "moonnurseries.c...",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "barreaudecharle...",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://moonnur...",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://barreau...",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rivercityrental...",
+            "Discovery Date": "2021-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nuevomundosa.co...",
+            "Discovery Date": "2021-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aktieinvest.se",
+            "Discovery Date": "2021-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "estampa.com.pa",
+            "Discovery Date": "2021-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "riviana.com",
+            "Discovery Date": "2021-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wormingtonlegal...",
+            "Discovery Date": "2021-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dcaa.gov.ae",
+            "Discovery Date": "2021-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "yankey.com.tw",
+            "Discovery Date": "2021-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "adlinktech.com",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "E.M.I.T. Aviati...",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "chipsaway.at",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brident.com/en-...",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "houstonestatepl...",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "newhotel.com",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fugybat.fr",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nitropiso.com.m...",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "texasacehvac.co...",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "transrendufense...",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "geda-produkte.d...",
+            "Discovery Date": "2021-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "amista.cz",
+            "Discovery Date": "2021-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sheraton.marrio...",
+            "Discovery Date": "2021-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rabbalshedekraf...",
+            "Discovery Date": "2021-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hoistcrane.com",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wortmann.de",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alderking.com",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.wor...",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "anasia.com",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vlastuin.nl",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "USA company",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "iibg.ca",
+            "Discovery Date": "2021-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "scisairsecurity...",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "advantecmfs.com",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "peabodyproperti...",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dataspeed.it",
+            "Discovery Date": "2021-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jaylon.com.au",
+            "Discovery Date": "2021-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "franklinempire....",
+            "Discovery Date": "2021-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "papierswhitebir...",
+            "Discovery Date": "2021-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "daylewis.co.uk",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "buffingtonlawfi...",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sete.co.uk",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.daylewis.co...",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.buf...",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "robsonstreet.ca",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tes-amm.com",
+            "Discovery Date": "2021-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jplegal.net",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hotelservicepro...",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "drhrlaw.com",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "esopro.com",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hoffsuemmer.de",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wijnendeclerck....",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ebarc.adv.br",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shop.jerryleigh...",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "j-addington.com",
+            "Discovery Date": "2021-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "johncockerillin...",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ds.net.au",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "marriott.com/ho...",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "iiservz.com",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "drsdoors.com",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "westernspirits....",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "noone.com.au",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "glenroy.com",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dykman.com",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ibes-gmbh.de",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "grupowec.com",
+            "Discovery Date": "2021-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "denark.com",
+            "Discovery Date": "2021-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "51talk.com",
+            "Discovery Date": "2021-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northstarak.com",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "novotech.com",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agmfinancial.co...",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "abcp.org.br",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nrpa.org",
+            "Discovery Date": "2021-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "riscossa.it",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mitchellsternla...",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "coldwellbankerh...",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "miller-rose.com",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atstrack.com",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rlsblaw.com",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cimico.net",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://cimico....",
+            "Discovery Date": "2021-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "novohamburgo.rs...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "erg.eu",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hbfinanse.pl",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cimaser.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cansmart.co.za",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gahesa.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://www.nov...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "colliganlaw.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "aquazzura.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "setg.at",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cometgroup.be",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ccz.com.au",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "otcqatar.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lanexmfg.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "luzeirosfortale...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kmazuckert.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ymcadc.org",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nutrifood.co.id",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bennetts.com.au",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jginc.biz",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cenco-zotti.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mtgsrl.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "yazaki-group.co...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hitechpiping.ca",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "verisilicon.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gicinque.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "dprotege.com.br",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gdexpress.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jaccs.com.ph",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "yamato-esulon.c...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "inlineplumbing....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "megawatts.com.s...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "esrmotors.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "petrologiscanar...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nwtf.org",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nusantararegas....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sabre.ca",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "accenture.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "audit-treuhand....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bpc.ao",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jy-oilseal.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meccalte.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "en.mkb.bg",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "autoelectric.co...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "saleeprinting.c...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "selinerag.ch",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "livingflame.co....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lemonastere.ca",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "garagedeckx.be",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ceratube.ma",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "beardowadams.co...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ethiopianairlin...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sdfeg.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "abecho.co.jp",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "delrantownship....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "faberinc.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fragerlaw.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "servisistanbul....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pla-pumpen.de",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "alta-electronic...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bangkokair.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stetsonexpo.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "conmoto.de",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nepgroup.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "isoftstone.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "softvision.com....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "brunsrealty.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "e-button.com.tw",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pro-beam.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nutrix.co.th",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "yakimacoop.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hellmich-partne...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "overseas-ast.co...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pridepak.co.za",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "maximusinfoware...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "seiei-ashd.co.j...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ch13bham.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pulmuonewildwoo...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "autohausdaehn.d...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "barolit.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "denverhousing.o...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "prototal.se",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "odeffinancieras...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "soenen-golfkart...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "remedios.lawyer",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hpe-konstanz.de",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cheadlelaw.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "benner.com.br",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "callabsolute.co...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pikecountysheri...",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tesa46.com",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "comebi.mx",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "suenco.co.th",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "royalporcelain....",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tovogomma.it",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "envisioncu.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ofplaw.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "pi-hf.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "russellwbho.co....",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "paramountme.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "jockeyclub.org....",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hancockassociat...",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "universalwindow...",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hammer-poznan.p...",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "snapmga.com",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

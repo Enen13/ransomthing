@@ -1,0 +1,102 @@
+{
+    "group_name": [
+        "Gunra"
+    ],
+    "group_description": "None",
+    "Victims count": 11,
+    "First discovered victims": "2025-04-23",
+    "Last discovered victim": "2025-05-26",
+    "Avg Delay": "9.2 days",
+    "Infostealer": "9.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 4,
+                    "Healthcare": 2,
+                    "Technology": 1,
+                    "Consumer Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 3,
+                    "Japan": 2,
+                    "Egypt": 1,
+                    "Panama": 1,
+                    "Italy": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Olho D'Água Distribuidora",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Water distribution and tanker truck services..."
+        },
+        {
+            "v_name": "Anjos Ramos",
+            "Discovery Date": "2025-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "Advocacy / Law Firm..."
+        },
+        {
+            "v_name": "Adria Grupa",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Facilities Management & Commercial Cleaning, Business Services..."
+        },
+        {
+            "v_name": "MG Chemicals",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Chemical Manufacturing, Chemicals, Petrochemicals, Glass & Gases, Manufacturing..."
+        },
+        {
+            "v_name": "Grupo Jorge Batista",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "E-Commerce..."
+        },
+        {
+            "v_name": "TOMOKU CO., LTD.",
+            "Discovery Date": "2025-05-04",
+            "Estimated Attack Date": "2025-04-14",
+            "v_description": "Paper/Soft Products..."
+        },
+        {
+            "v_name": "Bioprofarma Bagó S.A",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-27",
+            "v_description": "Pharmaceuticals..."
+        },
+        {
+            "v_name": "KLINGER Italy",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "2025-04-26",
+            "v_description": "Level Gauges, valves and industrial gaskets..."
+        },
+        {
+            "v_name": "Varela Hermanos",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "Beverage Manufacturing..."
+        },
+        {
+            "v_name": "Dar Al Teb",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "2025-04-07",
+            "v_description": "Hospital & Healthcare..."
+        },
+        {
+            "v_name": "Shinko Shoji",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Real Estate..."
+        }
+    ]
+}

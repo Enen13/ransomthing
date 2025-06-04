@@ -1,0 +1,289 @@
+{
+    "group_name": [
+        "Midas"
+    ],
+    "group_description": "This malware written in C# is a variant of the Thanos ransomware family and emerged in October 2021 and is obfuscated using SmartAssembly. In 2022, ThreatLabz analysed a report of Midas ransomware was slowly deployed over a two month period (ZScaler). This ransomware features also its own data leak site as part of its double extortion strategy.",
+    "Victims count": 44,
+    "First discovered victims": "2021-11-29",
+    "Last discovered victim": "2022-04-14",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Basra Multipurposr Terminal",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SUPREME SERVICES",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jiangsu Kaili Carpet Co., Ltd.",
+            "Discovery Date": "2022-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Company 04.2022",
+            "Discovery Date": "2022-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NetCompany",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bigmtransport",
+            "Discovery Date": "2022-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "1",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grcouceiro",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "S",
+            "Discovery Date": "2022-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SOUTHWARK METAL MANUFACTURING",
+            "Discovery Date": "2022-02-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New3",
+            "Discovery Date": "2022-02-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New-New2",
+            "Discovery Date": "2022-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "J",
+            "Discovery Date": "2022-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Keuerleber",
+            "Discovery Date": "2022-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CIG de la Grande Couronne",
+            "Discovery Date": "2022-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "crossroadshealth lake",
+            "Discovery Date": "2022-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Corp",
+            "Discovery Date": "2021-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MAX International Converters",
+            "Discovery Date": "2021-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NewWave Technologies Inc",
+            "Discovery Date": "2021-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CurIT",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Westrup Company",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GROUP OF COMPANY",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ChaddadGroup",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CRM GROUP",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bouquet Mulligan DeMaio",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IDSFULFILLMENT",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "RWL GmbH",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "EISENBERG HEFLER & LEVY LLP",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "HAMTACO",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CABINET CAZANAVE",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Raisetech",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "EPOWER INTERNATIONAL ( SHANGHAl )CO.,LTD.",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dongguan IMR Technology Co., Ltd",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Capital Distributors (S) Pte Ltd",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KPS GROUP",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Shanghai Cyeco Environmental Technology Co., Ltd.",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Xiamen Naier Electronics Co., Ltd.",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Haiti Meat Processing SA",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Consult Three Architects",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Trendico GmbH",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pellisard",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "G.E.W. CORPORATION LIMITED",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Texas Enterprises, Inc (TEI)",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Calibrus",
+            "Discovery Date": "2021-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

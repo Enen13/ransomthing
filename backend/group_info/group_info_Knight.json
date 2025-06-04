@@ -1,0 +1,325 @@
+{
+    "group_name": [
+        "Knight"
+    ],
+    "group_description": "[Cyclops](group/cyclops) rebrand",
+    "Victims count": 48,
+    "First discovered victims": "2023-09-06",
+    "Last discovered victim": "2024-02-12",
+    "Avg Delay": "5 days",
+    "Infostealer": "3.8%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Government": 2,
+                    "Agriculture and Food Production": 1,
+                    "Technology": 1,
+                    "Financial": 1,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 4,
+                    "United States": 4,
+                    "Italy": 3,
+                    "Spain": 2,
+                    "Chile": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "DHX–Dependable Hawaiian Express",
+            "Discovery Date": "2024-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "DHX–Dependable Hawaiian Express20 GB of accounting documents were stolenbackup NAS server stolenDHX-..."
+        },
+        {
+            "v_name": "GRUPO SCA（Release of all data)",
+            "Discovery Date": "2024-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.gruposca.com/historia/Release of all dataEnjoy:http://uzfrntnmwojla5v4w3xvpxerjg43kuzqxm..."
+        },
+        {
+            "v_name": "FEPCO Zona Franca SAS",
+            "Discovery Date": "2024-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have +100GB of confidential data, bank contracts, invoices, customer data, company invoices, comp..."
+        },
+        {
+            "v_name": "AbelSantosyAsociados",
+            "Discovery Date": "2024-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "We'll provide a sample of the data. Enjoy:http://uzfrntnmwojla5v4w3xvpxerjg43kuzqxmtspqhi5qclwtof5ib..."
+        },
+        {
+            "v_name": "CityDfDefiance(Disclosure of all)",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Because of their lack of cooperation, we had to release all the data, which included law enforcement..."
+        },
+        {
+            "v_name": "DIROX LTDA (Vietnã)",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "Dirox is a proven turn-key digital solution partner with 20 years of experience, over 120 talented e..."
+        },
+        {
+            "v_name": "Chamber of Deputies of Romania (Camera Deputaților din România)",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "&nbsp;We have obtained more than&nbsp; size of&nbsp; 250,000 MB &nbsp; documents and contracts and m..."
+        },
+        {
+            "v_name": "ABECOM LTDA",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "We have more than 170 GB of confidential ABECOM company files, contracts, finances, projects, custom..."
+        },
+        {
+            "v_name": "Agro Baggio LTDA",
+            "Discovery Date": "2024-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "Apparently, the DPO/LGPD rules that Agro Baggio holds so dear are not working properly. But this tim..."
+        },
+        {
+            "v_name": "GRUPO SCA",
+            "Discovery Date": "2024-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "We got over 100Gb of data from their network, containing their confidential files, and it looks like..."
+        },
+        {
+            "v_name": "Crace Medical Centre",
+            "Discovery Date": "2023-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "30 GB of data. We wait you in the chat.Phone: (02) 6241 0249.Oops, what's all this about? \"Nothing h..."
+        },
+        {
+            "v_name": "Akir Metal San Tic Ltd ti was hacked. All confidential information was stolen",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "2023-12-08",
+            "v_description": "Who is akir Metal San Tic Ltd tiAkım Metal produces metal parts in Istanbul for automotive, home app..."
+        },
+        {
+            "v_name": "DAIHO INDUSTRIAL Co.,Ltd.",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "Since its foundation in 1937, the Daiho Group has enjoyed a top-rank reputation in the plastics proc..."
+        },
+        {
+            "v_name": "cityofdefiance.com",
+            "Discovery Date": "2023-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "We have obtained more than 390Gb files on our internal network, which contain employee files,law enf..."
+        },
+        {
+            "v_name": "FUTURA Fundamentsysteme was hacked",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "ALL THE CRITICAL DOCUMENTS WERE STOLENAbout FUTURA FundamentsystemeHeadquarters: 29 Westring, Schuby..."
+        },
+        {
+            "v_name": "Contitec Empresarial",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.contitec.net.br/&nbsp; &nbsp; *250GB OF STOLEN DATA*&nbsp;Atuamos no mercado auxiliando ..."
+        },
+        {
+            "v_name": "Wakefield & Associates",
+            "Discovery Date": "2023-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "www.wakeassoc.com&nbsp;We have over 400GB of data from Wakefield and AssociatesThey refuse to come t..."
+        },
+        {
+            "v_name": "Studio D.EL.LA. SRL",
+            "Discovery Date": "2023-11-20",
+            "Estimated Attack Date": "2023-11-12",
+            "v_description": "http://www.studiodella.it/150GB STEALED.A Trieste si trova lo studio D.EL.LA, specializzato in servi..."
+        },
+        {
+            "v_name": "Barnett Millworks",
+            "Discovery Date": "2023-11-20",
+            "Estimated Attack Date": "2023-11-14",
+            "v_description": "Your network has been locked by us.350GB of data has been downloaded to our servers.We're waiting fo..."
+        },
+        {
+            "v_name": "Dreyfuss Williams & Associates Co., LPA",
+            "Discovery Date": "2023-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "Domain:www.dreyfuss.com300GB+ of data has been downloaded from Dreyfuss100k+ documents containing in..."
+        },
+        {
+            "v_name": "US Claims Solutions",
+            "Discovery Date": "2023-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "Over 600GB of sensitive data were stolen from there. &nbsp;US CLAIMS SOLUTIONS&nbsp;Mankin Custom Mo..."
+        },
+        {
+            "v_name": "Mario de Cecco - Workwear & Corporate Wear IT",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.dececco.net/50 Anni di successi di famigliaLa nostra storia è un emozionante viaggio att..."
+        },
+        {
+            "v_name": "Kinesis Film Srl",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.kinesisfilm.it/Kinesis srl è una società di produzione indipendente fondata a Roma nel 2..."
+        },
+        {
+            "v_name": "BMW Munique Motors",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.bmwmuniquemotors.com.br/Bem-vindo à página oficial da Munique Motors. Sua concessionária..."
+        },
+        {
+            "v_name": "Benefit Management",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "As a result of our hack attack the network has been encrypted and over 250GB of sensitive data were ..."
+        },
+        {
+            "v_name": "Intellipop Fiber Internet",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "Intellipop is a locally owned Internet Service Provider located in Payson, UT. We have been in servi..."
+        },
+        {
+            "v_name": "il Centro",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.ilcentro.it/Il Centro è il quotidiano d'Abruzzo. Il suo primo numero uscì il 3 luglio 19..."
+        },
+        {
+            "v_name": "Emmea Srl",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.emmeasrl.it/Emmea srl, nasce nel 1999 con l’intenzione di garantire un servizio competen..."
+        },
+        {
+            "v_name": "Michels Markisen GmbH",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "Michels Markisen SaunabauAnders sein – Handwerk, Menschen, Ideen im Fokus – das ist das wofür wir se..."
+        },
+        {
+            "v_name": "Pontifica Universidad Católica de Chile",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.uc.cl/ (ALL DATA ENCRYPTED)La Pontificia Universidad Católica de Chile es una universida..."
+        },
+        {
+            "v_name": "Veneto Transportes",
+            "Discovery Date": "2023-10-31",
+            "Estimated Attack Date": "2023-10-30",
+            "v_description": "http://www.venetolog.com.br/A Vêneto Transportes é uma operadora logística que, desde 1987, tem como..."
+        },
+        {
+            "v_name": "Hospital Italiano de Buenos Aires",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "El Hospital Italiano de Buenos Aires es una asociación civil sin fines de lucro dedicada al cuidado ..."
+        },
+        {
+            "v_name": "AKBASOGLU HOLDING Trans KA",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "This blog will be published in 3 days and all data will be made publicly available and attacks will ..."
+        },
+        {
+            "v_name": "National Health Mission. Department of Health & Family Welfare, Govt. of U.P",
+            "Discovery Date": "2023-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Patient status and Data  Website: https://upnrhm.gov.in/Home/Index..."
+        },
+        {
+            "v_name": "National Health Mission. Department of Heath & Family Welfare, Govt. of U.P",
+            "Discovery Date": "2023-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Patient status and Data  Website: https://upnrhm.gov.in/Home/Index..."
+        },
+        {
+            "v_name": "Guhring was hacked. Thousands of confidential files stolen.",
+            "Discovery Date": "2023-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "This blog will be published 72 hours after the attack, all data will be posted publicly unless Guhri..."
+        },
+        {
+            "v_name": "GDL Logística Integrada S.A",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "Who is GDL Logistica Integrada S.A?  Rodovia Governador Mario Covas, 882 PADRE MATHIAS CARIACICA - E..."
+        },
+        {
+            "v_name": "Garn Mason Orthodontics was hacked. All insurance and personal data of customers was stole",
+            "Discovery Date": "2023-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Garn Mason Orthodontics was hacked. All insurance and personal data of customers was stolen..."
+        },
+        {
+            "v_name": "Nusmiles Hospital",
+            "Discovery Date": "2023-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.nusmiles.com/ nusmiles is a general dentist specializing in dental procedures and servic..."
+        },
+        {
+            "v_name": "Hacketts printing services",
+            "Discovery Date": "2023-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "As a family business, we have thrived and adapted over the last 68 years, and now boast over 500 yea..."
+        },
+        {
+            "v_name": "Dustin J Will LCC / Dustin J Will Sole MBR",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Dustin J Will LCC / Dustin J Will Sole MBR 47-49497xx Wealth Strategies and Employee Benefit Advisor..."
+        },
+        {
+            "v_name": "Lopez & Associates Inc",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Lopez & Associates Inc. photocopy service remains one of California's leaders  in the photocopy serv..."
+        },
+        {
+            "v_name": "etsi.uy",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Victim refuses to cooperate in negotiations and make efforts to pay and as such data will be posted ..."
+        },
+        {
+            "v_name": "Benefit Management INC",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Before start running the encryption to your servers and computers ,  we upload your backups and dele..."
+        },
+        {
+            "v_name": "Tanachira Group",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "Tanachira's mission is to inspire and celebrate designs of world famous lifestyle brands with South ..."
+        },
+        {
+            "v_name": "Morgan Smith Industries LLC",
+            "Discovery Date": "2023-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "We are a premier, custom Architectural Millwork, Casework, and Contract Furniture manufacturer locat..."
+        },
+        {
+            "v_name": "Decarie Motors Inc",
+            "Discovery Date": "2023-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "In 2016, Decarie Motors celebrated its 70th anniversary with the grand opening of its brand-new, sta..."
+        },
+        {
+            "v_name": "Solano-Napa Pet Emergency Clinic",
+            "Discovery Date": "2023-09-06",
+            "Estimated Attack Date": "",
+            "v_description": "Solano-Napa Pet Emergency Clinic is Animal hospital in Fairfield, California...."
+        }
+    ]
+}

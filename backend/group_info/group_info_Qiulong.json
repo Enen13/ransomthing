@@ -1,0 +1,79 @@
+{
+    "group_name": [
+        "Qiulong"
+    ],
+    "group_description": "None",
+    "Victims count": 8,
+    "First discovered victims": "2024-04-22",
+    "Last discovered victim": "2024-06-24",
+    "Avg Delay": "2 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 5,
+                    "Business Services": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 7,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.concisa.eng.br",
+            "Discovery Date": "2024-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "Com duas décadas de atuação em obras de pavimentação, saneamento, asfalto e terraplenagem, a Concisa..."
+        },
+        {
+            "v_name": "www.indigoent.ca",
+            "Discovery Date": "2024-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "Indigo ENT Group is a company that operates in the Hospital & Health Care industry.  The company is ..."
+        },
+        {
+            "v_name": "hospitalescultural.com.br",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "No Hospital Escultural, acreditamos que cada mulher é uma obra-prima em potencial, esperando para se..."
+        },
+        {
+            "v_name": "hominemclinic.com.br",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "2024-04-24",
+            "v_description": "We are a medical clinic specialized in male sexual health care, focusing on the treatment of erectil..."
+        },
+        {
+            "v_name": "www.drwilliansegalin.com.br",
+            "Discovery Date": "2024-04-24",
+            "Estimated Attack Date": "2024-04-23",
+            "v_description": "Yes, another outlaw plastic surgeon, who does not protect his patients’ privacy safely.Dr. Willian, ..."
+        },
+        {
+            "v_name": "draandrearechia.com.br",
+            "Discovery Date": "2024-04-23",
+            "Estimated Attack Date": "2024-04-22",
+            "v_description": "Dr. Andrea Rechia is another Brazilian plastic surgeon who doesn’t care about the data and privacy o..."
+        },
+        {
+            "v_name": "www.rosalvoautomoveis.com.br",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2024-04-19",
+            "v_description": "A Rosalvo Automóveis foi fundada em 1988 com o objetivo de revolucionar o conceito de comercializaçã..."
+        },
+        {
+            "v_name": "www.drlincoln.com.br",
+            "Discovery Date": "2024-04-22",
+            "Estimated Attack Date": "2024-04-19",
+            "v_description": "If you are a patient of Dr. Lincoln Graça Neto, you should know that he doesn’t care about your data..."
+        }
+    ]
+}

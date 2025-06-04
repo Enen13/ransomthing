@@ -1,0 +1,139 @@
+{
+    "group_name": [
+        "Siegedsec"
+    ],
+    "group_description": "Not a ransomware group but a hacktivist group that appeared coincidentally days before Russia’s invasion of Ukraine",
+    "Victims count": 19,
+    "First discovered victims": "2023-12-08",
+    "Last discovered victim": "2023-12-09",
+    "Avg Delay": "12 days",
+    "Infostealer": "10.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "OpTransRights - 2",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "healthcare..."
+        },
+        {
+            "v_name": "Telerad",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "healthcare..."
+        },
+        {
+            "v_name": "Technical University of Mombasa",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "kenyan education..."
+        },
+        {
+            "v_name": "National Office for centralized procurement",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "romanian government..."
+        },
+        {
+            "v_name": "Portland Government & United states government",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "governmental..."
+        },
+        {
+            "v_name": "Staples",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "retail..."
+        },
+        {
+            "v_name": "Deqing County",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "chinese citizens..."
+        },
+        {
+            "v_name": "Colombian National Registry",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "corrective measures, police..."
+        },
+        {
+            "v_name": "Idaho National Laboratory",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "nuclear research, nuclear power, power plant..."
+        },
+        {
+            "v_name": "Operation Israel - 1",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "government sector, supermarket chain, airline..."
+        },
+        {
+            "v_name": "Cellcom",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "telecommunications..."
+        },
+        {
+            "v_name": "Bezeq",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "telecommunications, fixed-line, mobile telephony..."
+        },
+        {
+            "v_name": "GNSS, BACNet & ModBus",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "navigation satellite system, building automation and control systems, communication protocol..."
+        },
+        {
+            "v_name": "Operation Jane",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "industrial control systems, government..."
+        },
+        {
+            "v_name": "Atlassian",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "software developers, project managers, it service management..."
+        },
+        {
+            "v_name": "Faroe Islands",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "tourism, travel guides, accommodation..."
+        },
+        {
+            "v_name": "NATO Leak - 2",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "intergovernmental, military alliance..."
+        },
+        {
+            "v_name": "NATO Leak - 1",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "intergovernmental, military alliance..."
+        },
+        {
+            "v_name": "Grupo Televisa",
+            "Discovery Date": "2023-12-08",
+            "Estimated Attack Date": "2023-11-26",
+            "v_description": "mass media, entertainment, media corporation..."
+        }
+    ]
+}

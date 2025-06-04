@@ -1,0 +1,45 @@
+{
+    "group_name": [
+        "Vanirgroup"
+    ],
+    "group_description": "None",
+    "Victims count": 3,
+    "First discovered victims": "2024-07-10",
+    "Last discovered victim": "2024-07-10",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Beowulfchain",
+            "Discovery Date": "2024-07-10",
+            "Estimated Attack Date": "",
+            "v_description": "Beowulfchain is the decentralized communication and data network enabling businesses to communicate ..."
+        },
+        {
+            "v_name": "Qinao",
+            "Discovery Date": "2024-07-10",
+            "Estimated Attack Date": "",
+            "v_description": "Qniao is a leading provider in paper manufacturing and environmental solutions. They have been exfil..."
+        },
+        {
+            "v_name": "Athlon",
+            "Discovery Date": "2024-07-10",
+            "Estimated Attack Date": "",
+            "v_description": "Athlon is an international provider of operational vehicle leasing and mobility solutions. They were..."
+        }
+    ]
+}

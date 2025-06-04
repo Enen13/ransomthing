@@ -1,0 +1,76 @@
+{
+    "group_name": [
+        "Chaos"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2025-03-31",
+    "Last discovered victim": "2025-05-27",
+    "Avg Delay": "51.5 days",
+    "Infostealer": "28.6%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Transportation/Logistics": 2,
+                    "Financial Services": 1,
+                    "Agriculture and Food Production": 1,
+                    "Technology": 1,
+                    "Public Sector": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 6,
+                    "Pakistan": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "The Salvation Army",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Data will be released soon.\n\nThe Salvation Army, established in 1865, has been offering an array of ..."
+        },
+        {
+            "v_name": "iescomm.com",
+            "Discovery Date": "2025-04-15",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "904.6 Million | Commercial & Residential Construction\nIES Communications, LLC (Integrated Electrical..."
+        },
+        {
+            "v_name": "farmerbros.com",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "Food & Beverage | 341.1 Million\nFounded in 1912, Farmer Brothers is a national coffee roaster, whole..."
+        },
+        {
+            "v_name": "goosehead.com",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "Goosehead Insurance, Inc. operates as a holding company for Goosehead Financial, LLC that engages in..."
+        },
+        {
+            "v_name": "Pak Technologies",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "PAK Technologies was established in 1980 in Milwaukee, WI. We began selling cleaners and restoration..."
+        },
+        {
+            "v_name": "Evans Distribution Systems",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1929, Evans Distribution Systems is a provider of complete supply chain solutions includi..."
+        },
+        {
+            "v_name": "Transcore",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1939 and headquartered in Nashville, Tennessee, TransCore is a company that provides digi..."
+        }
+    ]
+}

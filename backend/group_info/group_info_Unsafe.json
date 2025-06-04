@@ -1,0 +1,117 @@
+{
+    "group_name": [
+        "Unsafe"
+    ],
+    "group_description": "A group which seems to recycle leak from other ransomware groups",
+    "Victims count": 14,
+    "First discovered victims": "2022-12-21",
+    "Last discovered victim": "2024-01-14",
+    "Avg Delay": "N/A",
+    "Infostealer": "7.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Government": 1,
+                    "Transportation/Logistics": 1,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "France": 1,
+                    "Switzerland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "SPARTAN Light Metal Products",
+            "Discovery Date": "2024-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 311.00M..."
+        },
+        {
+            "v_name": "Hartl European Transport Company",
+            "Discovery Date": "2024-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "country: CH - revenue: 46.00M..."
+        },
+        {
+            "v_name": "American International College",
+            "Discovery Date": "2024-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 135.00M..."
+        },
+        {
+            "v_name": "TAG Aviation",
+            "Discovery Date": "2023-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "country: CH - revenue: 326.60M..."
+        },
+        {
+            "v_name": "SPARTAN Light Metal Products Inc",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 311.00M..."
+        },
+        {
+            "v_name": "Invenergy",
+            "Discovery Date": "2023-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 10..."
+        },
+        {
+            "v_name": "G.R. Sponaugle",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 22.00M..."
+        },
+        {
+            "v_name": "Horwitz Horwitz & Associates",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 8.00M..."
+        },
+        {
+            "v_name": "Wings Etc",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 145.00M..."
+        },
+        {
+            "v_name": "Dooly County School System",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 20.00M..."
+        },
+        {
+            "v_name": "Whatcom County Library System",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: US - revenue: 7.00M..."
+        },
+        {
+            "v_name": "The Chedi Muscat",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: OM - revenue: 28.00M..."
+        },
+        {
+            "v_name": "Barakat Travel Co",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: LB - revenue: 5.00M..."
+        },
+        {
+            "v_name": "Ucar",
+            "Discovery Date": "2022-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "country: FR - revenue: 33.00M..."
+        }
+    ]
+}

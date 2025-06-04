@@ -1,0 +1,95 @@
+{
+    "group_name": [
+        "Cryp70n1c0d3"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 11,
+    "First discovered victims": "2021-12-18",
+    "Last discovered victim": "2021-12-18",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "India": 5,
+                    "Türkiye": 1,
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "iima.ac.in",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hislopcollege.ac.in",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "oppodigital.in",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nals.in",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "albatross.co.in",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "suriyanar.com",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shinyoko-porno.com",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "toxicsites.us",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "antistatik-esd-cozumler.com.tr",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "paknavy.gov.pk",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "vaja.ir",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

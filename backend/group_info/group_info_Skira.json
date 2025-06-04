@@ -1,0 +1,77 @@
+{
+    "group_name": [
+        "Skira"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2025-03-06",
+    "Last discovered victim": "2025-05-01",
+    "Avg Delay": "N/A",
+    "Infostealer": "16.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial Services": 2,
+                    "Construction": 1,
+                    "Manufacturing": 1,
+                    "Public Sector": 1,
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "India": 2,
+                    "Türkiye": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Dedicated Web Consultants, Inc (USA) - dwcusa.com",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Independent Title Agency, LLC (\"ITA\") (USA)",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ITA (Independent Title Agency, LLC) is a US-based company specialized in providing co..."
+        },
+        {
+            "v_name": "City government office in Van (Turkey) - van.bel.tr",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] City Government Office in Van, Turkey, also known as van.bel.tr, is an administrative..."
+        },
+        {
+            "v_name": "Law Diary (USA)",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Law Diary (USA) is a legal support services provider primarily focused on the US mark..."
+        },
+        {
+            "v_name": "Carruth Compliance Consulting",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Carruth Compliance Consulting is a company dedicated to consulting on compliance chal..."
+        },
+        {
+            "v_name": "CCL Products India",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] CCL Products India is a leading manufacturer and exporter of instant coffee. It was e..."
+        },
+        {
+            "v_name": "Krisala Developer (India)",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Krisala Developers is a renowned and well-established real estate company based in In..."
+        }
+    ]
+}

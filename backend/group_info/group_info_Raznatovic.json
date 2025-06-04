@@ -1,0 +1,59 @@
+{
+    "group_name": [
+        "Raznatovic"
+    ],
+    "group_description": "RANSOMED.VC aka Raznatovic",
+    "Victims count": 5,
+    "First discovered victims": "2023-12-17",
+    "Last discovered victim": "2024-01-07",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Cyprus": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Flash-Motors Last Warning",
+            "Discovery Date": "2024-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "This is our final warning, if you do not provide us the required payment within the next 14 days the..."
+        },
+        {
+            "v_name": "Regarding FM",
+            "Discovery Date": "2023-12-26",
+            "Estimated Attack Date": "",
+            "v_description": "Hello dear FM, did you think we will let you chill because of the holidays? nah we will make you suf..."
+        },
+        {
+            "v_name": "TechKids aka MindX",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Data contains 600 million lines, almost 20gb. 5 files. contains bank information and other PII sampl..."
+        },
+        {
+            "v_name": "SKF.com",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Maybe Next time you will learn paying a ransomw will cost you less :) Data is around 50gb, including..."
+        },
+        {
+            "v_name": "Colonial Pipeline",
+            "Discovery Date": "2023-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Colonial Pipiline files, hey rob lee? Remember us! With much of love Download..."
+        }
+    ]
+}

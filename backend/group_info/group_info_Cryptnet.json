@@ -1,0 +1,37 @@
+{
+    "group_name": [
+        "Cryptnet"
+    ],
+    "group_description": "According to OALabs, this ransomware has the following features: * Files are encrypted with AES CBC using a generated 256 bit key and IV.* The generated AES keys are encrypted using a hard coded RSA key and appended to the encrypted files.",
+    "Victims count": 2,
+    "First discovered victims": "2023-04-19",
+    "Last discovered victim": "2023-04-19",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Export Hub",
+            "Discovery Date": "2023-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "ExportHub Ltd. is committed to safeguarding its users' privacy. We request all our users to read the..."
+        },
+        {
+            "v_name": "Urban Import",
+            "Discovery Date": "2023-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "Urban Import was established in 2001 by fellow automotive enthusiasts to provide customers with an u..."
+        }
+    ]
+}

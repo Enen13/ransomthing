@@ -1,0 +1,103 @@
+{
+    "group_name": [
+        "Groove"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 13,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2021-10-30",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Я не пью виски но с ним бы выпил",
+            "Discovery Date": "2021-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "episcopalretirement.com  Возможна утечка",
+            "Discovery Date": "2021-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Про русских в США",
+            "Discovery Date": "2021-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "therecord.media 30k USD",
+            "Discovery Date": "2021-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hagerstownpd.org",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trivalleypc.com",
+            "Discovery Date": "2021-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "robinwoodortho.com",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Одно интервью",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Украина и экстрадиции в США",
+            "Discovery Date": "2021-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ludofact.de 50 GB data stolen",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Мысли о смысле",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Запатченные fortinet точки входа",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Мы можем просто договориться",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

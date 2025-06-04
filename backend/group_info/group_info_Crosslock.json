@@ -1,0 +1,33 @@
+{
+    "group_name": [
+        "Crosslock"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2023-04-17",
+    "Last discovered victim": "2023-04-17",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "validcertificadora.com.br",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "VALID Certificadora Digital Ltda is a company that operates in the Farming industry. It employs 501-..."
+        }
+    ]
+}

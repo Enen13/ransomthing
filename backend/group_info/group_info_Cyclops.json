@@ -1,0 +1,71 @@
+{
+    "group_name": [
+        "Cyclops"
+    ],
+    "group_description": "None",
+    "Victims count": 7,
+    "First discovered victims": "2023-07-01",
+    "Last discovered victim": "2023-07-26",
+    "Avg Delay": "2.8 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Australia": 2,
+                    "Guatemala": 1,
+                    "China": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "important information（Knight）",
+            "Discovery Date": "2023-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "We are about to close the old panel and blog and in version 2. 0 we renamed it Knight. We are releas..."
+        },
+        {
+            "v_name": "Pechexport",
+            "Discovery Date": "2023-07-23",
+            "Estimated Attack Date": "2023-07-20",
+            "v_description": "Infrastructure and logistics Pêchexport is located in Majunga on a surface of 8400 m². Our premises ..."
+        },
+        {
+            "v_name": "Cvlan",
+            "Discovery Date": "2023-07-23",
+            "Estimated Attack Date": "2023-07-20",
+            "v_description": "Cvlan( Srl is a company that operates in the Information Technology and Services industry. It employ..."
+        },
+        {
+            "v_name": "Superloop ISP",
+            "Discovery Date": "2023-07-14",
+            "Estimated Attack Date": "2023-07-08",
+            "v_description": "Superloop is Australia’s modern challenger telco and internet service provider that’s unleashing the..."
+        },
+        {
+            "v_name": "Guatemala Military Intelligence Directorate",
+            "Discovery Date": "2023-07-01",
+            "Estimated Attack Date": "2023-06-30",
+            "v_description": "The Guatemalan Armed Forces (Fuerzas Armadas de Guatemala) consists ..."
+        },
+        {
+            "v_name": "ALTARGRUP",
+            "Discovery Date": "2023-07-01",
+            "Estimated Attack Date": "2023-06-29",
+            "v_description": "Within the roof of Altar Group, the foundations of which were laid i..."
+        },
+        {
+            "v_name": "Atherfield Medical Service",
+            "Discovery Date": "2023-07-01",
+            "Estimated Attack Date": "2023-06-29",
+            "v_description": "Hospitals & Physicians Clinics · AustraliaAtherfield Medical Service..."
+        }
+    ]
+}

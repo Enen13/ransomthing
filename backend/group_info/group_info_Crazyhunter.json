@@ -1,0 +1,94 @@
+{
+    "group_name": [
+        "Crazyhunter"
+    ],
+    "group_description": "None",
+    "Victims count": 10,
+    "First discovered victims": "2025-03-09",
+    "Last discovered victim": "2025-03-30",
+    "Avg Delay": "4 days",
+    "Infostealer": "50.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 3,
+                    "Manufacturing": 2,
+                    "Technology": 2,
+                    "Education": 1,
+                    "Consumer Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Taiwan, Province of China": 8,
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Zuni Data",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "Taiwan - Zuni Data..."
+        },
+        {
+            "v_name": "Analog Integrations Corporation",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "Taiwan - Analog Integrations Corporation..."
+        },
+        {
+            "v_name": "Netronix Inc",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "Taiwan - Netronix Inc..."
+        },
+        {
+            "v_name": "Johnson Fitness",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "Johnson Fitness..."
+        },
+        {
+            "v_name": "KD Panels",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Surface Material Supplier — Keding - the interior surface expert, committed to excellence in every d..."
+        },
+        {
+            "v_name": "Changhua Christian Hospital",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Changhua Christian Hospital..."
+        },
+        {
+            "v_name": "Huacheng Electric",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Due to confidentiality agreement, no details can be disclosed...."
+        },
+        {
+            "v_name": "Mackay Hospital",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Mackay Hospital..."
+        },
+        {
+            "v_name": "Asia University Hospital",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Crazyhunter hacked into Asia University-www.asia.edu.tw from 2025.1.27 to 2025.1.29..."
+        },
+        {
+            "v_name": "Asia University",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "Crazyhunter hacked into Asia University-www.asia.edu.tw from 2025.1.27 to 2025.1.29..."
+        }
+    ]
+}

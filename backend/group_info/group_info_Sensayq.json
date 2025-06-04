@@ -1,0 +1,42 @@
+{
+    "group_name": [
+        "Sensayq"
+    ],
+    "group_description": "None",
+    "Victims count": 2,
+    "First discovered victims": "2024-06-04",
+    "Last discovered victim": "2024-06-04",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 1,
+                    "Financial": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Italy": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Premium Broking House",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Vimer Industrie Grafiche Italiane",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

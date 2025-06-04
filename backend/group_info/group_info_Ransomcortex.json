@@ -1,0 +1,55 @@
+{
+    "group_name": [
+        "Ransomcortex"
+    ],
+    "group_description": "None",
+    "Victims count": 4,
+    "First discovered victims": "2024-07-12",
+    "Last discovered victim": "2024-07-12",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 2,
+                    "Manufacturing": 1,
+                    "Hospitality and Tourism": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "painproclinics.com",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "Our uncompromising approach to healthcare is focused on pain relief, injury recovery, and movement p..."
+        },
+        {
+            "v_name": "www.donaanita.com",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "Find out more about the Medical Clinic. A reference in the region, Policlínica Dona Anita has been s..."
+        },
+        {
+            "v_name": "perfeitaplastica.com.br",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "We are a plastic surgery clinic that was created with the aim of taking care of your body and its…..."
+        },
+        {
+            "v_name": "www.respirarlondrina.com.br",
+            "Discovery Date": "2024-07-12",
+            "Estimated Attack Date": "",
+            "v_description": "The Instituto Respirar Londrina is a multidisciplinary hospital that provides services in the areas ..."
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "group_name": [
+        "Nitrogen"
+    ],
+    "group_description": "None",
+    "Victims count": 26,
+    "First discovered victims": "2024-09-30",
+    "Last discovered victim": "2025-05-24",
+    "Avg Delay": "102.1 days",
+    "Infostealer": "7.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 8,
+                    "Technology": 4,
+                    "Manufacturing": 4,
+                    "Hospitality and Tourism": 2,
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 17,
+                    "Canada": 3,
+                    "Portugal": 2,
+                    "India": 1,
+                    "Egypt": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Coweta County School System",
+            "Discovery Date": "2025-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "The Coweta County School System (CCSS) is the primary educational organization in Coweta County, Geo..."
+        },
+        {
+            "v_name": "Seneca Gaming & Entertainment",
+            "Discovery Date": "2025-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "The corporation operates Class III casino gaming properties in Western New York. Seneca Gaming & Ent..."
+        },
+        {
+            "v_name": "Stadtwerke Schwerte GmbH",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Stadtwerke Schwerte is a municipal utility company based in Schwerte, Germany. It primarily provides..."
+        },
+        {
+            "v_name": "M'AR De AR Hotels",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "M'AR De AR Hotels is a hotel group in Portugal, offering a range of accommodations primarily in the ..."
+        },
+        {
+            "v_name": "Global Media Group",
+            "Discovery Date": "2025-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Global Media Group (Global Media) is a Portuguese media holding company, owning a portfolio of print..."
+        },
+        {
+            "v_name": "SIRIUS S.R.L.",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "Sirius is a company that specializes in energy automation, particularly in the management and remote..."
+        },
+        {
+            "v_name": "AKTO",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "A French company specializing in digital learning and training solutions. It focuses on providing to..."
+        },
+        {
+            "v_name": "Kilgore Industries",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in Houston, Texas, Kilgore Industries, LP designs, builds and installs HVAC, mechanica..."
+        },
+        {
+            "v_name": "A Beautiful Pools Inc",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "A Beautiful Pools, based in Texas, specializes in designing, building, and maintaining custom swimmi..."
+        },
+        {
+            "v_name": "Fireproof Contractors Inc",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Fireproof Contractors, Inc. specializes in commercial fireproofing, thermal and acoustical insulatio..."
+        },
+        {
+            "v_name": "Locke Solutions , LLC",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "Locke Solutions, based in Houston, Texas, is a company that primarily provides construction services..."
+        },
+        {
+            "v_name": "CW Lighting, LLC",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "CW Lighting is a lighting manufacturer representative serving the Houston, Texas area...."
+        },
+        {
+            "v_name": "Tejas Office Products, Inc.",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "Tejas Office Products is a company based in Houston, Texas, specializing in office supplies and rela..."
+        },
+        {
+            "v_name": "Mission Constructors , Inc.",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "Mission is a Houston-based corporation providing construction management, design/build, value engine..."
+        },
+        {
+            "v_name": "SRP Federal Credit Union",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "SRP Federal Credit Union is a member-owned financial institution that offers a variety of financial ..."
+        },
+        {
+            "v_name": "Ottawa Valley Handrailing Company Ltd",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "An internationally-recognized company, Ottawa Valley Handrailing (OVH) has been offering high qualit..."
+        },
+        {
+            "v_name": "Red Barrels",
+            "Discovery Date": "2024-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "Red Barrels Inc. is a Canadian video game developer based in Montreal. The company was founded by Ph..."
+        },
+        {
+            "v_name": "Akromold",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "2024-07-20",
+            "v_description": "Akromold is a leading manufacturer specializing in molds for rubber and silicone products. They offe..."
+        },
+        {
+            "v_name": "Labib Funk Associates",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "2024-08-10",
+            "v_description": "Labib Funk + Associates is a design and architecture firm specializing in a variety of projects, inc..."
+        },
+        {
+            "v_name": "Research Electronics International",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "2024-07-20",
+            "v_description": "REI specializes in the design and manufacture of electronic test equipment for security applications..."
+        },
+        {
+            "v_name": "IDEALEASE INC",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-06-08",
+            "v_description": "https://www.idealease.com/ Idealease is a leading provider of commercial truck leasing, rental, and ..."
+        },
+        {
+            "v_name": "Control Panels USA",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-05-01",
+            "v_description": "Control Panels USA is a premier provider of custom control panel solutions, serving a diverse range ..."
+        },
+        {
+            "v_name": "Spectrum Industries",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-06-01",
+            "v_description": "Spectrum Furniture is a leading manufacturer of innovative and high-quality furniture solutions desi..."
+        },
+        {
+            "v_name": "Magenta Photo Studio",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-06-02",
+            "v_description": "Magenta Photo is a premier photography company specializing in capturing life's precious moments wit..."
+        },
+        {
+            "v_name": "Brechbuhler Scales Inc",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-05-14",
+            "v_description": "Brechbuhler Scales Inc. is a leading provider of weighing solutions, offering a wide range of produc..."
+        },
+        {
+            "v_name": "MDSi INC",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-06-05",
+            "v_description": "MDSI (Material Design Systems, Inc.) is a leading provider of innovative material handling and stora..."
+        }
+    ]
+}

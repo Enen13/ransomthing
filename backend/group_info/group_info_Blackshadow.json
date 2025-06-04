@@ -1,0 +1,43 @@
+{
+    "group_name": [
+        "Blackshadow"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 3,
+    "First discovered victims": "2021-12-18",
+    "Last discovered victim": "2021-12-18",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Shirbit Insurance Company",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "K.L.S Capital",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CyberServe Company",
+            "Discovery Date": "2021-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

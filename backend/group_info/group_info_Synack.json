@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Synack"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 1,
+    "First discovered victims": "2021-03-21",
+    "Last discovered victim": "2021-03-21",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "India": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Maharashtra Industrial Development Corporation (MIDC) IT systems",
+            "Discovery Date": "2021-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

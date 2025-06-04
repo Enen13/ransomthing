@@ -1,0 +1,55 @@
+{
+    "group_name": [
+        "Pandora"
+    ],
+    "group_description": "Pandora ransomware was obtained by vx-underground at 2022-03-14.",
+    "Victims count": 5,
+    "First discovered victims": "2022-03-17",
+    "Last discovered victim": "2022-03-30",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Hearst",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United Cumberland",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jaffe Raitt Heuer & Weiss, P.C.",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GlobalWafers Japan",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rosewd",
+            "Discovery Date": "2022-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

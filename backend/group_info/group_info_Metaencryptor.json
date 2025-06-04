@@ -1,0 +1,211 @@
+{
+    "group_name": [
+        "Metaencryptor"
+    ],
+    "group_description": "None",
+    "Victims count": 29,
+    "First discovered victims": "2023-08-16",
+    "Last discovered victim": "2025-04-08",
+    "Avg Delay": "N/A",
+    "Infostealer": "6.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 3,
+                    "Manufacturing": 3,
+                    "Transportation/Logistics": 2,
+                    "Financial": 1,
+                    "Education": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Germany": 7,
+                    "United States": 5,
+                    "Canada": 2,
+                    "Belgium": 1,
+                    "Austria": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Third Avenue Management",
+            "Discovery Date": "2025-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Third Avenue Management is a New York City-based asset manager that utilizes a disciplined, value-or..."
+        },
+        {
+            "v_name": "Lee Hartman & Sons",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Lee Hartman & Sons, Inc., provides design, engineering, installation, service and rental services of..."
+        },
+        {
+            "v_name": "Saeilo",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Saeilo is a diversified manufacturing company consisting of three operating divisions.\nSMI is a nati..."
+        },
+        {
+            "v_name": "Life University",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "Life University is a private university Leading Chiropractic and Holistic Health University located ..."
+        },
+        {
+            "v_name": "MBS Radio",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "MBS Radio is a locally owned and operated group of 24 radio stations across Nova Scotia, New Brunswi..."
+        },
+        {
+            "v_name": "Carlex Glass Luxembourg S.A.",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "Carlex Glass Luxembourg SA in Grevenmacher is a part of Webasto, the world leader in roof systems an..."
+        },
+        {
+            "v_name": "MBE CPA",
+            "Discovery Date": "2024-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "MBE CPA is accounting service and business services company, provide financial solutions for individ..."
+        },
+        {
+            "v_name": "Autohaus Ebert",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Autohaus Ebert GmbH & Co.KG has been there for its customers for more than 120 years. At 12 location..."
+        },
+        {
+            "v_name": "Elbers GmbH & Co. KG",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Wholesale and retail trade, import and export of flowers, plants, vegetables and horticultural neces..."
+        },
+        {
+            "v_name": "Jetson Specialty Marketing Services, Inc.",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "JSM is a full-service direct marketing communications company steadfast in assisting clients acquire..."
+        },
+        {
+            "v_name": "Vega Reederei GmbH & Co. KG",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered at the Port of Hamburg, Vega is one of the world's fastest-growing shipping companies...."
+        },
+        {
+            "v_name": "Max Wild GmbH",
+            "Discovery Date": "2024-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "Max Wild GmbH, based in Berkheim, has been responsible for the professional and sustainable implemen..."
+        },
+        {
+            "v_name": "stormtech",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "stormtech..."
+        },
+        {
+            "v_name": "Garda",
+            "Discovery Date": "2023-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Garda..."
+        },
+        {
+            "v_name": "JD Sprinter Holdings 2010 SL",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "JD Sprinter Holdings 2010 SL retails sportswear, outdoor clothing, and related equipment. over 7500 ..."
+        },
+        {
+            "v_name": "TANATEX Chemicals",
+            "Discovery Date": "2023-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "TANATEX Chemicals is an international organisation that sells, develops, and produces chemicals for ..."
+        },
+        {
+            "v_name": "Belzona UK Ltd",
+            "Discovery Date": "2023-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Specialising in erosion, corrosion and chemical protection, Belzona is a world leader in the design ..."
+        },
+        {
+            "v_name": "Dillon Supply",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1914, Dillon Supply distributes industrial products. They are heaquartered in Raleigh..."
+        },
+        {
+            "v_name": "Epicure",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Epicure is a online shop with healthy eating. The company is primarily focused on educating the comm..."
+        },
+        {
+            "v_name": "Coswell",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "The Company Coswell is an italian family run group of companies specialized in manufacturing and dis..."
+        },
+        {
+            "v_name": "BOB Automotive Group",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Die BOB Automotive Group mit Hauptsitz in Essen ist eine Holding für renommierte und starke Automobi..."
+        },
+        {
+            "v_name": "Seoul Semiconductor",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Seoul Semiconductor is the top LED manufacturing company in Korea and No. 3 in the world. Over the p..."
+        },
+        {
+            "v_name": "Kraiburg Austria GmbH",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Kraiburg Austria GmbH Lösungen für die Reifenrunderneuerung. Bei KRAIBURG Retreading Materials verei..."
+        },
+        {
+            "v_name": "Autohaus Ebert GmbH",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Autohaus Ebert GmbH & Co.KG has been there for its customers for more than 120 years. At 12 location..."
+        },
+        {
+            "v_name": "CVO Antwerpen",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Education for adults.Revenue: $72M..."
+        },
+        {
+            "v_name": "ICON Creative Studio",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "ICON Creative Studio is Canada’s largest independently owned CG Animation Studio, located in the his..."
+        },
+        {
+            "v_name": "Heilmann Gruppe",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Heilmann Gruppe. The purchase and sale of potatoes and onions, as well as all related activities not..."
+        },
+        {
+            "v_name": "Schwälbchen Molkerei AG",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Schwälbchen Molkerei AG is a company that operates in the Consumer Services industry. It is a German..."
+        },
+        {
+            "v_name": "Münchner Verlagsgruppe GmbH",
+            "Discovery Date": "2023-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Münchner Verlagsgruppe GmbH is a company that operates in the Publishing industry. It has $36M of re..."
+        }
+    ]
+}

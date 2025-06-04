@@ -1,0 +1,138 @@
+{
+    "group_name": [
+        "Daixin"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 17,
+    "First discovered victims": "2022-08-03",
+    "Last discovered victim": "2024-07-22",
+    "Avg Delay": "N/A",
+    "Infostealer": "20.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare and Public Health": 1,
+                    "Hospitality and Tourism": 1,
+                    "Government": 1,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Malaysia": 1,
+                    "Indonesia": 1,
+                    "Canada": 1,
+                    "United Arab Emirates": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Acadian Ambulance (US)",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Acadian Ambulance is an employee-owner private ambulance service that covers most of the state of Lo..."
+        },
+        {
+            "v_name": "Dubai Municipality (UAE)",
+            "Discovery Date": "2024-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "Dubai Municipality is the Government of Dubai municipal body with jurisdiction over city services an..."
+        },
+        {
+            "v_name": "Omni Hotels & Resorts  (US)",
+            "Discovery Date": "2024-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "Omni Hotels & Resorts is an American privately held, international luxury hotel company based in Dal..."
+        },
+        {
+            "v_name": "Graphic Solutions Group Inc (US)",
+            "Discovery Date": "2023-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "GSG digital printing technologies with a half a century of knowledge and experience in traditional s..."
+        },
+        {
+            "v_name": "North Texas Municipal Water District (US)",
+            "Discovery Date": "2023-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "The North Texas Municipal Water District (NTMWD) provides vital wholesale water, wastewater and soli..."
+        },
+        {
+            "v_name": "Bluewater Health (CA) and others",
+            "Discovery Date": "2023-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "Bluewater Health is a hospital in Sarnia, Ontario.      The  hospital now encompasses about 600,000 ..."
+        },
+        {
+            "v_name": "Columbus Regional Healthcare System (US)",
+            "Discovery Date": "2023-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "Columbus Regional Healthcare System has one of the highest volume and most experienced robotic surgi..."
+        },
+        {
+            "v_name": "Hit Promotional Products (US)",
+            "Discovery Date": "2023-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "Hit Promotional Products has been a leader in the promotional product industry. As a family-owned bu..."
+        },
+        {
+            "v_name": "B&G Foods (CA, US)",
+            "Discovery Date": "2023-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "B&G Foods, Inc. manufactures, sells, and distributes a portfolio of shelf-stable and frozen foods, a..."
+        },
+        {
+            "v_name": "Guardian Analytics (US)",
+            "Discovery Date": "2023-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "Guardian Analytics is now a part of NICE Actimize, a business of NICE (Nasdaq:NICE). Consistently ra..."
+        },
+        {
+            "v_name": "Astra Daihatsu Motor (ID)",
+            "Discovery Date": "2022-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "PT Astra Daihatsu Motor is an automobile manufacturing company based in Jakarta, Indonesia. It is a ..."
+        },
+        {
+            "v_name": "AirAsia Group (MY, ID, TH)",
+            "Discovery Date": "2022-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "AirAsia is a Malaysian multinational low-cost airline headquartered near Kuala Lumpur, Malaysia. It ..."
+        },
+        {
+            "v_name": "OakBend Medical (USA)",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "OakBend Medical is passionately focused on patient-centered medicine.OakBend Medical Center:  450 Ph..."
+        },
+        {
+            "v_name": "OakBend Medical Center",
+            "Discovery Date": "2022-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ISTA International GmbH",
+            "Discovery Date": "2022-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "ista International GmbH provides submetering and billing of water and energy consumption. The Compan..."
+        },
+        {
+            "v_name": "Fitzgibbon Hospital (USA)",
+            "Discovery Date": "2022-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "Fitzgibbon Hospital is a leader in central Missouri in providing quality, compassionate care and per..."
+        },
+        {
+            "v_name": "Trib Total Media (USA)",
+            "Discovery Date": "2022-08-03",
+            "Estimated Attack Date": "",
+            "v_description": "Trib Total Media delivers news, information and advertising to portions of Allegheny, Westmoreland, ..."
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "group_name": [
+        "Silent"
+    ],
+    "group_description": "Unlike many other groups, Silent claims to operate with a high level of anonymity and discretion. According to their own statement, they avoid public negotiations and encrypt minimal data. Instead, their focus is on stealing valuable confidential corporate information — and either selling it to competitors, on the dark web, or publishing it selectively.",
+    "Victims count": 5,
+    "First discovered victims": "2025-04-23",
+    "Last discovered victim": "2025-05-04",
+    "Avg Delay": "N/A",
+    "Infostealer": "20.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Cocoon",
+            "Discovery Date": "2025-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United States | Revenue: 16.30M USD | Employees: 29 | Tags: ..."
+        },
+        {
+            "v_name": "Advanced Simulation Technology inc. (ASTi)",
+            "Discovery Date": "2025-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United States | Revenue: 11.80M USD | Employees: 36 | Tags: ..."
+        },
+        {
+            "v_name": "Fleet Canada",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "",
+            "v_description": "Country: Canada | Revenue: 32.00M USD | Employees: 109 | Tags: ..."
+        },
+        {
+            "v_name": "ESP Associates",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Country: United States | Revenue: 76.20M USD | Employees: 655 | Tags: Vickrey..."
+        },
+        {
+            "v_name": "Versa Networks",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Not claimed yet ..."
+        }
+    ]
+}

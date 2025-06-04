@@ -1,0 +1,181 @@
+{
+    "group_name": [
+        "Kelvinsecurity"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 26,
+    "First discovered victims": "2022-04-01",
+    "Last discovered victim": "2022-05-24",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "TRANSCONTRACT",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mansfield Energy",
+            "Discovery Date": "2022-05-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Channel Navigator business intelligence IT",
+            "Discovery Date": "2022-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Next Leak On Hold",
+            "Discovery Date": "2022-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PTC Industries",
+            "Discovery Date": "2022-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Municipality of Posadas",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bfclcoin",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Instance IT Solutions India",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Waiting for next leak",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NATION Costa Rica",
+            "Discovery Date": "2022-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PT Pertamina Gas",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CARACOL TV COLOMBIA",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "caribetours",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ICONIC",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "eGOV",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Equicom SAVINGS BANK",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cellulant Corporation",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BEXIMCO",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BMW CHILE",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Banco do Brasil",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CORT",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Nestle",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Salvadoran Ministry of Foreign Affairs",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ANTEL",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pakistan Human Rights",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CR ASIA",
+            "Discovery Date": "2022-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

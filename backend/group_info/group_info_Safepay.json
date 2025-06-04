@@ -1,0 +1,1267 @@
+{
+    "group_name": [
+        "Safepay"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 205,
+    "First discovered victims": "2024-11-19",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "29.9 days",
+    "Infostealer": "4.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 21,
+                    "Business Services": 19,
+                    "Education": 16,
+                    "Healthcare": 13,
+                    "Transportation/Logistics": 12
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 71,
+                    "Germany": 43,
+                    "Australia": 8,
+                    "United Kingdom": 7,
+                    "Canada": 6
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "meeksgroup.com",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The Meeks Group is an Oklahoma-based company that specializes in providing various ad..."
+        },
+        {
+            "v_name": "sfhumanesociety.org",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Founded in 1868, sfhumanesociety.org is associated with the San Francisco Society for..."
+        },
+        {
+            "v_name": "donowentire.com",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Don Owen Tire Service, Inc. is a locally owned tire and automotive service provider b..."
+        },
+        {
+            "v_name": "iicil.com",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "visco.de",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Visco.de\" is a German-based company specializing in contemporary multimedia and inte..."
+        },
+        {
+            "v_name": "buechel-online.com",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ibague.losolivos.co",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Los Olivos\" is a well-known funeral services company in Ibague, Colombia. They provi..."
+        },
+        {
+            "v_name": "Avance Agricola sl",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Avance Agricola SL\" is a Spain-based company primarily engaged in cultivation and di..."
+        },
+        {
+            "v_name": "murraybuildingcompany.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Murray Building Company is an experienced construction management and general contrac..."
+        },
+        {
+            "v_name": "sander-doll.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "usmortgage.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] USMortgage.com is a financial service provider located in the United States, speciali..."
+        },
+        {
+            "v_name": "gruposancristobal.com.mx",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-14",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "radsports.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-02",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "schoenundendres.de",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-10",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "hennertanklines.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-04-30",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "bridgecast.ca",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "codylawfirm.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-15",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "spring-green.com/petbutler.com",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Spring-Green.com / PetButler.com are two distinct services operating under Spring-Gre..."
+        },
+        {
+            "v_name": "paynecountyok.gov",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-09",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "labbeemint.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-04-29",
+            "v_description": "[AI generated] Labbeemint Inc. is a global trader and exporter of mint and related products. It is b..."
+        },
+        {
+            "v_name": "servicecentermetals.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-04-22",
+            "v_description": "[AI generated] Service Center Metals is a leading producer of extruded aluminum products in the US, ..."
+        },
+        {
+            "v_name": "ozarkah2o.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-04-30",
+            "v_description": "[AI generated] \"Ozarkah2o.com\" is the official website for Ozarka, a Texas-based company that specia..."
+        },
+        {
+            "v_name": "gjszlin.cz",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-21",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "lrcpa.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2024-10-23",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "estudiolm.com.ar",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-17",
+            "v_description": "[AI generated] \"estudiolm.com.ar\" is an Argentine company that specializes in innovative architectur..."
+        },
+        {
+            "v_name": "dcbflegal.com",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-09",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "rtblegal.com.au",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "2025-05-01",
+            "v_description": "[AI generated] \"rtblegal.com.au\" is an Australian law firm that offers a wide range of legal service..."
+        },
+        {
+            "v_name": "notar-roemer-troisdorf.de",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "rgvengineering.co.uk",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-11",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "servicedecorating.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "ctd-dortmund.de",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "planet-itservices.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "dawg-dok.de",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "proctorlane.com",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "sb-p.de",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-19",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "schoene-aussicht-kassel.de",
+            "Discovery Date": "2025-05-21",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "This entry has been removed following a request from the company.",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "Takedown notice of 26 May 2025 - Request #1201..."
+        },
+        {
+            "v_name": "mylikowines.co.uk",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "[AI generated] \"Mylikowines.co.uk\" is an online wine shop based in the UK that offers a selection of..."
+        },
+        {
+            "v_name": "ngca.net",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-29",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "distribution2.com",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "redsquaredentalcare.com",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-22",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "overheadtyler.com",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "clarkmechanicalinc.com",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-21",
+            "v_description": "[AI generated] Clark Mechanical, Inc. is a mechanical contracting company based in California. They ..."
+        },
+        {
+            "v_name": "prais.ro",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "[AI generated] \"Prais.ro\" is a digital platform from Romania that offers access to a wide variety of..."
+        },
+        {
+            "v_name": "aplusmachining.com",
+            "Discovery Date": "2025-05-17",
+            "Estimated Attack Date": "2025-04-17",
+            "v_description": "[AI generated] A Plus Machining is a US-based company that specializes in precision CNC (Computer Nu..."
+        },
+        {
+            "v_name": "freudenberg-cranes.com",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "zvaonline.com",
+            "Discovery Date": "2025-05-16",
+            "Estimated Attack Date": "2025-04-12",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "olympusaero.com",
+            "Discovery Date": "2025-05-15",
+            "Estimated Attack Date": "2025-04-12",
+            "v_description": "[AI generated] Olympus Aero Group is an international aerospace company that specializes in sourcing..."
+        },
+        {
+            "v_name": "azpiaran.com",
+            "Discovery Date": "2025-05-15",
+            "Estimated Attack Date": "2025-05-09",
+            "v_description": "Inicio | Azpiaran - The group specializes in Progressive stamping, Fine Blanking, Transfer stamping ..."
+        },
+        {
+            "v_name": "wnyenergy.com",
+            "Discovery Date": "2025-05-15",
+            "Estimated Attack Date": "2025-04-24",
+            "v_description": "[AI generated] WNY Energy is an energy company based in Western New York, USA. It operates a 115 mil..."
+        },
+        {
+            "v_name": "moorecoal.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "igpi.co.jp",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-03-31",
+            "v_description": "[AI generated] IGPI (Industrial Growth Platform, Inc.) is a Tokyo-based management consulting firm. ..."
+        },
+        {
+            "v_name": "kize-weisser-stein.de",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-03-29",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "lifesafeservices.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Lifesafe Services specializes in providing a comprehensive range of safety solutions ..."
+        },
+        {
+            "v_name": "gravelec.ch",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-14",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "abfiad.nl",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "join-the-quest.co.uk",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "maxusgroup.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "hagemann-h.de",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-02",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "metten-maas.de",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "scheuerle-stuttgart.de",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "[AI generated] Scheuerle Stuttgart is a leading company in the heavy transport industry. Based in St..."
+        },
+        {
+            "v_name": "gewandhaus.bayern",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "[AI generated] \"Gewandhaus.bayern\" is a company based in Munich, Germany, specializing in the provis..."
+        },
+        {
+            "v_name": "morricetransportation.com",
+            "Discovery Date": "2025-05-11",
+            "Estimated Attack Date": "2025-04-04",
+            "v_description": "[AI generated] Morrice Transportation is a well-established logistics and transportation company bas..."
+        },
+        {
+            "v_name": "eu-rec.de",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "schapmann",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "dosjm.com",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "biglevel.net",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-23",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "bloomfamilyeyesurgeons.com",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "[AI generated] \"Bloom Family Eye Surgeons is a leading ophthalmology practice located in Newport New..."
+        },
+        {
+            "v_name": "kolpa.com.pe",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "[AI generated] \"Kolpa.com.pe\" is an online marketplace based in Peru. They focus on promoting the sa..."
+        },
+        {
+            "v_name": "dreng.com",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-30",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "mooregiles.com",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "[AI generated] Moore & Giles is a Virginia-based company specializing in the design and distribution..."
+        },
+        {
+            "v_name": "itec-gmbh.com",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ITEC GmbH is a German-based company specializing in civil engineering and constructio..."
+        },
+        {
+            "v_name": "heinrich-steinhardt.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "hurst-schroeder.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "helixtools.co.uk",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Helix Tools provides high-quality tooling solutions for the engineering industry. Loc..."
+        },
+        {
+            "v_name": "heilbronn.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "getriebetech.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Getriebetech.de\" is based in Germany and functions as a provider of exceptional tran..."
+        },
+        {
+            "v_name": "kirkel.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "extremefire.com.au",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Extreme Fire Solutions is an Australian company that specializes in fire protection s..."
+        },
+        {
+            "v_name": "foerster-schwanau.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "eichele-bau.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "frapack.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Frapack.de is a German company specialized in the distribution and production of pack..."
+        },
+        {
+            "v_name": "niemann.de",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "2025-04-07",
+            "v_description": "[AI generated] Niemann.de is a German company known as Niemann Möbelteile, which translates to Niema..."
+        },
+        {
+            "v_name": "creativeunited.org.uk",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Creative United is a UK-based community interest company committed to supporting the ..."
+        },
+        {
+            "v_name": "brightonaustralia.com.au",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-14",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "tieraerzte-warburg.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "system-toolsgmbh.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-16",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "vinylvisions.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Vinyl Visions is a company that specializes in the manufacture of premium plastic ext..."
+        },
+        {
+            "v_name": "estilointeriors.co.uk",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-19",
+            "v_description": "[AI generated] \"Estilo Interiors\" is a UK-based company that specializes in office design and refurb..."
+        },
+        {
+            "v_name": "swr.school",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "albrecht-partner-steuerberatung.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Albrecht & Partner Steuerberatung is a German Tax Advisory company headquartered in F..."
+        },
+        {
+            "v_name": "alpsteel.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"AlpSteel.com\" is an online platform for one of the leading steel and metal distribut..."
+        },
+        {
+            "v_name": "blunk-gmbh.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Blunk GmbH is a German company that specializes in agricultural services. It operates..."
+        },
+        {
+            "v_name": "cjs-buerodienstleistungen.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "beaudry.ca",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "bohrerhof.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Bohrerhof.de\" is a German-based company mainly dealing with agriculture and farming...."
+        },
+        {
+            "v_name": "metalogicinspection.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Metalogic Inspection Services is a company noted for its groundbreaking solutions in ..."
+        },
+        {
+            "v_name": "comfort.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-25",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "vcvitanzasons.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "tramann.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "schuhbode.de",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-03-05",
+            "v_description": "[AI generated] \"Schuhbode.de\" is a Germany-based online retail store that specializes in selling a w..."
+        },
+        {
+            "v_name": "norson.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-03-01",
+            "v_description": "[AI generated] NorSon Inc. is a custom integrated construction service firm specializing in high-end..."
+        },
+        {
+            "v_name": "fd-friedrich.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-18",
+            "v_description": "[AI generated] \"N/A\"..."
+        },
+        {
+            "v_name": "westwarwickwelding.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "prestigeer.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-20",
+            "v_description": "[AI generated] Prestige ER is a medical care organization located in Plano, Texas. Open 24/7, this e..."
+        },
+        {
+            "v_name": "ecconstructors.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] EC Constructors is a construction company involved in public works projects in Southe..."
+        },
+        {
+            "v_name": "wrm.org",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "retycol.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "marcom-inc.ca",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Marcom Inc. is a Canadian company providing businesses with safety training solutions..."
+        },
+        {
+            "v_name": "adolphelawgroup.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-03-15",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "wagner-transporte.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-03-11",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "children-ne.org.uk",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-02-28",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "mayaassurance.com",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "2025-03-15",
+            "v_description": "[AI generated] Maya Assurance Company is a New York-based insurance firm that specializes in auto in..."
+        },
+        {
+            "v_name": "saiedu.fi",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "[AI generated] Saiedu.fi, known as SAI Education and Development Finland, is a Finland-based company..."
+        },
+        {
+            "v_name": "compassionhealthcare.org",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "terrell.k12.ga.us",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "2025-02-27",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "argusdatainsights.de",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Argus Data Insights is a German company that specializes in media monitoring and anal..."
+        },
+        {
+            "v_name": "tradingacademy.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Trading Academy is a financial education provider that offers online and in-person co..."
+        },
+        {
+            "v_name": "ultimateclasslimo.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "2025-02-07",
+            "v_description": "[AI generated] Ultimate Class Limo is a professional transportation company based in New York. It of..."
+        },
+        {
+            "v_name": "havenresorts.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "Enjoy sanctuary of luxury and sophistication at Haven Riviera Cancun, an adults-only, all-inclusive ..."
+        },
+        {
+            "v_name": "lgipr.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] LGIPR.com appears to be a Russian company that offers various services in the field o..."
+        },
+        {
+            "v_name": "jockeysalud.com.pe",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Jockeysalud.com.pe\" is a healthcare institution based in Lima, Peru. They are commit..."
+        },
+        {
+            "v_name": "motomecanica.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Motomecanica.com is renowned for its expertise in the production and supply of high-q..."
+        },
+        {
+            "v_name": "cali.losolivos.co",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but there doesn't seem to be enough verifiable or specific information ava..."
+        },
+        {
+            "v_name": "willms-fleisch.de",
+            "Discovery Date": "2025-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Willms-Fleisch GmbH is a Germany-based company known for providing high quality meat ..."
+        },
+        {
+            "v_name": "plasseramerican.com",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2025-02-04",
+            "v_description": "[AI generated] Plasser American Corporation is an eminent manufacturer of heavy machinery and equipm..."
+        },
+        {
+            "v_name": "conduent.com",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "2025-01-09",
+            "v_description": "[AI generated] Conduent is a global company specializing in business process services. They provide ..."
+        },
+        {
+            "v_name": "ziese.net",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-02-10",
+            "v_description": "Ziese &amp; Sons Excavating, Inc. is your premier excavation company serving Crown Point and the sur..."
+        },
+        {
+            "v_name": "rwrhine.com",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-01-30",
+            "v_description": "[AI generated] Rwrhine.com is a professional dental practice led by Dr. Richard W. Rhine, a reputed ..."
+        },
+        {
+            "v_name": "foyernotredamedepaix.be",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-02-12",
+            "v_description": "[AI generated] Foyernotredamedepaix.be is a Belgian healthcare company that specializes in treating ..."
+        },
+        {
+            "v_name": "fastrans.com",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2025-01-24",
+            "v_description": "Fastrans Logistics..."
+        },
+        {
+            "v_name": "stjerome.org",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "[AI generated] Stjerome.org appears to be a non-existent or unrecognized company. The name \"St Jerom..."
+        },
+        {
+            "v_name": "harcoboe.net",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "2025-01-18",
+            "v_description": "[AI generated] \"Harcoboe.net\" is a webmail service provided by Harrison County Board of Education in..."
+        },
+        {
+            "v_name": "lowernazareth.com",
+            "Discovery Date": "2025-02-06",
+            "Estimated Attack Date": "2025-01-22",
+            "v_description": "[AI generated] \"lowernazareth.com\" appears to be a community-focused site serving the residents of L..."
+        },
+        {
+            "v_name": "www.iecsolutions.com",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "2025-01-25",
+            "v_description": "[AI generated] IEC Solutions is a telecommunication company specializing in designing, installing, a..."
+        },
+        {
+            "v_name": "brewsterfiredepartment.org",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Brewster Fire Department\" appears to be a fire and emergency service provider based ..."
+        },
+        {
+            "v_name": "derrimon.com",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-22",
+            "v_description": "[AI generated] Derrimon Trading Company Limited is a Jamaican-based firm engaged in the distribution..."
+        },
+        {
+            "v_name": "globexusa.com",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "2025-01-19",
+            "v_description": "[AI generated] GlobexUSA is a company that specializes in cross-border e-commerce solutions, helping..."
+        },
+        {
+            "v_name": "muscogee.k12.ga.us",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "2024-12-26",
+            "v_description": "[AI generated] Muscogee.k12.ga.us is the official web portal for the Muscogee County School District..."
+        },
+        {
+            "v_name": "bigotti.ro",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "[AI generated] Bigotti.ro is a Romania-based fashion company specializing in men's clothing and acce..."
+        },
+        {
+            "v_name": "mcpathology.com",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "2025-01-16",
+            "v_description": "[AI generated] McPathology.com is essentially a Brisbane-based medical diagnostic service and labora..."
+        },
+        {
+            "v_name": "nutripack.eu",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "[AI generated] Nutripack.eu is a prominent international company based in Europe that specializes in..."
+        },
+        {
+            "v_name": "paradiseschools.org",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "2024-12-29",
+            "v_description": "[AI generated] Paradise Schools is a network of K-12 charter schools located in Surprise, Arizona. T..."
+        },
+        {
+            "v_name": "welcomewagon.com",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Welcome Wagon is a US-based company focused on creating connections between new homeo..."
+        },
+        {
+            "v_name": "cellsciencesystems.com",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Cell Science Systems is a specialty clinical laboratory that develops and performs la..."
+        },
+        {
+            "v_name": "BBBIND.COM",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] BBBIND.COM is a leading American company specialized in automotive aftermarket parts...."
+        },
+        {
+            "v_name": "gaylord.org",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "2024-12-19",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "semesco.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "2024-12-29",
+            "v_description": "[AI generated] Semesco.com is an e-commerce platform that allows users to buy and sell a variety of ..."
+        },
+        {
+            "v_name": "brunetti.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "[AI generated] Brunetti is a renowned Italian cafe established in Melbourne, Australia in 1985. Know..."
+        },
+        {
+            "v_name": "solge.es",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "[AI generated] Solge.es is a Spanish-based Information Technology company primarily focusing on the ..."
+        },
+        {
+            "v_name": "gonzalesusd.net",
+            "Discovery Date": "2025-01-18",
+            "Estimated Attack Date": "2024-12-17",
+            "v_description": "[AI generated] I'm sorry for the confusion but gonzalesusd.net is not a company. It's actually the d..."
+        },
+        {
+            "v_name": "platinumcollision.com",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "2025-01-09",
+            "v_description": "[AI generated] Platinum Collision is a reputed automotive repair company specializing in car body re..."
+        },
+        {
+            "v_name": "safecoastseafoods.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "2025-01-04",
+            "v_description": "[AI generated] Safecoast Seafoods is a premium seafood sourcing and distribution company. They are f..."
+        },
+        {
+            "v_name": "greyform.sg",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Greyform Pte Ltd is a Singapore-based construction company specialising in prefab con..."
+        },
+        {
+            "v_name": "proexequialesresurgir.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "2024-12-26",
+            "v_description": "Inicio | Proexequiales Resurgi..."
+        },
+        {
+            "v_name": "bellandgraham.co.nz",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "2024-12-22",
+            "v_description": "Back in 1954, a man named Ray Kroc discovered a small burger restaurant in California, and wrote the..."
+        },
+        {
+            "v_name": "termopuerto.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Termopuerto.com is a logistics company specializing in the integral control of perish..."
+        },
+        {
+            "v_name": "equipo-postal.com",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "2025-01-07",
+            "v_description": "[AI generated] Equipo Postal is a Mexican company that specializes in logistics and delivery service..."
+        },
+        {
+            "v_name": "ddelta.com.mx",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "2025-01-09",
+            "v_description": "[AI generated] Ddelta.com.mx is a Mexico-based company that specializes in offering software solutio..."
+        },
+        {
+            "v_name": "royalinsignia.com",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "2024-12-22",
+            "v_description": "Revenue $6.5 Million..."
+        },
+        {
+            "v_name": "starkvillesd.com",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "Revenue $9.1 Million..."
+        },
+        {
+            "v_name": "spiro.k12.ok.us",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "byronunionschooldistrict.us",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "2024-12-20",
+            "v_description": "Revenue $19.3 Million..."
+        },
+        {
+            "v_name": "multicoasia.com",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Revenue $11.6 Million..."
+        },
+        {
+            "v_name": "dprinvestments.com",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $13 Million..."
+        },
+        {
+            "v_name": "UPR.SG",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $8.9 Million..."
+        },
+        {
+            "v_name": "itca.edu.sv",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "2024-12-21",
+            "v_description": "Revenue $56.5 Million..."
+        },
+        {
+            "v_name": "etplaw.com",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "muswellbrook.nsw.gov.au",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "2024-12-03",
+            "v_description": "Soon..."
+        },
+        {
+            "v_name": "cityofmarlow.com",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "2024-11-27",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "nbkenney.com",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "2024-11-28",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "casaimports.com",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "2024-11-16",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "ktpartners.ca",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "2024-11-18",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "elwood.k12.in.us",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "scottelec.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $19.6 Million..."
+        },
+        {
+            "v_name": "helixbermuda.bm",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "australianhearthealth.org.au",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $7 Million..."
+        },
+        {
+            "v_name": "midlandtool.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $126  Million..."
+        },
+        {
+            "v_name": "mdmcusa.com",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "2024-11-08",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "titlenine.com",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "2024-11-02",
+            "v_description": "Revenue $60.8 Million..."
+        },
+        {
+            "v_name": "www.microlise.com",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue $91.4 Million..."
+        },
+        {
+            "v_name": "snowbrand.com.au",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "Revenue $9.5 Million..."
+        },
+        {
+            "v_name": "piburners.com",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-04",
+            "v_description": "ZIP-156GB - Revenue $5 Million..."
+        },
+        {
+            "v_name": "tritonsourcing.co.nz",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-08",
+            "v_description": "ZIP-10GB - Revenue $5 Million..."
+        },
+        {
+            "v_name": "onnicar.it",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "ZIP-127GB - Revenue $23.2 Million..."
+        },
+        {
+            "v_name": "kingswoodpark.ca",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-10",
+            "v_description": "ZIP-55GB..."
+        },
+        {
+            "v_name": "incocommercial.com",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "ZIP-210GB - Revenue $5 Million..."
+        },
+        {
+            "v_name": "euromedix.com",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-14",
+            "v_description": "ZIP-105GB - Revenue $6.2 Million..."
+        },
+        {
+            "v_name": "BusinessTraining.be",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "ZIP-80GB - Revenue $16.3 Million..."
+        },
+        {
+            "v_name": "ccseniorservices",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "ZIP-50GB..."
+        },
+        {
+            "v_name": "ib-spieth.de",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-21",
+            "v_description": "ZIP-415B - Revenue $5 Million..."
+        },
+        {
+            "v_name": "Safex.us",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "ZIP-70GB - Revenue $5,4 Million..."
+        },
+        {
+            "v_name": "millerservicecompany.com",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "ZIP-70GB..."
+        },
+        {
+            "v_name": "mcauslan.com",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-27",
+            "v_description": "ZIP-50GB - Revenue $16.1 Million..."
+        },
+        {
+            "v_name": "stats.gov.bb",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "ZIP-330GB - Revenue $14.5 Million..."
+        },
+        {
+            "v_name": "smartdimensions",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-29",
+            "v_description": "ZIP-18GB - Revenue $<5 Million..."
+        },
+        {
+            "v_name": "westwood",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "ZIP-50GB - Revenue $8.1 Million..."
+        },
+        {
+            "v_name": "threadfxinc/bluedogmerch",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-18",
+            "v_description": "ZIP-70GB - Revenue $10.7 Million..."
+        },
+        {
+            "v_name": "Pronatec",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-10-06",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "Gilazo",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-25",
+            "v_description": "Revenue $5 Million..."
+        },
+        {
+            "v_name": "OMINT",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-27",
+            "v_description": "Revenue $540.7 Million..."
+        },
+        {
+            "v_name": "NKCE Japan",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "[AI generated] NKCE Japan is a company known for its expertise in engineering and manufacturing, spe..."
+        },
+        {
+            "v_name": "Richmond Hill Primary Academy",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-20",
+            "v_description": "[AI generated] Richmond Hill Primary Academy is an educational institution focused on providing a nu..."
+        },
+        {
+            "v_name": "Active Cosmetic",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-09-17",
+            "v_description": "Revenue $26.7 Million..."
+        },
+        {
+            "v_name": "O'mara",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "2024-08-26",
+            "v_description": "Revenue $5.7 Million..."
+        }
+    ]
+}

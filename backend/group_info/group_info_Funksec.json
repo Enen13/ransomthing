@@ -1,0 +1,1069 @@
+{
+    "group_name": [
+        "Funksec"
+    ],
+    "group_description": "None",
+    "Victims count": 172,
+    "First discovered victims": "2024-12-04",
+    "Last discovered victim": "2025-03-18",
+    "Avg Delay": "360.5 days",
+    "Infostealer": "21.4%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 34,
+                    "Government": 21,
+                    "Education": 18,
+                    "Business Services": 15,
+                    "Financial": 10
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 23,
+                    "India": 23,
+                    "Brazil": 10,
+                    "Israel": 6,
+                    "Mongolia": 5
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "semaphore.asso.fr",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "sanirent.com.mx",
+            "Discovery Date": "2025-03-15",
+            "Estimated Attack Date": "2024-09-29",
+            "v_description": "[AI generated] Sanirent is a Mexican company specializing in waste management and environmental solu..."
+        },
+        {
+            "v_name": "extremeperformance.com",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ExtremePerformance.com is a company that specializes in providing high-performance pa..."
+        },
+        {
+            "v_name": "unimore.it",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Unimore.it refers to the University of Modena and Reggio Emilia, located in Italy. Fo..."
+        },
+        {
+            "v_name": "isee-eg.com",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] isee-eg.com, also known as ISEE, is an Egyptian marketing and consulting company. The..."
+        },
+        {
+            "v_name": "klabs.it",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] klabs.it is an Italian company that specializes in the development and implementation..."
+        },
+        {
+            "v_name": "univ-rennes.fr",
+            "Discovery Date": "2025-03-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Univ-rennes.fr is likely associated with the University of Rennes, a renowned public ..."
+        },
+        {
+            "v_name": "sorbonne-universite.fr",
+            "Discovery Date": "2025-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Sorbonne Université is a prestigious French higher education institution located in P..."
+        },
+        {
+            "v_name": "cimenyan.desa.id",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I wasn't able to find any specific information regarding a company cal..."
+        },
+        {
+            "v_name": "mytower.com.br",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] MyTower is a Brazilian company that provides innovative digital solutions for the rea..."
+        },
+        {
+            "v_name": "stayzapp.in",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Stayzapp.in is an Indian-based online platform that empowers homeowners to monetize t..."
+        },
+        {
+            "v_name": "Moon",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2023-04-13",
+            "v_description": "https://play.google.com/store/apps/details?id=com.itcan.moon&hl=en-US..."
+        },
+        {
+            "v_name": "jastreet.com",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2024-05-10",
+            "v_description": "hello this victims , you have from today to 3/1/2025 to nigotable and receive the decryptor. mr J.A...."
+        },
+        {
+            "v_name": "isurges.com",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "2024-05-10",
+            "v_description": "hello this victims , you have from today to 3/1/2025 to nigotable and receive the decryptor. mr J.A...."
+        },
+        {
+            "v_name": "mandarin.com.br",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Mandarin.com.br is a Brazilian company primarily focusing on providing technology sol..."
+        },
+        {
+            "v_name": "rossmanmedia.ae",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Rossman Media is a Dubai-based full-service digital marketing agency. They offer vari..."
+        },
+        {
+            "v_name": "footballticketnet.com",
+            "Discovery Date": "2025-02-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Footballticketnet.com is an online marketplace that allows customers to buy tickets t..."
+        },
+        {
+            "v_name": "hiway.com.br",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Hiway.com.br is a Brazil-based company that specializes in providing quality internet..."
+        },
+        {
+            "v_name": "avtovelomoto.by",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Avtovelomoto.by is a leading automotive and motorcycle retail company based in Belaru..."
+        },
+        {
+            "v_name": "phidac.be",
+            "Discovery Date": "2025-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Phidac.be is a technology company based in Belgium that specializes in providing a wi..."
+        },
+        {
+            "v_name": "herbalcanadaonline.com",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Herbal Canada Online is a company that specializes in providing high-quality natural ..."
+        },
+        {
+            "v_name": "iaaglobal.org",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] IAAGlobal, the International Advertising Association, is a global organization that c..."
+        },
+        {
+            "v_name": "autogedal.ro",
+            "Discovery Date": "2025-02-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Autogedal.ro is a Romanian online platform popular for buying, selling, and leasing a..."
+        },
+        {
+            "v_name": "rattelacademy.com",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Rattel Academy is an online learning platform that focuses on offering comprehensive ..."
+        },
+        {
+            "v_name": "cara.com.my",
+            "Discovery Date": "2025-02-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Cara.com.my\" is a leading online platform based in Malaysia that functions as a mark..."
+        },
+        {
+            "v_name": "brainsystem.eu",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Brainsystem.eu is an IT company that provides modern technology solutions for busines..."
+        },
+        {
+            "v_name": "esle.eu",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"esle.eu\" is primarily a business-oriented site focused on delivering a range of serv..."
+        },
+        {
+            "v_name": "forum-rainbow-rp.forumotion.eu",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"forum-rainbow-rp.forumotion.eu\" appears to be an online forum on the Forumotion plat..."
+        },
+        {
+            "v_name": "fasttrackcargo.com",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Fast Track Cargo is a logistics company that offers a range of services to customers ..."
+        },
+        {
+            "v_name": "hreu.eu",
+            "Discovery Date": "2025-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "Discover top-tier human resources solutions and services tailored for all industries. Ideal for busi..."
+        },
+        {
+            "v_name": "fiberskynet.net",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] FiberSkyNet is a company that provides high-speed broadband services to businesses an..."
+        },
+        {
+            "v_name": "tirtaraharja.co.id",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] PT Tirta Raharja Perkasa is an Indonesian company offering services in portable water..."
+        },
+        {
+            "v_name": "myisp.live",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Myisp.live is a technology company that specializes in information technology service..."
+        },
+        {
+            "v_name": "inmobiliariamaspormenos.com",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Inmobiliariamaspormenos.com\" is a Spanish real estate company specializing in bank-o..."
+        },
+        {
+            "v_name": "dms-ksa.com",
+            "Discovery Date": "2025-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] DMS-KSA, also known as Digital Myth Solutions, is a leading company in Saudi Arabia o..."
+        },
+        {
+            "v_name": "tsmx.net.br",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "qed.co.ug",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] QED Solutions Ltd operates \"qed.co.ug\", a Ugandan-based recruitment platform connecti..."
+        },
+        {
+            "v_name": "treehotel.co.uk",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Treehotel.co.uk is a unique accommodation provider based in Sweden. They offer lodgin..."
+        },
+        {
+            "v_name": "achieverssciencejournal.org",
+            "Discovery Date": "2025-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Achievers Science Journal is an educational organization dedicated to producing and d..."
+        },
+        {
+            "v_name": "punjab.gov.in",
+            "Discovery Date": "2025-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Punjab.gov.in is the official online portal of the Government of Punjab in India. The..."
+        },
+        {
+            "v_name": "genrepurchase.bankatm.in",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"genrepurchase.bankatm.in\" is a company that appears to be involved in the banking an..."
+        },
+        {
+            "v_name": "punjab.gov.pk",
+            "Discovery Date": "2025-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The \"punjab.gov.pk\" is not a company. It's the official website of the Government of ..."
+        },
+        {
+            "v_name": "iptime.com",
+            "Discovery Date": "2025-01-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Iptime.com is a Korean-based company specializing in Internet solutions. It is a reno..."
+        },
+        {
+            "v_name": "navy-mil-bd",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "The Bangladesh Navy is the naval warfare branch of the Bangladesh Armed Forces, responsible for the ..."
+        },
+        {
+            "v_name": "ayswrewards.cow",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cu-barika.dz",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thecitybank.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] City Bank is one of the oldest private Commercial Banks operating in Bangladesh. It o..."
+        },
+        {
+            "v_name": "insta.com.pk",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Insta.com.pk is a Pakistani online shopping portal that offers a wide range of produc..."
+        },
+        {
+            "v_name": "aquamanaesp.gov.co",
+            "Discovery Date": "2025-01-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Aquamanaesp.gov.co\" appears to be a governmental entity involved in the management o..."
+        },
+        {
+            "v_name": "mts.gov.eg",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"mts.gov.eg\" is the website for the Ministry of Transport in Egypt, a government agen..."
+        },
+        {
+            "v_name": "barilga.gov.mn",
+            "Discovery Date": "2025-01-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Barilga.gov.mn is a Mongolian company that provides comprehensive information, suppor..."
+        },
+        {
+            "v_name": "bluai.ai",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Blu.ai is an AI-powered solutions provider that focuses on delivering intelligent aut..."
+        },
+        {
+            "v_name": "mymobileforms app",
+            "Discovery Date": "2025-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "MyMobileForms is an online platform that helps users create, manage, and deploy digital forms for co..."
+        },
+        {
+            "v_name": "kuzstu-nf.ru",
+            "Discovery Date": "2025-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "linxe.com",
+            "Discovery Date": "2025-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Linxe.com is an innovative platform that provides financial solutions aimed at consum..."
+        },
+        {
+            "v_name": "zapopan.gob.mx",
+            "Discovery Date": "2025-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Zapopan.gob.mx\" is the official website of the Municipality of Zapopan, a city locat..."
+        },
+        {
+            "v_name": "wissenhive.com",
+            "Discovery Date": "2025-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Wissenhive is an online education platform which offers individuals and organizations..."
+        },
+        {
+            "v_name": "seocommarrakech.com",
+            "Discovery Date": "2025-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Seocommarrakech.com is a company based in Marrakech, Morocco that provides search eng..."
+        },
+        {
+            "v_name": "gags.gov.eg",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mindev.gov.gr",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Mindev.gov.gr is the official website for the Ministry of Development and Investments..."
+        },
+        {
+            "v_name": "carc.gov.jo",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Carc.gov.jo is the website for the Civil Aviation Regulatory Commission (CARC) of Jor..."
+        },
+        {
+            "v_name": "ndceg.com",
+            "Discovery Date": "2025-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "senergy.net",
+            "Discovery Date": "2025-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Senergy.net is a leading provider of comprehensive renewable energy solutions. The co..."
+        },
+        {
+            "v_name": "ribernuez.com",
+            "Discovery Date": "2025-01-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bayan-ulgii.cfga.gov.mn",
+            "Discovery Date": "2025-01-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Bayan-Ulgii\" appears to refer to Bayan-Ölgii, a province in western Mongolia known f..."
+        },
+        {
+            "v_name": "gsw.co.in",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] GSW is an Indian company specializing in various engineering and manufacturing soluti..."
+        },
+        {
+            "v_name": "technotouch.co",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Certainly! Technotouch.co is a technology company specializing in innovative digital ..."
+        },
+        {
+            "v_name": "scps.mp.gov.in",
+            "Discovery Date": "2025-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The entity \"scps.mp.gov.in\" refers to the State Child Protection Society of Madhya Pr..."
+        },
+        {
+            "v_name": "moh.gov.vn",
+            "Discovery Date": "2024-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The website \"moh.gov.vn\" belongs to the Ministry of Health of Vietnam. This governmen..."
+        },
+        {
+            "v_name": "tsag-agaar.gov.mn",
+            "Discovery Date": "2024-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Tsag-agaar.gov.mn is the official website of the National Agency for Meteorology and ..."
+        },
+        {
+            "v_name": "maim.gov.my",
+            "Discovery Date": "2024-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] MAIM, or the Melaka Islamic Religious Council (Majlis Agama Islam Melaka), is a gover..."
+        },
+        {
+            "v_name": "banksulutgo",
+            "Discovery Date": "2024-12-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Bank SulutGo is a regional development bank in Indonesia, serving the North Sulawesi ..."
+        },
+        {
+            "v_name": "mof.gov.la",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The website \"mof.gov.la\" belongs to the Ministry of Finance of Laos. This government ..."
+        },
+        {
+            "v_name": "apexfootwearltd.com",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Apex Footwear Ltd. is a leading footwear manufacturer specializing in a wide range of..."
+        },
+        {
+            "v_name": "mofaga.gov.np",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The website \"mofaga.gov.np\" belongs to the Ministry of Federal Affairs and General Ad..."
+        },
+        {
+            "v_name": "moph.gov.lb",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The company \"moph.gov.lb\" refers to the Ministry of Public Health in Lebanon. It is a..."
+        },
+        {
+            "v_name": "dcd.gov.ae",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The company \"dcd.gov.ae\" refers to the General Directorate of Civil Defense in Abu Dh..."
+        },
+        {
+            "v_name": "bitnato.one",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] As of my last update, there isn't specific information available about a company name..."
+        },
+        {
+            "v_name": "equitiesnagain.com",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "deportesapalategui.com",
+            "Discovery Date": "2024-12-29",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Deportes Apalategui is a Spanish company specializing in sports equipment and apparel..."
+        },
+        {
+            "v_name": "asjp.cerist.dz",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The website \"asjp.cerist.dz\" is associated with the Algerian Scientific Journal Platf..."
+        },
+        {
+            "v_name": "nppvlxdthanhlong.com.vn",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Nppvlxdthanhlong.com.vn is a Vietnamese company specializing in the distribution of c..."
+        },
+        {
+            "v_name": "shoppingcentropioneer.com",
+            "Discovery Date": "2024-12-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "devoutdigital.com",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] DevoutDigital.com is a company specializing in digital marketing and web development ..."
+        },
+        {
+            "v_name": "netox.net",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "Videojet,Linx,Citronix.Markem İmaje 7x24 Teknik servis , Destek ve Garantili Sarf Malzeme..."
+        },
+        {
+            "v_name": "2sign.co.il",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] 2sign.co.il is a company specializing in digital signage solutions. They provide inno..."
+        },
+        {
+            "v_name": "itc.gov.ae with 1K !",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The company \"itc.gov.ae\" refers to the Integrated Transport Centre (ITC) in Abu Dhabi..."
+        },
+        {
+            "v_name": "egyptair.com 5 sell",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Certainly! \"EgyptAir\" is the flag carrier airline of Egypt, based in Cairo. It operat..."
+        },
+        {
+            "v_name": "asjp.cerist.dz sell",
+            "Discovery Date": "2024-12-24",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ASJP (Algerian Scientific Journal Platform) is a digital platform managed by CERIST (..."
+        },
+        {
+            "v_name": "egyptair.com 5 with 10K !",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Certainly! EgyptAir is the national airline of Egypt, headquartered in Cairo. Establi..."
+        },
+        {
+            "v_name": "kfar-yona.muni.il",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Kfar Yona is a municipality located in the Central District of Israel. It functions a..."
+        },
+        {
+            "v_name": "asiapacfish.org",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Asiapacfish.org is dedicated to sustainable fisheries and aquaculture in the Asia-Pac..."
+        },
+        {
+            "v_name": "10M israeli data for sell",
+            "Discovery Date": "2024-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, I can't assist with that request...."
+        },
+        {
+            "v_name": "visualsystemas.com.ar",
+            "Discovery Date": "2024-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Visual Sistemas is an Argentine company specializing in software development and tech..."
+        },
+        {
+            "v_name": "casarom.com.ar",
+            "Discovery Date": "2024-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Casarom.com.ar is an Argentine company specializing in home and garden products. It o..."
+        },
+        {
+            "v_name": "gtsportcarrental.com",
+            "Discovery Date": "2024-12-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Gtsportcarrental.com, a luxury car rental service, experienced a security breach, com..."
+        },
+        {
+            "v_name": "news.gdi.gov.kh",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The company \"news.gdi.gov.kh\" appears to be associated with a government news portal ..."
+        },
+        {
+            "v_name": "fusioncharts.com",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] FusionCharts is a company specializing in data visualization solutions. It offers a w..."
+        },
+        {
+            "v_name": "carsbeat.com",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Carsbeat.com is an online platform dedicated to automotive enthusiasts and consumers,..."
+        },
+        {
+            "v_name": "ndc.energy.mn",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ndc.energy.mn is a company focused on renewable energy solutions and sustainable deve..."
+        },
+        {
+            "v_name": "HostingExpress.com.mx",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] HostingExpress.com.mx is a Mexican web hosting company that specializes in providing ..."
+        },
+        {
+            "v_name": "sklepbaterie.pl",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Sklepbaterie.pl is a Polish company specializing in the sale of batteries and related..."
+        },
+        {
+            "v_name": "agti.eng.br",
+            "Discovery Date": "2024-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] AGTI Engenharia is a Brazilian company specializing in engineering solutions. They fo..."
+        },
+        {
+            "v_name": "web.vaips.cl",
+            "Discovery Date": "2024-12-19",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find specific information about a company named \"web.vaips...."
+        },
+        {
+            "v_name": "chixking.ca",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] ChixKing is a Canadian company specializing in serving a variety of chicken-based dis..."
+        },
+        {
+            "v_name": "flybase.org",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] FlyBase is a comprehensive database for information on the genetics and molecular bio..."
+        },
+        {
+            "v_name": "Nathan American Academy",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Nathan American Academy is an educational institution that focuses on providing a com..."
+        },
+        {
+            "v_name": "robertfinaleeditions",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Certainly! \"robertfinaleeditions\" is a boutique publishing company specializing in li..."
+        },
+        {
+            "v_name": "seaislerealty.com",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Seaislerealty.com is a real estate company specializing in properties located in Sea ..."
+        },
+        {
+            "v_name": "abd-ong.org",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ibram.org.br",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Ibram.org.br is the online presence of the Brazilian Mining Institute (Instituto Bras..."
+        },
+        {
+            "v_name": "dinamalar.com",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Dinamalar is a prominent Tamil-language daily newspaper in India, known for its compr..."
+        },
+        {
+            "v_name": "rtdc.gov.mn",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] RTDC.gov.mn is the official website for the Research and Training Development Center ..."
+        },
+        {
+            "v_name": "pbos.gov.pk",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The website \"pbos.gov.pk\" belongs to the Punjab Bureau of Statistics, a governmental ..."
+        },
+        {
+            "v_name": "akobdc.com",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find any specific information about a company named \"akobdc..."
+        },
+        {
+            "v_name": "indianaerospaceand",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Indiana Aerospace and Defense is a company focused on providing advanced solutions in..."
+        },
+        {
+            "v_name": "arkajainuniver",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Arka Jain University is a private educational institution located in Jharkhand, India..."
+        },
+        {
+            "v_name": "gstpam.org",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find any specific information about a company or organizati..."
+        },
+        {
+            "v_name": "rangiamb.org.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find any specific information about a company or organizati..."
+        },
+        {
+            "v_name": "pathsalatc.org.in",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I apologize, but I couldn't find any specific information about \"pathsalatc.org.in.\" ..."
+        },
+        {
+            "v_name": "ekitistate.gov.ng",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Ekitistate.gov.ng\" is the official website for the government of Ekiti State, Nigeri..."
+        },
+        {
+            "v_name": "zetech.ac.ke",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Zetech University, based in Kenya, is a leading private university known for its comm..."
+        },
+        {
+            "v_name": "maxprofit.mcode.me",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] MaxProfit is a company focused on providing innovative financial solutions and tools ..."
+        },
+        {
+            "v_name": "skopje.gov.mk",
+            "Discovery Date": "2024-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] \"Skopje.gov.mk\" is the official website for the City of Skopje, the capital of North ..."
+        },
+        {
+            "v_name": "lamundialdeseguros",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] La Mundial de Seguros is an insurance company that specializes in providing a wide ra..."
+        },
+        {
+            "v_name": "bee-insurance.com",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Bee-insurance.com is a company specializing in providing a range of insurance product..."
+        },
+        {
+            "v_name": "lamundialdeseguros.com",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] La Mundial de Seguros is an insurance company that offers a variety of insurance prod..."
+        },
+        {
+            "v_name": "fuse.io",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Fuse.io is a blockchain-based platform designed to empower entrepreneurs and communit..."
+        },
+        {
+            "v_name": "lakhipurmb.org.in",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I can't provide detailed information about \"lakhipurmb.org.in\" as it a..."
+        },
+        {
+            "v_name": "quiztarget.com",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] QuizTarget.com is a platform designed to help businesses and marketers create engagin..."
+        },
+        {
+            "v_name": "mandiricoal.net",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find any specific information about a company named \"mandir..."
+        },
+        {
+            "v_name": "dealplexus.com",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Dealplexus.com is a platform that connects professionals in the healthcare and life s..."
+        },
+        {
+            "v_name": "singularanalysts.com",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Singular Analysts is a data analytics company specializing in providing advanced anal..."
+        },
+        {
+            "v_name": "gervetusa.com",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Gervetusa.com is a company specializing in veterinary medical equipment and supplies...."
+        },
+        {
+            "v_name": "fpsc-anz.com",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find any specific information on a company with the name \"f..."
+        },
+        {
+            "v_name": "www.appicgarage.com",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "wacer.com.au",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "thebetareview.com",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "senseis.xmp.net",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fpsc-anz.com Breach",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "kurosu.com.py",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Kurosu S.A. is a prominent company in Paraguay, specializing in the automotive indust..."
+        },
+        {
+            "v_name": "workers.com.zm",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] I'm sorry, but I couldn't find detailed information about a company specifically name..."
+        },
+        {
+            "v_name": "workers.com.zm Breach",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The \"workers.com.zm Breach\" refers to a data security incident involving the Zambian ..."
+        },
+        {
+            "v_name": "kurosu.com.py Breach",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The \"kurosu.com.py Breach\" refers to a security incident involving Kurosu, a company ..."
+        },
+        {
+            "v_name": "gervetusa.com Breach",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The \"gervetusa.com Breach\" refers to a data breach incident involving the company Ger..."
+        },
+        {
+            "v_name": "singularanalysts.com Breach",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] In September 2023, Singular Analysts, a data analytics firm, suffered a security brea..."
+        },
+        {
+            "v_name": "precisediagnosticspacs",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sincorpe.org.br",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Sincorpe.org.br represents SINCOR-PE, the Insurance Brokers' Union of Pernambuco in B..."
+        },
+        {
+            "v_name": "pti.agency",
+            "Discovery Date": "2024-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] PTI Agency is a company that specializes in providing creative and strategic marketin..."
+        },
+        {
+            "v_name": "spdyn.de technology",
+            "Discovery Date": "2024-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Spdyn.de Technology is a company that offers dynamic DNS services, which allow users ..."
+        },
+        {
+            "v_name": "ncfe.org.in",
+            "Discovery Date": "2024-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] NCFE, or the National Centre for Financial Education, is an organization based in Ind..."
+        },
+        {
+            "v_name": "uniamarmores",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Uniamarmores is a company specializing in the extraction, processing, and distributio..."
+        },
+        {
+            "v_name": "zero5",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Zero5 is a technology company specializing in innovative solutions for digital transf..."
+        },
+        {
+            "v_name": "FunkLocker",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] FunkLocker is a dynamic company specializing in innovative storage solutions, blendin..."
+        },
+        {
+            "v_name": "ayswrewards",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] As of my last update, there is no widely recognized company named \"ayswrewards.\" It's..."
+        },
+        {
+            "v_name": "mtgazeta.uz",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] MTGazeta.uz is a company based in Uzbekistan that focuses on providing news and infor..."
+        },
+        {
+            "v_name": "ctsjo.com",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] CTSJO.com is the online presence of CTS Costa Rica, a company specializing in IT serv..."
+        },
+        {
+            "v_name": "edizionidottrinari",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Edizionidottrinari is a publishing company known for its focus on producing education..."
+        },
+        {
+            "v_name": "altuslab",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] AltusLab is a technology company specializing in advanced data analytics and artifici..."
+        },
+        {
+            "v_name": "uniaomarmores",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] União Mármores is a company specializing in the extraction, processing, and distribut..."
+        },
+        {
+            "v_name": "kingdom",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "The website kingdom.com is an online platform that caters to the needs of churches, ministries, and ..."
+        },
+        {
+            "v_name": "albazaar",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Albazaar is a company known for its innovative approach to e-commerce, specializing i..."
+        },
+        {
+            "v_name": "rscn.org.jo",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The Royal Society for the Conservation of Nature (RSCN) in Jordan is a non-profit org..."
+        },
+        {
+            "v_name": "verificativa",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Verificativa is a company specializing in providing detailed business intelligence an..."
+        },
+        {
+            "v_name": "intbizth",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "IntBizTH เราคือผู้นำในด้านการให้บริการ IT ครบวงจร โดยให้บริการลูกค้าทั้งภาครัฐและเอกชนชั้นนำกว่า 50 ..."
+        },
+        {
+            "v_name": "xui.one",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] XUI.one is a company that specializes in creating user interface (UI) solutions and t..."
+        },
+        {
+            "v_name": "x-cart automotive",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] X-Cart Automotive is a company that specializes in providing e-commerce solutions spe..."
+        },
+        {
+            "v_name": "IFA Paris",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] IFA Paris is a renowned fashion school that offers a blend of French fashion heritage..."
+        },
+        {
+            "v_name": "styched",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Styched is a fashion and apparel company focused on delivering trendy and affordable ..."
+        },
+        {
+            "v_name": "Smart-it-partner",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Smart-it-partner is a technology company specializing in IT solutions and consulting ..."
+        },
+        {
+            "v_name": "USA Network",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] USA Network is a prominent American cable television channel founded in 1977. Known f..."
+        },
+        {
+            "v_name": "Zero 5",
+            "Discovery Date": "2024-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

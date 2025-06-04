@@ -1,0 +1,181 @@
+{
+    "group_name": [
+        "Doppelpaymer"
+    ],
+    "group_description": "Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: \".how2decrypt.txt\".",
+    "Victims count": 24,
+    "First discovered victims": "2019-05-25",
+    "Last discovered victim": "2021-04-10",
+    "Avg Delay": "N/A",
+    "Infostealer": "100.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Government Facilities": 10,
+                    "Critical Manufacturing": 8,
+                    "Communication": 2,
+                    "Food and Agriculture": 1,
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 15,
+                    "France": 3,
+                    "Chile": 1,
+                    "Canada": 1,
+                    "Mexico": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Office of the Attorney General",
+            "Discovery Date": "2021-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Azusa police department",
+            "Discovery Date": "2021-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Manutan",
+            "Discovery Date": "2021-02-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kia Motors America (KMA)",
+            "Discovery Date": "2021-02-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cuyahoga Metropolitan Housing Authority",
+            "Discovery Date": "2021-02-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Foxconn",
+            "Discovery Date": "2020-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Delaware County",
+            "Discovery Date": "2020-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Compal",
+            "Discovery Date": "2020-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Banijay Group SAS",
+            "Discovery Date": "2020-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Chatham County Government",
+            "Discovery Date": "2020-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hall County",
+            "Discovery Date": "2020-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Newcastle University",
+            "Discovery Date": "2020-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "4 Canadian courier divisions of TFI International's Canpar Express",
+            "Discovery Date": "2020-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Boyce Technologies (device manufacturer- transit communication systems and now ventilators b/c of COVID-19)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Knoxville PD and City of Knoxville, TN (Knox County)",
+            "Discovery Date": "2020-06-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Florence, Alabama",
+            "Discovery Date": "2020-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Digital Management Inc. (NASA Contractor)",
+            "Discovery Date": "2020-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mitsubishi",
+            "Discovery Date": "2020-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kimchuk",
+            "Discovery Date": "2020-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Torrance (Los Angeles County)",
+            "Discovery Date": "2020-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Visser Precision",
+            "Discovery Date": "2020-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bretagne Telecom",
+            "Discovery Date": "2020-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Chilean Ministry of Agriculture",
+            "Discovery Date": "2019-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Edcouch",
+            "Discovery Date": "2019-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

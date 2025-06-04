@@ -1,0 +1,121 @@
+{
+    "group_name": [
+        "Sparta"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 16,
+    "First discovered victims": "2022-09-13",
+    "Last discovered victim": "2022-09-22",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "GRUPO COPISA",
+            "Discovery Date": "2022-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MR. WONDERFUL",
+            "Discovery Date": "2022-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AUTO88",
+            "Discovery Date": "2022-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FONT PACKAGING",
+            "Discovery Date": "2022-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gallery Hotels",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Auto88",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Font Packaging",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ferrer&Ojeda",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tema Litoclean Group",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grupo Galilea",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FundaciÃ³ Sant Francesc d'AssÃ­s",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "INDIBA",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "RIVISA",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "RABAT",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "COMSA CORPORATION",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SERCOM",
+            "Discovery Date": "2022-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "group_name": [
+        "Blackout"
+    ],
+    "group_description": "None",
+    "Victims count": 9,
+    "First discovered victims": "2024-02-26",
+    "Last discovered victim": "2024-12-10",
+    "Avg Delay": "3 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 2,
+                    "Business Services": 2,
+                    "Manufacturing": 1,
+                    "Hospitality and Tourism": 1,
+                    "Government": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "France": 2,
+                    "Greece": 2,
+                    "Canada": 1,
+                    "Germany": 1,
+                    "Croatia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "nedamaritime.gr",
+            "Discovery Date": "2024-12-10",
+            "Estimated Attack Date": "",
+            "v_description": "Neda Maritime is an independent shipping company that manages and operate......"
+        },
+        {
+            "v_name": "cdc-biodiversite.fr",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-26",
+            "v_description": "CDC Biodiversité is a French environmental protection company making tens......"
+        },
+        {
+            "v_name": "antaeustravel.com",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "Antaeus Travel is a travel agency specializing in corporate and sea trave......"
+        },
+        {
+            "v_name": "luzan5.com",
+            "Discovery Date": "2024-07-14",
+            "Estimated Attack Date": "",
+            "v_description": "luzan5.com is a small company in the healthcare consulting field, perhaps......"
+        },
+        {
+            "v_name": "badel1862.hr",
+            "Discovery Date": "2024-07-03",
+            "Estimated Attack Date": "",
+            "v_description": "Badel 1862 is an alcoholic beverage manufacturer from Croatia and at the ......"
+        },
+        {
+            "v_name": "mcmtelecom.com",
+            "Discovery Date": "2024-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "We carried out an attack on mcmtelecom.com, a b2b telecommunications prov......"
+        },
+        {
+            "v_name": "ht-hospitaltechnik.de",
+            "Discovery Date": "2024-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Why don't medical companies pay us? As usual we got into the network ht-h......"
+        },
+        {
+            "v_name": "ch-armentieres.fr",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "First post on our new blog ! We encrypted 100+ servers and workstations ......"
+        },
+        {
+            "v_name": "metal7.com",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "This time we dug into the network of metal7.com, a company that manufactu......"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "group_name": [
+        "Orca"
+    ],
+    "group_description": "None",
+    "Victims count": 4,
+    "First discovered victims": "2024-09-16",
+    "Last discovered victim": "2025-05-07",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Manufacturing": 1,
+                    "Transportation/Logistics": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Tunisia": 1,
+                    "China": 1,
+                    "Colombia": 1,
+                    "Austria": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Transport Lutztulln",
+            "Discovery Date": "2025-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "​Lutz GmbH, operating under the name Transport Lutz Tulln, is a privately held......"
+        },
+        {
+            "v_name": "Transtec SAS",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "Transtec SAS is a company that operates in the Commercial Printing industry.Addi......"
+        },
+        {
+            "v_name": "Chernan Technology",
+            "Discovery Date": "2024-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "Chernan Technology Co. Ltd. was founded on April 10th, 1984, as a subsidiary of ......"
+        },
+        {
+            "v_name": "ExcelPlast Tunisie",
+            "Discovery Date": "2024-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "Company product portfolio covers PP and Polyester plastic sheeting with a good r......"
+        }
+    ]
+}

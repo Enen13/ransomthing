@@ -1,0 +1,13 @@
+{
+    "group_name": [
+        "Prometheus"
+    ],
+    "group_description": "Ransomware written in .NET, apparently derived from the codebase of win.hakbit (Thanos) ransomware.",
+    "Victims count": "",
+    "First discovered victims": "",
+    "Last discovered victim": "",
+    "Avg Delay": "",
+    "Infostealer": "",
+    "Target": [],
+    "victims": []
+}

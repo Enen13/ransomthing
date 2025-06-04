@@ -1,0 +1,90 @@
+{
+    "group_name": [
+        "Kraken"
+    ],
+    "group_description": "None",
+    "Victims count": 9,
+    "First discovered victims": "2025-02-09",
+    "Last discovered victim": "2025-05-12",
+    "Avg Delay": "291 days",
+    "Infostealer": "12.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 3,
+                    "Telecommunication": 1,
+                    "Hospitality and Tourism": 1,
+                    "Business Services": 1,
+                    "Consumer Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 5,
+                    "Poland": 1,
+                    "Italy": 1,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.circul-aire.com, www.dectron.com",
+            "Discovery Date": "2025-05-12",
+            "Estimated Attack Date": "",
+            "v_description": "Leaked ~80GB\n\nhttp://[redacted].onion/......"
+        },
+        {
+            "v_name": "www.kvhealth.net",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "Leak in progress...\n\nhttp://vmnnrqf3gs3kl2kfnxatughwmnlyq6qxzyx24ylyh2w36vw3gqwqjpqd.onion/......"
+        },
+        {
+            "v_name": "www.selt-sistemi.com",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "The first part of leak\n\nhttp://t3uouzfvsaqurb2rzoe2mkpetp54d7lgtl45ply34v5lugsnzysmkhid.onion/......"
+        },
+        {
+            "v_name": "Kitty cookies",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQp NSUlFb3dJQkFBS0NBUUVBNENoODBXOTFVc09raE9jSDNxVjJ6e TZlUG..."
+        },
+        {
+            "v_name": "www.cisco.com",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "2024-04-24",
+            "v_description": "You lied to us and play for time to kick us out.\n\nWe will meet you soon, again. Next time you'll hav..."
+        },
+        {
+            "v_name": "www.cdprojekt.com",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "How you doin?\n\nI just remembered some passwords... do you have it? ah, whatever... just leave it her..."
+        },
+        {
+            "v_name": "www.mgl.law",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "We are preparing data for publishing\n\nhttp://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wema..."
+        },
+        {
+            "v_name": "www.fudpucker.com",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "http://krakenccj3wr23452a4ibkbkuph4d6soyx2xgjoogtuamc3m7u7wemad.onion/leaks/97be2c2200a124696f41a81f..."
+        },
+        {
+            "v_name": "ctntelco.com",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "The auction is opened, the first part of leak will be sold or published.\n\nContact to support for det..."
+        }
+    ]
+}

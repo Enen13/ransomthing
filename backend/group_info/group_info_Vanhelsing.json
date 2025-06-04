@@ -1,0 +1,85 @@
+{
+    "group_name": [
+        "Vanhelsing"
+    ],
+    "group_description": "None",
+    "Victims count": 8,
+    "First discovered victims": "2025-03-17",
+    "Last discovered victim": "2025-04-05",
+    "Avg Delay": "5 days",
+    "Infostealer": "14.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 2,
+                    "Healthcare": 2,
+                    "Public Sector": 1,
+                    "Business Services": 1,
+                    "Financial Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3,
+                    "France": 1,
+                    "Italy": 1,
+                    "Australia": 1,
+                    "Chile": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "caschile.cl",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "CAS–CHILE® is a company with 30 years of experience in the Information Technology market, dedicated ..."
+        },
+        {
+            "v_name": "attorneykohm.com",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "Attorney David KohmOffices throughout the Dallas Fort Worth AreaThe Law Offices of David Kohm have p..."
+        },
+        {
+            "v_name": "alertenterprise.com",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "At the core of our mission is the seamless convergence of advanced physical access control, identity..."
+        },
+        {
+            "v_name": "compumedics.com.au AND neuromedicalsupplies.com",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "A global leader in the development, manufacture and commercialisation of diagnostic technologies for..."
+        },
+        {
+            "v_name": "studiocdlvallone.it",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "We put commitment, curiosity, passion, optimism into our work every day, with a single important goa..."
+        },
+        {
+            "v_name": "www.medsrx.com",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "In a world where technology makes everything easier, the old school pharmacy experience is still har..."
+        },
+        {
+            "v_name": "Atos-racks.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "ATOS designs, develops and manufactures in France enclosure products for the electronics industry: c..."
+        },
+        {
+            "v_name": "www.cityofbellville.com",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "2025-03-12",
+            "v_description": "Bellville is a city in and the county seat of Austin County, Texas, in the southeastern part of the ..."
+        }
+    ]
+}

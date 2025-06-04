@@ -1,0 +1,90 @@
+{
+    "group_name": [
+        "Mogilevich"
+    ],
+    "group_description": "None",
+    "Victims count": 9,
+    "First discovered victims": "2024-02-20",
+    "Last discovered victim": "2024-03-02",
+    "Avg Delay": "4 days",
+    "Infostealer": "66.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 5,
+                    "Government": 2,
+                    "Transportation/Logistics": 1,
+                    "Business Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 4,
+                    "Ireland": 1,
+                    "Bangladesh": 1,
+                    "Singapore": 1,
+                    "Australia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "EpicGames 189GB leaked for you",
+            "Discovery Date": "2024-03-02",
+            "Estimated Attack Date": "2024-02-27",
+            "v_description": "Revenue: $5.8B GROSS REVENUE We have quietly carried out an attack to EpicGames' servers Category: ..."
+        },
+        {
+            "v_name": "DJI Company",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue: $21B 2022 We successfully breached DJI's system Category: World's largest drone maker Data..."
+        },
+        {
+            "v_name": "Kick",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully breached kick's system Category: video livestreaming Data compromised:streamers/use..."
+        },
+        {
+            "v_name": "Shein",
+            "Discovery Date": "2024-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "Revenue: +$30B We successfully fucked shein's servers Category: child labour Data compromised:custo..."
+        },
+        {
+            "v_name": "Bangladesh Police",
+            "Discovery Date": "2024-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully breached Bangladesh Police Category: Bangladesh police Data compromised:a lot of in..."
+        },
+        {
+            "v_name": "Ireland's Department of Foreign Affairs",
+            "Discovery Date": "2024-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully breached Ireland's Department of Foreign Affairs Category: Foreign Affairs Data com..."
+        },
+        {
+            "v_name": "EpicGames",
+            "Discovery Date": "2024-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "We have quietly carried out an attack to EpicGames' servers Category: Video game publisher & Softwar..."
+        },
+        {
+            "v_name": "BAZAARVOICE.COM",
+            "Discovery Date": "2024-02-26",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully pwned Bazaarvoice's servers. Category: Business Intelligence, Development & Design S..."
+        },
+        {
+            "v_name": "INFINITIUSA.COM",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully breached InfinitiUSA's system. Category: Motor Vehicle Manufacturing, Motor Vehicles..."
+        }
+    ]
+}

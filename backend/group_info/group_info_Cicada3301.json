@@ -1,0 +1,433 @@
+{
+    "group_name": [
+        "Cicada3301"
+    ],
+    "group_description": "None",
+    "Victims count": 66,
+    "First discovered victims": "2024-06-20",
+    "Last discovered victim": "2025-04-22",
+    "Avg Delay": "7.2 days",
+    "Infostealer": "4.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 18,
+                    "Technology": 8,
+                    "Manufacturing": 7,
+                    "Financial": 5,
+                    "Hospitality and Tourism": 5
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 32,
+                    "United Kingdom": 6,
+                    "Canada": 4,
+                    "Singapore": 3,
+                    "Japan": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Asesoría Bieito",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 32d 1h 58m 12s - Size Data: 121 GB..."
+        },
+        {
+            "v_name": "Natilait",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 23h 57m 34s - Size Data: 280 GB..."
+        },
+        {
+            "v_name": "Amazon Transportes",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 23h 57m 18s - Size Data: 149 GB..."
+        },
+        {
+            "v_name": "Správa služeb hlavního města Prahy",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "Status: 29d 13h 39m 0s - Size Data: 200 GB..."
+        },
+        {
+            "v_name": "Eagle Distilleries",
+            "Discovery Date": "2025-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 20h 8m 34s - Size Data: 50 GB..."
+        },
+        {
+            "v_name": "I.A.T.S.E. Local 667/669",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 22m 31s - Size Data: 125 GB..."
+        },
+        {
+            "v_name": "MinebeaMitsumi Inc",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 20d 19h 5m 16s - Size Data: 3.2 TB..."
+        },
+        {
+            "v_name": "Benjamin Consulting Services",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 23h 13m 26s - Size Data: 25 GB..."
+        },
+        {
+            "v_name": "Executive Agenda",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-24",
+            "v_description": "Status: 29d 22h 19m 26s - Size Data: 10 GB..."
+        },
+        {
+            "v_name": "Birdsall Muller LLC",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-24",
+            "v_description": "Status: 29d 22h 26m 19s - Size Data: 60 GB..."
+        },
+        {
+            "v_name": "Johnson's Nursery",
+            "Discovery Date": "2025-02-24",
+            "Estimated Attack Date": "2025-02-23",
+            "v_description": "Status: 30d 0h 5m 50s - Size Data: 20 GB..."
+        },
+        {
+            "v_name": "Digital Technology Co., Ltd.",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 29m 25s - Size Data: 150 GB..."
+        },
+        {
+            "v_name": "Goldstein Law Group, S.C.",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 37m 9s - Size Data: 60 GB..."
+        },
+        {
+            "v_name": "Northern Management",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 41m 38s - Size Data: 50 GB..."
+        },
+        {
+            "v_name": "The Northwestern Illinois Association",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 48m 30s - Size Data: 50 GB..."
+        },
+        {
+            "v_name": "Substitute Teacher Service",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "Status: 6d 1h 50m 24s - Size Data: 210 GB..."
+        },
+        {
+            "v_name": "SSMC",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 9d 21h 11m 34s - Size Data: 1.158 TB..."
+        },
+        {
+            "v_name": "Rivers Casino and Rush Street Gaming",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 11d 21h 12m 26s - Size Data: 2.561 TB..."
+        },
+        {
+            "v_name": "Asterra Properties",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 10d 21h 12m 53s - Size Data: 131 GB..."
+        },
+        {
+            "v_name": "Caliente Construction",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 11d 21h 13m 28s - Size Data: 4.164 TB..."
+        },
+        {
+            "v_name": "ISOR",
+            "Discovery Date": "2025-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 22h 21m 59s - Size Data: 1600 GB..."
+        },
+        {
+            "v_name": "Frameworks",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Status: 29d 23h 17m 13s - Size Data: 150 GB..."
+        },
+        {
+            "v_name": "CK Technology Group",
+            "Discovery Date": "2024-12-19",
+            "Estimated Attack Date": "2024-12-08",
+            "v_description": "Status: 3d 6h 35m 32s - Size Data: 350 GB..."
+        },
+        {
+            "v_name": "Concession Peugeot",
+            "Discovery Date": "2024-12-19",
+            "Estimated Attack Date": "2024-12-15",
+            "v_description": "Status: 17d 15h 22m 26s - Size Data: 35 GB..."
+        },
+        {
+            "v_name": "Centrillion Technologies",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  In situ synthesized DN..."
+        },
+        {
+            "v_name": "T-Space",
+            "Discovery Date": "2024-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  The expertise at T-Spa..."
+        },
+        {
+            "v_name": "INDIBA Group",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-05",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  INDIBA Group, based in..."
+        },
+        {
+            "v_name": "Dubin Group",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  The Dubin Group is one..."
+        },
+        {
+            "v_name": "RDC Control Ltd",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  RDC Control is a North..."
+        },
+        {
+            "v_name": "Racing Forensics Inc",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  Racing Forensics helps..."
+        },
+        {
+            "v_name": "Luxwood Software Tools",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "2024-10-17",
+            "v_description": "!!! IF THE COMPANY DOES NOT CONTACT US SOON, THE DATA WILL BE PUBLISHED !!!!  Luxwood has been provi..."
+        },
+        {
+            "v_name": "Conductive Containers, Inc",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "2024-10-03",
+            "v_description": "The data will be released soon if the company doesn't contact us.  We offered Corstat, Corstat and m..."
+        },
+        {
+            "v_name": "Bayou DeSiard Country Club",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "2024-09-05",
+            "v_description": "Downloads: http://cicadacnft7gcgnveb7wjm6pjpjcjcsugogmlrat7u7pcel3iwb7bhyd.onion/BDCC-dataleak..."
+        },
+        {
+            "v_name": "Bogdan Frasco, LLP",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "2024-09-15",
+            "v_description": "We offer a wide range of tax and accounting services focusing on small and medium-sized business cli..."
+        },
+        {
+            "v_name": "John W. Brooker Co., CPAs",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "2024-09-15",
+            "v_description": "Financial success is best achieved when the financial advisors know your business, your goals, and y..."
+        },
+        {
+            "v_name": "Hughes Gill Cochrane Tinetti",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in Walnut Creek, HGCT is a California law firm, with Bay Area roots, and strong local ..."
+        },
+        {
+            "v_name": "Crown Mortgage Company",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "Crown Mortgage Company, located in Oak Lawn, IL, is a local Chicago mortgage lender serving Chicagol..."
+        },
+        {
+            "v_name": "Model Engineering",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "2024-09-23",
+            "v_description": "Founded in 1972, Model is a dynamic group of Architects and Engineers driven by a bold mission: to c..."
+        },
+        {
+            "v_name": "Capital Printing",
+            "Discovery Date": "2024-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "If the company does not contact us by 09.22.24 18:00 UTC, the data will be published!  Capital Print..."
+        },
+        {
+            "v_name": "株式会社ミヤキ",
+            "Discovery Date": "2024-09-09",
+            "Estimated Attack Date": "2024-09-06",
+            "v_description": "Manufacturing of \"Kashima Coat®\", a unique technology in the world; Also compatible with difficult-t..."
+        },
+        {
+            "v_name": "Bogdan & Frasco, LLP",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Welcome and thank you for visiting Bogdan & Frasco, LLP.  We offer a wide range of tax and accountin..."
+        },
+        {
+            "v_name": "BLVD Residential INC",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "BLVD Residential is a full service, owner focused, property and asset management company.  The compa..."
+        },
+        {
+            "v_name": "John W. Brooker & Co., CPAs",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Financial success is best achieved when the financial advisors know your business, your goals, and y..."
+        },
+        {
+            "v_name": "Khoo and Company, Inc",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "2024-07-24",
+            "v_description": "We are a small but qualified and experienced team of professionals that work very closely together t..."
+        },
+        {
+            "v_name": "christen-sanitaer.ch",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-17",
+            "v_description": "Wir sind für Sie da... - Service / Reparaturen - Neubauten und Umbauten - Badgestalung - Gebäudetech..."
+        },
+        {
+            "v_name": "Bayou DeSiard Country Club - Monroe, LA",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "2024-08-18",
+            "v_description": "We are located along the beautiful Bayou DeSiard in Monroe, Louisiana. Bayou DeSiard Country Club ha..."
+        },
+        {
+            "v_name": "Hofmann Malerei AG",
+            "Discovery Date": "2024-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "Areas of specialization: General painting, specialty techniques, monument preservation and color con..."
+        },
+        {
+            "v_name": "Chama Gaucha",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "2024-08-02",
+            "v_description": "Chama Gaucha quickly gained recognition for its commitment to culinary excellence and impeccable ser..."
+        },
+        {
+            "v_name": "UFCW Local 135",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "UFCW International Members of UFCW Local 135 have the backing of more than 1.3 million fellow member..."
+        },
+        {
+            "v_name": "EBA Ernest Bland Associates",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "EBA Ernest Bland Associates, P.C. is a small business with experience in many areas of the design an..."
+        },
+        {
+            "v_name": "Findel",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Findel is an eCommerce educational resources supplier in the UK and international schools and nurser..."
+        },
+        {
+            "v_name": "Riley Pope & Laney",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "Riley Pope & Laney was founded in 2001 by Ted Riley, Lowndes Pope and Roy Laney. Since its founding,..."
+        },
+        {
+            "v_name": "VVS-Eksperten",
+            "Discovery Date": "2024-08-12",
+            "Estimated Attack Date": "",
+            "v_description": "At VVS-Eksperten, we deliver solid quality products and we are always up to date on the latest produ..."
+        },
+        {
+            "v_name": "Silipos",
+            "Discovery Date": "2024-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1989, Silipos is the global leader in gel technology across a wide range of industries in..."
+        },
+        {
+            "v_name": "Square One Coating Systems",
+            "Discovery Date": "2024-08-05",
+            "Estimated Attack Date": "2024-08-03",
+            "v_description": "Downloaded all your company's customer information and part of your financial data.  If companies do..."
+        },
+        {
+            "v_name": "Valley Bulk",
+            "Discovery Date": "2024-08-02",
+            "Estimated Attack Date": "2024-07-25",
+            "v_description": "Valley Bulk was founded in August of 1995 by the Golson family. At that time, our small company star..."
+        },
+        {
+            "v_name": "D&K Group, Inc.",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "D&K Group, Inc. is a leading US manufacturer of quality print finishing solutions. All D&K products ..."
+        },
+        {
+            "v_name": "Voss Belting & Specialty",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "Voss Belting and Specialty Company is a specialty belt house providing quality solutions for flat co..."
+        },
+        {
+            "v_name": "Tri-Star Display",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "Tri-Star Display Pte Ltd is a company that operates in the Advertising & Marketing industry. It empl..."
+        },
+        {
+            "v_name": "NARSTCO",
+            "Discovery Date": "2024-07-25",
+            "Estimated Attack Date": "",
+            "v_description": "NARSTCO is North America's leading manufacturer and supplier of Steel Railroad Ties and Turnouts. NA..."
+        },
+        {
+            "v_name": "Leech Lake Gaming",
+            "Discovery Date": "2024-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "Leech Lake Gaming is located on the Leech Lake Reservation in Minnesota. They currently operate thre..."
+        },
+        {
+            "v_name": "GroupePRO-B",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1998, PRO-B Group specializes in the design, fabrication, installation, maintenance a..."
+        },
+        {
+            "v_name": "Basement Systems",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-18",
+            "v_description": "Basement Systems Inc., based in Seymour, Connecticut, is a network of basement waterproofing and cra..."
+        },
+        {
+            "v_name": "ASST Rhodense",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-04",
+            "v_description": "The ASST Rhodense, belonging to the ATS of the Metropolitan City of Milan, encompasses the territory..."
+        },
+        {
+            "v_name": "Maintel",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-19",
+            "v_description": "Maintel is a provider of managed cloud communications services for the private and public sectors. T..."
+        },
+        {
+            "v_name": "Access Group",
+            "Discovery Date": "2024-06-20",
+            "Estimated Attack Date": "2024-06-19",
+            "v_description": "The Access Group is headquartered in Leicestershire, United Kingdom, a provider of business software..."
+        }
+    ]
+}

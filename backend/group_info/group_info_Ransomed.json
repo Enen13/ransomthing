@@ -1,0 +1,439 @@
+{
+    "group_name": [
+        "Ransomed"
+    ],
+    "group_description": "None",
+    "Victims count": 68,
+    "First discovered victims": "2023-08-21",
+    "Last discovered victim": "2023-10-30",
+    "Avg Delay": "2.1 days",
+    "Infostealer": "2.1%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Japan": 3,
+                    "Brazil": 3,
+                    "Bulgaria": 1,
+                    "United Kingdom": 1,
+                    "Australia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "RANSOMEDVC is for sale",
+            "Discovery Date": "2023-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "I do not want to continue being monitored by federal agencies and i would wish to sell the project t..."
+        },
+        {
+            "v_name": "Ransomedvc Launches A forum",
+            "Discovery Date": "2023-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "Visit us: http://g6ocfx3bb3pvdfawbgrbt3fqoht5t6dwc3hfmmueo76hz46qepidnxid.onion..."
+        },
+        {
+            "v_name": "We Hire Pentesters(5BTC Payout)",
+            "Discovery Date": "2023-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "@RansomedSupport on telegram to join Ransomed.vc is in need of only advanced pentesters, our jobs ar..."
+        },
+        {
+            "v_name": "Ransomedvc Pentest Services!",
+            "Discovery Date": "2023-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "Ransomedvc now offers pentesting services! share your targets with us on @RansomedSupport on telegra..."
+        },
+        {
+            "v_name": "RE : Clarification",
+            "Discovery Date": "2023-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "Third-party involvement in the editing of the last 2 posts cannot be more obvious, considering the E..."
+        },
+        {
+            "v_name": "Rob Lee Evidence : Sneak Peek",
+            "Discovery Date": "2023-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "Note : Threat actor Rob Lee has failed to cooperate with the demands made by us, including an admiss..."
+        },
+        {
+            "v_name": "Colonial Pipeline Company",
+            "Discovery Date": "2023-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "Threat actors – they hide amongst us. It is becoming increasingly difficult to differentiate these b..."
+        },
+        {
+            "v_name": "Accenture Breach Evidence & Debunking Rob Lee’s Lies",
+            "Discovery Date": "2023-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "How ironic! Rob Lee, the outed threat actor, working under the guise of a seasoned cyber-security pr..."
+        },
+        {
+            "v_name": "webpag.com.br database leaked",
+            "Discovery Date": "2023-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Metroclub.org",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "We successfully extracted the entire content of the metroclub.org website, belonging to Metroclub, a..."
+        },
+        {
+            "v_name": "Optimity UK",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "We’ve successfully obtained control of their entire Azure cloud environment, which now resides under..."
+        },
+        {
+            "v_name": "Baumit Bulgaria",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfuly obtained all data from Balmit.bg. We have got all of their data + source + priva..."
+        },
+        {
+            "v_name": "novoingresso.com.br",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Our group was able to access everything from the main company servers, and it happened that their da..."
+        },
+        {
+            "v_name": "webpag.com.br",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Sample: https://qu.ax/LHRf.gOur group was able to access everything from the main company servers, a..."
+        },
+        {
+            "v_name": "rodoviariaonline.com.br",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Our group was able to access everything from the main company servers, and it happened that their da..."
+        },
+        {
+            "v_name": "Kasida.bg Database Leaked, Download",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "https://qu.ax/nUmY.7z..."
+        },
+        {
+            "v_name": "I&G Brokers Database, Download Now",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "https://qu.ax/nEqR.7z..."
+        },
+        {
+            "v_name": "pilini.bg Database, Download Now!",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "https://qu.ax/fiSD.sql..."
+        },
+        {
+            "v_name": "iLife.bg",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "https://qu.ax/danH.7z..."
+        },
+        {
+            "v_name": "Fuck Palestine! We buy your access!!",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Ransomedvc is now buying access on gaza countries + iran. message our admins!..."
+        },
+        {
+            "v_name": "NEW TWITTER",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "Tweets by RansomedSupport..."
+        },
+        {
+            "v_name": "DallBogg Breach",
+            "Discovery Date": "2023-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "We have taken everything from your servers, you failed to contact us back, contact ASAP to fix. We a..."
+        },
+        {
+            "v_name": "Partnership With Breachforums",
+            "Discovery Date": "2023-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "links: http://breachedu76kdyavc6szj6ppbplfqoz3pgrk3zw57my4vybgblpfeayd.onion/ https://breachforums.i..."
+        },
+        {
+            "v_name": "NTT Docomo",
+            "Discovery Date": "2023-10-06",
+            "Estimated Attack Date": "2023-10-04",
+            "v_description": "With approximately 310,000 employees worldwide, NTT (Nippon Telegraph and Telephone Corporation) is ..."
+        },
+        {
+            "v_name": "(SALE) District Of Columbia Elections 600k lines VOTERS DATA",
+            "Discovery Date": "2023-10-06",
+            "Estimated Attack Date": "2023-10-05",
+            "v_description": "We have successfully breached the District of Columbia Board Of Elections and have gotten more than ..."
+        },
+        {
+            "v_name": "gov.la",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-16",
+            "v_description": "Did I hear gov? Yep. We have accessed the majorty of their servers that were storing personal data, ..."
+        },
+        {
+            "v_name": "mango.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if  we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "ebag.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if  we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "popolo.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if  we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "andrews.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "ardes.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $50,000..."
+        },
+        {
+            "v_name": "myshoes.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "2023-09-25",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "ecco.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "districtshoes.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "footshop.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $15,000..."
+        },
+        {
+            "v_name": "Punto.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "We will leak all of the info we have on you if  we dont get paid.We require a ransom of $30,000..."
+        },
+        {
+            "v_name": "bnm.bg",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "We will leak all of the info we have on you if we dont get paid.We require a ransom of $14,000..."
+        },
+        {
+            "v_name": "SONY.COM",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "Sony Group Corporation, formerly Tokyo Telecommunications Engineering Corporation, and Sony Corporat..."
+        },
+        {
+            "v_name": "NTT Docomo - Japan 1st Mobile Operator",
+            "Discovery Date": "2023-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "With approximately 310,000 employees worldwide, NTT (Nippon Telegraph and Telephone Corporation) is ..."
+        },
+        {
+            "v_name": "airelec.bg",
+            "Discovery Date": "2023-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "All of your customer data,records and private documents are mine now, if you pay you wiWe require a ..."
+        },
+        {
+            "v_name": "pilini.bg",
+            "Discovery Date": "2023-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "You have been hacked, all your data is now mine, if you want to get your backups back you will have ..."
+        },
+        {
+            "v_name": "kasida.bg",
+            "Discovery Date": "2023-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "We have been able to access all of linktera critical infrastructure including her database, we dumpe..."
+        },
+        {
+            "v_name": "proxy-sale.com",
+            "Discovery Date": "2023-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "We have been able to access all of linktera critical infrastructure including the database, we dumpe..."
+        },
+        {
+            "v_name": "Linktera",
+            "Discovery Date": "2023-09-08",
+            "Estimated Attack Date": "",
+            "v_description": "We have been able to access all of linktera critical infrastructure including her database, we dumpe..."
+        },
+        {
+            "v_name": "easydentalcare.us",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "We Have accessed all of the critical infrasrtucture of the company, we are on our way to publish all..."
+        },
+        {
+            "v_name": "quantinuum.com",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database, and other non public documents...."
+        },
+        {
+            "v_name": "laasr.eu",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database, and other non public documents.W..."
+        },
+        {
+            "v_name": "medcenter-tambov.ru",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database, and other non public documents.W..."
+        },
+        {
+            "v_name": "makflix.eu",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database,Customers Chats, and other non pu..."
+        },
+        {
+            "v_name": "nucleus.live",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database,Customers Chats, Bank Transfer Do..."
+        },
+        {
+            "v_name": "wantager.com",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "we have access everything on their servers, including the Database,Customers Chats, Bank Transfer Do..."
+        },
+        {
+            "v_name": "Swipe.bg",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfuly obtained all data from Swipe.bg A online marketplace known for its cheap prices...."
+        },
+        {
+            "v_name": "Balmit Bulgaria",
+            "Discovery Date": "2023-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "We have successfuly obtained all data from Balmit.bg. We have got all of their data + source + priva..."
+        },
+        {
+            "v_name": "phms.com.au",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "We have hacked and exported the database of phms.com.au. We have gathered root access and access to ..."
+        },
+        {
+            "v_name": "paynesvilleareainsurance.com",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "We have compromissed the servers of paynesvilleareainsurance.com. We decided to make sure they remem..."
+        },
+        {
+            "v_name": "SKF.com",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "SKF�s network was compromised(by collaboration withEverest Ransomware Group) a few days ago. The com..."
+        },
+        {
+            "v_name": "Hawaii Health System",
+            "Discovery Date": "2023-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "We were able to dump and deface the official site of the hawaii health system. We demand a ransom no..."
+        },
+        {
+            "v_name": "MetroCLub DC",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "We were able to dump the entire metroclub.org site. Metroclub is a privte club from DC.     There is..."
+        },
+        {
+            "v_name": "S&P",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Affected nearly 6tb of data. Because of the size of the data I require a payment to the following ad..."
+        },
+        {
+            "v_name": "Powersports Marketing",
+            "Discovery Date": "2023-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "We are in hold of Everything any of their employes ever downloaded or used on their systems. whole c..."
+        },
+        {
+            "v_name": "PSM",
+            "Discovery Date": "2023-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Metropolitan Club DC",
+            "Discovery Date": "2023-08-27",
+            "Estimated Attack Date": "",
+            "v_description": "We were able to dump the entire metroclub.org site. Metroclub is a privte club from DC. There is 2.1..."
+        },
+        {
+            "v_name": "State Farm",
+            "Discovery Date": "2023-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Transunion",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jhooker",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Optimity.co.uk",
+            "Discovery Date": "2023-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "Their whole azure cloud was exported and is now in our hands. luckly and sadly for them we have take..."
+        },
+        {
+            "v_name": "I&G Brokers",
+            "Discovery Date": "2023-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "I&G brokers are top top favourite Bulgarian Broker houses.First Payment Due, leaking dataDownload Sa..."
+        },
+        {
+            "v_name": "A1",
+            "Discovery Date": "2023-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "A1 Data Provider (1/4 partial payments have been paid on 2023-08-23)..."
+        }
+    ]
+}

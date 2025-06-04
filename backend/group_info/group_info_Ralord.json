@@ -1,0 +1,151 @@
+{
+    "group_name": [
+        "Ralord"
+    ],
+    "group_description": "None",
+    "Victims count": 19,
+    "First discovered victims": "2025-03-26",
+    "Last discovered victim": "2025-04-27",
+    "Avg Delay": "3.9 days",
+    "Infostealer": "41.2%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Education": 2,
+                    "Hospitality and Tourism": 2,
+                    "Manufacturing": 2,
+                    "Business Services": 1,
+                    "Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 3,
+                    "Spain": 3,
+                    "France": 2,
+                    "Argentina": 2,
+                    "Saudi Arabia": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "DIALLOG company",
+            "Discovery Date": "2025-04-27",
+            "Estimated Attack Date": "",
+            "v_description": "Diallog Telecommunications is a Canadian-owned and operated telecom company based in Toronto, establ..."
+        },
+        {
+            "v_name": "HELUKABEL company",
+            "Discovery Date": "2025-04-24",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "The website www.helukabel.de is the official online presence of HELUKABEL GmbH, a German-based globa..."
+        },
+        {
+            "v_name": "rawafid company",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 2008 and headquartered in Riyadh, Rawafid Industrial specializes in water infrastruct..."
+        },
+        {
+            "v_name": "​​​​agromate company",
+            "Discovery Date": "2025-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "Agromate.com.my is the official website of Agromate Holdings Sdn Bhd, a leading Malaysian agricultur..."
+        },
+        {
+            "v_name": "​​​​bettininformatica - suporteon company",
+            "Discovery Date": "2025-04-19",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "​​​​​​​​BThe website bettininformatica.com.br belongs to Bettin Soluções em Informática, a technolog..."
+        },
+        {
+            "v_name": "​​​​Bio-Clima Service",
+            "Discovery Date": "2025-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​​​​Bio-Clima Service Srl, an Italian company based in Bernareggio, Lombardy, specializing in th..."
+        },
+        {
+            "v_name": "ARRCO LSM",
+            "Discovery Date": "2025-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "ARRCO – Lights Sound Magic is a professional event technology company based in Hamar, Norway. They s..."
+        },
+        {
+            "v_name": "NewHotel cloud company",
+            "Discovery Date": "2025-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​Newhotel Cloud is a comprehensive, cloud-based Property Management System (PMS) developed by New..."
+        },
+        {
+            "v_name": "Al-Hejailan Group",
+            "Discovery Date": "2025-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​​​​​​​Established in 1980, the Al-Hejailan Group began as an engineering and contracting firm a..."
+        },
+        {
+            "v_name": "hasbco Company",
+            "Discovery Date": "2025-04-10",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​​​​​​​Hasbco is a company that operates in the Grocery Retail industry. It employs 5to9 people ..."
+        },
+        {
+            "v_name": "Tomio Ingeniería",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "​​Tomio Ingeniería S.A. is an Argentine company specializing in engineering and industrial services...."
+        },
+        {
+            "v_name": "Élan Sportif Nantes",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "2025-03-25",
+            "v_description": "​​​The domain ec-nantes.fr is associated with École Centrale de Nantes, which is a prestigious engin..."
+        },
+        {
+            "v_name": "Ihara company",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "2025-03-27",
+            "v_description": "​​​​​IHARA is a Brazilian company specializing in the development and manufacturing of agricultural ..."
+        },
+        {
+            "v_name": "Pere Claver grup",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "​​​​​​​​Pere Claver Grup is a private, non-profit organization established in 1948 in Barcelona, Spa..."
+        },
+        {
+            "v_name": "Formosa Chang",
+            "Discovery Date": "2025-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​​​​​​​Formosa Chang is a well-known Taiwanese restaurant chain, primarily famous for its tradit..."
+        },
+        {
+            "v_name": "pereclaver.org",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​​​​Pere Claver Grup is a private, non-profit organization established in 1948 in Barcelona, Spa..."
+        },
+        {
+            "v_name": "ihara.com.br",
+            "Discovery Date": "2025-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​IHARA is a Brazilian company specializing in the development and manufacturing of agricultural ..."
+        },
+        {
+            "v_name": "tomioingenieria.com.ar",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "​​Tomio Ingeniería S.A. is an Argentine company specializing in engineering and industrial services...."
+        },
+        {
+            "v_name": "ec-nantes.fr",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "2025-03-25",
+            "v_description": "​​​The domain ec-nantes.fr is associated with École Centrale de Nantes, which is a prestigious engin..."
+        }
+    ]
+}

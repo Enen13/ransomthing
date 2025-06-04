@@ -1,0 +1,205 @@
+{
+    "group_name": [
+        "Ciphbit"
+    ],
+    "group_description": "None",
+    "Victims count": 28,
+    "First discovered victims": "2023-09-14",
+    "Last discovered victim": "2025-05-27",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 6,
+                    "Healthcare": 2,
+                    "Manufacturing": 2,
+                    "Construction": 1,
+                    "Telecommunication": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 7,
+                    "Italy": 5,
+                    "France": 3,
+                    "United Kingdom": 2,
+                    "Germany": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "iptelecom GmbH",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] iptelecom GmbH is a German telecommunications company offering a wide range of servic..."
+        },
+        {
+            "v_name": "Therma Seal Insulation Systems",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Therma Seal Insulation Systems is a leading company in the field of insulation, speci..."
+        },
+        {
+            "v_name": "Kitevuc - Equipamentos E Veiculos Utilitários E Comerciais",
+            "Discovery Date": "2025-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Kitevuc - Equipamentos E Veículos Utilitários E Comerciais is a company specializing ..."
+        },
+        {
+            "v_name": "António Belém & António Gonçalves",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] António Belém & António Gonçalves is a company specializing in high-quality artisanal..."
+        },
+        {
+            "v_name": "AXEON 360",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] AXEON 360 is a company specializing in providing energy-efficient solutions, particul..."
+        },
+        {
+            "v_name": "CopySmart LLC",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "CopySmart LLC is a dynamic company specializing in providing innovative document management solution..."
+        },
+        {
+            "v_name": "Southern Fire Sprinkler",
+            "Discovery Date": "2024-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Southern Fire Sprinkler is a specialized company dedicated to the design, installation, and maintena..."
+        },
+        {
+            "v_name": "Luigi Convertini",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Luigi Convertini is a distinguished fashion brand known for its high-quality, stylish designs that b..."
+        },
+        {
+            "v_name": "Keios Development Consulting",
+            "Discovery Date": "2024-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "Keios Development Consulting is a specialized firm offering professional services in urban developme..."
+        },
+        {
+            "v_name": "FD S.R.L",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "FD S.R.L is a dynamic company specializing in innovative solutions across various industries. With a..."
+        },
+        {
+            "v_name": "TrueNet Communications Corp",
+            "Discovery Date": "2024-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Macuz",
+            "Discovery Date": "2024-04-09",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in Florence in 1952 by Marcello and Alma Macuz, the company represents a historic pillar for..."
+        },
+        {
+            "v_name": "TermoPlastic S.R.L",
+            "Discovery Date": "2024-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "Termoplastic is a company that designs and manufactures plastic and cartoplastic articles. Its prod..."
+        },
+        {
+            "v_name": "Commerce Dental Group",
+            "Discovery Date": "2024-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "At Commerce Dental Group, we have extensive experience in all aspects of modern dentistry. We offer ..."
+        },
+        {
+            "v_name": "Pot O’ Gold Coffee",
+            "Discovery Date": "2024-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "Pot O’ Gold was founded by Larry Jones in 1986 with the dream of providing the very best coffee, equ..."
+        },
+        {
+            "v_name": "MPM Medical Supply",
+            "Discovery Date": "2024-01-02",
+            "Estimated Attack Date": "",
+            "v_description": "MPM Medical Supply is a state of the art medical distributor. Recognized for Superior service, low p..."
+        },
+        {
+            "v_name": "NeoDomos",
+            "Discovery Date": "2023-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "NeoDomos, a broker specializing in real estate insurance for over a decade, has been trusted by more..."
+        },
+        {
+            "v_name": "APERS",
+            "Discovery Date": "2023-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "A.P.E.R.S is a 1901 law association agreed with the Ministry of Justice and authorized by the judici..."
+        },
+        {
+            "v_name": "TransTerra",
+            "Discovery Date": "2023-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "Transterra Polska Sp. z o.o. is a dynamic international transport company, which is specialized in i..."
+        },
+        {
+            "v_name": "Marston Domsel",
+            "Discovery Date": "2023-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "Decades of experience have made MARSTON-DOMSEL a household name in the industry. We will continue to..."
+        },
+        {
+            "v_name": "Waterford Retirement Residence",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "OUR FAMILY CARING FOR YOURS, SINCE 1958. For over 60 years the Zlepnig family has served the greater..."
+        },
+        {
+            "v_name": "Shelly Engineering Metal Work",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Shelley's was founded by Peter Shelley in the 1960's. Steady growth led to incorporation in 1979 and..."
+        },
+        {
+            "v_name": "Harmonic Accounting",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Harmonic Accounting, Tax & Financial Services brings many years of public practice experience to the..."
+        },
+        {
+            "v_name": "Imperador S.R.L",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "we are the company operating in the area of transportation and logistics by offering such services i..."
+        },
+        {
+            "v_name": "Waterford Retirement Residence",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "OUR FAMILY CARING FOR YOURS, SINCE 1958. For over 60 years the Zlepnig family has served the greater..."
+        },
+        {
+            "v_name": "Shelly Engineering Metal Work",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Shelley's was founded by Peter Shelley in the 1960's. Steady growth led to incorporation in 1979 and..."
+        },
+        {
+            "v_name": "RSV Centrale Bvba",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "You can count on RSV Centrale in Herselt for installation, maintenance, inspections and repairs of s..."
+        },
+        {
+            "v_name": "Soprovise",
+            "Discovery Date": "2023-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "Since 1987, the EURISOLE Group which includes the companies: SOPROVISE , NORMANDIE ECHAFAUDAGES and ..."
+        }
+    ]
+}

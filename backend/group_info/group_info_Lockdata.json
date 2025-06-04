@@ -1,0 +1,55 @@
+{
+    "group_name": [
+        "Lockdata"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 5,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2021-09-09",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "[Saudi Arabia] Al Wefag Trading & Manufacturing",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "[CZ]  GORDIC spol. s r.o.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "[USA] Crary Industries Inc.",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "[CHINA] TCL China Star Optoelectronics Technology Co., Ltd",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

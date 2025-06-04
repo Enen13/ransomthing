@@ -1,0 +1,196 @@
+{
+    "group_name": [
+        "Onyx"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 28,
+    "First discovered victims": "2022-04-29",
+    "Last discovered victim": "2022-11-21",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 1,
+                    "Mexico": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "www.artisticstairs.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.wayan.com.mx",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.candcfarmsupply.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.ackermanplumbinginc.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.semaphorehq.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.baltholding.eu",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.pacmaritime.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.waynefamilypractice.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.advantagedirectcare.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.cucafresca.com.br",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.arisaseguros.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.jaspercountysheriffoffice.com",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.minex.gob.gt",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "www.projectredirectdc.org",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ministerio de Relaciones Exteriores",
+            "Discovery Date": "2022-09-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Borough of Union Beach",
+            "Discovery Date": "2022-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ARISA CORREDORES DE SEGUROS",
+            "Discovery Date": "2022-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CUCA FRESCA",
+            "Discovery Date": "2022-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WAYAN NATURAL WEAR",
+            "Discovery Date": "2022-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Artistic Stairs & Railings",
+            "Discovery Date": "2022-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Baltholding OÃ",
+            "Discovery Date": "2022-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jasper County Sheriff's Office",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pacific Maritime Industries Corp.",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "WAYNE FAMILY PRACTICE, ASSOC., P.C.",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Advantage Direct Care",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "C&C FARMERSâ SUPPLY CORP",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Semaphore Solutions Inc",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ackerman Plumbing Inc",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

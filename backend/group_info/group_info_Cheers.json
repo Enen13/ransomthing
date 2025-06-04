@@ -1,0 +1,115 @@
+{
+    "group_name": [
+        "Cheers"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 15,
+    "First discovered victims": "2022-05-29",
+    "Last discovered victim": "2022-09-14",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "DYNAM JAPAN HOLDINGS CO., LTD",
+            "Discovery Date": "2022-09-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Japan Game Halls Operator",
+            "Discovery Date": "2022-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An British Financial Company -Public",
+            "Discovery Date": "2022-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Insurance Company  -Paid",
+            "Discovery Date": "2022-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Turkey Certified Public Accountancy Firms  -Unpay",
+            "Discovery Date": "2022-08-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Insurance Company",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An British Financial Company -Unpay",
+            "Discovery Date": "2022-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An International Shipping Company - Paid",
+            "Discovery Date": "2022-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An International Shipping Company - Unpay",
+            "Discovery Date": "2022-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "https://",
+            "Discovery Date": "2022-06-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sembcorp Marine - Unpay",
+            "Discovery Date": "2022-06-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Technology Company - Paid",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Financial Company - Paid",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An Belgium Hospital - Unpay",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "An International Maritime Company - Unpay",
+            "Discovery Date": "2022-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

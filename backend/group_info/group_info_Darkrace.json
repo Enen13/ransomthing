@@ -1,0 +1,89 @@
+{
+    "group_name": [
+        "Darkrace"
+    ],
+    "group_description": "None",
+    "Victims count": 10,
+    "First discovered victims": "2023-05-31",
+    "Last discovered victim": "2023-06-09",
+    "Avg Delay": "1 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Portugal": 1,
+                    "Japan": 1,
+                    "Sweden": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "marstrand.se",
+            "Discovery Date": "2023-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "Längst ut i väster, där skärgården tar slut och havet tar vid, ligger Marstrand. Seglarstaden och ba..."
+        },
+        {
+            "v_name": "COOPERATIVETECH",
+            "Discovery Date": "2023-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "Cooperative Technologies delivers proven, industry specific standards-based software that helps orga..."
+        },
+        {
+            "v_name": "vaud-promotion",
+            "Discovery Date": "2023-06-07",
+            "Estimated Attack Date": "",
+            "v_description": "L’Association Vaud Promotion a pour but d’accroître la notoriété, la compétitivité et l’attractivité..."
+        },
+        {
+            "v_name": "PICPLUS.COM",
+            "Discovery Date": "2023-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "Pictures Plus and O'Roke Photography have over 50 years of combined experience providing School, Spo..."
+        },
+        {
+            "v_name": "rzepeckimroczkowski",
+            "Discovery Date": "2023-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "Rzepecki Mroczkowski Sp. Z o.o. - z grupą Volkswagen związani jesteśmy od 1991, jako autoryzowany de..."
+        },
+        {
+            "v_name": "hep global GmbH",
+            "Discovery Date": "2023-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "A partner for everything to do with solar energy. That’s hep. Since 2008. We develop, build, operate..."
+        },
+        {
+            "v_name": "PLURISERVICE",
+            "Discovery Date": "2023-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "Pluriservice Spa nasce nel 1986, è leader nel settore Auto ID (codice a barre). Produce e commercial..."
+        },
+        {
+            "v_name": "PESSI",
+            "Discovery Date": "2023-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "PESSI is committed to provide services and benefits to workers and their dependents in close partner..."
+        },
+        {
+            "v_name": "CONATECO",
+            "Discovery Date": "2023-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "CO.NA.TE.CO. ( Consorzio Napoletano Terminal Containers ), è stato fondato nel 1995. Oggi è il più g..."
+        },
+        {
+            "v_name": "ERT",
+            "Discovery Date": "2023-05-31",
+            "Estimated Attack Date": "2023-05-30",
+            "v_description": "ERT is a Portuguese multinational company with its core business on the manufacture of automotive in..."
+        }
+    ]
+}

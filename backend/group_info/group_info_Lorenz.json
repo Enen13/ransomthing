@@ -1,0 +1,497 @@
+{
+    "group_name": [
+        "Lorenz"
+    ],
+    "group_description": "Tesorion describes Lorenz as a ransomware with design and implementation flaws, leading to impossible decryption with tools provided by the attackers. A free decryptor for 2021 versions was made available via the NoMoreRansom initiative. A new version of the malware was discovered in March 2022, for which again was provided a free decryptor, while the ransomware operators are not able to provide tools to decrypt affected files.",
+    "Victims count": 78,
+    "First discovered victims": "2020-01-12",
+    "Last discovered victim": "2023-12-11",
+    "Avg Delay": "18.2 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Critical Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Australia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Bayer Heritage Federal Credit Union",
+            "Discovery Date": "2023-12-11",
+            "Estimated Attack Date": "2023-12-01",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "EOS",
+            "Discovery Date": "2023-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Koh Brothers",
+            "Discovery Date": "2023-11-09",
+            "Estimated Attack Date": "2023-11-02",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cogdell Memorial Hospital",
+            "Discovery Date": "2023-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Truck Bodies & Equipment International",
+            "Discovery Date": "2023-11-07",
+            "Estimated Attack Date": "2023-10-27",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Broad River Retail/Ashley Store",
+            "Discovery Date": "2023-10-25",
+            "Estimated Attack Date": "2023-10-15",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AllCare Pharmacy",
+            "Discovery Date": "2023-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BF&S Civil Engineers",
+            "Discovery Date": "2023-09-12",
+            "Estimated Attack Date": "2023-08-20",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dee Sign",
+            "Discovery Date": "2023-09-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Felling Trailers, Inc.",
+            "Discovery Date": "2023-08-30",
+            "Estimated Attack Date": "2023-07-13",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tarolli, Sundheim, Covell & Tummino LLP",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Joy Cone Co, Joy Baking group, BoDeans Baking, Altesa",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NGS Super",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Intrasect Technologies",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Moore Engineering",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Manning Building Supplies",
+            "Discovery Date": "2023-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tarolli",
+            "Discovery Date": "2023-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hopsteiner",
+            "Discovery Date": "2023-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AmerisourceBergen/Censora - MWI Animal Health",
+            "Discovery Date": "2023-02-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Chestertons Inc.",
+            "Discovery Date": "2023-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Thor Specialties, Inc.",
+            "Discovery Date": "2023-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Shelco",
+            "Discovery Date": "2023-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Albina Asphalt",
+            "Discovery Date": "2022-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Holler-Classic",
+            "Discovery Date": "2022-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Nissan of Las Cruces",
+            "Discovery Date": "2022-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Salud Family Health",
+            "Discovery Date": "2022-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Main & Main Capital Group",
+            "Discovery Date": "2022-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Miracapo pizza company",
+            "Discovery Date": "2022-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wes-tec inc.",
+            "Discovery Date": "2022-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Laddawn Inc.",
+            "Discovery Date": "2022-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Engine Power",
+            "Discovery Date": "2022-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Northern Contours Inc.",
+            "Discovery Date": "2022-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fandeli",
+            "Discovery Date": "2022-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Van Ausdall & Farrar, inc",
+            "Discovery Date": "2022-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Biothane usa",
+            "Discovery Date": "2022-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gresco",
+            "Discovery Date": "2022-07-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Uppco",
+            "Discovery Date": "2022-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wis-Pak, Inc",
+            "Discovery Date": "2022-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bonneville Collections",
+            "Discovery Date": "2022-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Westwood",
+            "Discovery Date": "2022-05-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mebulbs",
+            "Discovery Date": "2022-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Magtek",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brunk Industries Inc.",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AmCham Shanghai",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tosoh Corporation",
+            "Discovery Date": "2022-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tosoh Bioscience",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Morrie's Auto Group",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Musco Sports Lighting",
+            "Discovery Date": "2022-04-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Simply Placed",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DeeZee",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Advizrs",
+            "Discovery Date": "2022-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Keicorp(ICPM)",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Biz Retek",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fuji America Corporation",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VadaTech",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ward Hadaway",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hensoldt",
+            "Discovery Date": "2022-01-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Turner Enterprises, Inc.",
+            "Discovery Date": "2021-12-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kenall/Legrand",
+            "Discovery Date": "2021-12-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Component Assembly Systems",
+            "Discovery Date": "2021-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SCREEN Holdings",
+            "Discovery Date": "2021-09-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sebastian",
+            "Discovery Date": "2021-08-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Miller-Valentine Group",
+            "Discovery Date": "2021-07-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MPS Credit Union",
+            "Discovery Date": "2021-07-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Buchanan Hauling & Rigging",
+            "Discovery Date": "2021-06-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Langs Building Supplies Pty Ltd",
+            "Discovery Date": "2021-06-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Langs Building Supplies",
+            "Discovery Date": "2021-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Challenge Manufacturing Company",
+            "Discovery Date": "2021-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Airtech Advanced Materials Group",
+            "Discovery Date": "2021-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DNS Toptech",
+            "Discovery Date": "2021-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Joy Cone",
+            "Discovery Date": "2021-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Wolfe Eye Clinic",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Bases Conversion and Development Authority (BCDA)",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tygavac ltd.",
+            "Discovery Date": "2021-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The managementtrust",
+            "Discovery Date": "2021-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Multifeeder",
+            "Discovery Date": "2021-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Commport Communications",
+            "Discovery Date": "2020-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Windemuller",
+            "Discovery Date": "2020-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

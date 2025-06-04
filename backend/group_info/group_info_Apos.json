@@ -1,0 +1,97 @@
+{
+    "group_name": [
+        "Apos"
+    ],
+    "group_description": "None",
+    "Victims count": 10,
+    "First discovered victims": "2024-04-29",
+    "Last discovered victim": "2025-03-17",
+    "Avg Delay": "7 days",
+    "Infostealer": "30.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 3,
+                    "Healthcare": 2,
+                    "Manufacturing": 2,
+                    "Business Services": 2,
+                    "Telecommunication": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Brazil": 4,
+                    "United States": 2,
+                    "India": 1,
+                    "France": 1,
+                    "Argentina": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "KIU System Solutions",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "🌐 kiusys.com💲 23400000📍 Paraguay..."
+        },
+        {
+            "v_name": "Netcom-World",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "🌐 netcom-world.com💲 Undisclosed📍 Undisclosed..."
+        },
+        {
+            "v_name": "InternetWay",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "🌐 www.internetway.com.br💲 Undisclosed📍 Undisclosed..."
+        },
+        {
+            "v_name": "M-1 TOOLWORKS",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "🌐 m1toolworks.com💲 8000000📍 United States..."
+        },
+        {
+            "v_name": "Auxis",
+            "Discovery Date": "2025-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "🌐 www.auxis.com💲 162500000📍 United States..."
+        },
+        {
+            "v_name": "Drogarias Preço Bom",
+            "Discovery Date": "2024-10-27",
+            "Estimated Attack Date": "2024-10-16",
+            "v_description": "🌐 bomprecodrogarias.com.br💲 5000000📍 Brazil..."
+        },
+        {
+            "v_name": "Drogaria Preco Bom",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "2024-04-26",
+            "v_description": "5.6GB5MBrazilPrivate dataPublishedbomprecodrogaria.com.br..."
+        },
+        {
+            "v_name": "Sunlux Group",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "160GB5.1MFrancePrivate dataFinancial dataNot publishedsunlux-group.com..."
+        },
+        {
+            "v_name": "Algen Healthcare",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "90GB5MIndiaFinancial dataPrivate dataNot publishedalgenhealthcare.co..."
+        },
+        {
+            "v_name": "Bitz Softwares",
+            "Discovery Date": "2024-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "18.1MB11.3MBrazilSource codeNot publishedbitzsoftwares.com.br..."
+        }
+    ]
+}

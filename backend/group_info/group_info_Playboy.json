@@ -1,0 +1,35 @@
+{
+    "group_name": [
+        "Playboy"
+    ],
+    "group_description": "None",
+    "Victims count": 1,
+    "First discovered victims": "2024-10-28",
+    "Last discovered victim": "2024-10-28",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Government": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Germany": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "German Chamber of Commerce",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "[IA generated] The German Chamber of Commerce, often part of a global network, supports German busin..."
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "group_name": [
+        "Projectrelic"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 5,
+    "First discovered victims": "2022-11-11",
+    "Last discovered victim": "2022-12-18",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Doctors Center Hospital",
+            "Discovery Date": "2022-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "Doctors' Center Hospital is among the leaders in the hospital network of Puerto Rico...."
+        },
+        {
+            "v_name": "Willis Klein",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1960, Willis Klein has multiple divisions providing decorative plumbing, door hardware, c..."
+        },
+        {
+            "v_name": "BroadMed Holding",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of ..."
+        },
+        {
+            "v_name": "Turner & Associates, LLP",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA fir..."
+        },
+        {
+            "v_name": "Sterling Battery",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "Sterling Battery Co is a company that operates in the Automotive industry...."
+        }
+    ]
+}

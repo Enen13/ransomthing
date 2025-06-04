@@ -1,0 +1,193 @@
+{
+    "group_name": [
+        "Embargo"
+    ],
+    "group_description": "None",
+    "Victims count": 26,
+    "First discovered victims": "2024-04-21",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "6.4 days",
+    "Infostealer": "22.7%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 6,
+                    "Business Services": 4,
+                    "Technology": 4,
+                    "Manufacturing": 4,
+                    "Financial": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 16,
+                    "Australia": 1,
+                    "Germany": 1,
+                    "France": 1,
+                    "Jordan": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "allstarflooring.com",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "2025-05-24",
+            "v_description": "All Star Flooring, Inc. is a leading provider of commercial flooring solutions with over 35 years of..."
+        },
+        {
+            "v_name": "M&H Electric Fabricators",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "2025-05-23",
+            "v_description": "Welcome to M&H Electric Fabricators, where we've been sparking innovation and powering up the automo..."
+        },
+        {
+            "v_name": "Kingsmen Creatives Ltd.",
+            "Discovery Date": "2025-05-14",
+            "Estimated Attack Date": "2025-05-02",
+            "v_description": "Kingsmen Creatives designs roll-out retail environments based off their clients' needs and conceptua..."
+        },
+        {
+            "v_name": "rixos.com",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-03-12",
+            "v_description": "Founded in 2000 and headquartered in Dubai, United Arab Emirates, Rixos Hotels is a Turkish luxury h..."
+        },
+        {
+            "v_name": "Insider Technologies Limited",
+            "Discovery Date": "2025-03-09",
+            "Estimated Attack Date": "2025-02-27",
+            "v_description": "Based in Manchester, Great Britain, Insider technologies is a leading provider of big data, predicti..."
+        },
+        {
+            "v_name": "tequaly.com",
+            "Discovery Date": "2025-02-25",
+            "Estimated Attack Date": "2025-02-20",
+            "v_description": "One of Brazil's largest suppliers of technological systems, maintenance, manufacturing, assembly and..."
+        },
+        {
+            "v_name": "myhscu.com",
+            "Discovery Date": "2025-02-17",
+            "Estimated Attack Date": "2025-02-14",
+            "v_description": "Heritage South Credit Union was originally chartered in 1937 as the Avondale Employees Federal Credi..."
+        },
+        {
+            "v_name": "annegrady.org",
+            "Discovery Date": "2025-02-16",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "Anne Grady Services provides a vast array of assistance for adults and children with intellectual di..."
+        },
+        {
+            "v_name": "Heritage South Credit Union",
+            "Discovery Date": "2025-02-14",
+            "Estimated Attack Date": "",
+            "v_description": "Heritage South Credit Union was originally chartered in 1937 as the Avondale Employees Federal Credi..."
+        },
+        {
+            "v_name": "alansarioman.com",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "Al Ansari is a provider of integrated building, infrastructure and engineering solutions. The group ..."
+        },
+        {
+            "v_name": "backyarddiscovery.com",
+            "Discovery Date": "2024-11-30",
+            "Estimated Attack Date": "2024-11-29",
+            "v_description": "Backyard Discovery is built for families. From a child’s first playset to structures that guard the ..."
+        },
+        {
+            "v_name": "American Associated Pharmacies",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "2024-11-12",
+            "v_description": "American Associated Pharmacies (AAP) is a member-owned cooperative of over 2,000 independent pharmac..."
+        },
+        {
+            "v_name": "wexfordcounty.org",
+            "Discovery Date": "2024-11-05",
+            "Estimated Attack Date": "",
+            "v_description": "Located in Northern Lower Michigan, Wexford County boasts a population of approximately 35,000, with..."
+        },
+        {
+            "v_name": "mh-m.org",
+            "Discovery Date": "2024-11-05",
+            "Estimated Attack Date": "2024-11-04",
+            "v_description": "Memorial Hospital and Manor celebrated its 50th Anniversary in 2010. Memorial Hospital was officiall..."
+        },
+        {
+            "v_name": "Memorial Hospital & Manor",
+            "Discovery Date": "2024-11-05",
+            "Estimated Attack Date": "2024-11-04",
+            "v_description": "Memorial Hospital and Manor celebrated its 50th Anniversary in 2010. Memorial Hospital was officiall..."
+        },
+        {
+            "v_name": "weisermemorialhospital.org",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "2024-09-04",
+            "v_description": "Weiser Memorial Hospital is a full service not-for-profit community hospital that has been serving t..."
+        },
+        {
+            "v_name": "pioneerworldwide.com",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1917, Pioneer Balloon Company is the world's premier manufacturer of latex balloons, with..."
+        },
+        {
+            "v_name": "summervillepolice.com",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "The Summerville Police Department is committed to building relationships with community members whil..."
+        },
+        {
+            "v_name": "diligentusa.com",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "Diligent Delivery Systems provides transportation services for businesses within varying industries...."
+        },
+        {
+            "v_name": "gerard-perrier.com",
+            "Discovery Date": "2024-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "Gerard Perrier Industrie SA is a France-based company that provides electrical and electronic automa..."
+        },
+        {
+            "v_name": "dmedelivers.com",
+            "Discovery Date": "2024-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "Marketing, Printing, Logistics - 1 TB+ databases, source code, client files..."
+        },
+        {
+            "v_name": "shamrocktradingcorp.com",
+            "Discovery Date": "2024-05-21",
+            "Estimated Attack Date": "",
+            "v_description": "Shamrock Trading Corporation is the parent company for a family of brands in transportation services..."
+        },
+        {
+            "v_name": "orga-soft.de",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Software Development  - SQL BASES AND SOURCES 650 GB, LINK WILL BE AVAILABLE SOON..."
+        },
+        {
+            "v_name": "rexmoore.com",
+            "Discovery Date": "2024-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1922 and headquartered in Sacramento, California, Rex Moore is a family-owned and managed..."
+        },
+        {
+            "v_name": "firstmac.com.au",
+            "Discovery Date": "2024-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Firstmac Limited is an Australian owned company with experience in home and investment loans. They h..."
+        },
+        {
+            "v_name": "mulfordconstruction.com",
+            "Discovery Date": "2024-04-21",
+            "Estimated Attack Date": "2024-04-17",
+            "v_description": "Heavy Civil Contracting, Earthwork and Utilities - 2 TB data will be disclosed soon..."
+        }
+    ]
+}

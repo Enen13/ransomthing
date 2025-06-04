@@ -1,0 +1,194 @@
+{
+    "group_name": [
+        "Moneymessage",
+        "Threatlabz"
+    ],
+    "group_description": "None",
+    "Victims count": 26,
+    "First discovered victims": "2023-03-29",
+    "Last discovered victim": "2025-05-01",
+    "Avg Delay": "17.7 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 3,
+                    "Government": 2,
+                    "Financial": 1,
+                    "Business Services": 1,
+                    "Education": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 5,
+                    "Bangladesh": 1,
+                    "Egypt": 1,
+                    "Russian Federation": 1,
+                    "Argentina": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "The Tech Interactive",
+            "Discovery Date": "2025-05-01",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "The Tech Interactive is a world class science and technology center in the heart of the Silicon Vall..."
+        },
+        {
+            "v_name": "Marina Family Medical",
+            "Discovery Date": "2025-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Marina Family Medical is a healthcare provider that offers a variety of medical servi..."
+        },
+        {
+            "v_name": "National Atomic Energy Commission",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The National Atomic Energy Commission (CNEA) is an Argentine government agency respon..."
+        },
+        {
+            "v_name": "Kazyon",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Kazyon is a prominent discount supermarket chain based in Egypt. Founded in 2014, it ..."
+        },
+        {
+            "v_name": "The Egyptian Tax Authority (ETA)",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The Egyptian Tax Authority (ETA) is the governmental body responsible for tax adminis..."
+        },
+        {
+            "v_name": "First Baptist Medical Center",
+            "Discovery Date": "2024-06-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Insurance Agency Marketing Services",
+            "Discovery Date": "2024-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Anna Jaques Hospital",
+            "Discovery Date": "2024-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tri-Way Manufacturing Technologies",
+            "Discovery Date": "2023-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toscana Promozione",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MD LOGISTICS",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Maxco Supply",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Taylor University",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "2023-09-02",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Riverside Logistics",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Estes Design & Manufacturing",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aiphone",
+            "Discovery Date": "2023-09-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Propper International",
+            "Discovery Date": "2023-07-15",
+            "Estimated Attack Date": "2023-07-11",
+            "v_description": "Founded in 1967, Propper is a manufacturer of clothing and gear for tactical, law enforcement, publi..."
+        },
+        {
+            "v_name": "Meteksan Defence Industry",
+            "Discovery Date": "2023-07-15",
+            "Estimated Attack Date": "2023-07-14",
+            "v_description": "Meteksan Defence Industries, Inc. is a subsidiary of Bilkent Holding and Bilkent University of Ankar..."
+        },
+        {
+            "v_name": "Pharmerica.com & BrightSpring Health Services",
+            "Discovery Date": "2023-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "Headquartered in Louisville, Kentucky, PharMerica is one of the largest and fastest-growing institut..."
+        },
+        {
+            "v_name": "Micro Star International",
+            "Discovery Date": "2023-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "Micro-Star International AKA MSI designs, manufactures, and sells motherboards and graphics cards fo..."
+        },
+        {
+            "v_name": "Guess who!",
+            "Discovery Date": "2023-04-05",
+            "Estimated Attack Date": "",
+            "v_description": "One huge trust have lost gigabytes of their's data and now playing with fire trying to hang time. Ke..."
+        },
+        {
+            "v_name": "midamericanglass.com",
+            "Discovery Date": "2023-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Mid-American Glass is a regional distributor / fabricator of flat glass, insulating glass, and archi..."
+        },
+        {
+            "v_name": "Goldenbear.com & mjhallandcompany.com",
+            "Discovery Date": "2023-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "GOLDENBEAR.COMGolden Bear is a leading provider of commercial property and casualty, professional li..."
+        },
+        {
+            "v_name": "Lpa-group.com",
+            "Discovery Date": "2023-04-01",
+            "Estimated Attack Date": "2023-01-04",
+            "v_description": "LPA is a leading UK manufacturer in the design and build of connectors, LED lighting and electrical ..."
+        },
+        {
+            "v_name": "Hawaii self storage",
+            "Discovery Date": "2023-03-29",
+            "Estimated Attack Date": "2023-03-19",
+            "v_description": "Hawaii Self Storage is a locally owned company, committed to service the people & businesses in Hawa..."
+        },
+        {
+            "v_name": "Biman airlines",
+            "Discovery Date": "2023-03-29",
+            "Estimated Attack Date": "2023-03-23",
+            "v_description": "Biman Bangladesh Airlines (Bengali) is the national flag carrier airline of Bangladesh. The airline ..."
+        }
+    ]
+}

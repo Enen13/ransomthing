@@ -1,0 +1,163 @@
+{
+    "group_name": [
+        "Nova"
+    ],
+    "group_description": "Rebrand of RALord",
+    "Victims count": 21,
+    "First discovered victims": "2025-04-28",
+    "Last discovered victim": "2025-05-29",
+    "Avg Delay": "16.4 days",
+    "Infostealer": "54.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 3,
+                    "Manufacturing": 2,
+                    "Hospitality and Tourism": 2,
+                    "Education": 2,
+                    "Telecommunication": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Italy": 3,
+                    "Brazil": 2,
+                    "Saudi Arabia": 2,
+                    "Spain": 2,
+                    "Canada": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "SunMoon university",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "2025-05-28",
+            "v_description": "​​​​​ The website sunmoon.ac.kr is the official online portal of Sun Moon University (SMU), a privat..."
+        },
+        {
+            "v_name": "educo",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​ Educo El Salvador, the Salvadoran branch of Educo, an international non-governmental organizat..."
+        },
+        {
+            "v_name": "VS One Technology",
+            "Discovery Date": "2025-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "​​​​​VS One is a technology solutions provider based in Sri Lanka, established in 2019. The company ..."
+        },
+        {
+            "v_name": "Municipality of Pisa",
+            "Discovery Date": "2025-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "The website comune.pisa.it is the official portal of the Municipality of Pisa, Italy. It serves as t..."
+        },
+        {
+            "v_name": "novaevo+ / T.consulT",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "​\"Novaevo\" refers to a specialized software solution developed by T.consulT, an Italian company, des..."
+        },
+        {
+            "v_name": "SJERP",
+            "Discovery Date": "2025-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "​The website sj.com.do is the official platform for SJ ERP, a comprehensive Enterprise Resource Plan..."
+        },
+        {
+            "v_name": "rawafid",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "Established in 2008 and headquartered in Riyadh, Rawafid Industrial specializes in water infrastruct..."
+        },
+        {
+            "v_name": "Élan Sportif Nantes",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-03-25",
+            "v_description": "this Victim has been unlisted and operation leak has been stoped , we stop attacks on schools  non-p..."
+        },
+        {
+            "v_name": "Tomio Ingeniería",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-03-22",
+            "v_description": "​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "Ihara",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-03-27",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "Pere Claver grup",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-03-28",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "Formosa Chang",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-03-30",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "hasbco Company",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "Al-Hejailan Group",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-14",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "NewHotel cloud",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "ARRCO LSM",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "​​​​Bio-Clima Service",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "​​​​​Data has been leaked shame on you and all who work with you..."
+        },
+        {
+            "v_name": "​​​​bettininformatica - suporteon",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-16",
+            "v_description": "​​​​​​​​BThe website bettininformatica.com.br belongs to Bettin Soluções em Informática, a technolog..."
+        },
+        {
+            "v_name": "​​​​agromate",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-22",
+            "v_description": "Agromate.com.my is the official website of Agromate Holdings Sdn Bhd, a leading Malaysian agricultur..."
+        },
+        {
+            "v_name": "HELUKABEL",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-23",
+            "v_description": "The website www.helukabel.de is the official online presence of HELUKABEL GmbH, a German-based globa..."
+        },
+        {
+            "v_name": "DIALLOG",
+            "Discovery Date": "2025-04-28",
+            "Estimated Attack Date": "2025-04-27",
+            "v_description": "Diallog Telecommunications is a Canadian-owned and operated telecom company based in Toronto, establ..."
+        }
+    ]
+}

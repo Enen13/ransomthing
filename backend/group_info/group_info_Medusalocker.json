@@ -1,0 +1,331 @@
+{
+    "group_name": [
+        "Medusalocker"
+    ],
+    "group_description": "Medusa is a DDoS bot written in .NET 2.0. In its current incarnation its C&C protocol is based on HTTP, while its predecessor made use of IRC.",
+    "Victims count": 49,
+    "First discovered victims": "2022-11-15",
+    "Last discovered victim": "2025-05-30",
+    "Avg Delay": "88.2 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 1,
+                    "Business Services": 1,
+                    "Manufacturing": 1,
+                    "Healthcare": 1,
+                    "Hospitality and Tourism": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 3,
+                    "United Arab Emirates": 1,
+                    "Hungary": 1,
+                    "Germany": 1,
+                    "Colombia": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "UnigazJordan",
+            "Discovery Date": "2025-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "www.unigaz.net $690.6 Million The list of files is available at the link https://dropmefiles.com/9HG..."
+        },
+        {
+            "v_name": "Mulia Raya",
+            "Discovery Date": "2025-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "www.muliaraya.co.id $34.8 Million The list of files is available at the link https://dropmefiles.com..."
+        },
+        {
+            "v_name": "Curtain Bluff",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "www.curtainbluff.com Curtain Bluff files Vacationer information (personal data), audit information (..."
+        },
+        {
+            "v_name": "Inversiones Clinica Del Meta SA",
+            "Discovery Date": "2025-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "www.clinicameta.co Description employee information – patient information – agreements – password da..."
+        },
+        {
+            "v_name": "MICRO MANUFACTRING",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "2025-02-06",
+            "v_description": "Micro Manufacturing Inc. Descriptionemployee information – agreement – customer email(.xls)-.msg out..."
+        },
+        {
+            "v_name": "bendixengineering",
+            "Discovery Date": "2025-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "Descriptionemployee information – agreement – customer email(.xls)-.msg outlook files Data-2016-2024..."
+        },
+        {
+            "v_name": "SILKNET COMPANY",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "URL:https://silknet.com https://geocell.ge/ On sale:Company email base(about 1tb)Customer dataCompan..."
+        },
+        {
+            "v_name": "Protected: HIDE NAME",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "SHAMASS.ORG",
+            "Discovery Date": "2024-05-02",
+            "Estimated Attack Date": "2024-04-22",
+            "v_description": "Descriptionemployee information – agreement – customer email(.xls)-.msg outlook files Price-$50000 (..."
+        },
+        {
+            "v_name": "Protected: HIDE NAME SELL DATA SOON",
+            "Discovery Date": "2024-04-26",
+            "Estimated Attack Date": "2024-04-25",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "Protected: Name is hidden",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "skalar.com",
+            "Discovery Date": "2023-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "Ada-Borup-West School",
+            "Discovery Date": "2023-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "Descriptionemployee information – student information – all contracts Price: 35000$..."
+        },
+        {
+            "v_name": "wellons.org",
+            "Discovery Date": "2023-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "Descriptionemployee information – agreement – customer email(.xls)- pst files 15+GB all outlook mess..."
+        },
+        {
+            "v_name": "Confidential files",
+            "Discovery Date": "2023-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "A large number of documents of large companies are available for sale Revenue-$10-$70kk Financial do..."
+        },
+        {
+            "v_name": "INSULCANA CONTRACTING LTD",
+            "Discovery Date": "2023-08-03",
+            "Estimated Attack Date": "2023-07-27",
+            "v_description": "Descriptionemployee information – agreement – customer email(.xls)- passport all canada and other do..."
+        },
+        {
+            "v_name": "Protected: INSULCANA CONTRACTING LTD",
+            "Discovery Date": "2023-07-27",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "Protected: Hidden name",
+            "Discovery Date": "2023-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "There is no excerpt because this is a protected post...."
+        },
+        {
+            "v_name": "Hoosier Equipment company",
+            "Discovery Date": "2023-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- and other documents Price: 60000$..."
+        },
+        {
+            "v_name": "Ucamco Belgium",
+            "Discovery Date": "2023-07-02",
+            "Estimated Attack Date": "",
+            "v_description": "DescriptionClient Case – customers email-Audit information-There is also access to email for newslet..."
+        },
+        {
+            "v_name": "reutlingen.ihk.de",
+            "Discovery Date": "2023-06-24",
+            "Estimated Attack Date": "2023-06-16",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- contracts – and other documents PRICE-$80000..."
+        },
+        {
+            "v_name": "Hausamman company",
+            "Discovery Date": "2023-06-24",
+            "Estimated Attack Date": "2023-06-16",
+            "v_description": "DescriptionClient Case – customers email-documents PRICE-$20000..."
+        },
+        {
+            "v_name": "kafflogistic.hu",
+            "Discovery Date": "2023-06-24",
+            "Estimated Attack Date": "2023-06-17",
+            "v_description": "DescriptionClient Case – agreement – email(outlook files)- contracts – and other documents PRICE-$50..."
+        },
+        {
+            "v_name": "SELL DATA(qtox)",
+            "Discovery Date": "2023-06-24",
+            "Estimated Attack Date": "2023-06-17",
+            "v_description": "Available for sale: to buy please contact qtox price negotiable qtox-E9CD65687463F67F64937E961DD723D..."
+        },
+        {
+            "v_name": "Jalux Americas, Inc.",
+            "Discovery Date": "2023-06-14",
+            "Estimated Attack Date": "2021-11-03",
+            "v_description": "DescriptionClient Case – agreement – email(.msg) – and other documents Price: 160000$The company fai..."
+        },
+        {
+            "v_name": "arborsct.com",
+            "Discovery Date": "2023-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- and other documents Price: 60000$ One copy will be..."
+        },
+        {
+            "v_name": "Salmon Software",
+            "Discovery Date": "2023-06-03",
+            "Estimated Attack Date": "2022-07-11",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- passport- and other documents Price: 120000$ Three..."
+        },
+        {
+            "v_name": "LETAPE JEUNES",
+            "Discovery Date": "2023-06-03",
+            "Estimated Attack Date": "2023-06-02",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- contracts – and other documents(passports) PRICE-$..."
+        },
+        {
+            "v_name": "bsw-architects.com",
+            "Discovery Date": "2023-04-11",
+            "Estimated Attack Date": "",
+            "v_description": "DescriptionClient Case – agreement – email(.msg)- contracts – and other documents PRICE-$80000 There..."
+        },
+        {
+            "v_name": "DGLEGAL",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "emscrm",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MIDAS Company",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AURIS KONINKLIJKE AURIS GROEP",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fidelityunited.ae",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "goldcreekfoods",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "exheat.com",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "hwrpc.com",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tristatefabricators_inc",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atlantisholidays",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "archimages inc",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ALTlTUDE AEROSPACE INC",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fonderia Boccacci",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Zelena Laguna Hotel",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LEGAZPIBANK",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MCCLEAN16  company",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lawtrade company",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Autosoft company",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BIOPLAN",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dyatech company",
+            "Discovery Date": "2022-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

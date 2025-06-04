@@ -1,0 +1,1303 @@
+{
+    "group_name": [
+        "Everest"
+    ],
+    "group_description": "Everest ransom group collects and analyzes information about their victims. They specialize in customer privacy data, financial information, databases, credit card information, and more. The Everest ransom group leaks the victim's data to the darknet and they announced that any victim that will not contact them will suffer from a data leak and they will not delete hist files for future usage.",
+    "Victims count": 211,
+    "First discovered victims": "2021-09-09",
+    "Last discovered victim": "2025-05-26",
+    "Avg Delay": "3.5 days",
+    "Infostealer": "8.5%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 30,
+                    "Business Services": 12,
+                    "Technology": 9,
+                    "Financial": 5,
+                    "Hospitality and Tourism": 2
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 41,
+                    "Italy": 4,
+                    "United Arab Emirates": 4,
+                    "Spain": 3,
+                    "Canada": 3
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Mediclinic Group",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Mediclinic Group is a private hospital group based in South Africa, with internationa..."
+        },
+        {
+            "v_name": "Department of Culture and Tourism Abu Dhabi",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] The Department of Culture and Tourism - Abu Dhabi (DCT Abu Dhabi) drives the emirate'..."
+        },
+        {
+            "v_name": "Coca-Cola",
+            "Discovery Date": "2025-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Founded in 1886, Coca-Cola is a world-renowned beverage corporation and manufacturer ..."
+        },
+        {
+            "v_name": "PDI Health",
+            "Discovery Date": "2025-05-14",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] PDI Health is a leading mobile healthcare service provider that offers solutions ensu..."
+        },
+        {
+            "v_name": "Khidmah",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Khidmah LLC is a comprehensive real estate services company based in Abu Dhabi, Unite..."
+        },
+        {
+            "v_name": "Kaefer",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Kaefer is a global company that specializes in providing services in insulation techn..."
+        },
+        {
+            "v_name": "Balance Diagnostics",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Balance Diagnostics is a medical technology company that specializes in developing ad..."
+        },
+        {
+            "v_name": "Jamjoom Pharma",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-05-01",
+            "v_description": "[AI generated] Jamjoom Pharma is a leading pharmaceutical company based in Jeddah, Saudi Arabia. For..."
+        },
+        {
+            "v_name": "Jordan Kuwait Bank",
+            "Discovery Date": "2025-05-02",
+            "Estimated Attack Date": "2025-04-26",
+            "v_description": "[AI generated] Jordan Kuwait Bank (JKB) is a Middle Eastern banking institution founded in 1972. It ..."
+        },
+        {
+            "v_name": "C2S Technologies Inc.",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "https://c2stechs.com Company representative should follow the instructions to contact us before time..."
+        },
+        {
+            "v_name": "ITSS",
+            "Discovery Date": "2025-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "The ITSS GLOBAL internal network was attacked by our group. During the incident, more than 173 GB of..."
+        },
+        {
+            "v_name": "Weeks, Brucker & Coleman, Ltd | Legal Services",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Weeks, Brucker & Coleman, Ltd internal network was attacked by our group. During the incident, more ..."
+        },
+        {
+            "v_name": "Solaris-pharma.com",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "Full data publication..."
+        },
+        {
+            "v_name": "Woodlake",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "EMRs,Test Results,Patient’s History,Patient’s private information,Billing information etc.Total volu..."
+        },
+        {
+            "v_name": "Volt Infrastructure",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "The Volt Infrastructure internal network was attacked by our group. During the incident, more than 5..."
+        },
+        {
+            "v_name": "The Hoff Brand SL",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "Total volume data :More than 630,000 customers data and orders: Name,Email,Financial Status,Paid at,..."
+        },
+        {
+            "v_name": "Solaris Pharma",
+            "Discovery Date": "2025-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "The Solaris Pharma internal network was attacked by our group. During the incident, more than 400 GB..."
+        },
+        {
+            "v_name": "Welcomehallmission.com",
+            "Discovery Date": "2025-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "2 TB of internal data are free to downloadLink:http://bifpwatchoxp7tsb2kpes37b23ogjrb2kj4wgr7yncf4hh..."
+        },
+        {
+            "v_name": "Evidn",
+            "Discovery Date": "2025-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "Total amount of stolen data : 50GBhttps://www.evidn.comCompany representative should follow the inst..."
+        },
+        {
+            "v_name": "Genie Healthcare",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Database including the entire history of employee records and personal data!More than 4,400 personal..."
+        },
+        {
+            "v_name": "Izmocars",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Total volume data:More than 200GB of .msg files Files including:izmoltd izmocars izmolaw izmomedia i..."
+        },
+        {
+            "v_name": "Total Patient Care LLC;A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of T",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "https://gofile.io/d/XWQ7HJ..."
+        },
+        {
+            "v_name": "Artistic Family Dental;Value Dental Center;Sparkling Smiles Family Dentistry",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "https://gofile.io/d/NOUMwo..."
+        },
+        {
+            "v_name": "Myhealthcarebilling",
+            "Discovery Date": "2024-12-13",
+            "Estimated Attack Date": "",
+            "v_description": "https://www.myhealthcarebilling.com/Company representative should follow the instructions to contact..."
+        },
+        {
+            "v_name": "Sarah Car Care",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "Total amount of stolen data : 100GBhttps://sarahcarcare.com/Company representative should follow the..."
+        },
+        {
+            "v_name": "CO-VER Power Technology SpA",
+            "Discovery Date": "2024-12-07",
+            "Estimated Attack Date": "",
+            "v_description": "Total amount of stolen data : 800GBhttps://www.co-ver.it/Company representative should follow the in..."
+        },
+        {
+            "v_name": "Medical Technology Industries, Inc.",
+            "Discovery Date": "2024-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "Total amount of stolen data : 900GBhttps://mti.netCompany representative should follow the instructi..."
+        },
+        {
+            "v_name": "Concord Orthopaedics",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "Medical records and personal data of all patients from 2018 More than 30,000 identity documents http..."
+        },
+        {
+            "v_name": "STIIIZY",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "Client’s Personal data and ID’s Total personal records : 422,075 https://www.stiiizy.com/ Company re..."
+        },
+        {
+            "v_name": "IndicaOnline",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "Client’s Personal data and ID’s Total personal records : 422,075 https://indicaonline.com Company re..."
+        },
+        {
+            "v_name": "Bio-Clima Service Srl",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "https://bioclimaservice.it/Company representative should follow the instructions to contact us befor..."
+        },
+        {
+            "v_name": "Total Patient Care LLC",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "Medical records and personal information Company representative should follow the instructions to co..."
+        },
+        {
+            "v_name": "A Sensitive Touch Home Health;Alphastar Home Health Care;Heart of Texas Home Healthcare Se",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "Medical records and personal information Company representative should follow the instructions to co..."
+        },
+        {
+            "v_name": "Pincu Barkan, Law Office and Notary",
+            "Discovery Date": "2024-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "More than 230,000 files including personal ID’s copies, fbi crime records, birth certificates etc. h..."
+        },
+        {
+            "v_name": "Value Dental Center",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Medical and personal data of 5000 patients https://valuedentalcentercicero.com Company representativ..."
+        },
+        {
+            "v_name": "Artistic Family Dental",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Medical and personal data of 5000 patients https://artisticfamilydental.comhttps://sparklingsmilesde..."
+        },
+        {
+            "v_name": "Asaro Dental Aesthetics",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "Medical and personal data of 3800 patients https://asarodentalaesthetics.com Company representative ..."
+        },
+        {
+            "v_name": "MedElite Group",
+            "Discovery Date": "2024-11-08",
+            "Estimated Attack Date": "",
+            "v_description": "Medical and personal data of 119,000 patients https://medelitegrp.com Company representative should ..."
+        },
+        {
+            "v_name": "MCNA Dental",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "More than 1 million personal EMR’s https://gofile.io/d/yeIPm4 https://www.mcna.net/..."
+        },
+        {
+            "v_name": "Arctrade",
+            "Discovery Date": "2024-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "Time to resolve : More than 40,000 customers info and other internal data https://arctrade.com ISO, ..."
+        },
+        {
+            "v_name": "Spine by Villamil MD",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "More than 1000 medical data of the company’s patients https://spinebyvillamilmd.com/ Time until publ..."
+        },
+        {
+            "v_name": "Aspen Healthcare",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "More than 1500 Medical Records and Personal Information https://aspenhealthcareservices.com Time unt..."
+        },
+        {
+            "v_name": "Pacific Pulmonary Medical Group",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "Medical records and personal data of all patients from 2021 Company representative should follow the..."
+        },
+        {
+            "v_name": "Country Inn & Suites by Radisson",
+            "Discovery Date": "2024-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "Thousands and thousands of client’s personal information,credit cards info, internal emails, inciden..."
+        },
+        {
+            "v_name": "CreaGen Inc",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "Research data and other internal documents,contracts ,laboratory tests https://creageninc.com Time t..."
+        },
+        {
+            "v_name": "Broward Realty Corp",
+            "Discovery Date": "2024-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "Company must contact and resolve the issue by the end of October 21 or all data will be published 29..."
+        },
+        {
+            "v_name": "Pureform Radiology Center",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "We were able to hack into the Pureform Radiology Center in Canada.All medical records, internal docu..."
+        },
+        {
+            "v_name": "MCNA Dental 1 million patients records",
+            "Discovery Date": "2024-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Mitsubishi Chemical Group",
+            "Discovery Date": "2024-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "Since Mitsubishi Chemicals think that this situation doesn’t bother them much and are more worried a..."
+        },
+        {
+            "v_name": "Horizon View Medical Center",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "NIDEC CORPORATION",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Speed Advisory",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "SH Pension",
+            "Discovery Date": "2024-07-22",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "The Law Office of Omar O. Vargas, P.C.",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "Company must contact us using the instructions in next 3 days. Total amount of stolen data: 450 GB h..."
+        },
+        {
+            "v_name": "STUDIO NOTARILE BUCCI – OLMI",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "Company must contact us using the instructions in next 3 days. Total amount of stolen data: 400 GB h..."
+        },
+        {
+            "v_name": "Gramercy Surgery Center",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to return to the chatTotal amount of stolen data : 465 GBhttps://grame..."
+        },
+        {
+            "v_name": "Cukierski & Associates, LLC",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "The company has 24 hours to contact us or the files will be published and clients notified https://c..."
+        },
+        {
+            "v_name": "Diogenet S.r.l.",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 48 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "2K Dental",
+            "Discovery Date": "2024-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 48 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Zuber Gardner CPAs pt.2",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "",
+            "v_description": "The company’s files are still on our servers and it is stupid to think that they are not there.The c..."
+        },
+        {
+            "v_name": "Voorhees Family Office Services",
+            "Discovery Date": "2024-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Wealth Depot LLC",
+            "Discovery Date": "2024-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Zuber Gardner CPAs",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Corr & Corr",
+            "Discovery Date": "2024-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Accounting Professionals LLC. Price, Breazeale & Chastang",
+            "Discovery Date": "2024-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left.In case of silence, all data..."
+        },
+        {
+            "v_name": "Ayoub & associates CPA Firm",
+            "Discovery Date": "2024-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "MORTON WILLIAMS",
+            "Discovery Date": "2024-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "150 GBhttps://gofile.io/d/mW8T5Uhttps://gofile.io/d/W1oksY https://www.mortonwilliams.com..."
+        },
+        {
+            "v_name": "Les Miroirs St-Antoine Inc",
+            "Discovery Date": "2024-04-25",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Fincasrevuelta Data Leak",
+            "Discovery Date": "2024-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "38 GBhttps://www.fincasrevuelta.es/ https://gofile.io/d/7LIpPv..."
+        },
+        {
+            "v_name": "Crimsgroup Data Leak",
+            "Discovery Date": "2024-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "263 GBcrimsonenginc.com whitetailautomation.com scadahive.com herbert.com https://gofile.io/d/5e9bss..."
+        },
+        {
+            "v_name": "Primeimaging Data Leak",
+            "Discovery Date": "2024-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "200 GB personal medical records, onco results, clients and employee personal data, passports and oth..."
+        },
+        {
+            "v_name": "Crimsgroup",
+            "Discovery Date": "2024-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Fincasrevuelta",
+            "Discovery Date": "2024-03-09",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Raocala",
+            "Discovery Date": "2024-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Primeimaging database for sale",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "1.8 Terabytes of company internal data for salePersonal medical records, onco results, clients and e..."
+        },
+        {
+            "v_name": "Alliedwoundcare",
+            "Discovery Date": "2024-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Primeimaging",
+            "Discovery Date": "2024-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "Company has the last 24 hours to contact us using the instructions left. In case of silence, all dat..."
+        },
+        {
+            "v_name": "Full access to the school network USA",
+            "Discovery Date": "2023-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "On sale access to the all school network.USA,state TXPasswords to the admin,network admin,students,d..."
+        },
+        {
+            "v_name": "Access to the large database of a US Medical organization",
+            "Discovery Date": "2023-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "Available actions with patient data in the panelSearch, Edit, Print, DownloadThe base is replenished..."
+        },
+        {
+            "v_name": "We monetize your corporate access",
+            "Discovery Date": "2023-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "Team looking for corporate accesses (shell,vnc, hvnc, rdp + vpn, teamviewer, anydesk etc.)Us Countri..."
+        },
+        {
+            "v_name": "Agriloja.pt Full Leak",
+            "Discovery Date": "2023-09-18",
+            "Estimated Attack Date": "",
+            "v_description": "https://cloud.mail.ru/public/oAe6/ZfPMzZPwehttps://cloud.mail.ru/public/bLE1/ER3UPBi9Uhttps://cloud...."
+        },
+        {
+            "v_name": "Cmranallolaw.com",
+            "Discovery Date": "2023-09-11",
+            "Estimated Attack Date": "",
+            "v_description": "-Confidential data of a law firm-Tax forms, dl, ssn etc.-Contracts-Personal data of clients-Financia..."
+        },
+        {
+            "v_name": "SKF.com",
+            "Discovery Date": "2023-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "SKF’s network was compromised(by collaboration with Ransomed group) a few days ago. The company cont..."
+        },
+        {
+            "v_name": "Powersportsmarketing.com",
+            "Discovery Date": "2023-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "PSM network was compromised(by collaboration with Ransomed group).Our group got 2.2 Tb of intertnal ..."
+        },
+        {
+            "v_name": "Statefarm.com",
+            "Discovery Date": "2023-09-02",
+            "Estimated Attack Date": "",
+            "v_description": "About 400,000,000 customer insurance records database was stolen from their network.No need to say a..."
+        },
+        {
+            "v_name": "Agriloja pt.3",
+            "Discovery Date": "2023-08-29",
+            "Estimated Attack Date": "",
+            "v_description": "New leakage 3 GB of internal documents .Company must stop ignore our calls and contact us in next 36..."
+        },
+        {
+            "v_name": "Agriloja.pt demo-leak",
+            "Discovery Date": "2023-08-17",
+            "Estimated Attack Date": "",
+            "v_description": "100 random personal records (from 1400+). Company must contact us in next 24 hrs. Otherwise more per..."
+        },
+        {
+            "v_name": "Agriloja.pt",
+            "Discovery Date": "2023-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "464574 internal documents and files stolen.1.2 TBSQL DBs, Email Archives, Personal information,emplo..."
+        },
+        {
+            "v_name": "ZESA Holdings",
+            "Discovery Date": "2023-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "Today, the servers of the entire infrastructure of ZESA HOLDINGS (90% Country Electricity Manufactur..."
+        },
+        {
+            "v_name": "Kovair Software Data Leak",
+            "Discovery Date": "2023-08-05",
+            "Estimated Attack Date": "",
+            "v_description": "The set dates are out, so we post the entire archive Part1 https://dropmefiles.com/3GRYp Part2 https..."
+        },
+        {
+            "v_name": "Great Opportunity to monetize your corporate access",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "Team looking for new partners with access to corporate networks.Fast work, good share. The offer wil..."
+        },
+        {
+            "v_name": "Kovair Software",
+            "Discovery Date": "2023-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "200 GB of internal files (Kovair.com) were stolen from the company’s servers. The files contain:– Pr..."
+        },
+        {
+            "v_name": "US District Court / Law company",
+            "Discovery Date": "2023-04-26",
+            "Estimated Attack Date": "",
+            "v_description": "On sale access to the network US District CourtEmployee access,full controlAV: NoNetwork access of a..."
+        },
+        {
+            "v_name": "US District Court IL / On sale",
+            "Discovery Date": "2023-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "On sale access to the network US District Court Employee access,full control AV: No Network access o..."
+        },
+        {
+            "v_name": "US District Court / On sale",
+            "Discovery Date": "2023-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCareInc pt.2",
+            "Discovery Date": "2023-04-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "US District Court",
+            "Discovery Date": "2023-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NRG Innovations DataBase Leak",
+            "Discovery Date": "2023-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "Includes internal correspondence,financial documents,tax documents,accounting,SSN,DLThe owners of th..."
+        },
+        {
+            "v_name": "Aeronautics company Canada | UTC Aerospace Systems, Bombardier, NASA partners",
+            "Discovery Date": "2023-01-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners",
+            "Discovery Date": "2022-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners",
+            "Discovery Date": "2022-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aeronautics company Canada / Production of parts for aircraft engines",
+            "Discovery Date": "2022-11-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Aeronautics company Canada",
+            "Discovery Date": "2022-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AT&#038;T",
+            "Discovery Date": "2022-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care DataBase on Sale",
+            "Discovery Date": "2022-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rundle Eye Care DataBase Leak",
+            "Discovery Date": "2022-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care New 40 personal records",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care New 250 personal records",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCareInc pt.3",
+            "Discovery Date": "2022-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCareInc DataBase Leak",
+            "Discovery Date": "2022-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care new personal data",
+            "Discovery Date": "2022-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCare DataBase Leak",
+            "Discovery Date": "2022-10-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity company / Air Defense Solutions company",
+            "Discovery Date": "2022-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity company pt.3",
+            "Discovery Date": "2022-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCare pt.3",
+            "Discovery Date": "2022-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care Update",
+            "Discovery Date": "2022-10-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity company pt.2",
+            "Discovery Date": "2022-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "RS.GOV.BR/Government Brazil",
+            "Discovery Date": "2022-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Electricity company",
+            "Discovery Date": "2022-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo",
+            "Discovery Date": "2022-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rundle Eye Care",
+            "Discovery Date": "2022-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCare pt.2",
+            "Discovery Date": "2022-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MultiCare Home Health",
+            "Discovery Date": "2022-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stages Pediatric Care",
+            "Discovery Date": "2022-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank/Fedfina DataBase Leak",
+            "Discovery Date": "2022-09-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ministerio de Economía Argentina",
+            "Discovery Date": "2022-09-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Government Brazil",
+            "Discovery Date": "2022-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank/Fedfina.part5",
+            "Discovery Date": "2022-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GOV Brazil",
+            "Discovery Date": "2022-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Olamgroup",
+            "Discovery Date": "2022-08-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank/Fedfina.part4",
+            "Discovery Date": "2022-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank/Fedfina.part3",
+            "Discovery Date": "2022-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank/Fedfina.part2",
+            "Discovery Date": "2022-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FederalBank / Fedfina",
+            "Discovery Date": "2022-07-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pontal Engineering Constructions and Developments Files Leak",
+            "Discovery Date": "2022-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pontal Engineering Constructions and Developments",
+            "Discovery Date": "2022-07-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Amalfitana Gas Srl",
+            "Discovery Date": "2022-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FAYAT",
+            "Discovery Date": "2022-06-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Metek PLC Files Leak",
+            "Discovery Date": "2022-06-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Metek Plc",
+            "Discovery Date": "2022-06-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VTVCAB",
+            "Discovery Date": "2022-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns",
+            "Discovery Date": "2022-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Limited May Access Sale",
+            "Discovery Date": "2022-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Collegiate sports medicine",
+            "Discovery Date": "2022-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Reckitt Benckiser",
+            "Discovery Date": "2022-04-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Standard Building Supplies Ltd.",
+            "Discovery Date": "2022-04-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Standard Building Supplies Ltd",
+            "Discovery Date": "2022-04-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Supplies Company Data Leak in British Columbia, Canada",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United States of America GOV",
+            "Discovery Date": "2022-04-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ministry of Economy and Finance of Peru",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "South Africa Electricity company",
+            "Discovery Date": "2022-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Instituto Nacional de Tecnología Agropecuaria",
+            "Discovery Date": "2022-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "UK GOV",
+            "Discovery Date": "2022-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "News",
+            "Discovery Date": "2022-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XEFI / Neocyber",
+            "Discovery Date": "2022-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SPERONI SpA",
+            "Discovery Date": "2022-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XEFI",
+            "Discovery Date": "2022-03-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Turner Construction Company",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IDFC FIRST Bank",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ledcor",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BEAUTYWEST, INC.",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gershon Biegeleisen &#038; Co",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Backus, Meyer &#038; Branch, LLP",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Greenberg &#038; Stein New York City Personal Injury Lawyers",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Law Offices of Brandon Sua &#038; Associates",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Campbell Sales and Service, Inc",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Federal land inc.",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Centro Hospitalar de Setúbal",
+            "Discovery Date": "2022-03-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Signum",
+            "Discovery Date": "2022-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Various accesses on sale",
+            "Discovery Date": "2022-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Weir & Partners LLP",
+            "Discovery Date": "2022-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Florida lawyer&#8217;s data leaked",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gardenworks",
+            "Discovery Date": "2022-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AFG Canada",
+            "Discovery Date": "2022-01-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Partnership",
+            "Discovery Date": "2022-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Huhtamaki",
+            "Discovery Date": "2022-01-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SPERONI SPA",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jeffmoss",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ktmtriallaw",
+            "Discovery Date": "2021-12-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Saand",
+            "Discovery Date": "2021-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Seldin",
+            "Discovery Date": "2021-12-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Black Friday has arrived",
+            "Discovery Date": "2021-11-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Società Italiana degli Autori ed Editori / Information updated",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Argentina GOV",
+            "Discovery Date": "2021-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Charlie Hebdo",
+            "Discovery Date": "2021-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "MINISTRY OF ECONOMY AND FINANCE Peru",
+            "Discovery Date": "2021-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Police Brazil",
+            "Discovery Date": "2021-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Società Italiana degli Autori ed Editori / Data on sale",
+            "Discovery Date": "2021-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cabinet Remy Le Bonnois / Data on sale / Charlie Hebdo",
+            "Discovery Date": "2021-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cabinet Remy Le Bonnois / Data on sale",
+            "Discovery Date": "2021-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Società Italiana degli Autori ed Editori",
+            "Discovery Date": "2021-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "U.S. GOV",
+            "Discovery Date": "2021-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kes",
+            "Discovery Date": "2021-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PRECREDIT",
+            "Discovery Date": "2021-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Steel Projects",
+            "Discovery Date": "2021-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Irish Pioneer works",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "VIVA Formwork and Scaffolding",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hörmanseder Stahlbau GmbH",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Southland",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Xmedicalpicture",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Andel",
+            "Discovery Date": "2021-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GROUPE CONFIANCE IMMOBILIER",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cabinet Remy Le Bonnois",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XEFI / Part 2",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Сompilation of lawyers France",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AIC STEEL",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Weir & Partners LLP / Part 2",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "InfraBuild",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Tampa Tank INC",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Alispharm",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Orha Muvek",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

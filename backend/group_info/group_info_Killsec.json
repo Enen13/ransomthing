@@ -1,0 +1,1273 @@
+{
+    "group_name": [
+        "Killsec"
+    ],
+    "group_description": "None",
+    "Victims count": 206,
+    "First discovered victims": "2024-03-21",
+    "Last discovered victim": "2025-05-26",
+    "Avg Delay": "297 days",
+    "Infostealer": "18.4%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Healthcare": 29,
+                    "Business Services": 28,
+                    "Technology": 28,
+                    "Financial": 16,
+                    "Manufacturing": 11
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 62,
+                    "India": 40,
+                    "Brazil": 7,
+                    "Belgium": 7,
+                    "United Kingdom": 7
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Novaria",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Sama",
+            "Discovery Date": "2025-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Constructive Building Solutions",
+            "Discovery Date": "2025-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Medswana",
+            "Discovery Date": "2025-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "SNS SYSTEM",
+            "Discovery Date": "2025-05-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Enflame Technology",
+            "Discovery Date": "2025-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Brügger Architekten AG",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Royal Saudi Air Force",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Collective Architecture",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "IMA Global",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "US BioTek Laboratories",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "747 Studios",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "BenefitElect",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Ocuco",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Workers Informática Ltda",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Testima Engineering",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Brella",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Fancy Films",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Lendco",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Nydegger + Finger AG",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Dorel Home",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Hexicor",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "AAPG",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Hanna Global Solutions",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Flagship Press Flagship Press",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Lee & Sakahara Architects",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Kyocera Document Solutions Europe",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Design Design",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Lupin Limited",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Precision Accounting Intl",
+            "Discovery Date": "2025-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "SPARSH Hospital",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Innovative Surfaces",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Cayman National Bank",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Officio Medical",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Obra Play",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "interiseworld.com",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Instituto de Ojos",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Harcourts Prime Properties",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Skyward Specialty Insurance",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Trymata",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Wendy Wu Tours",
+            "Discovery Date": "2025-03-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Workforce Group",
+            "Discovery Date": "2025-03-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Shaghalni",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "BluAgent Technologies, Inc",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Novi Community School District",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "G&M Direct Hire",
+            "Discovery Date": "2025-02-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Medical File",
+            "Discovery Date": "2025-02-20",
+            "Estimated Attack Date": "",
+            "v_description": "El expediente clínico más innovador del mercado..."
+        },
+        {
+            "v_name": "DR.Claims FL LLC",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "EzyLegal",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "BeniPlus",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Brolly",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Revi",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "2024-06-26",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Help Me Grow Yolo",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "NimuSoft",
+            "Discovery Date": "2025-02-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Obex Medical",
+            "Discovery Date": "2025-02-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Logix Corporate Solutions",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "TMC",
+            "Discovery Date": "2025-02-11",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Enfin",
+            "Discovery Date": "2025-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Capital Cell Global (CCG)",
+            "Discovery Date": "2025-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "ASRAM Medical College and Hospita",
+            "Discovery Date": "2025-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Albright Institute",
+            "Discovery Date": "2025-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "WhoHire",
+            "Discovery Date": "2025-02-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Ponte16 Hotel & Casino",
+            "Discovery Date": "2025-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Nano Health",
+            "Discovery Date": "2025-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "payahmedabadechallan.org",
+            "Discovery Date": "2025-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Let’s Secure Insurance",
+            "Discovery Date": "2025-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "DataSociete",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "DataSociete is a comprehensive B2B platform specializing in global business intelligence and financi..."
+        },
+        {
+            "v_name": "Keepz",
+            "Discovery Date": "2025-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "Keepz is a cutting-edge digital payment solution provider based in Tbilisi, Georgia, offering innova..."
+        },
+        {
+            "v_name": "PrimoTicketing",
+            "Discovery Date": "2025-01-24",
+            "Estimated Attack Date": "",
+            "v_description": "Primo Ticketing is a leading provider of digital ticketing solutions tailored for youth sports, chee..."
+        },
+        {
+            "v_name": "FAAB Invest Advisors Private Limited",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Nimbus Facility Services",
+            "Discovery Date": "2025-01-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Farmacia Cofar",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "anupalanonline.com",
+            "Discovery Date": "2025-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Blome International",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "BRIGHT BOLT ENTERPRISES INC",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Casa Juarez Restaurant Supply Co",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Davis Products Company Inc",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Economy Restaurant Equipment And Supply Company",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "GAMKA SALES CO. INC",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Greater Michigan Distributors",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "GPM Lawn Sprinkler Supply",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Greene Supply Company",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Hammons Supply Company",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "J AND S Electrical And Lighting Supply LLC",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "LAMERS ENTERPRISE INC",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Langford Tool And Drill Co",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "McCally Tool and Supply",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Abrasive Supply Corporation",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Albert Paper Company",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Allied Packing And Rubber Inc",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Avana Electrotek",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Badger Popcorn And Concession Supply Company",
+            "Discovery Date": "2024-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Accolent ERP Software",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "PT Pertamina",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Khalil Center",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Water Utilities Corporation",
+            "Discovery Date": "2024-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Verosa LLC",
+            "Discovery Date": "2024-12-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "JSSR Options Co., Ltd. (JSSR)",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Tumeny Payments Limited",
+            "Discovery Date": "2024-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Interforos Casting",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "USA2ME",
+            "Discovery Date": "2024-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "briatek.com.ng",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "clubfitsoftware.com.au",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "cloudofgoods.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "gehnaindia.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "gajicermat.com",
+            "Discovery Date": "2024-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "waltersgardens.com",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "goformz.com",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "empowersettlementservices.com",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "mydelux.com.my",
+            "Discovery Date": "2024-11-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Ithbar",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "Choose ithbar.com as your solution to start your own crowdfunding platform. Start your own Real esta..."
+        },
+        {
+            "v_name": "Dardoc",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "Experience doorstep home healthcare services and home nursing services in UAE with DarDoc, the front..."
+        },
+        {
+            "v_name": "inv[...]nator",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "The Investment Dominator is a real estate investment CRM that allows you manage your contacts, prope..."
+        },
+        {
+            "v_name": "RiverRestHome",
+            "Discovery Date": "2024-11-25",
+            "Estimated Attack Date": "",
+            "v_description": "River Valley Rest Home is a Level IV Rest Home licensed for 25 beds with CSF (Community Support Faci..."
+        },
+        {
+            "v_name": "Nationwide Legal",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Eassy Life",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Efi Sales",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Vogue Homes",
+            "Discovery Date": "2024-11-23",
+            "Estimated Attack Date": "",
+            "v_description": "Vogue Homes is the leading home builders in Sydney, with award winning designs, house plans and land..."
+        },
+        {
+            "v_name": "ABC Group",
+            "Discovery Date": "2024-11-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "ViralPitch",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Camim",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "LiquiTech",
+            "Discovery Date": "2024-11-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Equentis Wealth",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Terra Energy",
+            "Discovery Date": "2024-11-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Followup CRM",
+            "Discovery Date": "2024-11-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Buddy Loan",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Dragon Capital",
+            "Discovery Date": "2024-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "BluMed Health",
+            "Discovery Date": "2024-11-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Axpr Valve Science",
+            "Discovery Date": "2024-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Giggle Finance",
+            "Discovery Date": "2024-11-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "National Institute of Administration",
+            "Discovery Date": "2024-11-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "OxyHealth",
+            "Discovery Date": "2024-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Doctor 24x7",
+            "Discovery Date": "2024-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Sumitomo",
+            "Discovery Date": "2024-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Fortis",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "ConCash",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Mixfame",
+            "Discovery Date": "2024-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Edmov",
+            "Discovery Date": "2024-10-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Bliss Worldwide",
+            "Discovery Date": "2024-10-26",
+            "Estimated Attack Date": "",
+            "v_description": "$10000..."
+        },
+        {
+            "v_name": "Doctor24x7",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Delcaper",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A..."
+        },
+        {
+            "v_name": "Government of Brazil",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "$25000..."
+        },
+        {
+            "v_name": "NoBroker",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "$50000..."
+        },
+        {
+            "v_name": "SW Reclaim",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "$20000..."
+        },
+        {
+            "v_name": "Wilson Tarquin",
+            "Discovery Date": "2024-10-25",
+            "Estimated Attack Date": "",
+            "v_description": "$20000..."
+        },
+        {
+            "v_name": "shipkar.co.in",
+            "Discovery Date": "2024-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "Welcome to Shipkar Express! At Shipkar Express, we are passionate about delivering excellence in cou..."
+        },
+        {
+            "v_name": "boloforms.com",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "We allow you to efficiently manage document workflows, send multi-recipient signatures, and receive ..."
+        },
+        {
+            "v_name": "onedayevent.com",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "One Day Event Insurance is a special event insurance company that sells event liability insurance fo..."
+        },
+        {
+            "v_name": "autodukan.com",
+            "Discovery Date": "2024-10-22",
+            "Estimated Attack Date": "",
+            "v_description": "AutoDukan offers a wide range of car spare parts and accessories online in India. Shop now for low p..."
+        },
+        {
+            "v_name": "apollohospitals.com",
+            "Discovery Date": "2024-10-20",
+            "Estimated Attack Date": "",
+            "v_description": "Apollo Hospitals is one of India's leading healthcare institutions, offering world-class medical ser..."
+        },
+        {
+            "v_name": "ask.vet",
+            "Discovery Date": "2024-10-19",
+            "Estimated Attack Date": "",
+            "v_description": "AskVet provides virtual pet care services, offering 24/7 consultations through an AI-powered platfor..."
+        },
+        {
+            "v_name": "tripxoxo.com",
+            "Discovery Date": "2024-10-18",
+            "Estimated Attack Date": "",
+            "v_description": "Tripxoxo is a digital platform for travelers to book their activities, experiences, tickets, sightse..."
+        },
+        {
+            "v_name": "volohealth.in",
+            "Discovery Date": "2024-10-17",
+            "Estimated Attack Date": "",
+            "v_description": "India's first fully cashless OPD solution which offers operational efficiency, mitigate frauds & mis..."
+        },
+        {
+            "v_name": "moi.gov.ly",
+            "Discovery Date": "2024-10-16",
+            "Estimated Attack Date": "",
+            "v_description": "The Ministry of Internal Affairs of Libya (وزارة الداخلية الليبية) is the interior ministry of Libya..."
+        },
+        {
+            "v_name": "rudrakshahospitals.com",
+            "Discovery Date": "2024-10-14",
+            "Estimated Attack Date": "",
+            "v_description": "Welcome to Rudraksha Multispeciality Hospitals, the best hospital in Bhopal for its affordability, f..."
+        },
+        {
+            "v_name": "extramarks.com",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Discover a new era of education with Extramarks. Our innovative digital solutions empower schools, t..."
+        },
+        {
+            "v_name": "argofinance.org",
+            "Discovery Date": "2024-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "We are an investment company, using blockchain technology to drive secure and profitable investments..."
+        },
+        {
+            "v_name": "transfoodbeverage.com",
+            "Discovery Date": "2024-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Trans F&B is a subsidiary of Trans Corp which is engaged in Food & Beverages (Food & Beverage)\n\nOur ..."
+        },
+        {
+            "v_name": "avans.com",
+            "Discovery Date": "2024-10-09",
+            "Estimated Attack Date": "",
+            "v_description": "Ofrecemos soluciones de acceso, control de flujo peatonal y transportación vertical para todo tipo d..."
+        },
+        {
+            "v_name": "pingan.com",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Ping An is a China-based conglomerate that owns and operates businesses in fields such as banking, i..."
+        },
+        {
+            "v_name": "healthyuturn.in",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "At Healthy U turn, we specialize in providing tailored dietary plans and expert guidance to help you..."
+        },
+        {
+            "v_name": "yassir.com",
+            "Discovery Date": "2024-10-07",
+            "Estimated Attack Date": "",
+            "v_description": "Yassir is a super app for ride-hailing, food delivery, and grocery shopping, offering convenience an..."
+        },
+        {
+            "v_name": "seoulpi.io",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "Seoul Property Insight (SPI) is a prominent player in the South Korean real estate sector, dedicated..."
+        },
+        {
+            "v_name": "betterhalf.ai",
+            "Discovery Date": "2024-10-05",
+            "Estimated Attack Date": "",
+            "v_description": "The Wedding Company is India's largest end-to-end wedding planning service provider. They offer comp..."
+        },
+        {
+            "v_name": "bbgc.gov.bd",
+            "Discovery Date": "2024-10-04",
+            "Estimated Attack Date": "",
+            "v_description": "The importance of education in building a prosperous nation is immense. Late Shamsul Haque MP establ..."
+        },
+        {
+            "v_name": "telehealthcenter.in",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Telehealth Center allows the doctors to serve the country by serving the patients who need immediate..."
+        },
+        {
+            "v_name": "credihealth.com",
+            "Discovery Date": "2024-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Credihealth is a leading healthcare technology platform that provides patients with access to a wide..."
+        },
+        {
+            "v_name": "itap.nacc.go.th",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "The Integrity and Transparency Assessment of Public Service (ITAP) is an initiative by the National ..."
+        },
+        {
+            "v_name": "porter.in",
+            "Discovery Date": "2024-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "Porter is a tech-enabled logistics company that provides a comprehensive range of delivery services,..."
+        },
+        {
+            "v_name": "poorvika.com",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "Poorvika Mobiles Private Ltd is a company that operates in the Consumer Electronics & Computers Reta..."
+        },
+        {
+            "v_name": "nfe.fazenda.gov.br",
+            "Discovery Date": "2024-09-29",
+            "Estimated Attack Date": "",
+            "v_description": "The NF-e Portal aims to provide information about the Electronic Invoice (Nota Fiscal Eletr�nica), c..."
+        },
+        {
+            "v_name": "medicheck.io",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "MediCheck is a pioneering service provider specializing in medical control and absenteeism managemen..."
+        },
+        {
+            "v_name": "miit.gov.cn",
+            "Discovery Date": "2024-09-17",
+            "Estimated Attack Date": "",
+            "v_description": "The Ministry of Industry and Information Technology (MIIT) is the sixth-ranked executive department ..."
+        },
+        {
+            "v_name": "SuperCommerce.ai",
+            "Discovery Date": "2024-09-16",
+            "Estimated Attack Date": "",
+            "v_description": "Supercommerce.ai transforms commerce in the Middle East and Africa with digital solutions for B2C an..."
+        },
+        {
+            "v_name": "rupicard.com",
+            "Discovery Date": "2024-09-10",
+            "Estimated Attack Date": "",
+            "v_description": "India�s #1 Fixed Deposit (FD) Credit Card is empowering millions of Indians to enhance their CIBIL s..."
+        },
+        {
+            "v_name": "schynsassurances.be",
+            "Discovery Date": "2024-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "Schyns Assurances & Finances is a trusted ally in protecting your assets, wealth, and savings. With ..."
+        },
+        {
+            "v_name": "pv.be",
+            "Discovery Date": "2024-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "P&V is a Belgian cooperative insurance group based in Belgium. We have compromised a third-party pro..."
+        },
+        {
+            "v_name": "cda.be",
+            "Discovery Date": "2024-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "CDA Assurances is a long-established insurance company based in Belgium, dedicated to providing pers..."
+        },
+        {
+            "v_name": "belfius.be",
+            "Discovery Date": "2024-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "Belfius Bank, founded in 1996 and headquartered in Brussels, Belgium, provides banking services...."
+        },
+        {
+            "v_name": "dvv.be",
+            "Discovery Date": "2024-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "DVV Verzekeringen is a prominent insurance provider based in Belgium, specializing in a wide array o..."
+        },
+        {
+            "v_name": "tjs.com",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "ZeroShrink  by TJS delivers an innovative and comprehensive RFID package combined with a robust clou..."
+        },
+        {
+            "v_name": "medisetter.com",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Medisetter is Vietnam's largest multichannel digital network dedicated to healthcare practitioners (..."
+        },
+        {
+            "v_name": "agra-services.be",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Agra Services is a prominent insurance provider in Belgium, dedicated to offering comprehensive insu..."
+        },
+        {
+            "v_name": "mykukun.com",
+            "Discovery Date": "2024-08-28",
+            "Estimated Attack Date": "",
+            "v_description": "Kukun helps homeowners buy better and renovate smarter. It offers a suite of data-driven home invest..."
+        },
+        {
+            "v_name": "onedayonly.co.za",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "OneDayOnly is an online shopping platform offering a variety of deals on consumer products, includin..."
+        },
+        {
+            "v_name": "autonomous.ai",
+            "Discovery Date": "2024-08-26",
+            "Estimated Attack Date": "",
+            "v_description": "Autonomous specializes in ergonomic office furniture and tools aimed at improving productivity and w..."
+        },
+        {
+            "v_name": "terralogs.com.br",
+            "Discovery Date": "2024-08-23",
+            "Estimated Attack Date": "",
+            "v_description": "TerraLogs is a digital platform specializing in financing solutions for the agribusiness sector in B..."
+        },
+        {
+            "v_name": "schoolrush.com",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "School Rush platform allows schools to publish personalized calendar of events to parents, send clas..."
+        },
+        {
+            "v_name": "instadriver.co",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "Instadriver is a dedicated platform to find and hire drivers. Employers rely on Instadriver to recru..."
+        },
+        {
+            "v_name": "level.game",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "Level SuperMind is a wellness technology company focused on improving mental clarity and well-being ..."
+        },
+        {
+            "v_name": "jpoint.in",
+            "Discovery Date": "2024-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "Nahar JPoint, an innovative digital project launched by JITO (Jain International Trade Organization)..."
+        },
+        {
+            "v_name": "startaxi.com",
+            "Discovery Date": "2024-08-14",
+            "Estimated Attack Date": "",
+            "v_description": "Star Taxi was designed as a revolutionary solution for the Romanian taxi market...."
+        },
+        {
+            "v_name": "icarasia.com",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "",
+            "v_description": "iCarAsia is a leading digital automotive platform operating primarily in Southeast Asia, specificall..."
+        },
+        {
+            "v_name": "bonatra.com",
+            "Discovery Date": "2024-08-07",
+            "Estimated Attack Date": "",
+            "v_description": "Bonatra is the leading Holistic Health Care Company offering natural therapies to promote health and..."
+        },
+        {
+            "v_name": "notariusze.waw.pl",
+            "Discovery Date": "2024-08-04",
+            "Estimated Attack Date": "",
+            "v_description": "We have breached notariusze.waw.pl.  For us to wipe the databreach, we ask for a ransom of 10000 EUR..."
+        },
+        {
+            "v_name": "fingersstore.com",
+            "Discovery Date": "2024-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "We have breached fingersstore.com.                             For us to wipe the databreach, we ask..."
+        },
+        {
+            "v_name": "stb.ro",
+            "Discovery Date": "2024-07-30",
+            "Estimated Attack Date": "",
+            "v_description": "We have breached STB.ro (Romanian public transport). For us to wipe the databreach, we ask for a ran..."
+        },
+        {
+            "v_name": "maxcess-logistics.com",
+            "Discovery Date": "2024-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "Maxcess Logistics is a freight forwarding and logistics company based in Rades, Tunisia.  They provi..."
+        },
+        {
+            "v_name": "agranibank.org",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Agrani Bank PLC is a state-owned commercial bank of Bangladesh established in 1972. Its headquarters..."
+        },
+        {
+            "v_name": "laxmicapital.com.np",
+            "Discovery Date": "2024-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "Laxmi Capital Market Limited, Finance, Banking, eBanking, Online Banking, Capital..."
+        },
+        {
+            "v_name": "delhipolice.gov.in",
+            "Discovery Date": "2024-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "We have got Delhi Police breached. We managed to export all the data except for the pictures which w..."
+        },
+        {
+            "v_name": "politiaromana.ro",
+            "Discovery Date": "2024-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "We managed to gain access to a server belonging to the Romanian police and discovered over 200,000 r..."
+        },
+        {
+            "v_name": "rabitbd.com",
+            "Discovery Date": "2024-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "We got the Bangladeshi payment system (aka Rabitbd) breached.                        For us to wipe ..."
+        },
+        {
+            "v_name": "pbgbank.com",
+            "Discovery Date": "2024-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "We have got PBGB (Paschim Banga Gramin Bank) breached.For us to wipe the databreach, we ask for a ra..."
+        },
+        {
+            "v_name": "excellifecoaching.com",
+            "Discovery Date": "2024-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "We have extracted the whole database. WP plugins data, theme, WooCommerce data etc.                 ..."
+        },
+        {
+            "v_name": "keralapolice.gov.in",
+            "Discovery Date": "2024-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "The Kerala Police is the law enforcement agency for the Indian state of Kerala.                     ..."
+        }
+    ]
+}

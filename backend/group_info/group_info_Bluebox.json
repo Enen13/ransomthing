@@ -1,0 +1,49 @@
+{
+    "group_name": [
+        "Bluebox"
+    ],
+    "group_description": "None",
+    "Victims count": 3,
+    "First discovered victims": "2024-12-11",
+    "Last discovered victim": "2024-12-17",
+    "Avg Delay": "8.5 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 1,
+                    "Manufacturing": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "France": 2,
+                    "Sweden": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Groupe-fimar",
+            "Discovery Date": "2024-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "Commercial and Logistics Group..."
+        },
+        {
+            "v_name": "Westerstrand Urfabrik AB",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "2024-12-02",
+            "v_description": "Manufacturer of Swedish quality products..."
+        },
+        {
+            "v_name": "PH ARCHITECTURE",
+            "Discovery Date": "2024-12-11",
+            "Estimated Attack Date": "2024-12-03",
+            "v_description": "French architectural design company..."
+        }
+    ]
+}

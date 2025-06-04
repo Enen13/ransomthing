@@ -1,0 +1,37 @@
+{
+    "group_name": [
+        "Nightsky"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 2,
+    "First discovered victims": "2022-01-04",
+    "Last discovered victim": "2022-01-04",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "AKIJ GROUP",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹",
+            "Discovery Date": "2022-01-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "group_name": [
+        "Handala"
+    ],
+    "group_description": "Not a Ransomware Group",
+    "Victims count": 57,
+    "First discovered victims": "2024-05-26",
+    "Last discovered victim": "2025-02-09",
+    "Avg Delay": "23.8 days",
+    "Infostealer": "15.4%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 18,
+                    "Government": 10,
+                    "Healthcare": 6,
+                    "Manufacturing": 4,
+                    "Business Services": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Israel": 36,
+                    "United States": 1,
+                    "Germany": 1,
+                    "Switzerland": 1,
+                    "Syrian Arab Republic": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Israel Police",
+            "Discovery Date": "2025-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "To the self-proclaimed guardians of order in Israel, Your arrogance has been your downfall. Did you ..."
+        },
+        {
+            "v_name": "Tosaf",
+            "Discovery Date": "2025-02-02",
+            "Estimated Attack Date": "",
+            "v_description": "Today, in a strategic move, we, the Handala Group, have successfully breached and taken full control..."
+        },
+        {
+            "v_name": "Israel Ministry of National Security",
+            "Discovery Date": "2025-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "Ministry of National Security Hacked Happening now: 1- Hacking the comprehensive integrated manageme..."
+        },
+        {
+            "v_name": "Zuk Group",
+            "Discovery Date": "2025-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "Moshe Zuk: The Entrepreneur with a Hidden Agenda Moshe Zuk has long been known as a successful entre..."
+        },
+        {
+            "v_name": "Allen Carr’s Easyway",
+            "Discovery Date": "2024-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hack Breaches Allen Carr’s Easyway Company in Supply Chain Attack, Dump Customer Database an..."
+        },
+        {
+            "v_name": "Reutone",
+            "Discovery Date": "2024-12-25",
+            "Estimated Attack Date": "",
+            "v_description": "Oh, what a day it has been for Reutone, the self-proclaimed “largest CRM company in Israel”! It turn..."
+        },
+        {
+            "v_name": "GNS Cloud",
+            "Discovery Date": "2024-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "Israel Largest Cloud Company None of your data is safe now! GNS Cloud can’t even provide its own cyb..."
+        },
+        {
+            "v_name": "Harel Insurance ( Shirbit Server )",
+            "Discovery Date": "2024-12-03",
+            "Estimated Attack Date": "",
+            "v_description": "Shirbit was one of the largest insurance companies in the Zionist regime, which provided all cars an..."
+        },
+        {
+            "v_name": "Silicom",
+            "Discovery Date": "2024-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "The biggest and most feared cover company of unit 8200 was hacked! In all the assassinations and cri..."
+        },
+        {
+            "v_name": "SSV Blockchain Network",
+            "Discovery Date": "2024-11-21",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked SSV Blockchain Network ( Mossad financing and money laundering network  ) Where did t..."
+        },
+        {
+            "v_name": "Elad municipality",
+            "Discovery Date": "2024-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "Handala hacked the airgap network of Elad Municipality! The municipality is closed today, don’t visi..."
+        },
+        {
+            "v_name": "IM Cannabis",
+            "Discovery Date": "2024-10-30",
+            "Estimated Attack Date": "",
+            "v_description": "IM Cannabis is one of the main arms of the distribution of hallucinogenic and dangerous drugs in Eur..."
+        },
+        {
+            "v_name": "AGAS",
+            "Discovery Date": "2024-10-28",
+            "Estimated Attack Date": "",
+            "v_description": "AGAS is one of the largest companies providing cloud services and cyber security in the occupied ter..."
+        },
+        {
+            "v_name": "Doscast",
+            "Discovery Date": "2024-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Doscast Hacked   This website is the largest radical Jewish community podcast site in the world!   D..."
+        },
+        {
+            "v_name": "Ambassador of Israel in Germany Emails",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "50K Secret Emails of Ron Prosor, senior officer of Mossad! Your Death is Near! We have been and are ..."
+        },
+        {
+            "v_name": "Max Shop",
+            "Discovery Date": "2024-10-08",
+            "Estimated Attack Date": "",
+            "v_description": "Israel Max Shop Hacked Max Shop is one of the store terminal cloud software that is used in more tha..."
+        },
+        {
+            "v_name": "IIB ( Israeli Industrial Batteries ) Leaked",
+            "Discovery Date": "2024-10-06",
+            "Estimated Attack Date": "",
+            "v_description": "300 GB of IIB Data Leaked Handala Hacked IIB ( Israeli Industrial Batteries ) IIB is one of the comp..."
+        },
+        {
+            "v_name": "Shin Bet",
+            "Discovery Date": "2024-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "Shin Bet’s comprehensive security system was hacked! Shin Bet has designed a comprehensive and exclu..."
+        },
+        {
+            "v_name": "Israel Prime Minister Emails",
+            "Discovery Date": "2024-10-02",
+            "Estimated Attack Date": "",
+            "v_description": "110,000 secret emails of the former prime minister! This is Ehud Barak, your former prime minister! ..."
+        },
+        {
+            "v_name": "Soreq NRC",
+            "Discovery Date": "2024-09-28",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Soreq NRC The sound of this operation will soon be heard throughout occupied Palestin..."
+        },
+        {
+            "v_name": "Israel foreign affairs minister Emails",
+            "Discovery Date": "2024-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "60/000 secret Emails This data is only a small part of our data lake about Gabi Ashkenazi , former M..."
+        },
+        {
+            "v_name": "Israel defense minister private photos",
+            "Discovery Date": "2024-09-24",
+            "Estimated Attack Date": "",
+            "v_description": "2/000 private photos of Benny Gantz The former defense minister of the Zionist regime has taken very..."
+        },
+        {
+            "v_name": "Benny Gantz",
+            "Discovery Date": "2024-09-23",
+            "Estimated Attack Date": "",
+            "v_description": "35/000 Confidential Emails of Benny Gantz Publish for First Time In recent days, we found out that B..."
+        },
+        {
+            "v_name": "Vidisco",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Vidisco Vidisco is an Israeli based developer and manufacturer of portable digital X-..."
+        },
+        {
+            "v_name": "IIB ( Israeli Industrial Batteries )",
+            "Discovery Date": "2024-09-19",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked IIB ( Israeli Industrial Batteries ) IIB is one of the companies affiliated to the Mi..."
+        },
+        {
+            "v_name": "Appletec Ltd",
+            "Discovery Date": "2024-08-29",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Appletec Ltd. It is an affiliated company of the Ministry of Defense of the regime an..."
+        },
+        {
+            "v_name": "EPS Tech R&D",
+            "Discovery Date": "2024-08-25",
+            "Estimated Attack Date": "",
+            "v_description": "For the first time, as a PoC, we are publishing a number of top-secret documents for the design of e..."
+        },
+        {
+            "v_name": "EPS Tech confidential source code ( military )",
+            "Discovery Date": "2024-08-22",
+            "Estimated Attack Date": "",
+            "v_description": "10GB EPS Tech confidential source code PoC Handala has about 800 GB of the source code of sensitive ..."
+        },
+        {
+            "v_name": "EPS Tech Ltd",
+            "Discovery Date": "2024-08-15",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked EPS Tech Ltd EPS are designers and providers of advanced embedded electronic systems ..."
+        },
+        {
+            "v_name": "Innovalve 3TB ( $300M )",
+            "Discovery Date": "2024-08-08",
+            "Estimated Attack Date": "2024-07-26",
+            "v_description": "Handala Leaked 3TB Innovalve Sensitive Data On July 17th, Edwards Lifesciences American company boug..."
+        },
+        {
+            "v_name": "Innovalve 3TB Data Leak ( $300M )",
+            "Discovery Date": "2024-07-26",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Leaked 3TB Innovalve Sensitive Data On July 17th, Edwards Lifesciences American company boug..."
+        },
+        {
+            "v_name": "BLEnergy",
+            "Discovery Date": "2024-07-24",
+            "Estimated Attack Date": "2024-07-23",
+            "v_description": "BLEnergy (https://il.linkedin.com/company/blenergy-bess-integrator), a member of the Blilious Group,..."
+        },
+        {
+            "v_name": "Handala’s attack on Israeli organizations",
+            "Discovery Date": "2024-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "Handala’s attack on Israeli organizations Yesterday, after the problem occurred in CrowdStrike, Hand..."
+        },
+        {
+            "v_name": "Eyal Baror the key official of the 8200 unit",
+            "Discovery Date": "2024-07-17",
+            "Estimated Attack Date": "",
+            "v_description": "Do you know real Eyal Baror? Does Edwards Lifesciences know who he made a deal with? Have we gone to..."
+        },
+        {
+            "v_name": "[temporary] Warning for Eyal Baror",
+            "Discovery Date": "2024-07-16",
+            "Estimated Attack Date": "",
+            "v_description": "Dear Eyal Baror You have 24 hours to resign and take responsibility for this disaster, otherwise we ..."
+        },
+        {
+            "v_name": "Innovalve Bio Medical",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Congratulations on setting fire to an incredible $300 million! Handala Hacked Innovalve Bio Medical ..."
+        },
+        {
+            "v_name": "Sheba Medical Center",
+            "Discovery Date": "2024-07-15",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Sheba Medical Center Chaim Sheba Medical Center is the largest hospital in Occupied l..."
+        },
+        {
+            "v_name": "Sonol ( Gas Stations )",
+            "Discovery Date": "2024-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "Gas now! Handala Hacked Sonol At a time when our children are under severe siege and no medicine or ..."
+        },
+        {
+            "v_name": "Independent Education System",
+            "Discovery Date": "2024-07-01",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Centralized system of Independent Education System of Haredi Judaism! As you can see,..."
+        },
+        {
+            "v_name": "Zerto Security",
+            "Discovery Date": "2024-06-23",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Zerto ( One of the largest Zionist cyber security companies in the world ) Zerto, a H..."
+        },
+        {
+            "v_name": "SolidCAM 2024 SP0",
+            "Discovery Date": "2024-06-17",
+            "Estimated Attack Date": "",
+            "v_description": "Irresponsibility is one of the characteristic features of a Zionist! More than a week has passed sin..."
+        },
+        {
+            "v_name": "Ma’agan Michael Kibbutz",
+            "Discovery Date": "2024-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Ma’agan Michael Kibbutz Ma’agan Michael is among Israel’s largest and most financiall..."
+        },
+        {
+            "v_name": "SolidCAM LEAK",
+            "Discovery Date": "2024-06-12",
+            "Estimated Attack Date": "2024-06-11",
+            "v_description": "It seems that data breach is not important for SolidCAM (https://www.solidcam.com/) ! As we said bef..."
+        },
+        {
+            "v_name": "SolidCAM",
+            "Discovery Date": "2024-06-10",
+            "Estimated Attack Date": "",
+            "v_description": "Hello to SolidCAM ! Handala Hacked SolidCAM (https://www.solidcam.com/). SolidCAM is an on-premise c..."
+        },
+        {
+            "v_name": "Elfi-Tech",
+            "Discovery Date": "2024-06-05",
+            "Estimated Attack Date": "",
+            "v_description": "Handala Hacked Elfi-Tech ( www.elfi-tech.com ) We hacked the largest company manufacturing smart hos..."
+        },
+        {
+            "v_name": "My City application",
+            "Discovery Date": "2024-06-03",
+            "Estimated Attack Date": "",
+            "v_description": "Did you receive Handala’s message (https://www.israelhayom.co.il/tech/tech-news/article/15843626) on..."
+        },
+        {
+            "v_name": "Information Technology",
+            "Discovery Date": "2024-05-27",
+            "Estimated Attack Date": "",
+            "v_description": "Hello to the Zionist information technology community! Handala Hacked: Cello (formerly Cellopark) ME..."
+        },
+        {
+            "v_name": "Israel Textile",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-05",
+            "v_description": "Standard Textile, Arad Textile Industries, North Division Hacked By Handala!   1.9 TB Data Dumped!  ..."
+        },
+        {
+            "v_name": "Israel Massad Quality",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-07",
+            "v_description": "Handala Hacked Massad Quality Massad College provides a wide range of courses and continuing educati..."
+        },
+        {
+            "v_name": "Israel largest cyber security college",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-13",
+            "v_description": "Handala Hacked Smart College (The largest Zionist cyber security college ) Smart College is a leadin..."
+        },
+        {
+            "v_name": "Israel 99 Digital!",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-13",
+            "v_description": "Handala Hacked 99 digital and send last messages to Zionists! This was a clear message to 8200 not t..."
+        },
+        {
+            "v_name": "Israel Radars!",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-13",
+            "v_description": "For the second time we Hacked your radar systems… but this time with a difference! You only have a f..."
+        },
+        {
+            "v_name": "Kashin Distillery",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-04-30",
+            "v_description": "Handala Hacked Kashin Distillery ( One of the largest factories for the production of alcoholic beve..."
+        },
+        {
+            "v_name": "High Group",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-05-02",
+            "v_description": "Handala Hacked High Group High Group is one of the main sources of settlement development in the occ..."
+        },
+        {
+            "v_name": "Amigour Company",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-05-16",
+            "v_description": "We told that any company or person will take action to build a settlement in our lands, it will be t..."
+        },
+        {
+            "v_name": "Harmony Pharm",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-05-22",
+            "v_description": "Handala Hacked Harmony Pharm ( One of the largest pharmacies in Tel Aviv ) harmonyisrael.co.il The g..."
+        },
+        {
+            "v_name": "Ramat Gan Academic College",
+            "Discovery Date": "2024-05-26",
+            "Estimated Attack Date": "2024-05-25",
+            "v_description": "Handala Hacked Ramat Gan Academic College The Israel Academic College in Ramat Gan is a leading acad..."
+        }
+    ]
+}

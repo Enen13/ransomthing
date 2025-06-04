@@ -1,0 +1,1168 @@
+{
+    "group_name": [
+        "Vicesociety"
+    ],
+    "group_description": "Vice Society ransomware appends the .v-society extension when encrypting Linux machines. Running a leak site on the darkweb, Possible relations with \"HelloKitty\"",
+    "Victims count": 189,
+    "First discovered victims": "2021-05-31",
+    "Last discovered victim": "2023-06-20",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Government Facilities": 1,
+                    "Healthcare and Public Health": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 7,
+                    "United Kingdom": 7,
+                    "Spain": 3,
+                    "Australia": 3,
+                    "Indonesia": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "SSV Architects",
+            "Discovery Date": "2023-06-20",
+            "Estimated Attack Date": "",
+            "v_description": "Our office realizes a wide range of different construction tasks. We design buildings that are natur..."
+        },
+        {
+            "v_name": "Bogleboo",
+            "Discovery Date": "2023-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "Bogleboo develops and maintains customized systems in the fashion industry. We have many years of ex..."
+        },
+        {
+            "v_name": "Nerim",
+            "Discovery Date": "2023-06-04",
+            "Estimated Attack Date": "",
+            "v_description": "Nerim is a full service operator fulfilling the full range of communications needs of SMBs and local..."
+        },
+        {
+            "v_name": "Adsboll",
+            "Discovery Date": "2023-05-29",
+            "Estimated Attack Date": "",
+            "v_description": "Adsboll - is a national construction company. Nationwide, we are skilled in residential and commerci..."
+        },
+        {
+            "v_name": "Cafpi",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Cafpi is the undisputed leader of the profession it created: that of Mortgage Broker. Prominent in t..."
+        },
+        {
+            "v_name": "Aneka Tambang",
+            "Discovery Date": "2023-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "With operations spread throughout the mineral-rich Indonesian archipelago, ANTAM undertakes all acti..."
+        },
+        {
+            "v_name": "DATALAN",
+            "Discovery Date": "2023-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "DATALAN is more than 220 experts who are united by strong know-how and enthusiasm for technology. We..."
+        },
+        {
+            "v_name": "Brighton Hill Community School",
+            "Discovery Date": "2023-05-02",
+            "Estimated Attack Date": "",
+            "v_description": "Brighton Hill Community School is a coeducational secondary school located in Brighton Hill, Basings..."
+        },
+        {
+            "v_name": "CMC Group",
+            "Discovery Date": "2023-04-30",
+            "Estimated Attack Date": "",
+            "v_description": "Located in Bowling Green, Ohio, Century Label (a CMC Group company) has over 40 years of experience ..."
+        },
+        {
+            "v_name": "Neptune Lines",
+            "Discovery Date": "2023-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "It is Neptune Lines' mission to be the most trusted car carrier company in the areas we operate, alw..."
+        },
+        {
+            "v_name": "Lakeland Community College",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1967, Lakeland Community College was the first college in Ohio created by a vote of the p..."
+        },
+        {
+            "v_name": "CommScope",
+            "Discovery Date": "2023-04-15",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 1976, CommScope Holding provides infrastructure solutions for communications networks wor..."
+        },
+        {
+            "v_name": "Lewis & Clark College",
+            "Discovery Date": "2023-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "Lewis & Clark is a private institution with a public conscience, a residential campus with global re..."
+        },
+        {
+            "v_name": "Autoridad de Acueductos Y Alcantarillados",
+            "Discovery Date": "2023-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "The Puerto Rico Aqueducts and Sewers Authority is a water company and the government-owned corporati..."
+        },
+        {
+            "v_name": "Ecolog International",
+            "Discovery Date": "2023-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Ecolog International is a multinational company that uses technology and supply chain management to ..."
+        },
+        {
+            "v_name": "Berkeley County Schools",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "Berkeley County Public Schools oversees all operations of the public schools in the county of Berkel..."
+        },
+        {
+            "v_name": "Kventa Kft",
+            "Discovery Date": "2023-03-06",
+            "Estimated Attack Date": "",
+            "v_description": "Our company's main field of activity has been the trade of computing devices since the beginning. To..."
+        },
+        {
+            "v_name": "HAW Hamburg",
+            "Discovery Date": "2023-03-05",
+            "Estimated Attack Date": "",
+            "v_description": "Developing sustainable solutions to the societal challenges of today and tomorrow. This is the goal ..."
+        },
+        {
+            "v_name": "HUNOSA",
+            "Discovery Date": "2023-03-03",
+            "Estimated Attack Date": "",
+            "v_description": "We are a business group that transforms, like energy. After decades as a benchmark in a strategic se..."
+        },
+        {
+            "v_name": "Vesuvius",
+            "Discovery Date": "2023-03-01",
+            "Estimated Attack Date": "",
+            "v_description": "Vesuvius provides engineering services and solutions principally to steel and foundry industries wor..."
+        },
+        {
+            "v_name": "Mount Saint Mary College",
+            "Discovery Date": "2023-02-09",
+            "Estimated Attack Date": "",
+            "v_description": "Mount Saint Mary College is a private Catholic college in Newburgh, New York. It was founded in 1959..."
+        },
+        {
+            "v_name": "Guildford County School",
+            "Discovery Date": "2023-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "As a School founded in 1905 we have deep-rooted values and traditions which have resulted in consist..."
+        },
+        {
+            "v_name": "TechInsights",
+            "Discovery Date": "2023-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "For over 30 years we have existed to support a fair marketplace where semiconductor and electronics ..."
+        },
+        {
+            "v_name": "Societa Italiana Brevetti SpA",
+            "Discovery Date": "2023-01-31",
+            "Estimated Attack Date": "",
+            "v_description": "We are a leading firm in intellectual property consultancy , specialized in the protection and defen..."
+        },
+        {
+            "v_name": "Okanagan College",
+            "Discovery Date": "2023-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1963, Okanagan College has since grown to be the largest college in British Columbia ..."
+        },
+        {
+            "v_name": "Scheppersinstituut Wetteren",
+            "Discovery Date": "2023-01-30",
+            "Estimated Attack Date": "",
+            "v_description": "Scheppersinstituut Wetteren is a company that operates in the Education industry. The Scheppers Inst..."
+        },
+        {
+            "v_name": "NPTC Group of Colleges",
+            "Discovery Date": "2023-01-29",
+            "Estimated Attack Date": "",
+            "v_description": "NPTC Group of Colleges, formerly Neath Port Talbot College and Coleg Powys, is one of the largest Fu..."
+        },
+        {
+            "v_name": "Seguros Equinoccial",
+            "Discovery Date": "2023-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "Seguros Equinoccial was born in 1973 and since then it has been a leading company in the Ecuadorian ..."
+        },
+        {
+            "v_name": "EGR",
+            "Discovery Date": "2023-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "We have specialized in the sale of telecommunications and mobile communications products for over 25..."
+        },
+        {
+            "v_name": "Bristol Community College",
+            "Discovery Date": "2023-01-26",
+            "Estimated Attack Date": "",
+            "v_description": "Bristol Community College is a comprehensive, public community college offering more than 130 career..."
+        },
+        {
+            "v_name": "CloudCall",
+            "Discovery Date": "2023-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "CloudCall aims to become the leading global provider of cloud solutions for small to medium business..."
+        },
+        {
+            "v_name": "emoney Home Loans",
+            "Discovery Date": "2023-01-23",
+            "Estimated Attack Date": "",
+            "v_description": "With over 25 years of expertise, we're the home for all borrowers. At emoney Home Loans, we know tha..."
+        },
+        {
+            "v_name": "Monmouth College",
+            "Discovery Date": "2023-01-20",
+            "Estimated Attack Date": "",
+            "v_description": "Monmouth College is a private Presbyterian liberal arts college in Monmouth, Illinois. Monmouth enro..."
+        },
+        {
+            "v_name": "University of Duisburg-Essen",
+            "Discovery Date": "2023-01-16",
+            "Estimated Attack Date": "",
+            "v_description": "With its 12 departments and around 40,000 students, the University of Duisburg-Essen is among the 10..."
+        },
+        {
+            "v_name": "TIMco",
+            "Discovery Date": "2023-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "TIMCO is a supplier of essential products that trade professionals rely on every day. Over 7,000 qua..."
+        },
+        {
+            "v_name": "Central Texas College",
+            "Discovery Date": "2023-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "We offer a comprehensive array of associate degrees, career and technical training, and adult contin..."
+        },
+        {
+            "v_name": "Fire Rescue Victoria",
+            "Discovery Date": "2023-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "Fire Rescue Victoria is a fire and rescue service in the state of Victoria, Australia, that provides..."
+        },
+        {
+            "v_name": "Duty Free Philippines",
+            "Discovery Date": "2023-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "Duty Free Philippines - In the service of Philippine Tourism. As a government corporation, DFPC is t..."
+        },
+        {
+            "v_name": "Swift Academies",
+            "Discovery Date": "2023-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "The aim of the Swift Academies is to build, strengthen and expand our Trust across the North of Engl..."
+        },
+        {
+            "v_name": "Park View",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "Park View is a high performing community school in Tottenham, north London where your child will asp..."
+        },
+        {
+            "v_name": "Bay Area Rapid Transit",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "The San Francisco Bay Area Rapid Transit District is a heavy-rail public transit system that connect..."
+        },
+        {
+            "v_name": "City Lit",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "Whether you are looking to kick-start a new career, delve into a favourite topic, keep active or bri..."
+        },
+        {
+            "v_name": "PROQUINAL Spradling Group",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "A team of over 1,800 people who work every day with the desire to inspire the world with designs tha..."
+        },
+        {
+            "v_name": "Sub-drill Supply",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "Sub-drill was incorporated in 1992 and is a proven and trusted manufacturer and supplier of Subsea T..."
+        },
+        {
+            "v_name": "LetMeRepair",
+            "Discovery Date": "2023-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "We are company focusing on supporting the complete, \"presales\" and \"after sales cycles\" for the IT, ..."
+        },
+        {
+            "v_name": "FREDERICK Public Schools",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Our Mission: To provide a caring and creative environment that promotes excellence, fosters integrit..."
+        },
+        {
+            "v_name": "McNamara & Thiel Insurance Agency",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1974, McNamara & Thiel has been one of the leading full-service, independent agencies..."
+        },
+        {
+            "v_name": "JEALSA",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Jealsa is a family business based in Galicia and founded in 1958 with its central headquarters locat..."
+        },
+        {
+            "v_name": "Communications Solutions Company",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Ltd (CSC) is a Saudi Arabian Company based in Riyadh. CSC is a leading company in Telecommunication ..."
+        },
+        {
+            "v_name": "Priority Building Services, LLC",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Over three decades of combined experience in managing the janitorial maintenance programs of some of..."
+        },
+        {
+            "v_name": "Waikato District Health Board",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "The Waikato District Health Board is a district health board with the focus on providing healthcare ..."
+        },
+        {
+            "v_name": "Whitehouse Independent School District",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "The mission of Whitehouse ISD, the standard of excellence, is to inspire and equip students through ..."
+        },
+        {
+            "v_name": "SparJames Hall & CompanyHeron and Brearley",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Heron & Brearley and its related group of companies is a major employer in the Isle of Man, as well ..."
+        },
+        {
+            "v_name": "Higher School of the Public Ministry of the Union",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "The mission of the ESMPU is to facilitate the continuous improvement of the members and servants of ..."
+        },
+        {
+            "v_name": "San Luis Coastal Unified School District",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Small neighborhood schools are a hallmark of the District where students are educated from preschool..."
+        },
+        {
+            "v_name": "Consejo Superior de Investigaciones Cientificas",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "The Higher Council for Scientific Research (CSIC) is the largest public institution in Spain dedicat..."
+        },
+        {
+            "v_name": "Family Medicine CentersFMC Clinics",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Family Medicine Centers are the area's leading provider of family medical care. Our board-certified ..."
+        },
+        {
+            "v_name": "Xavier University of Louisiana",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "Xavier University of Louisiana, founded by Saint Katharine Drexel and the Sisters of the Blessed Sac..."
+        },
+        {
+            "v_name": "University Institute of Technology of Paris",
+            "Discovery Date": "2022-12-17",
+            "Estimated Attack Date": "",
+            "v_description": "The University Institute of Technology (IUT) of Paris - Rives de Seine welcomes 3,000 students each ..."
+        },
+        {
+            "v_name": "Publicare",
+            "Discovery Date": "2022-12-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Universidade Catolica Portuguesa",
+            "Discovery Date": "2022-12-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "New Partners",
+            "Discovery Date": "2022-12-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Feu Vert",
+            "Discovery Date": "2022-12-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Glutz",
+            "Discovery Date": "2022-12-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Plascar Participacoes Industriais",
+            "Discovery Date": "2022-11-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "IKEA MoroccoIKEA Kuwait",
+            "Discovery Date": "2022-11-28",
+            "Estimated Attack Date": "",
+            "v_description": "We believe that no matter what we do in life, we should always try to be the absolute best at it. At..."
+        },
+        {
+            "v_name": "Cincinnati State",
+            "Discovery Date": "2022-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Institute of Science and Technology Austria",
+            "Discovery Date": "2022-11-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Baysgarth School",
+            "Discovery Date": "2022-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kreisverwaltung Rhein-Pfalz-Kreis",
+            "Discovery Date": "2022-11-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hartnell College",
+            "Discovery Date": "2022-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CR&R Environmental Services",
+            "Discovery Date": "2022-11-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "YMCA of Metropolitan Washington",
+            "Discovery Date": "2022-11-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unidad Medica Angloamericana",
+            "Discovery Date": "2022-11-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rooks Heath School",
+            "Discovery Date": "2022-11-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Bishop of Hereford's Bluecoat School",
+            "Discovery Date": "2022-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Kujalleq Municipality",
+            "Discovery Date": "2022-10-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grupo Jaime Camara",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "TMShipping",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "HALYVOURGIKI.S.A.",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Marist College Ashgrove",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pate's Grammar School",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Test Valley School",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mars Area School District",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Maternite des Bluets",
+            "Discovery Date": "2022-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Los Angeles Unified School District",
+            "Discovery Date": "2022-09-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Samuel Ryder Academy",
+            "Discovery Date": "2022-09-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "School of Oriental African Studies",
+            "Discovery Date": "2022-09-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Sierra College",
+            "Discovery Date": "2022-09-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Elmbrook Schools",
+            "Discovery Date": "2022-09-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Moon Area School District",
+            "Discovery Date": "2022-09-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lampton School",
+            "Discovery Date": "2022-08-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Frances King School of English",
+            "Discovery Date": "2022-08-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Family Medicine Centers",
+            "Discovery Date": "2022-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "BSA Hospice of the Southwest",
+            "Discovery Date": "2022-08-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PROSOL",
+            "Discovery Date": "2022-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Department of Indre-et-Loire",
+            "Discovery Date": "2022-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Consejo Superior de",
+            "Discovery Date": "2022-08-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Vygon Spain",
+            "Discovery Date": "2022-08-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CHDE POLSKA",
+            "Discovery Date": "2022-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Edenfield",
+            "Discovery Date": "2022-07-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XQUADRAT GmbH",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "San Luis Coastal Unified",
+            "Discovery Date": "2022-07-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Vectalia group",
+            "Discovery Date": "2022-07-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ministry of Agriculture Rebublic Indonesia",
+            "Discovery Date": "2022-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "Indonesia's rich natural resources are influenced by its tropical climate and geographical location ..."
+        },
+        {
+            "v_name": "Medical University of Innsbruck",
+            "Discovery Date": "2022-06-26",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "PT Astra Honda Motor",
+            "Discovery Date": "2022-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pilton Community College",
+            "Discovery Date": "2022-06-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ospedale Macedonio Melloni",
+            "Discovery Date": "2022-06-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Novelty Group",
+            "Discovery Date": "2022-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Magnum",
+            "Discovery Date": "2022-06-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Grand Valley State University",
+            "Discovery Date": "2022-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Palermo",
+            "Discovery Date": "2022-06-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "St Paul",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Acorn Recruitment",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The De Montfort School",
+            "Discovery Date": "2022-06-02",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Catholic Foundation",
+            "Discovery Date": "2022-05-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Atlanta Perinatal Associates",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Carmel College",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Higher School of the Public",
+            "Discovery Date": "2022-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Trans Technology Pte Ltd.",
+            "Discovery Date": "2022-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Caldes de Montbui",
+            "Discovery Date": "2022-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Salud Total",
+            "Discovery Date": "2022-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ELTA Hellenic Post",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Haynes Manuals",
+            "Discovery Date": "2022-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Asia Pacific University",
+            "Discovery Date": "2022-05-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mercadocar Mercantil Ltda.",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Suhl. City in Germany",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Associazione Bancaria Italiana",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Domingues and Pinho Contadores",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Building Plastics, Inc.",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Fonseca Supermarkets",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "GOLDENDUCK GROUP",
+            "Discovery Date": "2022-04-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Levantina, Ingenieria y Construccion",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Stratton Finance",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Est Ensemble",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CORFERIAS",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ALMANIE GROUP",
+            "Discovery Date": "2022-04-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Mossbourne Federation",
+            "Discovery Date": "2022-04-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Centre Hospitalier de Castelluccio",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Small Industries DevelopmentBank of India",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "Small Industries Development Bank of India is the apex regulatory body for overall licensing and reg..."
+        },
+        {
+            "v_name": "Maristes Hermitage",
+            "Discovery Date": "2022-04-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "NuLife Med",
+            "Discovery Date": "2022-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "APSM Systems",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ASPIRO",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ciments Guyanais",
+            "Discovery Date": "2022-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OSSEG Obra Social del Seguro",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Jammal Trust Bank",
+            "Discovery Date": "2022-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Establishment of the Agency for the Environmental Protection of the Marche Region",
+            "Discovery Date": "2022-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ICEHOTEL",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Griggsville-Perry High School",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SENADO Argentina",
+            "Discovery Date": "2022-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Optionis",
+            "Discovery Date": "2022-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Butler County Community College",
+            "Discovery Date": "2022-01-14",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Durham Cathedral Schools Foundation",
+            "Discovery Date": "2022-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Butler Community College",
+            "Discovery Date": "2022-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "XAL",
+            "Discovery Date": "2022-01-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SAVANNAH State University",
+            "Discovery Date": "2022-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Carthage R-9 School District",
+            "Discovery Date": "2022-01-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Amaveca Salud",
+            "Discovery Date": "2022-01-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rolle",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Alliance COAL, LLC",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Whitehouse",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FILGO",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Walter's Automotive Group",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Gateway College",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Centre Hospitalier D'Arles",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "3V Sigma",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Eskenazi Health Foundation",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Butali",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Plastipak Holdings, Inc.",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Barlow Respiratory Hospital",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ROC Mondriaan",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United Health Centers",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "KESSEL AG",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Karl Bachl GmbH & Co.KG",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "SRH Holding",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Manhasset Union Free School District",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Lufkin Independent School District",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Witten",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Holy Family RC & CE College",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Hawthorn The Community Pub Co.",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pontificia Universidad Javeriana",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "DFL",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Spar",
+            "Discovery Date": "2022-01-06",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OSSEG Obra Social de Seguros",
+            "Discovery Date": "2022-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Universidade Federal de Sao Paulo",
+            "Discovery Date": "2022-01-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "United Health Centers",
+            "Discovery Date": "2021-08-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "City of Rolle",
+            "Discovery Date": "2021-05-31",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "group_name": [
+        "Hellogookie"
+    ],
+    "group_description": "None",
+    "Victims count": 3,
+    "First discovered victims": "2024-04-19",
+    "Last discovered victim": "2024-04-19",
+    "Avg Delay": "N/A",
+    "Infostealer": "50.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Technology": 3
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Hey everyone! Some private keys here.",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBNENoODBXOTFVc09raE9jSDNxVjJ6eTZlUGxh..."
+        },
+        {
+            "v_name": "Hey cisco!",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "You lied to us and play for time to kick us out. We will meet you soon, again. Next time you'll have..."
+        },
+        {
+            "v_name": "CD Projekt!",
+            "Discovery Date": "2024-04-19",
+            "Estimated Attack Date": "",
+            "v_description": "How you doin? I just remembered some passwords... do you have it? ah, whatever... just leave it here..."
+        }
+    ]
+}

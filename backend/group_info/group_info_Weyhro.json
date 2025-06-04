@@ -1,0 +1,108 @@
+{
+    "group_name": [
+        "Weyhro"
+    ],
+    "group_description": "None",
+    "Victims count": 12,
+    "First discovered victims": "2025-03-06",
+    "Last discovered victim": "2025-05-31",
+    "Avg Delay": "21.8 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Manufacturing": 3,
+                    "Technology": 1,
+                    "Business Services": 1,
+                    "Financial Services": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 8,
+                    "Italy": 1,
+                    "Germany": 1,
+                    "Canada": 1,
+                    "Barbados": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Synergy Investments",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "2025-05-26",
+            "v_description": "[AI generated] Synergy Investments is a prominent real estate investment firm. Established in 1997, ..."
+        },
+        {
+            "v_name": "Terra Caribbean",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "2025-05-30",
+            "v_description": "[AI generated] Terra Caribbean is a real estate services company based in the Caribbean. They provid..."
+        },
+        {
+            "v_name": "Adriatic Glass & Mirrors",
+            "Discovery Date": "2025-05-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Adriatic Glass & Mirrors is a company based in Ontario, Canada. They specialize in pr..."
+        },
+        {
+            "v_name": "101 Arch Street",
+            "Discovery Date": "2025-05-08",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] N/A..."
+        },
+        {
+            "v_name": "Valens Bank/Pay/Exchange",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "[AI generated] Valens Bank is a digital banking platform that offers private banking services to its..."
+        },
+        {
+            "v_name": "McMillan James Equipment Company (MJEC)",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "[AI generated] McMillan James Equipment Company (MJEC) specializes in providing end-to-end HVAC solu..."
+        },
+        {
+            "v_name": "Montgomery Little & Soran, PC",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "2025-03-21",
+            "v_description": "[AI generated] Montgomery Little & Soran, PC is a full-service law firm based in Greenwood Village, ..."
+        },
+        {
+            "v_name": "Central Electropolishing Company, Inc.",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-02-08",
+            "v_description": "[AI generated] Central Electropolishing Company, Inc. (CELCO) is based in Arkansas, US. Since 1985, ..."
+        },
+        {
+            "v_name": "Resnick & Caffrey, PC",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2024-12-12",
+            "v_description": "[AI generated] Resnick & Caffrey, PC is a law firm that specializes in several areas of practice inc..."
+        },
+        {
+            "v_name": "Avantune Corporation",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-02-22",
+            "v_description": "[AI generated] Avantune Corporation is a technology company that specializes in self-service softwar..."
+        },
+        {
+            "v_name": "MBI International, Inc.",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-01-15",
+            "v_description": "[AI generated] MBI International, Inc. is a private investment firm based in the United States. It s..."
+        },
+        {
+            "v_name": "Fragola S.p.A",
+            "Discovery Date": "2025-03-06",
+            "Estimated Attack Date": "2025-02-26",
+            "v_description": "[AI generated] Fragola S.p.A is an Italian company well-known in the field of fluid power transmissi..."
+        }
+    ]
+}

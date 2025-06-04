@@ -1,0 +1,1118 @@
+{
+    "group_name": [
+        "Babuk2",
+        "Santalock"
+    ],
+    "group_description": "Babuk Locker 2.0, also known as Bjorka or SkyWave, after failing to make any profit from selling public databases on forums, decided to impersonate Babuk Ransomware group. He launched a blog where he claimed multiple public breaches from BreachForums as ransomware attacks",
+    "Victims count": 180,
+    "First discovered victims": "2025-01-27",
+    "Last discovered victim": "2025-04-23",
+    "Avg Delay": "331.4 days",
+    "Infostealer": "34.9%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Public Sector": 43,
+                    "Technology": 33,
+                    "Healthcare": 15,
+                    "Manufacturing": 12,
+                    "Financial Services": 9
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 31,
+                    "Brazil": 15,
+                    "India": 10,
+                    "Indonesia": 9,
+                    "China": 7
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "tecnologias.mspz2.gob.ec",
+            "Discovery Date": "2025-04-23",
+            "Estimated Attack Date": "2025-04-06",
+            "v_description": "tecnologias.mspz2.gob.ec..."
+        },
+        {
+            "v_name": "turkish defense military",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "turkish defense military..."
+        },
+        {
+            "v_name": "rheinmetall.com (Rheinmetall Defence)",
+            "Discovery Date": "2025-04-04",
+            "Estimated Attack Date": "",
+            "v_description": "rheinmetall.com (Rheinmetall Defence)..."
+        },
+        {
+            "v_name": "gangotreehomes.com (RealEstate)",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "gangotreehomes.com (RealEstate)..."
+        },
+        {
+            "v_name": "Secret plans of Indian army",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Secret plans of Indian army..."
+        },
+        {
+            "v_name": "Bangladesh Armed Forces (BangLadesh Army)",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Bangladesh Armed Forces (BangLadesh Army)..."
+        },
+        {
+            "v_name": "Saudi Arabian military and government internal center",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Saudi Arabian military and government internal center..."
+        },
+        {
+            "v_name": "Hellenic Airforce",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Hellenic Airforce..."
+        },
+        {
+            "v_name": "ezbuy.sg (Singapore Shopping)",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "ezbuy.sg (Singapore Shopping)..."
+        },
+        {
+            "v_name": "Iran gas service system",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Iran gas service system,..."
+        },
+        {
+            "v_name": "kfar hatta medical center - Lebanon",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "kfar hatta medical center - Lebanon..."
+        },
+        {
+            "v_name": "Polizia italia mail access",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "Polizia italia mail access..."
+        },
+        {
+            "v_name": "zalora.sg (Singapore Shopping)",
+            "Discovery Date": "2025-04-03",
+            "Estimated Attack Date": "",
+            "v_description": "zalora.sg (Singapore Shopping)..."
+        },
+        {
+            "v_name": "ascires.com",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2024-10-11",
+            "v_description": "ascires.com..."
+        },
+        {
+            "v_name": "aosense.com - AO Sense INC.",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "aosense.com - AO Sense INC...."
+        },
+        {
+            "v_name": "dardoc.com",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "2024-11-25",
+            "v_description": "dardoc.com..."
+        },
+        {
+            "v_name": "navy-mil-bd",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "navy-mil-bd..."
+        },
+        {
+            "v_name": "drdo.gov.in",
+            "Discovery Date": "2025-04-02",
+            "Estimated Attack Date": "",
+            "v_description": "drdo.gov.in..."
+        },
+        {
+            "v_name": "uniproof.com.br",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "uniproof.com.br..."
+        },
+        {
+            "v_name": "(UPDATE) - whitecapcanada.com",
+            "Discovery Date": "2025-04-01",
+            "Estimated Attack Date": "",
+            "v_description": "(UPDATE) - whitecapcanada.com..."
+        },
+        {
+            "v_name": "pln.co.id - PLN INDONESIA",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "pln.co.id - PLN INDONESIA..."
+        },
+        {
+            "v_name": "moh.gov.rw",
+            "Discovery Date": "2025-03-31",
+            "Estimated Attack Date": "",
+            "v_description": "moh.gov.rw..."
+        },
+        {
+            "v_name": "iDRAC (Integrated Dell Remote Access Controller) management interface for Dell servers",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "iDRAC (Integrated Dell Remote Access Controller) management interface for Dell servers..."
+        },
+        {
+            "v_name": "elsoms.com",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "2024-09-07",
+            "v_description": "elsoms.com..."
+        },
+        {
+            "v_name": "brune.com.br - Group MC (conglomerate)",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "brune.com.br - Group MC (conglomerate)..."
+        },
+        {
+            "v_name": "towellengineering.net",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "2024-08-15",
+            "v_description": "towellengineering.net..."
+        },
+        {
+            "v_name": "icvc.co - Instituto Cardiovascular del Cesar",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "icvc.co - Instituto Cardiovascular del Cesar..."
+        },
+        {
+            "v_name": "modiin-ezrachi.co.il",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "2024-10-12",
+            "v_description": "modiin-ezrachi.co.il..."
+        },
+        {
+            "v_name": "La Futura",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "La Futura..."
+        },
+        {
+            "v_name": "Atlantic Coast Consulting Inc",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "Atlantic Coast Consulting Inc..."
+        },
+        {
+            "v_name": "theeyeclinicsurgicenter.com - The Eye Clinic Surgicenter company",
+            "Discovery Date": "2025-03-29",
+            "Estimated Attack Date": "",
+            "v_description": "theeyeclinicsurgicenter.com - The Eye Clinic Surgicenter company..."
+        },
+        {
+            "v_name": "leadzen.ai",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "leadzen.ai..."
+        },
+        {
+            "v_name": "healthcasts.com",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "healthcasts.com..."
+        },
+        {
+            "v_name": "pureincubation.com",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "pureincubation.com..."
+        },
+        {
+            "v_name": "unired.uz",
+            "Discovery Date": "2025-03-28",
+            "Estimated Attack Date": "",
+            "v_description": "unired.uz..."
+        },
+        {
+            "v_name": "nadra.gov.pk - NADRA official Of Pakistan Army & (Andhra Pradesh)",
+            "Discovery Date": "2025-03-27",
+            "Estimated Attack Date": "",
+            "v_description": "nadra.gov.pk - NADRA official Of Pakistan Army & (Andhra Pradesh)..."
+        },
+        {
+            "v_name": "heras.co.uk",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "2024-05-29",
+            "v_description": "heras.co.uk..."
+        },
+        {
+            "v_name": "alliedwoundcare.com",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "2024-01-12",
+            "v_description": "alliedwoundcare.com..."
+        },
+        {
+            "v_name": "crimsgroup.com",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "crimsgroup.com..."
+        },
+        {
+            "v_name": "aman-iraq.com",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "aman-iraq.com..."
+        },
+        {
+            "v_name": "mot.gov.iq - Iraqi Ministry of Commerce (Of Trade)",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "mot.gov.iq - Iraqi Ministry of Commerce (Of Trade)..."
+        },
+        {
+            "v_name": "israel Infrastructure & Secret Documents intelligence information",
+            "Discovery Date": "2025-03-26",
+            "Estimated Attack Date": "",
+            "v_description": "israel Infrastructure & Secret Documents intelligence information..."
+        },
+        {
+            "v_name": "kalesavunma.com - KALE SAVUNMA.",
+            "Discovery Date": "2025-03-25",
+            "Estimated Attack Date": "",
+            "v_description": "kalesavunma.com - KALE\nSAVUNMA...."
+        },
+        {
+            "v_name": "airexplore.aero",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "airexplore.aero..."
+        },
+        {
+            "v_name": "iberdrola.com (Spain energy)",
+            "Discovery Date": "2025-03-24",
+            "Estimated Attack Date": "",
+            "v_description": "iberdrola.com (Spain energy)..."
+        },
+        {
+            "v_name": "Synesis Surveillance System",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "Synesis Surveillance System..."
+        },
+        {
+            "v_name": "inmarsat.com",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "inmarsat.com..."
+        },
+        {
+            "v_name": "jp-property.com",
+            "Discovery Date": "2025-03-22",
+            "Estimated Attack Date": "",
+            "v_description": "jp-property.com..."
+        },
+        {
+            "v_name": "armetal.com",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "armetal.com..."
+        },
+        {
+            "v_name": "The Ticktin Law Group",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "The Ticktin Law Group By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "Mpaj.gov.my",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Mpaj.gov.my..."
+        },
+        {
+            "v_name": "exostar.com TOP Defense AS",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "exostar.com TOP Defense AS..."
+        },
+        {
+            "v_name": "Standard Capital Securities (Pvt) Backoffice - Pakistan Stock Market Data Vault",
+            "Discovery Date": "2025-03-21",
+            "Estimated Attack Date": "",
+            "v_description": "Standard Capital Securities (Pvt) Backoffice - Pakistan Stock Market Data Vault..."
+        },
+        {
+            "v_name": "mohrss.gov.cn ( Ministry of Human Resources and Social Security )",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "mohrss.gov.cn ( Ministry of Human Resources and Social Security )..."
+        },
+        {
+            "v_name": "amazon.com",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "amazon.com..."
+        },
+        {
+            "v_name": "fr.sodexo.com",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "fr.sodexo.com..."
+        },
+        {
+            "v_name": "Corporate access, up to Shipping Apps in QATAR",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "Corporate access, up to Shipping Apps in QATAR..."
+        },
+        {
+            "v_name": "woqod.com",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "woqod.com..."
+        },
+        {
+            "v_name": "mof.go.th - Ministry of Finance (Thailand)",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "mof.go.th - Ministry of Finance (Thailand)..."
+        },
+        {
+            "v_name": "smic.mi.th (Thailand Intelligence Agency)",
+            "Discovery Date": "2025-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "smic.mi.th (Thailand Intelligence Agency)..."
+        },
+        {
+            "v_name": "www.gob.ve",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "www.gob.ve..."
+        },
+        {
+            "v_name": "Access Panel Financial Technology Company (Thailand)",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Access Panel Financial Technology Company (Thailand)..."
+        },
+        {
+            "v_name": "United States County Palm Beach Goverment",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "United States County Palm Beach Goverment..."
+        },
+        {
+            "v_name": "Municipal taxation Secretariat Access - Brazil Goverment",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Municipal taxation Secretariat Access - Brazil Goverment..."
+        },
+        {
+            "v_name": "Intelligence Bureau of the Joint Staff Department of the Central Military Commission...",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "Intelligence Bureau of the Joint Staff Department of the Central Military Commission China..."
+        },
+        {
+            "v_name": "rac.gov.my",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "rac.gov.my..."
+        },
+        {
+            "v_name": "nimapinfotech.com",
+            "Discovery Date": "2025-03-19",
+            "Estimated Attack Date": "",
+            "v_description": "nimapinfotech.com..."
+        },
+        {
+            "v_name": "esaote.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "esaote.com..."
+        },
+        {
+            "v_name": "nstda.or.th",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "nstda.or.th..."
+        },
+        {
+            "v_name": "kominfo.go.id",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "2024-07-01",
+            "v_description": "kominfo.go.id..."
+        },
+        {
+            "v_name": "pajak.go.id",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "pajak.go.id..."
+        },
+        {
+            "v_name": "dukcapil.kemendagri.go.id (SIAK DUKCAPIL MINISTRY OF HOME AFFAIRS OF INDONESIA)",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "dukcapil.kemendagri.go.id (SIAK DUKCAPIL MINISTRY OF HOME AFFAIRS OF INDONESIA)..."
+        },
+        {
+            "v_name": "whitecapcanada.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "whitecapcanada.com..."
+        },
+        {
+            "v_name": "hcahealthcare.com INC.",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "hcahealthcare.com INC...."
+        },
+        {
+            "v_name": "sp.tnitelecom.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "sp.tnitelecom.com..."
+        },
+        {
+            "v_name": "Otelier.io",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "Otelier.io..."
+        },
+        {
+            "v_name": "highwirepress.com",
+            "Discovery Date": "2025-03-18",
+            "Estimated Attack Date": "",
+            "v_description": "highwirepress.com..."
+        },
+        {
+            "v_name": "taobao.com",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "taobao.com..."
+        },
+        {
+            "v_name": "This entry has been removed following a request from the company",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "Takedown notice of 18 Mars 2025 - Request #1025..."
+        },
+        {
+            "v_name": "icmr.gov.in",
+            "Discovery Date": "2025-03-17",
+            "Estimated Attack Date": "",
+            "v_description": "icmr.gov.in..."
+        },
+        {
+            "v_name": "Ministry Of Defense of the Republic Of Korea",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Ministry Of Defense of the Republic Of Korea..."
+        },
+        {
+            "v_name": "JD.com Inc (Chinese)",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "JD.com Inc (Chinese)..."
+        },
+        {
+            "v_name": "Florida Department of Transportation (FDOT)",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Florida Department of Transportation (FDOT)..."
+        },
+        {
+            "v_name": "Orange.com",
+            "Discovery Date": "2025-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Orange.com..."
+        },
+        {
+            "v_name": "Belarus E-commerce & Energy Data",
+            "Discovery Date": "2025-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "Belarus E-commerce & Energy Data..."
+        },
+        {
+            "v_name": "knesset.gov.il",
+            "Discovery Date": "2025-03-15",
+            "Estimated Attack Date": "2024-10-25",
+            "v_description": "knesset.gov.il..."
+        },
+        {
+            "v_name": "nrru.ac.th - University",
+            "Discovery Date": "2025-03-15",
+            "Estimated Attack Date": "",
+            "v_description": "nrru.ac.th - University..."
+        },
+        {
+            "v_name": "iaai.com - Washington DC DMV",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "iaai.com - Washington DC DMV..."
+        },
+        {
+            "v_name": "The Ministry of National Defense - mod.gov.vn (NavyVietnam)",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "The Ministry of National Defense - mod.gov.vn (NavyVietnam)..."
+        },
+        {
+            "v_name": "movistar.com.pe",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "movistar.com.pe..."
+        },
+        {
+            "v_name": "Taiwan - Mackay Hospital",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "Taiwan - Mackay Hospital..."
+        },
+        {
+            "v_name": "cch.org.tw - Changhua Christian Hospital",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "cch.org.tw - Changhua Christian Hospital..."
+        },
+        {
+            "v_name": "nuclep.gov.br. Nuclep Brazil",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "2025-03-13",
+            "v_description": "nuclep.gov.br. Nuclep Brazil..."
+        },
+        {
+            "v_name": "parliament.iq",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "parliament.iq By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "web.asia.edu.tw - Taiwan (Asia University)",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "web.asia.edu.tw -  Taiwan (Asia University)..."
+        },
+        {
+            "v_name": "Intelligence Bureau of the Joint Staff Department of the Central Military Commission China",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "Intelligence Bureau of the Joint Staff Department of the Central Military Commission China..."
+        },
+        {
+            "v_name": "Indian military and government defense 20TB",
+            "Discovery Date": "2025-03-14",
+            "Estimated Attack Date": "",
+            "v_description": "Indian military and government defense 20TB..."
+        },
+        {
+            "v_name": "Iraqi Ministry of Finance",
+            "Discovery Date": "2025-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "Iraqi Ministry of Finance..."
+        },
+        {
+            "v_name": "Iraqi Council of Ministers",
+            "Discovery Date": "2025-03-13",
+            "Estimated Attack Date": "",
+            "v_description": "Iraqi Council of Ministers..."
+        },
+        {
+            "v_name": "marinabaysands.com -  Singapore Hotel (Internal Server)",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "marinabaysands.com -  Singapore Hotel (Internal Server)..."
+        },
+        {
+            "v_name": "hitekgroup.in india Finance",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "hitekgroup.in india Finance..."
+        },
+        {
+            "v_name": "India's telecommunication network",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "India's telecommunication network..."
+        },
+        {
+            "v_name": "Baykar Turkish defense company C4I and artificial intelligence",
+            "Discovery Date": "2025-03-12",
+            "Estimated Attack Date": "",
+            "v_description": "Baykar Turkish defense company C4I and artificial intelligence By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "airexplore.aero Company",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "airexplore.aero Company..."
+        },
+        {
+            "v_name": "fnde.gov.br brazilian government",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "fnde.gov.br brazilian government..."
+        },
+        {
+            "v_name": "wapda.gov.pk",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "wapda.gov.pk By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "lexmark.com Company",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "lexmark.com Company..."
+        },
+        {
+            "v_name": "forvismazars.com.fr ( mazars.fr )",
+            "Discovery Date": "2025-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "forvismazars.com.fr ( mazars.fr ) By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "petstop.com Company",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "petstop.com Company..."
+        },
+        {
+            "v_name": "misaludhealth.com",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "misaludhealth.com By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "bank.pingan.com (CN)",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "bank.pingan.com..."
+        },
+        {
+            "v_name": "Access to Indian Ministry of Defence and Military Secret (DRDO) documents By Babuk Locker ...",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "Access to Indian Ministry of Defence and Military Secret (DRDO) documents By Babuk Locker 2.0..."
+        },
+        {
+            "v_name": "Mandarin.com.br",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "Mandarin.com.br..."
+        },
+        {
+            "v_name": "mazars.fr",
+            "Discovery Date": "2025-03-10",
+            "Estimated Attack Date": "",
+            "v_description": "mazars.fr company..."
+        },
+        {
+            "v_name": "INDONESIA TAXPAYER IDENTIFICATION NUMBER (NPWP)",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "INDONESIA TAXPAYER IDENTIFICATION NUMBER (NPWP)..."
+        },
+        {
+            "v_name": "MYINDIHOME TELKOM INDONESIA by ( Babuk Locker )",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "MYINDIHOME TELKOM INDONESIA..."
+        },
+        {
+            "v_name": "MYINDIHOME TELKOM INDONESIA",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "MYINDIHOME TELKOM INDONESIA..."
+        },
+        {
+            "v_name": "MYPERTAMINA INDONESIA",
+            "Discovery Date": "2025-01-28",
+            "Estimated Attack Date": "",
+            "v_description": "MYPERTAMINA INDONESIA..."
+        },
+        {
+            "v_name": "copral.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Greetings!\ncopral.com.br \nToday we are posting here the new company, \"Copral Comercio e Navegacao LT..."
+        },
+        {
+            "v_name": "human.de",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "2021-02-01",
+            "v_description": "HUMAN, founded in 1972, is a Germany based privately owned company which develops, manufactures and ..."
+        },
+        {
+            "v_name": "bocagroup.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "2021-02-01",
+            "v_description": "As America's premier elevator and escalator consulting company, BOCA Group is the partner of choice ..."
+        },
+        {
+            "v_name": "alentec.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "This is a public request for Alentec & Orion AB, you don't have much time left to get in touch with ..."
+        },
+        {
+            "v_name": "Württemberger Medien",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Lassen Sie sich kostenlos von unseren Experten aus Stuttgart beraten. Digitalisierung geht schnell u..."
+        },
+        {
+            "v_name": "viacaojacarei.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "viacaojacarei.com.br..."
+        },
+        {
+            "v_name": "gelco-s-a.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "gelco-s-a.com.br..."
+        },
+        {
+            "v_name": "Kurosu & Co.SA - kurosu.com.py",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Kurosu & Co.SA - kurosu.com.py LEAKED..."
+        },
+        {
+            "v_name": "zapopan.gob.mx",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "zapopan.gob..."
+        },
+        {
+            "v_name": "carc.gov.jo",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "carc.gov..."
+        },
+        {
+            "v_name": "nhbg.com.co",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "nhbg..."
+        },
+        {
+            "v_name": "APMS ( Advanced Physician Management Service LLC",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "APMS ( Advanced Physician Management Service LLC..."
+        },
+        {
+            "v_name": "a top-tier law firm in Workers Compensation Defense!",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "a top-tier law firm in Workers Compensation Defense!..."
+        },
+        {
+            "v_name": "precisediagnosticspacs.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "precisediagnosticspacs.com..."
+        },
+        {
+            "v_name": "zetech.ac.ke",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "zetech.ac.ke..."
+        },
+        {
+            "v_name": "maxprofit.mcode.me",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "maxprofit.mcode.me..."
+        },
+        {
+            "v_name": "skopje.gov.mk",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "skopje.gov.mk..."
+        },
+        {
+            "v_name": "rtdc.gov.mn",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "rtdc.gov.mn access..."
+        },
+        {
+            "v_name": "pbos.gov.pk",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "pbos.gov.pk..."
+        },
+        {
+            "v_name": "abd-ong.org",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "abd-ong.org..."
+        },
+        {
+            "v_name": "mtgazeta.uz",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "mtgazeta.uz..."
+        },
+        {
+            "v_name": "sincorpe.org.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "sincorpe.org.br..."
+        },
+        {
+            "v_name": "pti.agency",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "pti.agency..."
+        },
+        {
+            "v_name": "singularanalysts.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "singularanalysts.com..."
+        },
+        {
+            "v_name": "gervetusa.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "gervetusa.com..."
+        },
+        {
+            "v_name": "workers.com.zm",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "workers.com.zm..."
+        },
+        {
+            "v_name": "wacer.com.au",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "wacer.com.au..."
+        },
+        {
+            "v_name": "thebetareview.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "thebetareview.com..."
+        },
+        {
+            "v_name": "senseis.xmp.net",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "senseis.xmp.net..."
+        },
+        {
+            "v_name": "fpsc-anz.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "fpsc-anz.com..."
+        },
+        {
+            "v_name": "mandiricoal.net",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "mandiricoal.net..."
+        },
+        {
+            "v_name": "dealplexus.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "dealplexus.com..."
+        },
+        {
+            "v_name": "bee-insurance.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "bee-insurance.com..."
+        },
+        {
+            "v_name": "lamundialdeseguros.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "lamundialdeseguros.com..."
+        },
+        {
+            "v_name": "indianaerospaceandengineering.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "indianaerospaceandengineering.com..."
+        },
+        {
+            "v_name": "gstpam.org",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "gstpam.org..."
+        },
+        {
+            "v_name": "www.shootinghouse.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.shootinghouse.com.br..."
+        },
+        {
+            "v_name": "headwaterco.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "headwaterco.com..."
+        },
+        {
+            "v_name": "www.al-shefafarm.ro",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.al-shefafarm.ro..."
+        },
+        {
+            "v_name": "www.ykp.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.ykp.com.br..."
+        },
+        {
+            "v_name": "www.go4kora.tv",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.go4kora.tv..."
+        },
+        {
+            "v_name": "www.rekamy.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.rekamy.com..."
+        },
+        {
+            "v_name": "www.dvttechnologyltd.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.dvttechnologyltd.com..."
+        },
+        {
+            "v_name": "www.siea.sk",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.siea.sk..."
+        },
+        {
+            "v_name": "www.spmundi.com.br",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.spmundi.com.br..."
+        },
+        {
+            "v_name": "www.merchant.id",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.merchant.id..."
+        },
+        {
+            "v_name": "www.cyncsolutions.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.cyncsolutions.com..."
+        },
+        {
+            "v_name": "Baca County Feedyard, Inc",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "Baca County Feedyard, Inc..."
+        },
+        {
+            "v_name": "www.skywaycoach.ca",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.skywaycoach.ca..."
+        },
+        {
+            "v_name": "www.farmaciaflorio.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.farmaciaflorio.com..."
+        },
+        {
+            "v_name": "www.nrshealthcare.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.nrshealthcare.com..."
+        },
+        {
+            "v_name": "www.hcisystems.net",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.hcisystems.net..."
+        },
+        {
+            "v_name": "www.betteraccountingsolutions.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.betteraccountingsolutions.com..."
+        },
+        {
+            "v_name": "www.aretusamilano.it",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.aretusamilano.it..."
+        },
+        {
+            "v_name": "www.agenciahost.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.agenciahost.com..."
+        },
+        {
+            "v_name": "www.constelacion.com.sv",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.constelacion.com.sv..."
+        },
+        {
+            "v_name": "www.avantit.no",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.avantit.no..."
+        },
+        {
+            "v_name": "www.industrialdealimentos.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.industrialdealimentos.com..."
+        },
+        {
+            "v_name": "www.lapastina.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.lapastina.com..."
+        },
+        {
+            "v_name": "www.kovra.com.my",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.kovra.com.my..."
+        },
+        {
+            "v_name": "www.computan.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.computan.com..."
+        },
+        {
+            "v_name": "www.scadea.com",
+            "Discovery Date": "2025-01-27",
+            "Estimated Attack Date": "",
+            "v_description": "www.scadea.com..."
+        }
+    ]
+}

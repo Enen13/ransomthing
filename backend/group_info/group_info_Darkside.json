@@ -1,0 +1,97 @@
+{
+    "group_name": [
+        "Darkside"
+    ],
+    "group_description": "Darkside ransomware group has started its operation in August of 2020 with the model of RaaS (Ransomware-as-a-Service). They have become known for their operations of large ransoms scale. They have announced that they prefer not to attack hospitals, schools, non-profits, and governments, but rather big organizations that can be able to pay large ransoms. Darkside ransomware group became very famous following the cyberattack of the Colonial Pipeline and Toshiba unit. The FBI finally terminate the Darkside operation and Managed to pull money from their wallets back.",
+    "Victims count": 10,
+    "First discovered victims": "2020-08-01",
+    "Last discovered victim": "2021-05-13",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Commercial Facilities": 3,
+                    "Transportation Systems": 2,
+                    "Food and Agriculture": 1,
+                    "Energy": 1,
+                    "Information Technology": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Canada": 2,
+                    "Italy": 1,
+                    "Brazil": 1,
+                    "United States": 1,
+                    "United Kingdom": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "One Call (insurance)",
+            "Discovery Date": "2021-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Colonial Pipeline",
+            "Discovery Date": "2021-05-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Toshiba Tec Group",
+            "Discovery Date": "2021-05-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Compucom (MSP)",
+            "Discovery Date": "2021-02-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Discount Car and Truck Rentals",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Segafredo Zanetti",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Companhia Paranaense de Energia (Copel)",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Home Hardware Stores Ltd",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Guess",
+            "Discovery Date": "2021-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Brookfield Residential (land developer and home builder)",
+            "Discovery Date": "2020-08-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

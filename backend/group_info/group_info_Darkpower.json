@@ -1,0 +1,91 @@
+{
+    "group_name": [
+        "Darkpower"
+    ],
+    "group_description": "None",
+    "Victims count": 10,
+    "First discovered victims": "2023-03-11",
+    "Last discovered victim": "2023-03-11",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "Türkiye": 2,
+                    "France": 1,
+                    "Peru": 1,
+                    "Czechia": 1,
+                    "Algeria": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "onyx-pharma.dz",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "imtenan.com",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "agados.cz",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "evant.com.tr",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "arineta.com",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "rcc.gob.pe",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "goliplik.com.tr",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mdclone.com",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "betastree.fr",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "northgatesd.net",
+            "Discovery Date": "2023-03-11",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

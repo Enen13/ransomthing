@@ -1,0 +1,468 @@
+{
+    "group_name": [
+        "Silentransomgroup",
+        "Leakeddata"
+    ],
+    "group_description": "a former Conti team",
+    "Victims count": 72,
+    "First discovered victims": "2025-05-06",
+    "Last discovered victim": "2025-05-06",
+    "Avg Delay": "116.9 days",
+    "Infostealer": "8.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 32,
+                    "Financial Services": 25,
+                    "Hospitality and Tourism": 3,
+                    "Manufacturing": 1,
+                    "Construction": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 66,
+                    "Germany": 2,
+                    "Canada": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Langer & Langer",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "",
+            "v_description": "Langer & Langer GbR is a company that operates in the Retail industry. It employs 10to19 people and ..."
+        },
+        {
+            "v_name": "Elmore & Bunn",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-15",
+            "v_description": "Chadwick, Washington, Moriarty, Elmore & Bunn P.C.  is a Virginia and D.C. law firm that offers comp..."
+        },
+        {
+            "v_name": "The Dominguez Firm, LLP",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "With a legal staff of over 120, The Dominguez Firm is a proven powerhouse personal injury law firm w..."
+        },
+        {
+            "v_name": "USClaims",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "Operator of a pre-settlement financing firm intended to provide financial assistance during lawsuits..."
+        },
+        {
+            "v_name": "Dean & Fulkerson",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "Dean & Fulkerson P.C has received an SBA PPP loan for $350,000-1 million from PNC Bank, National Ass..."
+        },
+        {
+            "v_name": "Pajcic & Pajcic",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-13",
+            "v_description": "Pajcic & Pajcic is a Jacksonville-based personal injury law firm with over 50 years of experience in..."
+        },
+        {
+            "v_name": "Shutts",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "Founded in 1910, Shutts is a full-service business law firm that specializes in litigation, construc..."
+        },
+        {
+            "v_name": "Fenwick & West LLP",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-10",
+            "v_description": "Fenwick & West LLP provides comprehensive legal services to technology and life sciences companies -..."
+        },
+        {
+            "v_name": "Fenwick",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-09",
+            "v_description": "Established in 1882 and headquartered in London, United Kingdom, Fenwick is a company that operates ..."
+        },
+        {
+            "v_name": "Liberty Tax",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-08",
+            "v_description": "Headquartered Virginia Beach, Virginia, Liberty Tax is a full service tax preparations and refund co..."
+        },
+        {
+            "v_name": "McLaughlin & Stern",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "McLaughlin & Stern, LLP is a full-service law firm founded in 1898 with more than 100 attorneys repr..."
+        },
+        {
+            "v_name": "Roger Keith and Sons Insurance Agency",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-04-05",
+            "v_description": "For over 150 years, Roger Keith & Sons Insurance has been providing quality insurance services to cl..."
+        },
+        {
+            "v_name": "Advantage Group GA",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Schofield Insurance Company is a full-service general agency that specializes in voluntary, ancillar..."
+        },
+        {
+            "v_name": "Cors & Bassett",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Cors & Bassett has a long, rich history that spans many decades. The firm has been a member of the b..."
+        },
+        {
+            "v_name": "IFG Companies",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Founded in 1985, IFG Companies is a privately held insurance group based in Hartford, Connecticut. I..."
+        },
+        {
+            "v_name": "Kisling Nestico & Redick",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "About Kisling, Nestico & Redick: Kisling, Nestico & Redick provides sophisticated injury law represe..."
+        },
+        {
+            "v_name": "NCheng",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "NCheng LLP was founded in 1989 in New York City. Our practice is dedicated entirely to serve the not..."
+        },
+        {
+            "v_name": "ADM LAW",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Founded in 1983 and headquartered in New York, New York, Ahmuty, Demers & McManus (ADM) is a full-se..."
+        },
+        {
+            "v_name": "McCague Borlack",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "Founded in 1994, McCague Borlack full service legal advice. Its practice areas include: accident ben..."
+        },
+        {
+            "v_name": "First Financial Equity",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-20",
+            "v_description": "First Financial Equity Corporations (FFEC) primary objective is to provide personalized customer ser..."
+        },
+        {
+            "v_name": "Barst Mukamal & Kleiner",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Barst Mukamal & Kleiner LLP is an international immigration law firm based in New York City. Founded..."
+        },
+        {
+            "v_name": "Olinsky Law Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Olinsky Law Group specializes in Social Security Disability, Appeals Council, Federal Court, and Lon..."
+        },
+        {
+            "v_name": "Pembrook Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Founded in 2006 by Stuart J. Boesky, Pembrook Capital Management (Pembrook) is a real estate investm..."
+        },
+        {
+            "v_name": "Colucci Law Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Colucci Law Group provides comprehensive legal support in Florida, focusing on areas such as propert..."
+        },
+        {
+            "v_name": "GreatFlorida Insurance Holding Corp.",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Founded in 1991 and headquartered in West Palm Beach, Florida, GreatFlorida Insurance is a network o..."
+        },
+        {
+            "v_name": "Paycor",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Founded in 1990, Paycor is a human capital management company that provides HR and payroll technolog..."
+        },
+        {
+            "v_name": "Baxter Baker Sidle Conn & Jones",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Baxter Baker is a legal firm based in Baltimore and Annapolis, Maryland, offering a range of service..."
+        },
+        {
+            "v_name": "Chicago Atlantic Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Chicago Atlantic Real Estate Finance, Inc. (Chicago Atlantic) is a commercial real estate finance co..."
+        },
+        {
+            "v_name": "Mauldin & Jenkins",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Mauldin & Jenkins has provided audit, accounting, tax, and consulting services since 1918. Our cultu..."
+        },
+        {
+            "v_name": "Miller Canfield",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-19",
+            "v_description": "Miller Canfield, headquartered in Detroit, Michigan, is a law firm that provides services for bankru..."
+        },
+        {
+            "v_name": "CRC Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-03-16",
+            "v_description": "CRC Group is a wholesale and specialty insurance distributor in the United States. Founded in 1914, ..."
+        },
+        {
+            "v_name": "44North",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-02-05",
+            "v_description": "44North, headquartered in Cadillac, Michigan, provides health benefit consulting and plan design. Th..."
+        },
+        {
+            "v_name": "EW Smith Insurance Agency",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-23",
+            "v_description": "If longevity is a trusted sign of success, the E.W. Smith Insurance Agency proves to be one of Wyand..."
+        },
+        {
+            "v_name": "Anders CPAs + Advisors",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-17",
+            "v_description": "Accounting Services\n\nFounded in 1965, Anders is headquartered in St. Louis, Missouri. They are a CPA..."
+        },
+        {
+            "v_name": "Black , Bashor & Porsch",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "Accounting Services..."
+        },
+        {
+            "v_name": "Shea Barclay Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "Insurance..."
+        },
+        {
+            "v_name": "ATLAS CPAs & Advisors",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "Accounting Services..."
+        },
+        {
+            "v_name": "Klehr Harrison Harvey Branzburg",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-14",
+            "v_description": "Law Firms & Legal Services..."
+        },
+        {
+            "v_name": "Inspere Insurance Solutions",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-06",
+            "v_description": "Insphere Insurance Solutions, Inc. is one of the fastest growing insurance distribution companies in..."
+        },
+        {
+            "v_name": "Cross Valley FCU",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2025-01-04",
+            "v_description": "Established in 1969, Cross Valley Federal Credit Union is headquartered in Wilkes-Barre, Pennsylvani..."
+        },
+        {
+            "v_name": "Metro Public Adjustment",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-18",
+            "v_description": "Since 1994, Metro Public Adjustment, Inc. has been an advocate for the rights of you, the property o..."
+        },
+        {
+            "v_name": "Palomar Insurance",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-16",
+            "v_description": "Palomar Insurance Corporation delivers tailored insurance programs to small and large companies in t..."
+        },
+        {
+            "v_name": "Liberty Tax Service Inc",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Liebert Cassidy Whitmore provides legal advisory services. The firms practice areas include labor re..."
+        },
+        {
+            "v_name": "Kotz Sangster Wysocki",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Law Firms & Legal Services..."
+        },
+        {
+            "v_name": "Marriott International Inc",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Marriott International, Inc. operates, franchises, and licenses hotels and timeshare properties worl..."
+        },
+        {
+            "v_name": "Cantey Hanger LLP",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-02-22",
+            "v_description": "Cantey Hanger LLP, established in 1882, is a full-service firm based in Texas, with offices in Fort ..."
+        },
+        {
+            "v_name": "JMJ Associates",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "JMJ Associates, LLC provides management consulting services primarily for the energy, mining, and co..."
+        },
+        {
+            "v_name": "Prime Consulting Group",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Prime Consulting Group, Inc. is a full-service property and casualty insurance services company..."
+        },
+        {
+            "v_name": "Ball Eggleston Law Firm",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Ball Eggleston is a full-service law firm providing legal services for many types of cases, includin..."
+        },
+        {
+            "v_name": "Tetra Technologies Inc",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "TETRA Technologies delivers leading solutions to the upstream energy industry for completions fluids..."
+        },
+        {
+            "v_name": "Lincoln Investment Planning LLC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2022-06-07",
+            "v_description": "Lincoln Investment was founded in 1968. This company provides investment advice and banking services..."
+        },
+        {
+            "v_name": "Quintairos Prieto Wood & Boyer PA",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Founded in 2006 and headquartered in Miami, Florida, Quintairos Prieto Wood & Boyer, P.A. is a law f..."
+        },
+        {
+            "v_name": "Bass , Berry & Sims PLC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Bass, Berry & Sims is poised to guide clients through complex legal matters.Focused on their interes..."
+        },
+        {
+            "v_name": "Essex Property Trust",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Established in 1987, ESSEX REALTY MANAGEMENT is a privately owned real estate management and investm..."
+        },
+        {
+            "v_name": "Davenport & Company LLC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Davenport offers a wide range of investment services for individuals, corporations, institutions, an..."
+        },
+        {
+            "v_name": "AG Adjustment",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "AG Adjustments is a commercial collection agency. It offers small business B2B debt collection, AR m..."
+        },
+        {
+            "v_name": "Jacobs Entertainment Inc",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-09-23",
+            "v_description": "Jacobs Entertainment, Inc. (JEI) is a developer, owner and operator of gaming and entertainment faci..."
+        },
+        {
+            "v_name": "McCague Borlack LLP",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Litigation Law Firm - We are one of Toronto's leading litigation law firms with regional offices in ..."
+        },
+        {
+            "v_name": "Lane Gorman Trubitt",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Founded in 1950, Lane Gorman Trubitt, PLLC (LGT) is one of the largest certified public accounting f..."
+        },
+        {
+            "v_name": "AGT Slots",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Founded in 1995, Ainsworth Game Technology is a manufacturer and supplier of gaming solutions specia..."
+        },
+        {
+            "v_name": "Integrity Home Mortgage Company",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Founded in 2005, Integrity Home Mortgage is a financial service company specializing in home purchas..."
+        },
+        {
+            "v_name": "Hannover Re",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Hannover Re, headquartered in Hannover, Germany, and established in 1966, is a reinsurance company s..."
+        },
+        {
+            "v_name": "TWFG Insurance",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "TWFG Insurance services the Lagrange area and throughout the state of Georgia. At TWFG Insurance, th..."
+        },
+        {
+            "v_name": "Geocon Inc.",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Geocon Inc.\nREVENUE:\t$63M\nTOTAL DOWNLOADS:\t162\nCOMPANY INFO:\t\nArchitecture, Engineering & Desig..."
+        },
+        {
+            "v_name": "Liebert Cassidy Whitmore Attorneys",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$82M\nTOTAL DOWNLOADS:\t164\nCOMPANY INFO:\t\nLiebert Cassidy Whitmore is California's premie..."
+        },
+        {
+            "v_name": "Rosenbauer America",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "Rosenbauer America\nTOTAL DOWNLOADS:\t157\nCOMPANY INFO:\t\nRosenbauer is the world's leading manufac..."
+        },
+        {
+            "v_name": "Haynie & Company PC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$57.5M\nTOTAL DOWNLOADS:\t165\nCOMPANY INFO:\t\nHaynie & Company was founded in 1960 and is h..."
+        },
+        {
+            "v_name": "Williams, Kastner & Gibbs PLLC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$25.2M\nTOTAL DOWNLOADS:\t172\nCOMPANY INFO:\t\nWilliams Kastner provides legal advisory serv..."
+        },
+        {
+            "v_name": "Sanchez Daniels & Hoffman LLP",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-05-01",
+            "v_description": "REVENUE:\t$18.9M\nSTATUS:\tLEAKED\nDOWNLOAD LINK:\t\n> Click to download <\nTOTAL DOWNLOADS:\t159\nCOMPA..."
+        },
+        {
+            "v_name": "Managed Benefits Advisors LLC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$7.4M\nSTATUS:\tLEAKED\nDOWNLOAD LINK:\t\n> Click to download <\nTOTAL DOWNLOADS:\t160\nCOMPAN..."
+        },
+        {
+            "v_name": "Ted A Greve & Associates PA",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$6.5M\nSTATUS:\tLEAKED\nDOWNLOAD LINK:\t\n> Click to download <\nTOTAL DOWNLOADS:\t160\nCOMP..."
+        },
+        {
+            "v_name": "Jardim, Meisner & Susser PC",
+            "Discovery Date": "2025-05-06",
+            "Estimated Attack Date": "2024-12-13",
+            "v_description": "REVENUE:\t$6.2M\nSTATUS:\tLEAKED\nDOWNLOAD LINK:\t\n> Click to download <\nTOTAL DOWNLOADS:\t162\nCOMPAN..."
+        }
+    ]
+}

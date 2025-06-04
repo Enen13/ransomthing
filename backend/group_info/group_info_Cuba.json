@@ -1,0 +1,664 @@
+{
+    "group_name": [
+        "Cuba"
+    ],
+    "group_description": "The Cuba Ransomware, also known as Colddraw Ransomware, was first identified in the threat landscape in 2019 and built a relatively small but selected list of victims. The group is also known as Fidel Ransomware, due to a characteristic marker placed at the beginning of all encrypted files. This file marker is used as an indicator for the ransomware and its decoder that the file has been encrypted.Despite its name and the Cuban nationalist style on its leak site, it is difficult to assert any connection or affiliation with the Republic of Cuba. The group has been linked to a Russian-language threat actor by Profero researchers due to some details of incorrect translation they discovered, as well as the discovery of a 404 page containing text in Russian on the threat actor's own leak site.According to BlackBerry, based on the analysis of the code strings used in the campaign analyzed in 2023, there were indications that the developer behind the Cuba ransomware speaks Russian.The ransomware operators use a double extortion approach, and following the USA, in August 2022, it was believed that the Cuba ransomware group had compromised 101 entities, demanding $145 million in ransom payments and receiving up to $60 million.The group used a similar set of TTPs, with only a slight change each year, as they generally consist of LOLBins (executables that are part of the operating system and can be exploited to support an attack), exploits, off-the-shelf and custom malware, as well as intrusion tools like Cobalt Strike and Metasploit.In 2022, the group allegedly developed a relationship with operators of the Industrial Spy market, using their platform as a means of data leakage.Source: https://github.com/crocodyli/ThreatActors-TTPs",
+    "Victims count": 105,
+    "First discovered victims": "2021-02-03",
+    "Last discovered victim": "2024-02-01",
+    "Avg Delay": "4 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Financial": 1,
+                    "Manufacturing": 1,
+                    "Healthcare": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United Kingdom": 3,
+                    "United States": 2,
+                    "Belgium": 1,
+                    "France": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "dms-imaging",
+            "Discovery Date": "2024-02-01",
+            "Estimated Attack Date": "",
+            "v_description": "DMS is a French industrial company specialized in digital radiology, with an international reach, an..."
+        },
+        {
+            "v_name": "deknudtframes.be",
+            "Discovery Date": "2024-01-22",
+            "Estimated Attack Date": "2024-01-18",
+            "v_description": "Our teamOur team in Deerlijk consists of enthusiastic and motivated people with passion for their pr..."
+        },
+        {
+            "v_name": "diagnostechs",
+            "Discovery Date": "2023-11-14",
+            "Estimated Attack Date": "",
+            "v_description": "HistoryEstablished in 1987, DiagnosTechs was the first laboratory to introduce saliva hormone testin..."
+        },
+        {
+            "v_name": "portadelaidefc",
+            "Discovery Date": "2023-11-13",
+            "Estimated Attack Date": "",
+            "v_description": "PORT ADELAIDE is renowned for setting the bar high and expecting success, and the club’s latest stra..."
+        },
+        {
+            "v_name": "panaya",
+            "Discovery Date": "2023-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "About PANAYAPanaya’s Change Intelligence solutions reduce the time, cost, and risk involved in chang..."
+        },
+        {
+            "v_name": "prime-art",
+            "Discovery Date": "2023-11-07",
+            "Estimated Attack Date": "",
+            "v_description": "For PAJ, your success is our success.Jewelry making is an art and a science. We are constantly impro..."
+        },
+        {
+            "v_name": "Newconcepttech",
+            "Discovery Date": "2023-10-23",
+            "Estimated Attack Date": "",
+            "v_description": "FROM A SINGLE START-UP TO A MULTI-MILLION DOLLAR COMPANYOur prosperity is due to three interlocking ..."
+        },
+        {
+            "v_name": "mountstmarys",
+            "Discovery Date": "2023-10-10",
+            "Estimated Attack Date": "",
+            "v_description": "Mount St Mary’s is rightly proud of its extensive heritage dating back over 160 years. The original ..."
+        },
+        {
+            "v_name": "co.rock.wi.us",
+            "Discovery Date": "2023-10-03",
+            "Estimated Attack Date": "",
+            "v_description": "Rock County Public Health DepartmentThe Rock County Public Health Department (RCPHD) is a level III ..."
+        },
+        {
+            "v_name": "goldmedalbakery",
+            "Discovery Date": "2023-08-19",
+            "Estimated Attack Date": "",
+            "v_description": "Gold Medal Bakery aspires to follow three core values in every aspect of its business.Integrity: Gol..."
+        },
+        {
+            "v_name": "hydrex.co.uk",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1985, with 13 depots and one support centre nationwide, Hydrex is one of the largest ..."
+        },
+        {
+            "v_name": "txmplant.co.uk",
+            "Discovery Date": "2023-07-31",
+            "Estimated Attack Date": "",
+            "v_description": "At TXM Plant we know that the services we provide are critical to the success of our customers’ proj..."
+        },
+        {
+            "v_name": "gis4.addison-il",
+            "Discovery Date": "2023-07-11",
+            "Estimated Attack Date": "",
+            "v_description": "More than 36,000 people call the Village of Addison home.  Whether you are new to our community, or ..."
+        },
+        {
+            "v_name": "Inquirer",
+            "Discovery Date": "2023-05-23",
+            "Estimated Attack Date": "",
+            "v_description": "About The Philadelphia Inquirer, PBCSince 1829, The Philadelphia Inquirer has been “asking on behalf..."
+        },
+        {
+            "v_name": "Vdi",
+            "Discovery Date": "2023-05-10",
+            "Estimated Attack Date": "",
+            "v_description": "Užtikrindami oruma darbe mes užtikriname ir pamatines žmogaus teisesValstybines darbo inspekcijos (V..."
+        },
+        {
+            "v_name": "Gihealthcare",
+            "Discovery Date": "2023-05-04",
+            "Estimated Attack Date": "",
+            "v_description": "Your health is our top priority. We specialize in digestive system care and will guide you through e..."
+        },
+        {
+            "v_name": "pu.edu.lb",
+            "Discovery Date": "2022-12-27",
+            "Estimated Attack Date": "",
+            "v_description": "Phoenicia University (PU) is a non-profit, private, and nonsectarian officially licensed institution..."
+        },
+        {
+            "v_name": "Sae-a",
+            "Discovery Date": "2022-12-20",
+            "Estimated Attack Date": "",
+            "v_description": "From yarn-production through its fabric mills that draw on in new innovation and technology, to reta..."
+        },
+        {
+            "v_name": "2networkit",
+            "Discovery Date": "2022-12-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Landaumedia",
+            "Discovery Date": "2022-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Generator-power",
+            "Discovery Date": "2022-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Boss-inc",
+            "Discovery Date": "2022-12-01",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Patton",
+            "Discovery Date": "2022-11-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Pmc-group",
+            "Discovery Date": "2022-11-24",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "waltersandwolf",
+            "Discovery Date": "2022-11-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bfw",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ville-chaville",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Murphyfamilyventures",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Ginspectionservices",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Dialogsas",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "usairports",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trant.co.uk",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "the_rose_executive_team",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "technicote",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stm.com.tw",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "site-technology_",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "schultheis-ins",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "quercus",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "otrcapital",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ohagin",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "nwdusa",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ncmutuallife2",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "meriplex",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "megaforce",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lycra",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "linkmfg",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "learning_resources",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "landofrost",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "innovairre",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "get-integrated",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "gascaribe",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "forefront_dermatology",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "first_coast_logistics_services",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "e.h._wachs_pipe_cutters",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "datamatics",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "creditriskmonitor",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "blackhawk",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "berding-weil",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bcintlgroup.com",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "axley",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "afts",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Skupstina",
+            "Discovery Date": "2022-11-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ginspectionservices",
+            "Discovery Date": "2022-09-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "skupstina",
+            "Discovery Date": "2022-08-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "site-technology",
+            "Discovery Date": "2022-07-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "stm-com-tw",
+            "Discovery Date": "2022-07-07",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "r1group",
+            "Discovery Date": "2022-06-27",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "etron",
+            "Discovery Date": "2022-06-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "upskwt",
+            "Discovery Date": "2022-05-17",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fronteousa",
+            "Discovery Date": "2022-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "prophoenix",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "metrobrokers",
+            "Discovery Date": "2022-04-22",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "tavistock",
+            "Discovery Date": "2022-04-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "metagenics",
+            "Discovery Date": "2022-04-08",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bcintlgroup-com",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "trant-co-uk",
+            "Discovery Date": "2022-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "haltonhills",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "powertech",
+            "Discovery Date": "2022-03-23",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ids97",
+            "Discovery Date": "2022-02-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "muntons",
+            "Discovery Date": "2022-02-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "heritage-encon",
+            "Discovery Date": "2022-02-18",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "shoesforcrews",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "edgo",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cmmcpas",
+            "Discovery Date": "2022-02-04",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "mtlcraft",
+            "Discovery Date": "2022-01-25",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "superfund",
+            "Discovery Date": "2022-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "fdcbuilding",
+            "Discovery Date": "2022-01-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "strongwell",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sonomatic-2",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "regulvar",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "delinebox",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "cle",
+            "Discovery Date": "2022-01-10",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "squamish",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "sonomatic",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "ncmutuallife",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "lahebert",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "bakertilly",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "atlasdie",
+            "Discovery Date": "2021-12-30",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Datamatics is a technology company that builds intelligent solutions enabling data-driven",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Rose Associates Mission Statement",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoi",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "OTR Capital believes in simple and straightforward transactions, without hidden costs and",
+            "Discovery Date": "2021-09-09",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Automatic Funds Transfer Services Inc. (vendor to city of Bainbridge Island)",
+            "Discovery Date": "2021-02-03",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "group_name": [
+        "Cryptbb"
+    ],
+    "group_description": "None",
+    "Victims count": 8,
+    "First discovered victims": "2023-09-15",
+    "Last discovered victim": "2023-09-15",
+    "Avg Delay": "116.5 days",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 2,
+                    "India": 1,
+                    "Poland": 1
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "P1 Technical Services",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2022-04-03",
+            "v_description": "http://p1-tech.com/P1 Technical Services has been serving the commercial industry by providing exper..."
+        },
+        {
+            "v_name": "CON-STRUCT",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-06-28",
+            "v_description": "Con-struct, Inc. proudly serves all heavy construction needs in Central Iowa, including Ames, Story ..."
+        },
+        {
+            "v_name": "Polanglo",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-07-04",
+            "v_description": "Polanglo SP. z O.o. is a network of bookstores and wholesalers operating since 1991 with an educatio..."
+        },
+        {
+            "v_name": "Jeff Wyler Automotive Family, Inc.",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-07-04",
+            "v_description": "When you're looking for a new car or need to have your car serviced, come visit Jeff Wyler, one of t..."
+        },
+        {
+            "v_name": "KIRWIN FRYDAY MEDCALF Lawyers LLP",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-07-06",
+            "v_description": "The company provide a full range of services in real estate law including residential and commercial..."
+        },
+        {
+            "v_name": "Danbury Public Schools",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-08-01",
+            "v_description": "Danbury Public Schools is a school district headquartered in Danbury, Connecticut. In 2006 Eddie Dav..."
+        },
+        {
+            "v_name": "Aspect Structural Engineers",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-08-15",
+            "v_description": "Creativity I Excellence I Pragmatism. We are problem solvers and purveyors of thoughtful design for ..."
+        },
+        {
+            "v_name": "ToyotaLift Northeast",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "2023-08-16",
+            "v_description": "Offering forklifts, aerial work platforms, lift trucks, & material handling equipment by Toyota indu..."
+        }
+    ]
+}

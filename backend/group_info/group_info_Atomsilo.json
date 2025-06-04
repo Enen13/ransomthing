@@ -1,0 +1,49 @@
+{
+    "group_name": [
+        "Atomsilo"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 4,
+    "First discovered victims": "2021-12-21",
+    "Last discovered victim": "2021-12-21",
+    "Avg Delay": "N/A",
+    "Infostealer": "0.0%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Tegravendas",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Eisai Co., Ltd.",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "LIGHT CONVERSION",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "CristÃ¡lia - IndÃºstria FarmacÃªutica",
+            "Discovery Date": "2021-12-21",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}

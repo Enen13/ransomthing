@@ -1,0 +1,331 @@
+{
+    "group_name": [
+        "Trigona"
+    ],
+    "group_description": "According to PCrisk, Trigona is ransomware that encrypts files and appends the ._locked extension to filenames. Also, it drops the how_to_decrypt.hta file that opens a ransom note. An example of how Trigona renames files: it renames 1.jpg to 1.jpg._locked, 2.png to 2.png._locked, and so forth.It embeds the encrypted decryption key, the campaign ID, and the victim ID in the encrypted files.",
+    "Victims count": 49,
+    "First discovered victims": "2023-04-17",
+    "Last discovered victim": "2024-03-30",
+    "Avg Delay": "10.2 days",
+    "Infostealer": "13.3%",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {
+                    "Business Services": 7,
+                    "Manufacturing": 4,
+                    "Technology": 3,
+                    "Healthcare": 2,
+                    "Financial": 1
+                }
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {
+                    "United States": 8,
+                    "Australia": 3,
+                    "Mexico": 3,
+                    "France": 2,
+                    "Italy": 2
+                }
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "Claro",
+            "Discovery Date": "2024-03-30",
+            "Estimated Attack Date": "",
+            "v_description": "Claro, a subsidiary of América Móvil, stands at the forefront of telecommunications innovatio..."
+        },
+        {
+            "v_name": "South Star Electronics",
+            "Discovery Date": "2024-03-20",
+            "Estimated Attack Date": "",
+            "v_description": "South Star Electronics Co., Ltd. is a prominent electronics company based in Dongguan City, C..."
+        },
+        {
+            "v_name": "Indoarsip",
+            "Discovery Date": "2024-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Indoarsip is a leading provider of archival solutions, dedicated to preserving and managing c..."
+        },
+        {
+            "v_name": "Bwizer",
+            "Discovery Date": "2024-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Bwizer is a prominent entity known for its dedication to advancing the fields of healthcare a..."
+        },
+        {
+            "v_name": "Topa Partners",
+            "Discovery Date": "2024-03-16",
+            "Estimated Attack Date": "",
+            "v_description": "Topa Electrical, led by Electrical Inspector Jeff Zhao, boasts a rich legacy of over a decade..."
+        },
+        {
+            "v_name": "ATMCo",
+            "Discovery Date": "2024-03-15",
+            "Estimated Attack Date": "2024-02-21",
+            "v_description": "ATMCo is a reputable tax management company based in Broken Arrow, Oklahoma. With a commitmen..."
+        },
+        {
+            "v_name": "Dinamic Oil",
+            "Discovery Date": "2024-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "Established in 1970, Dinamic Oil S.p.A. is a renowned Italian manufacturer specializing in ho..."
+        },
+        {
+            "v_name": "Hotel Avenida, Hostal Espoz y Mina, Hostal Arriazu, Pension Alemana",
+            "Discovery Date": "2024-02-28",
+            "Estimated Attack Date": "",
+            "v_description": "Welcome to the Boutique Hospitality Collection, where every property offers a unique and unfo..."
+        },
+        {
+            "v_name": "America Movil",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "2024-01-25",
+            "v_description": "América Móvil, S.A.B. de C.V. (\"América Móvil\" or \"the Company\") stands as one of the foremos..."
+        },
+        {
+            "v_name": "FALCO Electronics",
+            "Discovery Date": "2024-02-14",
+            "Estimated Attack Date": "2024-01-30",
+            "v_description": "Founded in 1991, Falco Electronics is a prominent designer and manufacturer specializing in a..."
+        },
+        {
+            "v_name": "Ausa",
+            "Discovery Date": "2024-01-31",
+            "Estimated Attack Date": "2024-01-11",
+            "v_description": "AUSA, established in 1956 by four visionary individuals driven by a passion for engines, has evolved..."
+        },
+        {
+            "v_name": "Genesis Motors",
+            "Discovery Date": "2024-01-31",
+            "Estimated Attack Date": "2024-01-29",
+            "v_description": "Genesis Motors Isuzu UTE, situated in Lilydale, South East Melbourne, Victoria, stands as a p..."
+        },
+        {
+            "v_name": "CMG Drainage Engineering",
+            "Discovery Date": "2024-01-31",
+            "Estimated Attack Date": "2024-01-30",
+            "v_description": "Established in 1986, CMG Drainage Engineering stands as a prominent Civil Engineering consulting fir..."
+        },
+        {
+            "v_name": "Daher Contracting",
+            "Discovery Date": "2024-01-31",
+            "Estimated Attack Date": "2024-01-30",
+            "v_description": "Daher Contracting stands as the foremost excavation and site development contractor serving Okaloosa..."
+        },
+        {
+            "v_name": "Lomma Crane & Rigging",
+            "Discovery Date": "2024-01-29",
+            "Estimated Attack Date": "2024-01-25",
+            "v_description": "J.F. Lomma, Inc. is a distinguished provider of crane services, offering a wide range of equi..."
+        },
+        {
+            "v_name": "Samuel Sekuritas Indonesia & Samuel Aset Manajemen",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "PT Samuel Sekuritas Indonesia (SSI) is a prominent financial advisory company based in Jakarta, Indo..."
+        },
+        {
+            "v_name": "Premier Facility Management",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "Premier Facility Management (PFM) stands as a leader in sustainable green programs, offering customi..."
+        },
+        {
+            "v_name": "Fertility North",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "Fertility North, a leading fertility clinic, boasts a cohesive, multidisciplinary team of approximat..."
+        },
+        {
+            "v_name": "Vision Plast",
+            "Discovery Date": "2024-01-18",
+            "Estimated Attack Date": "",
+            "v_description": "Founded in 2006, Vision Plast Group stands as a prominent player in the automotive, industrial, buil..."
+        },
+        {
+            "v_name": "Alconex Specialty Products",
+            "Discovery Date": "2023-10-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "FPZ",
+            "Discovery Date": "2023-10-12",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Flamingo Holland",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Flamingo Holland is a Dutch-based flower company that specializes in growing, exporting, and wholesa..."
+        },
+        {
+            "v_name": "Aria Care Partners",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Aria Care Partners is a healthcare provider that offers post-acute care services to patients in Kans..."
+        },
+        {
+            "v_name": "Portesa",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Portesa is a forward-thinking livestock company with a strong commitment to innovation, sustainabili..."
+        },
+        {
+            "v_name": "Grupo Boreal",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Grupo Boreal plays a pivotal role in the healthcare industry, extending medical care to over 250,000..."
+        },
+        {
+            "v_name": "Quest International",
+            "Discovery Date": "2023-10-01",
+            "Estimated Attack Date": "",
+            "v_description": "Quest International is a leading global post-sales service support partner for original equipment ma..."
+        },
+        {
+            "v_name": "Steelforce",
+            "Discovery Date": "2023-09-15",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cedar Holdings",
+            "Discovery Date": "2023-09-13",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Unimed",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Cyberport",
+            "Discovery Date": "2023-09-05",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "Public Health Management Corporation",
+            "Discovery Date": "2023-06-06",
+            "Estimated Attack Date": "",
+            "v_description": "Public Health Management Corporation (PHMC) is a non-profit organisation providing public health ser..."
+        },
+        {
+            "v_name": "Pacific Union College",
+            "Discovery Date": "2023-05-30",
+            "Estimated Attack Date": "",
+            "v_description": "Pacific Union College (PUC) is a private, Seventh-day Adventist college located in Angwin, Californi..."
+        },
+        {
+            "v_name": "Marshall Construction Ltd",
+            "Discovery Date": "2023-05-26",
+            "Estimated Attack Date": "",
+            "v_description": "Marshall Construction Ltd is a construction company established in 1995. The company is committed to..."
+        },
+        {
+            "v_name": "Leidos",
+            "Discovery Date": "2023-05-25",
+            "Estimated Attack Date": "",
+            "v_description": "Leidos Holdings, Inc. is an American defense, aviation, information technology, biomedical research,..."
+        },
+        {
+            "v_name": "Technology and Telecommunications Consultants Inc",
+            "Discovery Date": "2023-05-22",
+            "Estimated Attack Date": "",
+            "v_description": "Technology and Telecommunications Consultants Inc (TTC) is a US-based consulting firm that specializ..."
+        },
+        {
+            "v_name": "Rolser",
+            "Discovery Date": "2023-05-19",
+            "Estimated Attack Date": "",
+            "v_description": "Rolser is a Spanish company that manufactures and sells a wide range of shopping trolleys, bags, and..."
+        },
+        {
+            "v_name": "Lolaico Impianti",
+            "Discovery Date": "2023-05-18",
+            "Estimated Attack Date": "",
+            "v_description": "Lolaico Impianti is a leading engineering and construction company based in Italy. It was founded in..."
+        },
+        {
+            "v_name": "Feit Electric",
+            "Discovery Date": "2023-05-16",
+            "Estimated Attack Date": "",
+            "v_description": "Feit Electric is a leading lighting manufacturer and distributor in California, United States known ..."
+        },
+        {
+            "v_name": "Accudo Investments LTD",
+            "Discovery Date": "2023-05-15",
+            "Estimated Attack Date": "",
+            "v_description": "Accudo Investments LTD is a private limited company registered in the United Kingdom. It specializes..."
+        },
+        {
+            "v_name": "TTCCPA",
+            "Discovery Date": "2023-05-13",
+            "Estimated Attack Date": "",
+            "v_description": "Treadwell Tamplin is an accounting firm that provides a range of financial services to individuals a..."
+        },
+        {
+            "v_name": "Axiom Professional Solutions",
+            "Discovery Date": "2023-05-11",
+            "Estimated Attack Date": "",
+            "v_description": "Axiom Professional Solutions providing comprehensive recruiting, placement and staffing services for..."
+        },
+        {
+            "v_name": "Fresh Insurance IT Services",
+            "Discovery Date": "2023-05-09",
+            "Estimated Attack Date": "",
+            "v_description": "Fresh Insurance IT Services is a UK-based company that specializes in providing innovative technolog..."
+        },
+        {
+            "v_name": "Treadwell, Tamplin & Company, Certified Public Accountants, Madison, GA",
+            "Discovery Date": "2023-04-18",
+            "Estimated Attack Date": "",
+            "v_description": "Treadwell Tamplin is an accounting firm that provides a range of financial services to individuals a..."
+        },
+        {
+            "v_name": "McKinney Trailers",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "McKinney Trailers is a leading transportation equipment and trailer manufacturer in the United State..."
+        },
+        {
+            "v_name": "Albany Clinic",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "2023-04-11",
+            "v_description": "Albany Clinic is a medical center that provides family doctors, specialists, speciality services, di..."
+        },
+        {
+            "v_name": "Office Notarial de Baillargues",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "L’Office Notarial de Baillargues is a notarial office that provides legal advice and services in var..."
+        },
+        {
+            "v_name": "Winter Park Construction",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "Winter Park Construction (WPC) is a well-established company that has been providing general contrac..."
+        },
+        {
+            "v_name": "Amouage",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "Amouage is a High Perfumery House renowned for creating some of the most finely crafted perfumes in ..."
+        },
+        {
+            "v_name": "Unique Imaging",
+            "Discovery Date": "2023-04-17",
+            "Estimated Attack Date": "",
+            "v_description": "Unique Technology, Unique Care. We are proud to offer the latest and greatest in innovative medical ..."
+        }
+    ]
+}

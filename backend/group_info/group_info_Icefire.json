@@ -1,0 +1,91 @@
+{
+    "group_name": [
+        "Icefire"
+    ],
+    "group_description": "No description available.",
+    "Victims count": 11,
+    "First discovered victims": "2022-08-20",
+    "Last discovered victim": "2022-08-20",
+    "Avg Delay": "N/A",
+    "Infostealer": "N/A",
+    "Target": [
+        {
+            "Top 5 Activity Sectors": [
+                {}
+            ]
+        },
+        {
+            "Top 5 Countries": [
+                {}
+            ]
+        }
+    ],
+    "victims": [
+        {
+            "v_name": "*.algotrader.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.bestservers.pro",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.iperactive.com.ar",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.cco1.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.vps-vds.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.guneshosting.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.kodhosting.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.kru.ac.th",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.directfn.net",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.feesh.ch",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        },
+        {
+            "v_name": "*.skifgroup.com",
+            "Discovery Date": "2022-08-20",
+            "Estimated Attack Date": "",
+            "v_description": "N/A"
+        }
+    ]
+}
