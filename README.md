@@ -12,6 +12,11 @@ cd frontend
 npm install
 ```
 
+### 3) 필수 라이브러리 설치
+```bash
+npm install react-router-dom axios
+```
+
 ---
 
 ## 2. 백엔드(Python) 환경 설정
