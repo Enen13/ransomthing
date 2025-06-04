@@ -18,7 +18,7 @@ ALERT_LOG_FILE = os.path.join(PROJECT_DIR, "latest_alerts.json")
 sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), "search_bot"))
 
 # MongoDB 연결 설정
-uri = "mongodb+srv://lch5159:dl2ckd3gus3@ransomcrawl.mmnwun3.mongodb.net/?retryWrites=true&w=majority&appName=RansomCrawl"
+uri = ""
 client = MongoClient(uri)
 db = client['ransomware_db']
 collection = db['group_info']

@@ -6,7 +6,7 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 
 # MongoDB 설정
-MONGO_URI = "mongodb+srv://lch5159:dl2ckd3gus3@ransomcrawl.mmnwun3.mongodb.net/?retryWrites=true&w=majority&appName=RansomCrawl"
+MONGO_URI = ""
 DB_NAME = 'ransomware_db'
 COLLECTION_NAME = 'detect'
 

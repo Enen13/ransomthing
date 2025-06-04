@@ -24,7 +24,7 @@ service = Service(chromedriver_path)
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 # === MongoDB 연결 ===
-mongo_uri = "mongodb+srv://lch5159:dl2ckd3gus3@ransomcrawl.mmnwun3.mongodb.net/?retryWrites=true&w=majority&appName=RansomCrawl"
+mongo_uri = ""
 mongo_client = MongoClient(mongo_uri)
 mongo_db = mongo_client['ransomware_db']
 mongo_collection = mongo_db['detect']
